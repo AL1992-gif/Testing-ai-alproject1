@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Aurora Life OS</title>
+<style>
+:root{color-scheme:dark;--bg:#090b14;--p:#12172a;--p2:#181f37;--text:#f7f8ff;--muted:#9aa5c2;--accent:#8067ff;--cyan:#35dce4;--good:#55dc91;--line:rgba(255,255,255,.1)}
+*{box-sizing:border-box}body{margin:0;padding:12px;background:transparent;color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.shell{max-width:680px;margin:auto;background:radial-gradient(circle at 8% 0,rgba(128,103,255,.28),transparent 35%),var(--bg);border:1px solid var(--line);border-radius:24px;padding:16px;overflow:hidden}
+header{display:flex;align-items:center;gap:10px}.logo{width:42px;height:42px;border-radius:14px;display:grid;place-items:center;background:linear-gradient(135deg,var(--accent),var(--cyan));font-weight:900}.title{font-weight:800}.sub{font-size:12px;color:var(--muted)}
+.hero{margin-top:14px;padding:18px;border-radius:20px;background:linear-gradient(145deg,rgba(128,103,255,.22),rgba(53,220,228,.08)),var(--p);border:1px solid var(--line)}
+.kicker{font-size:11px;color:#cbd1e7}.row{display:flex;justify-content:space-between;align-items:end}.score{font-size:48px;font-weight:850;letter-spacing:-3px}.score small{font-size:13px;color:var(--muted);letter-spacing:0}.badge{padding:7px 10px;border-radius:999px;background:rgba(85,220,145,.13);color:var(--good);font-size:12px;font-weight:700}
+.brief{font-size:14px;line-height:1.45;color:#e1e5f5;margin-top:8px}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}.metric{padding:12px;background:var(--p);border:1px solid var(--line);border-radius:15px}.label{font-size:11px;color:var(--muted)}.value{font-size:19px;font-weight:750;margin-top:5px}
+.bar{height:5px;background:rgba(255,255,255,.07);border-radius:99px;margin-top:8px;overflow:hidden}.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--cyan));border-radius:99px}
+.section{display:flex;justify-content:space-between;align-items:center;margin:16px 2px 8px}.section b{font-size:14px}.section button,.ask button{border:0;border-radius:11px;padding:8px 11px;background:rgba(128,103,255,.18);color:#c9c1ff;font-weight:700;cursor:pointer}
+.tasks{display:flex;flex-direction:column;gap:7px}.task{display:flex;align-items:center;gap:10px;padding:11px;background:var(--p);border:1px solid var(--line);border-radius:14px}.check{width:25px;height:25px;border:1px solid rgba(255,255,255,.25);border-radius:8px;background:none;color:#07120c;cursor:pointer}.task.done{opacity:.55}.task.done .check{background:var(--good)}.task.done .tn{text-decoration:line-through}.tm{flex:1}.tn{font-size:13px;font-weight:700}.td{font-size:11px;color:var(--muted);margin-top:2px}.tag{font-size:10px;color:#c9c1ff;background:rgba(128,103,255,.15);padding:5px 7px;border-radius:999px}
+.ask{display:flex;gap:8px;margin-top:12px}.ask input{flex:1;background:var(--p2);border:1px solid var(--line);border-radius:12px;color:white;padding:11px;outline:none}.ask button{background:linear-gradient(135deg,var(--accent),#5c48d8);color:white}
+.status{font-size:11px;color:var(--muted);margin-top:8px;min-height:15px}
+@media(max-width:560px){.metrics{grid-template-columns:1fr 1fr}.score{font-size:42px}}
+</style>
+</head>
+<body>
+<main class="shell">
+<header><div class="logo">A</div><div><div class="title">Aurora Life OS</div><div class="sub">你的 ChatGPT 个人行动控制台</div></div></header>
+<section class="hero"><div class="kicker">PERSONAL OPERATING SCORE</div><div class="row"><div class="score" id="score">--<small>/100</small></div><div class="badge" id="badge">正在加载</div></div><div class="brief" id="brief">正在生成今日建议…</div></section>
+<section class="metrics">
+<div class="metric"><div class="label">本月支出</div><div class="value" id="spend">--</div><div class="bar"><i id="spendBar"></i></div></div>
+<div class="metric"><div class="label">专注时间</div><div class="value" id="focus">--</div><div class="bar"><i id="focusBar"></i></div></div>
+<div class="metric"><div class="label">精力状态</div><div class="value" id="energy">--</div><div class="bar"><i id="energyBar"></i></div></div>
+<div class="metric"><div class="label">本周完成</div><div class="value" id="progress">--</div><div class="bar"><i id="progressBar"></i></div></div>
+</section>
+<div class="section"><b>AI 排序计划</b><button id="replan">重新安排</button></div>
+<section class="tasks" id="tasks"></section>
+<div class="ask"><input id="question" placeholder="例如：我今天很累，应该先做什么？"/><button id="askBtn">分析</button></div>
+<div class="status" id="status"></div>
+</main>
+<script type="module">
+let data=null,rpcId=0;const pending=new Map();const $=id=>document.getElementById(id);
+function request(method,params){return new Promise((resolve,reject)=>{const id=++rpcId;pending.set(id,{resolve,reject});window.parent.postMessage({jsonrpc:"2.0",id,method,params},"*")})}
+function notify(method,params){window.parent.postMessage({jsonrpc:"2.0",method,params},"*")}
+window.addEventListener("message",e=>{if(e.source!==window.parent)return;const m=e.data;if(!m||m.jsonrpc!=="2.0")return;
+ if(typeof m.id==="number"){const p=pending.get(m.id);if(!p)return;pending.delete(m.id);m.error?p.reject(m.error):p.resolve(m.result);return}
+ if(m.method==="ui/notifications/tool-result")update(m.params?.structuredContent);
+},{passive:true});
+const ready=(async()=>{await request("ui/initialize",{appInfo:{name:"aurora-life-os",version:"0.1.0"},appCapabilities:{},protocolVersion:"2026-01-26"});notify("ui/notifications/initialized",{})})();
+async function call(name,args={}){await ready;$("status").textContent="Aurora 正在处理…";try{const r=await request("tools/call",{name,arguments:args});update(r?.structuredContent);$("status").textContent="已更新";setTimeout(()=>$("status").textContent="",1200)}catch(e){$("status").textContent="操作失败，请重试";console.error(e)}}
+function update(next){if(!next||!next.profile)return;data=next;const p=next.profile;
+ $("score").innerHTML=`${p.score}<small>/100</small>`;$("badge").textContent=p.score>=75?"↑ 状态不错":"→ 需要调整";$("brief").textContent=p.brief;
+ $("spend").textContent=`$${Number(p.spend).toLocaleString()}`;$("focus").textContent=`${Math.floor(p.focusMinutes/60)}h ${p.focusMinutes%60}m`;$("energy").textContent=`${p.energy}%`;$("progress").textContent=`${p.doneCount}/11`;
+ $("spendBar").style.width=Math.max(12,100-p.spend/60)+"%";$("focusBar").style.width=Math.min(100,p.focusMinutes/3)+"%";$("energyBar").style.width=p.energy+"%";$("progressBar").style.width=(p.doneCount/11*100)+"%";
+ $("tasks").innerHTML=next.tasks.map(t=>`<div class="task ${t.completed?"done":""}"><button class="check" data-id="${t.id}">${t.completed?"✓":""}</button><div class="tm"><div class="tn">${escapeHtml(t.title)}</div><div class="td">${escapeHtml(t.detail)}</div></div><div class="tag">${escapeHtml(t.tag)}</div></div>`).join("");
+}
+function escapeHtml(v){const d=document.createElement("div");d.textContent=v;return d.innerHTML}
+$("tasks").addEventListener("click",e=>{const b=e.target.closest(".check");if(b)call("complete_task",{id:b.dataset.id})});
+$("replan").addEventListener("click",()=>call("replan_day",{reason:"User requested a fresh plan"}));
+$("askBtn").addEventListener("click",()=>{const q=$("question").value.trim();if(!q)return;call("analyse_day",{question:q});$("question").value=""});
+ready.then(()=>call("show_dashboard",{})).catch(console.error);
+</script>
+</body>
+</html>
