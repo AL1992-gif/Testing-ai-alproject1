@@ -47,12 +47,13 @@ jobs:
             git push origin main
           fi
 
-      - name: Publish current docs site to gh-pages
+      - name: Publish website to gh-pages root and docs path
         run: |
           git fetch origin gh-pages
           rm -rf /tmp/au-finance-pages
           git worktree add --detach /tmp/au-finance-pages origin/gh-pages
-          rm -rf /tmp/au-finance-pages/docs
+          find /tmp/au-finance-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R docs/. /tmp/au-finance-pages/
           mkdir -p /tmp/au-finance-pages/docs
           cp -R docs/. /tmp/au-finance-pages/docs/
           touch /tmp/au-finance-pages/.nojekyll
@@ -61,6 +62,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Published site is already current"
           else
-            git commit -m "Publish auto-updated AU Finance feed [skip ci]"
+            git commit -m "Publish stable AU Finance site [skip ci]"
             git push origin HEAD:gh-pages
           fi
