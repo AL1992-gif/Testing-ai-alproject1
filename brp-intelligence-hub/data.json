@@ -1,442 +1,526 @@
 {
-  "generatedAt": "2026-07-15T02:14:23.593109+00:00",
-  "assessment": {
-    "pressure": "Medium",
-    "sales": "↔",
-    "margin": "↓",
-    "inventory": "↔",
-    "priority": "Medium"
-  },
-  "brief": "Competitive pressure is assessed as medium. Yamaha: Yamaha discounts 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - - Watercraft Zone; Yamaha: Yamaha adds JetFish to discounts on 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - Watercraft Zone; Kawasaki: Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - - Watercraft Zone\n\nRecommended action: validate whether signals are national campaigns or isolated dealer activity before changing BRP pricing or sales-program support.",
-  "scope": [
-    "Yamaha: Yamaha WaveRunner Australia promotion OR finance OR cashback",
-    "Kawasaki: Kawasaki Jet Ski Australia promotion OR finance OR cashback",
-    "Polaris: Polaris Australia promotion OR finance OR cashback",
-    "Honda: Honda marine Australia promotion OR finance OR cashback",
-    "Can-Am: Can-Am Australia promotion OR finance OR cashback"
+  "generatedAt": "2026-07-15T02:22:20.874513+00:00",
+  "brands": [
+    "Yamaha",
+    "Kawasaki",
+    "Polaris",
+    "Honda",
+    "Can-Am"
   ],
-  "signals": [
+  "promotionCount": 27,
+  "industryNewsCount": 30,
+  "promotions": [
     {
-      "id": "c8ed822feb66",
+      "id": "90376fde19db",
+      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
+      "description": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5",
+      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "source": "Watercraft Zone",
       "brand": "Yamaha",
+      "promotionType": "Finance"
+    },
+    {
+      "id": "3541f94277ef",
+      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
+      "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "Watercraft Zone",
+      "brand": "Yamaha",
+      "promotionType": "Discount"
+    },
+    {
+      "id": "5f69d7ce477c",
       "title": "Yamaha discounts 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - - Watercraft Zone",
-      "priority": "High",
-      "assessment": "Strong promotional signal; review offer mechanics and dealer coverage",
-      "publishedAt": "Tue, 16 Jul 2024 07:00:00 GMT",
+      "description": "Yamaha discounts 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE5IZDlvSUY3YVJhUWpaUkttMFZEUmFfYWIzOHBfSU9EcDRvOVhCUEZqOUFkRHZ0bjBEYy1UdjVNamt3TXduVjUtVUpndFl5VGFsS08yTGZvcFRwZG9LeTdfSVU3LWh1eTlndzlrcDAtdktjUjFFbTlYc3c5c3MwejM0M1kxWXQ2dGVFZg?oc=5",
+      "publishedAt": "Tue, 16 Jul 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
-      "score": 6
+      "brand": "Yamaha",
+      "promotionType": "Discount"
     },
     {
-      "id": "34563493dee5",
+      "id": "def17d750a51",
+      "title": "Yamaha WaveRunner warranty cut to two years, three-year coverage now conditional - - Watercraft Zone",
+      "description": "Yamaha WaveRunner warranty cut to two years, three-year coverage now conditional - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmJGVjhPaUhSRGtKVGNBZ3Vnb3B0OWxYSEZBYnU2S2g0ZTBFQ1hKY2hXVDBaVVZZVUFlTktIb1NyVVI1RWJ0NVhrbGQwNGU4dnVBNGl5TlFnYjg0SFJtdTVqRlJNQUFkZTRuSGxPMHFFbmZhWk5JbUliWlZOQVR1TVBDYVRCdVNtYk9XZWlLSm8wdFVIV0d0WWlmOHJ2MkZsVVlXMHRB?oc=5",
+      "publishedAt": "Sun, 14 Aug 2022 07:00:00 GMT",
+      "source": "Watercraft Zone",
       "brand": "Yamaha",
+      "promotionType": "Warranty"
+    },
+    {
+      "id": "f5218347f997",
       "title": "Yamaha adds JetFish to discounts on 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - Watercraft Zone",
-      "priority": "High",
-      "assessment": "Strong promotional signal; review offer mechanics and dealer coverage",
-      "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
+      "description": "Yamaha adds JetFish to discounts on 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVF5MlhLdnlaYjNrc0VFb09IYW1PcjEydUdSTUlRQ2ZabDQyWTk1R1hpMHp4dldYTWJWZlhWbGgyaXd3TGtMWU9jYS1Td05ncGVBbTdCdHhfSHVadzFKbGRLUjlTd0phMzhmUl9KMlR4T25HbGdoVWpzRm9qaHk2RXR0UGw?oc=5",
+      "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
-      "score": 6
-    },
-    {
-      "id": "4ad65e23cec0",
-      "brand": "Kawasaki",
-      "title": "Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0hIM0sybTBoWTVjZDFVbUFsTHhabXVNbTFVNkM4TVRLSXk0b0RfcU1GdFRlYWk5dl9BbHUwOWJLUHBpLThRMEdtN0gzOTBLa196RHpHa2ZXcUM2ck55TFFtMzQxbF9JYkZ0bUhsb2I2SEhKajVodWd5UlVJbzFzaTRFa1VBeVVhV1JIbUJ0bktkV3Zsb2ZmT3h5MWZBSUxPN3Rv?oc=5",
-      "source": "Watercraft Zone",
-      "score": 4
-    },
-    {
-      "id": "69a11e3d6da8",
       "brand": "Yamaha",
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
-      "source": "Watercraft Zone",
-      "score": 3
+      "promotionType": "Discount"
     },
     {
-      "id": "d7b9cf11de51",
-      "brand": "Yamaha",
+      "id": "e2cecd02b0f7",
       "title": "Extended! Yamaha up to $2000 off, 2.99 per cent finance, free insurance on 2023 stock - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Sat, 01 Jun 2024 07:00:00 GMT",
+      "description": "Extended! Yamaha up to $2000 off, 2.99 per cent finance, free insurance on 2023 stock - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0FkLVgzVERtd1UxbldCOF9VaHJDVENFTy1lTUR1dk9EYnkxSlFaR3BwMlBjSUtONEtNYlFDQWpVa3VDMUNkblE4M0g1eER4VEsxQ1FVcHZKQ1JrNk5IVkw0MjVyaVl4SkljZzdIZjh3ZjVsVHhGRlVQZ3BMdzZoOEdPVUVpT1lBSGtEMA?oc=5",
+      "publishedAt": "Sat, 01 Jun 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
-      "score": 3
+      "brand": "Yamaha",
+      "promotionType": "Finance"
     },
     {
-      "id": "1a894d65d059",
-      "brand": "Kawasaki",
+      "id": "baf283528ea6",
       "title": "Kawasaki Jet Ski discounts extended! Up to $4500 off through January 2026 - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "description": "Kawasaki Jet Ski discounts extended! Up to $4500 off through January 2026 - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRpa2tGNDNCQXBvSFRQdlBLOFZEQTJzOW1TZEVHQXpGc2ZYNDZfVVhNTloxUjRCTTJ0OUpFUE5fM1BzYkxOaklOZmpBVnZLNTN0Wjk3NG5CYnpJWW5YeXgwdnV2bjFUZFFLN01aWlJveENvS2dWbmJib0t2NmpmR09rbExMU3lsQ3lMWXBaZnM2ZkRVNG9rQk1R?oc=5",
+      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
       "source": "Watercraft Zone",
-      "score": 3
-    },
-    {
-      "id": "8190c975524a",
       "brand": "Kawasaki",
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
-      "source": "Watercraft Zone",
-      "score": 3
+      "promotionType": "Discount"
     },
     {
-      "id": "0dc25112eb71",
-      "brand": "Yamaha",
-      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5",
-      "source": "Watercraft Zone",
-      "score": 2
-    },
-    {
-      "id": "c78e9e6621ba",
-      "brand": "Kawasaki",
-      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5",
-      "source": "Watercraft Zone",
-      "score": 2
-    },
-    {
-      "id": "9831af1716d6",
-      "brand": "Honda",
-      "title": "Honda celebrates 50 years in Australia - Carsales",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Fri, 01 Feb 2019 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkNPdEhsVHVXRXcxQU5WMTI0cEJtNDFlZ2xUeHlxN3pWd25adndrQk5yY25Gek1lTGNsQlRQVDYzdjFFRTdPSnBxU2NNYUUtTmd5dWx0bzh5aGFwQzNRTXJKdExKdEE4OVZjSlo0dUltaFEzYWVFRk5vUktQUm14djRvbUN2MXdGTFNfeGFIQU8xTHZLRng4?oc=5",
-      "source": "Carsales",
-      "score": 2
-    },
-    {
-      "id": "e0679e96ad6b",
-      "brand": "Can-Am",
-      "title": "RBA interest rate decision live: Little relief for millions of Aussies despite board halting brutal streak - Yahoo Finance Australia",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcTg5NGhQZHBvUDU1eEFkZHNrdnhnTW1BVjlzRXFScFZId09pUVlZZ2pMZzEzcE12cE9Da0hNeHVNenlrN2RlS2ZFeENFU3pydGlaWmpZdmFDd19VWnVZSjhVNS1tdm84a2JIbWt1TVJXX1VOdDRoX0ZXMEV5bmFEMDkxNkhkWVJGaG9ueE8yQS1xQjFEblI1QV9yckczLWJCbDJCelB5RmlfTUpiTVh6T2R3NEtEX3VYaFBHNFJUdzJLVGdydDM5NXdyUTNRVkY5Q1NBM205NWt1dmlic2ZqZmtDUDVhWHY1TFE?oc=5",
-      "source": "Yahoo Finance Australia",
-      "score": 2
-    },
-    {
-      "id": "d4560c6d33b8",
-      "brand": "Can-Am",
-      "title": "Can Australian Finance Group’s (ASX:AFG) 6% Yield Hold Up in a Rising-Rate Cycle? - Kalkine",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGxEQTJyM3I1cGpnVjVjNVFpVUpCTzRhQVZwMkZZel9RVnJteHpmdl95UTlCSnVadEk3R1R3ajk0YVdmQ0J0RC0zVDdEYWdIUllhSzRaUi1vR015X1RBSmZ3SXM4dkJDNmpabEFMT3FQLWdEY1Y2QUUzWFVmMktZMzRCWjBzTGVOOE5jTHRsX1NHcEtfQy1NMENEQWc0T1VLaFVUQnhDZmRqNEUyNThmNURfU29pQjRxSEpJ?oc=5",
-      "source": "Kalkine",
-      "score": 2
-    },
-    {
-      "id": "71e0ed31eb04",
-      "brand": "Can-Am",
-      "title": "Hidden detail in tax changes introduces rule Australia has never seen before: 'It's a rort' - Yahoo Finance Australia",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGxOdUFVRV81QlQ3bW9wdXlWUE5aOVFkZk5IT0l1OF9iWHY0TlZuSHJRXzN2aXBMV3FHeXo1V1BweXZqTV9ETDhoQ3lWT3JXQ21CMU5PQ3VpdFJzWEh3aHNjd2V2dE5hS0JCOEk5UUMyQVZiTUJqNTJUZjFCZV8wYy1ZRXMxaXh4QV9sanNpbFpIRmZBcFJWMHVQX1liQVhKajFyN1Z3UzhRVDkzWmlPQXM1R0tVdkRpSEltb3RMLWlmTVhGUm1hRHo1Q1ZmWk1w?oc=5",
-      "source": "Yahoo Finance Australia",
-      "score": 2
-    },
-    {
-      "id": "97e01586023d",
-      "brand": "Can-Am",
-      "title": "Calls for major Centrelink rule change as Aussies in relationships see income 'ripped away' - Yahoo Finance Australia",
-      "priority": "Medium",
-      "assessment": "Monitor for repeated discounting or wider dealer adoption",
-      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWpENURhWi05ZjlFN3ZEdHRJWTZwOVowWnJPb3VWeDdfUGhVa01tcEx1WTlhMmtMMHBwT2Uzb095eTBSQXg1UF92V0dKUmc0NndJSnJUSENwYUFTVXdQb0gwbHppMWd2MDg3VnU3eFJYSjdlYnhxazNwUjZ2SFQtWF9qY2JxWGhmYmxueGlYM3YxczVIeEF6RzJ1aVh0QlIxMDZlY2VaSlB0QUk4cEZkSjE5WTk3cml0T2VJNDJQaWM4WkpVQkpCNFNSYzVoek9xX3BYUw?oc=5",
-      "source": "Yahoo Finance Australia",
-      "score": 2
-    },
-    {
-      "id": "4eaf3a0b328f",
-      "brand": "Polaris",
-      "title": "10 side-by-side vehicles on offer at FarmFest 2025 - Beef Central",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Wed, 04 Jun 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0VnMlhwMFFXYXZZclNHUU5qZWRaUk9uVnU2MExzb2ZMQnhkVlVOUXhkb0M0T2l5VHgxQ2tGMGZlSjd6MFQxMDV2ZHJVYlM1bUxXaUxXYXZjSm45bENlaFg0RTBzYV9hbmx4SS1JMlZUR3B5SWhRcG51NFN6WERham5kNmhNQnBReGxIYU9mUEs4NzNjTG1NY3MteDg?oc=5",
-      "source": "Beef Central",
-      "score": 1
-    },
-    {
-      "id": "4891d9f7a5db",
-      "brand": "Honda",
-      "title": "Honda Marine's great free BF80 – BF250 rigging deal at the On the Water Boat Show - Sail-World.com",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Mon, 17 Sep 2018 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODN0TjN5SGdqNUJXcExoS3dpMld3b0EtYzRwYnFKcGhMMk1QaHRtWlNmUlR6SExUaTdxcUxOV0dyMC16TDZlbzhYWFRTd1g1UzU0OHQ1QTUtczZZbVp3NzRmSTBXalFuNXdIRXFORWgyZlp3aF9tTGVDZVZGRGZldnpnYS1Ud1FielBIT3d3?oc=5",
-      "source": "Sail-World.com",
-      "score": 1
-    },
-    {
-      "id": "cdd85078849d",
-      "brand": "Yamaha",
-      "title": "Yamaha WaveRunner extends summer mega deals – now up to $3500 off - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHJTdjl4Z2hMMDF4ZG5vQjZac1dSeHlIVGtzRGtDSGV3OXBEdVRkckJGamR2MG5vMEFJQ05jVHRiWGhkTGQtM3dLQl9FTnEzVzFteW0wcXhFYUxkeTcyVkxsZ093blE4UVdwYndpcjhyTFJTbHh2RW5GOTh4U2JPYnlwakdZNTZVbkt0QUZnMDZmZlQ4SmNpbQ?oc=5",
-      "source": "Watercraft Zone",
-      "score": 0
-    },
-    {
-      "id": "eb31881bd83f",
-      "brand": "Yamaha",
-      "title": "Yamaha WaveRunner launches mega deals ahead of 2026 summer – while stock lasts - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
+      "id": "9de0b59323fb",
+      "title": "Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - - Watercraft Zone",
+      "description": "Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0hIM0sybTBoWTVjZDFVbUFsTHhabXVNbTFVNkM4TVRLSXk0b0RfcU1GdFRlYWk5dl9BbHUwOWJLUHBpLThRMEdtN0gzOTBLa196RHpHa2ZXcUM2ck55TFFtMzQxbF9JYkZ0bUhsb2I2SEhKajVodWd5UlVJbzFzaTRFa1VBeVVhV1JIbUJ0bktkV3Zsb2ZmT3h5MWZBSUxPN3Rv?oc=5",
       "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWdiRFVMenBPX0J6elFvLWg4dlU4bmN1STJDaTFwVHVHeDBVdmRReXVMUlNtdU9obGUtRzM1OWExTGtya2JYeEZTSmtIQ0JacFlYWmRqRncwRExLUzEtSkhreW5lQUNmOFVSanZkNG9rTDVRRUs2MkFETC1jb2dnLUMwcWMxQ2FKRkotbzc1ODhTT29YS1dYc1FB?oc=5",
       "source": "Watercraft Zone",
-      "score": 0
-    },
-    {
-      "id": "e448779c520e",
-      "brand": "Yamaha",
-      "title": "2026 Sea-Doo RXP-X and RXT-X now $2000 off, even bigger savings on 2025 stock - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Tue, 03 Mar 2026 10:16:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tTW1KZXBmYXlyNXBzT1RVRDNxSXMyQnBhdjR1Vm8tOXRuelJmbkdEZy1aSE1HYklNcW9LQ0RYbnJfRzRIREN2ZW1kemlkYnNfcjM1b0lxNDVDVmtjeVFqb0ZBempBZm9pQnlRc2NjREJ6Q3c?oc=5",
-      "source": "Watercraft Zone",
-      "score": 0
-    },
-    {
-      "id": "4606f6fb006a",
       "brand": "Kawasaki",
-      "title": "2026 Kawasaki Jet Ski photo gallery: every model listed - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Fri, 10 Oct 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFNJSGZYWXdkSTd5LVNUT19wNFJxRjlBQmZlSnU3aWhyMUxBUzJOLUFtdmhfVGpOa0VEN2gxNldTNEVNOVJ5LUtuY1phYmFtNE82ZzY1ZGhPMkpQdnluUWxUTFRxbnA0T1BaNGwzZk54MmtZM19pQ1NiTWZ6UjJZbkFqclJobDNkNVN6UXJB?oc=5",
-      "source": "Watercraft Zone",
-      "score": 0
+      "promotionType": "Discount"
     },
     {
-      "id": "452502be26ca",
+      "id": "b0444705f15b",
+      "title": "Best jet ski deals in the lead-up to summer - Boatsales",
+      "description": "Best jet ski deals in the lead-up to summer Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3NYZnVWbG1ONElBSmtCR3FmSmh6akROd1BJQjdIUTYzb2dpY3h3Rkx3bnZuTzlUaEJpVVNpSVlmNElHSEhHZHpIbHN4TU9GOTh6RmI5Y3N6TGVQVDJNS041Q3pZWWVLeHVZeWR0c0d6VUpWbVBkLXdQRmNLQ3NXY1NBN29uQk1BTG5uN0ZHS2p5YnhZbXVobGVCalNKdG8?oc=5",
+      "publishedAt": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "source": "Boatsales",
       "brand": "Kawasaki",
-      "title": "2022 and 2023 Kawasaki Ultra Jet Skis recalled in Australia due to water leak - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Sun, 09 Nov 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVW0zRXRWMmNHX3pfTlRETXJGWGtQWENuWndCRDAxYzh2cmVSS1VTUUxWYklRODQ4Sk5UWGFuWVJUZzRrdEstdVQ1Tzh1WjlCRWlxdHBOUG56cnNHYlFBVkxhLTNQSUItQWoxM1FQeW1SckhOWlBfZE01QlpvYzc0aloyek1uR2FjOTQ4ckIybkVLXzNrdk85anBR?oc=5",
-      "source": "Watercraft Zone",
-      "score": 0
+      "promotionType": "Sale"
     },
     {
-      "id": "2858ffae04bb",
+      "id": "2064ab984c09",
+      "title": "2025 Kawasaki fishing Jet Ski discounted by $4000, just months after going on sale - - Watercraft Zone",
+      "description": "2025 Kawasaki fishing Jet Ski discounted by $4000, just months after going on sale - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbDUta3NEMmU1VlNFMm4wRUtTX1pTVXJNV2p1SmpFT2pvRzRfNzdMVDFybUJFU3RlUGJsTzEwZExFMzZMQVpqS2s2d0FlaTE0V1dnOUszeWpxT0dfVHBRZ0FQbzdFNjNtem1ieWJFQlZiZEZEcVNaTDVvVGxWYWJTaHJOMXM?oc=5",
+      "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "source": "Watercraft Zone",
       "brand": "Kawasaki",
-      "title": "2026 Sea-Doo RXP-X and RXT-X now $2000 off, even bigger savings on 2025 stock - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Tue, 03 Mar 2026 10:16:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tTW1KZXBmYXlyNXBzT1RVRDNxSXMyQnBhdjR1Vm8tOXRuelJmbkdEZy1aSE1HYklNcW9LQ0RYbnJfRzRIREN2ZW1kemlkYnNfcjM1b0lxNDVDVmtjeVFqb0ZBempBZm9pQnlRc2NjREJ6Q3c?oc=5",
-      "source": "Watercraft Zone",
-      "score": 0
+      "promotionType": "Discount"
     },
     {
-      "id": "6dde06e92dc3",
+      "id": "305773bc6cc7",
+      "title": "Kawasaki Jet Ski discounts hit $5000 for the first time ever in Australia - - Watercraft Zone",
+      "description": "Kawasaki Jet Ski discounts hit $5000 for the first time ever in Australia - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDBLbFo3S2p3VVdhRFBwNHRnZC02eTBSTDYyY3FOVk5NQjZjQ1BXeEdUdlZkb3FtbXZmQm9jblV1OFY3MTJjWThUREo5dTNWNUkyajM1cFM4Tmg2cFA1emxtTjZhT3VwTnRRS1B2RmN3Ym9uc1BpYkFvUGlHSmxNNjh6Ql9nQkJ3Wk5KNlhqa3VvZlRH?oc=5",
+      "publishedAt": "Wed, 04 Sep 2024 07:00:00 GMT",
+      "source": "Watercraft Zone",
       "brand": "Kawasaki",
-      "title": "Fresh Jet Ski deals as Australia heads into winter off-season - - Watercraft Zone",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Sat, 19 Apr 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREdKNWw5R09SY0otTWdWaE1SejRpT3VmalJ0SVdYTWtQVUNIeloxTmlnRnBrTlFVcDh4QVB5Wl9GQUZkcG15Sml5bzF5MDV2M0pRRW42YmdMMU1zVXZPcVRmT0pDTzJ2UG9EWWZhM1ZmR1F3NGNmRjhmckdUa1NRekhQUQ?oc=5",
+      "promotionType": "Discount"
+    },
+    {
+      "id": "8bded9822afa",
+      "title": "Kawasaki Jet Ski five-year warranty celebrates two-year anniversary - - Watercraft Zone",
+      "description": "Kawasaki Jet Ski five-year warranty celebrates two-year anniversary - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1VZUnVGZ3JJeXpacWpSTUZTc2RHNnRIRHNjQjhueTNIU1FacVYxejAybjRuMEQ3UGNYRzd6TlpiNlJVS1VwUHppMWhnYUdkTE03aE1leGItYUZsSVBuQnM3aFFQVEhnRGFaTnhjT0h0VURSYVZBR2hZUkotWUtWSmFfTzZ6R05QWmt1ZXIyUGptMDNBb0padnRXUjNYaFk?oc=5",
+      "publishedAt": "Sun, 14 Aug 2022 07:00:00 GMT",
       "source": "Watercraft Zone",
-      "score": 0
+      "brand": "Kawasaki",
+      "promotionType": "Warranty"
     },
     {
-      "id": "41c9bc1cd493",
-      "brand": "Polaris",
-      "title": "Grappling Bulletin: 8 Qualify In Australia, Mica Returns, Finishers, & More - FloGrappling",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUZ2V3JQZlF1TnJTTWtTWmVTSlpTZVk2UUg1NXV4UGNIcXdMaWdVYTZqVmc1OW5Fb05vUDZyMXctYUs1MkpkQ0JQWGJtVTRFdHZ1Q29WMlZkVm9yWTV0OEtLX1BEWGU5MTRORFV0MDFHQlFoYUJiN21uajlEdnBULW1WaDd6WHk0SWdPYXpxMU9YOVB2NkRIcGdRbzhPb3FJQU9PLVJYRzlPSXN3YUpYamZDajBtNjQ?oc=5",
-      "source": "FloGrappling",
-      "score": 0
+      "id": "6af68bdd3de3",
+      "title": "Massive Jet Ski discounts to kick-off 2025: Sea-Doo, Yamaha, Kawasaki - - Watercraft Zone",
+      "description": "Massive Jet Ski discounts to kick-off 2025: Sea-Doo, Yamaha, Kawasaki - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNSeWhsNXdYcDJycG4tODJsQ3NRaFljY2V4TXRLRWRrdXZpSlFvMFd6MGVtVTR3MDZwM1ZrVEt5TnAwS292cTJjSU1sdzIzMGVwQW1VMnFhTUd3LVhxdkxDRTVkZDdSY3ZyZHhRQjJhSGdEZmJJdXB0cFpTUnl0NWNqa2xmcHhhZzJF?oc=5",
+      "publishedAt": "Sat, 04 Jan 2025 08:00:00 GMT",
+      "source": "Watercraft Zone",
+      "brand": "Kawasaki",
+      "promotionType": "Discount"
     },
     {
-      "id": "bc74c99d3857",
-      "brand": "Polaris",
-      "title": "Polaris Appoints ATime&Place as Lead Creative Agency Across Australia and New Zealand - Branding in Asia",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkFCcGNCTEp3aDg4VEJuS2tDd01TZkEwNm1KYTdQT1hPd0ZNNTlhdzNtWFU1aFExMVQ5ZFNHZE9DQW5jZWNyX2FoaFBqUFNqQnBSTmZzdVB4RXJkbjFQY0c1ZUUxYWduTmFRLUFyaG14QVBnbWJHQXZ6S1NXN3FTNUlxak04M2RSRHBxNldmRGxqczFScFdVYWJLeVluX2kwWnh3cDBWVWtHWDlWM29vbnAtV051dDQ?oc=5",
-      "source": "Branding in Asia",
-      "score": 0
+      "id": "af88af48db76",
+      "title": "Extended! Kawasaki Jet Ski discounts: Now $2000 off until 31 July 2024 - - Watercraft Zone",
+      "description": "Extended! Kawasaki Jet Ski discounts: Now $2000 off until 31 July 2024 - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3FrMWF2SVRaM0VITmY2eE5oclNIZlZHYmh4eU1sUkhCTi1tOG50QU1rRWlGLTh3ejNLLU9oRklLX01TRXVaclRDNktIUHdub05OWTY0b1pTdHBLOGxBMl9QelJsTnBZMHZveE1PSUdTbE5pV2dZemZCd0NobE9aWWx3?oc=5",
+      "publishedAt": "Thu, 01 Feb 2024 08:00:00 GMT",
+      "source": "Watercraft Zone",
+      "brand": "Kawasaki",
+      "promotionType": "Discount"
     },
     {
-      "id": "75e441df9160",
-      "brand": "Polaris",
-      "title": "Polaris Appoints Dustin Semach to Board of Directors - Motor Sports Newswire",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Mon, 22 Jun 2026 13:29:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2hLUURianVGelJUNndTTUFSaXZvdk9veGQ0Y2JQcDlEMmE0M0xTOFM4VEh5NTlkc29qMFpUbW94QTJwSVJIUXpsN1BKX1dmT083NDZMaE5vcEFUYUM5dHNXMnZTdmZpZ0JBMWJaQkVlOHVoeXRQM19peHdSakl5TF8wTFExRTh6aFFScm95SDgza0hXRXNOMFN4WUM?oc=5",
-      "source": "Motor Sports Newswire",
-      "score": 0
+      "id": "ecca744f9d90",
+      "title": "Kawasaki Jet Ski discounts for Sydney Boat Show: Up to $3000 off or 4.99 per cent finance - - Watercraft Zone",
+      "description": "Kawasaki Jet Ski discounts for Sydney Boat Show: Up to $3000 off or 4.99 per cent finance - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORE1TYTQ0V0U2VDQyR290M1VmYUlwZEtnSWdLbXJrcFNZcmYzWVlUbFYxUjAxcUdmNjVWeU16VWIzVzR6by1fRkdacW5PMFRZY0FRQk5OS3FfSEZyYURHQUdIbTl3T1dJMnZSWlNYbnJzUGxzU0pILVhQRXZXWUlzdWNSS3Fidw?oc=5",
+      "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
+      "source": "Watercraft Zone",
+      "brand": "Kawasaki",
+      "promotionType": "Discount"
     },
     {
-      "id": "5266256aa20f",
+      "id": "6de4eb575b4a",
+      "title": "Australian Honda Riders Can Get a Free 6-Year Warranty. Are You Listening, America? - RideApart.com",
+      "description": "Australian Honda Riders Can Get a Free 6-Year Warranty. Are You Listening, America? RideApart.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekJlR1otYU5vbEdiYnZmQnJHZjJTVlduUVJRaEJ6NEMtOEhnQXhOcU8yRGpyelI3YjZHLXdHaTlaWFRHd252djdhRkJlcjk0Vm9CM3BzNno2eHpvSHl3RktVbnU2ai1fVWxTd1FSbklVM0VQR0JvZng4V1d4S2FWeXZR?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "source": "RideApart.com",
       "brand": "Polaris",
-      "title": "Polaris Goupil G4: Tiny electric truck coming to Australia - drive.com.au",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Thu, 09 Sep 2021 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXZTUDZGV2o4QTEtaGhPN0haUEJaNzg3LTlEdTc4UjhNaXpXa1U1cGVVVHNSb3dDeElMNW5uMk5SeUZGWUozSnh6STViNFIzWktyODU3dnp6X1o4XzZWV1RvZ1FLOXllWFdOYmk4ejBjNDNKMUJtcEN4MkljcmFieFUwTE1oeTlJajJCWlFUUmxOQQ?oc=5",
-      "source": "drive.com.au",
-      "score": 0
+      "promotionType": "Warranty"
     },
     {
-      "id": "86a8ac48bb75",
+      "id": "4975fbccd765",
+      "title": "Polaris Slingshot finally sees the light - Carsales",
+      "description": "Polaris Slingshot finally sees the light Carsales",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXlCbW8wbnlCanhTUFNwLWFYUS1PTURlZ1FjX3dmM0FsMjFza3lsNWdjQTBhbmdud0luWWwwcEJ4cC1CU3ByemZ2OFMxbjV3TlhJTHR3RXctWGUtQl9QLTIzRUtHN2wwTDBRX3lTRk5CdE04dWRnVGJiZFEzb0RoVWstd3NwbHRKZ1RGQzJKa19CQ3JGcHM1Mw?oc=5",
+      "publishedAt": "Wed, 30 Jul 2014 07:00:00 GMT",
+      "source": "Carsales",
       "brand": "Polaris",
-      "title": "Polaris divides Australia, NZ operations - goauto.com.au",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Fri, 21 Nov 2014 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzRrS0NWa3JTOEttd2RLRUhVTDM0SXVNbUowcWZQVzZMa1ZXMVgwZWlNb2szR25XY3o2SGRRdjJNSzg5ZS1xTURWekNnM0xkWWF6eUtTNXFRVDRueHA0OU1uTlJyQThSYUJwdjR3VkJoY1dKdWtZZklYZDN2M3pSdWVvVHVwczdnVHF0OEE4NG1NR3kxZV9wNlF6WktMMjVWM2c?oc=5",
-      "source": "goauto.com.au",
-      "score": 0
+      "promotionType": "Sale"
     },
     {
-      "id": "ff7ec904f913",
-      "brand": "Polaris",
-      "title": "Oz rock band ‘shattered’ by member’s death - News.com.au",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Wed, 28 Jun 2023 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNncyS3NScDRDQjhhU1BGSHlHajR1c1ZXTWxyV3Yxb1ZiTU1odFNDc0dJSl8xY3ZPSnd4QTdBU1lSNnNCUXkyb1NKYkQtUVZKVEZ1dzRuVG5TR2QtX01EX3cwNjNfdFVUaXBoWU1aWDVPNUkwOG1QaG5wck5Zd2hnc2FGQWh6ejJZMG91M0dBM2Etam92MjJUSWpXMTBiUFZ2dzJoVGo5MkJsU2ZUWV9mM1dpVVVWNl9CekhEeE05b29Dc2N2a0EzS2E2a243eGZFZWEyVnp6QzFiWmNOODdEV2w3Ym5iUXBvLW5Nb3pIVDdyUmpTVFA3VTBLVUEwMVdkN3M2eXVJSdIBjAJBVV95cUxNQkR2bjdEWXBpeHJHeE1CX252TDA4N3owY2thYno5MVUtdUhKbVdYOHUzQk1mVzFNcjA0MUh3NEI1cFh5S2s2WlVRZEU2U2R2NEE2a3kwQk1uRlhVRlh5TWV3SFM2NzJUQ2Q4TU1abmZ6MkRLa0JvOEdDY3k3TlZiMG1vOTJGQktXbl9udGlEZERORUlsWlhYX1hLSHNCSEVQVnpvUGxpckVjTTVnSTFDNVE4VmdkQ1BrSjNGczc4UVd4LWMtRmtCTzlYYkZWRFN2LWxuUXlxWjJ1Qk5ONi1qa2JOSS1Bdjk4Y3lEOG9ndzRVLUlhNEtwOFJXMHFrQ3NKT2FsNUJtZFBfeWRJ?oc=5",
-      "source": "News.com.au",
-      "score": 0
-    },
-    {
-      "id": "9045d19cd444",
-      "brand": "Polaris",
-      "title": "Motorcycle Holdings / TeamMoto to retail Indian Motorcycles - MCNews",
-      "priority": "Low",
-      "assessment": "General market signal; no immediate response indicated",
-      "publishedAt": "Thu, 13 Feb 2020 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1ZMZ0xCcnNzY044V2NtRU1ZRzZLeFM1YS1tOUplbzFIMkRvdnE3cFJZY01laVQ4LVI2M0R2bjZ0U3d3R1BHb2hvVlZGOHN1ZDBTS3NNVm4wcEd5RjdYQmpHMXdYemJTeUZJWFdPczhBalg3OFhDajY2ZzZmVnZ6bUQ0SXlaaXFBUWtKOQ?oc=5",
+      "id": "a45e5890eb0e",
+      "title": "2017 Australian Motorcycle Sales Figures | Honda #1 - MCNews",
+      "description": "2017 Australian Motorcycle Sales Figures | Honda #1 MCNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Td2NSdmUwZzJDR1YzQmh4U19taVhSaDZoeTB5RWpoMFJpTHJvUmtPUTVTei1vZ2VpNlh1bmJfZXJKbE1zb25seGZnRldyaXJ3dG0xZmEwWE9RNUFSZ1YzY0xsdHhvOWx0TlN5LXNsanlmdkdW?oc=5",
+      "publishedAt": "Mon, 08 Jan 2018 08:00:00 GMT",
       "source": "MCNews",
-      "score": 0
+      "brand": "Polaris",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "4373cd3d3191",
+      "title": "First Drive: Honda BF150 and BF250 2025 Outboards - Boatsales",
+      "description": "First Drive: Honda BF150 and BF250 2025 Outboards Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTJPR3phYkRFRnNZZ2VPeUN2STd3eV9QMkhTOU1yTi1pY01JR2pPU2p5V1BzTGpfOFM3Rl9TTXpOSG5fWnJZcnhlbmplZlJ3bFdLMDNMRUpnYVdRb1l5TE94M3prZ1gxeHJmY2dhQlZCTkZhWUVjLWtVSUY4MmRjT1d1M3h1QWlHc0JkdlB6cEpWTzNfM3ExcUFNaUhldlJz?oc=5",
+      "publishedAt": "Fri, 29 Aug 2025 07:00:00 GMT",
+      "source": "Boatsales",
+      "brand": "Honda",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "9c1cfeab4d77",
+      "title": "Honda celebrates 50 years in Australia - Carsales",
+      "description": "Honda celebrates 50 years in Australia Carsales",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkNPdEhsVHVXRXcxQU5WMTI0cEJtNDFlZ2xUeHlxN3pWd25adndrQk5yY25Gek1lTGNsQlRQVDYzdjFFRTdPSnBxU2NNYUUtTmd5dWx0bzh5aGFwQzNRTXJKdExKdEE4OVZjSlo0dUltaFEzYWVFRk5vUktQUm14djRvbUN2MXdGTFNfeGFIQU8xTHZLRng4?oc=5",
+      "publishedAt": "Fri, 01 Feb 2019 08:00:00 GMT",
+      "source": "Carsales",
+      "brand": "Honda",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "db996c4004f5",
+      "title": "Honda BF350 outboard engine 2024 Review - Boatsales",
+      "description": "Honda BF350 outboard engine 2024 Review Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWNxRmdJR3VFaTFJRHpZOFRkYld6VUNWS3ZTbVRxeVlRdWlscm1WaGlUbHpYM0pTLXNidnNBNS10YkZUcTVDc0pYbkt1Z1V4UmtSTGwyVG9Pb3FWQ2R1eXhzbmRCaDI1UzAyT2s0Qm9xa25WVnN3bU8xQ2dPZXdnZno1NG5ua05veFB5Wk12d0pSUlBDeEpkR05B?oc=5",
+      "publishedAt": "Tue, 21 May 2024 07:00:00 GMT",
+      "source": "Boatsales",
+      "brand": "Honda",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "dbb03ee1b898",
+      "title": "Honda launches its BF350 outboard engine in Australia - Boatsales",
+      "description": "Honda launches its BF350 outboard engine in Australia Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHd0X2hXcFJCVVgwd2lFSjBNcEU5ZUQtWUpmWWJRVWNlOGhnYWFNZVY3UzBlYjJ1XzFZM0FZbkF4Z2dQTmpVMUUzTjNjRVhOT0FTV1gtYjNuQzFtWldUY3dUZ2I5UzM1RndlOGxSSC14UmI0U1ExSGQ0ckpCWEVmT1A5US1oRWVSTXpMYkdaU0dVVVR3UTN4WFdHcnFHOHp1ODZaUlJQZkVjRHJ1?oc=5",
+      "publishedAt": "Tue, 21 May 2024 07:00:00 GMT",
+      "source": "Boatsales",
+      "brand": "Honda",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "b1d7f437cd14",
+      "title": "2024 Honda outboard engine buyer’s guide - Boatsales",
+      "description": "2024 Honda outboard engine buyer’s guide Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU5rb1VCNjZ6LXdLdjBXYjMtTGFhRGg0TXFBVy1GWUlzQzVfQnJIS2NQRVEwUEpvcjJWdG1QT0JpMFVkVV85WlhLaHV0UUxuMkJtYTUxWENCclFmN2h1RmJUeXNxRXJXVFgzejlkeWFFNkd0bjFMQ2FUSHlpS1o0Y0E2VEgtWThiRVZCYzZPbUdwVXBMN0pZZFBjNzJ1TkY1cncwdQ?oc=5",
+      "publishedAt": "Fri, 24 Nov 2023 08:00:00 GMT",
+      "source": "Boatsales",
+      "brand": "Honda",
+      "promotionType": "Sale"
+    },
+    {
+      "id": "ec6d1ba0251a",
+      "title": "Velocity Frequent Flyer surprises members with record bonus Status Credits - Virgin Australia",
+      "description": "Velocity Frequent Flyer surprises members with record bonus Status Credits Virgin Australia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnppcFh3MGZWVThLSnZqaXFnX3NkOWd2RkF4UjVCZHM4VFN4dUJHNTJuN3pwS1FzVVpCN1ZiLS1TRGlpOW1aeVh6R0JpeXJESXNyNlYtRTMyU1c4emFtYXQ1OHZEMWtrZXM2VFRrM2NwYk9qRjFIRndHY1pVd1Q2RVd5ZnFBTnEzVzR6eVZhb3NrWUozNDZmWkJ4ei1OdGowU1pod01yei1BMVFqVXRJcHd1OGpDV25vWGYxdXhZcXgwVkpNd3Fndw?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Virgin Australia",
+      "brand": "Can-Am",
+      "promotionType": "Bonus"
+    },
+    {
+      "id": "8a30c11eb6dc",
+      "title": "Netflix Australia deals and discounts: Score a free subscription - WhistleOut",
+      "description": "Netflix Australia deals and discounts: Score a free subscription WhistleOut",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kd1E4QTBuVFB1bEVYN05wODBzNVJkZVNZcGpvQkV6SmJINkVVMjY5dngxZUZOQnhfZVVQWG8tUk55elRob1MzaVVPVFctT3N5aExxWndHU3VaYUUtSE83N3EzUXpXX0k?oc=5",
+      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "source": "WhistleOut",
+      "brand": "Can-Am",
+      "promotionType": "Discount"
+    },
+    {
+      "id": "c74b2eb61247",
+      "title": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus - Finder.com.au",
+      "description": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus Finder.com.au",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlhIYkNXREV2ZlV0NGhsX2pWUlJfOVpyelhmbF9tdnFLYmM2akp0MFk4VG9tNlppZ0ZjeEFwRUZVUG51c3dpTkdxX3pKNUI3VEIwQzgxNWVYSmxwQWhkbDk5eEs2T2dLUkVfem94Z3pRTFlQeHpPcHpRakJ2UThLcEM4VEF5LXc?oc=5",
+      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "source": "Finder.com.au",
+      "brand": "Can-Am",
+      "promotionType": "Bonus"
+    },
+    {
+      "id": "28c8261850ab",
+      "title": "Centrelink $5,000 cash boost Aussie students are being urged to claim now - Yahoo Finance Australia",
+      "description": "Centrelink $5,000 cash boost Aussie students are being urged to claim now Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzJIOWtULWZTZnZCSkV6X3pVX1NDbnJtNHBJLVljdDhMVktDbWpsQmlkdDJBblVFYmJUZHp0WWpLeDRjc2JMa0hmbVNyRmpTVmtXeFVINGtxZ05MdHNOd3p3YmJxOTZzei1GVzA0S2xOYW9LRXlPUG10cUdzcFZDVUZpWDB4UEhla3FQdzhreW0xWnlqUmFfdUUwUk9uV1Y0MHNELVctdjhueTFZU3ZmaTUycEdzeUs2dHdBUg?oc=5",
+      "publishedAt": "Sun, 25 Jan 2026 08:00:00 GMT",
+      "source": "Yahoo Finance Australia",
+      "brand": "Can-Am",
+      "promotionType": "Finance"
     }
   ],
-  "stories": [
+  "industryNews": [
     {
-      "title": "Yamaha discounts 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Tue, 16 Jul 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE5IZDlvSUY3YVJhUWpaUkttMFZEUmFfYWIzOHBfSU9EcDRvOVhCUEZqOUFkRHZ0bjBEYy1UdjVNamt3TXduVjUtVUpndFl5VGFsS08yTGZvcFRwZG9LeTdfSVU3LWh1eTlndzlrcDAtdktjUjFFbTlYc3c5c3MwejM0M1kxWXQ2dGVFZg?oc=5"
+      "id": "74ec738c0df2",
+      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
+      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Marine Industry News"
     },
     {
-      "title": "Yamaha adds JetFish to discounts on 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVF5MlhLdnlaYjNrc0VFb09IYW1PcjEydUdSTUlRQ2ZabDQyWTk1R1hpMHp4dldYTWJWZlhWbGgyaXd3TGtMWU9jYS1Td05ncGVBbTdCdHhfSHVadzFKbGRLUjlTd0phMzhmUl9KMlR4T25HbGdoVWpzRm9qaHk2RXR0UGw?oc=5"
+      "id": "9028bda0d705",
+      "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
+      "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
+      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
+      "source": "Watercraft Zone"
     },
     {
+      "id": "da547aeffa3e",
+      "title": "Used boat sales push Australia’s marine industry higher - Boatsales",
+      "description": "Used boat sales push Australia’s marine industry higher Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbE1iVmhZdk5COTBqYWJTVnNBQm1MQTZNNE1NZ0VkampuMXk1NjVTNkhZbUZ0Vm1ZV3NFckROSDE4bE05N2Zwa0RrTG1ObEVCLTBvUlh5QjVZaElNcFF2TjJHTkEtVVJTbk50V3FMM2s4cUREYTJrd0F3TE4xcVpPdVFrT3VHUHNVS29COU1lZ01qaklYNHBmbHFPdWQ3N3pJM0tpRy1QbE1TbGtERHc?oc=5",
+      "publishedAt": "Fri, 17 Sep 2021 07:00:00 GMT",
+      "source": "Boatsales"
+    },
+    {
+      "id": "a3d40dbe3d21",
+      "title": "Electric Vehicle Sales Review Q3-2025 - PwC",
+      "description": "Electric Vehicle Sales Review Q3-2025 PwC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkw0Y0JpaGtOU0IwQUladXZCUjJrNjlvM2VmMmczdFM5RUdNRUZLbEtHT2J6VVRvYW0tbUlTQ0I0VHdzUWtFNjA1a0p1RjhSSUJzampocGN0WTBmanJJazJxT25jSDNnVS1CV1NZaHpSNEdKbEhLanREMndHTUJCSGJCa1RRMF9pUDEzN1N1bUw4Yld5dXM4bjk1UENQV09TdnN3Yw?oc=5",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "PwC"
+    },
+    {
+      "id": "b6eb5abd72e6",
+      "title": "Jet Ski and PWC registration fees in Australia, how every state compares - - Watercraft Zone",
+      "description": "Jet Ski and PWC registration fees in Australia, how every state compares - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUo4TjF3d2VINnQ0SWJUeFc4VVFSTUctWm96QlF0LUwyMk9rZVVlaVBvbFRKbFNibVozS0dsOGZSSUl4V2pFdDRqZDE5M3kwamNCc3p4czFuTEQ1aTRkVk5xY24xOUZZWFJVaVlJalBGMkxOcVhfYWRPTEZsRy1hQ05hWW9BYUxweXJUSW1lVVNic2h5alBhWlUxMmtybDMydkxFYg?oc=5",
+      "publishedAt": "Sun, 27 Jun 2021 07:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "e52225b5c67a",
+      "title": "Personal Watercraft Market Size, Share | Industry Report [2034] - Fortune Business Insights",
+      "description": "Personal Watercraft Market Size, Share | Industry Report [2034] Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wak1KOGYtYmZtWkJRcHJsLXI3S05yVHd6RGFlRmdwWDF0THdzSE9WajhsTy13RlNINVpaVm1fNjQ5b1ZYRzUzUlBIRXFOd3VOVDZLeUk3ZjRULWg2Q09EWjU2VHNvNTJNT0pOT3ltbHVfZnQ2T3A4dWpSZzJIdw?oc=5",
+      "publishedAt": "Wed, 22 Sep 2021 20:18:10 GMT",
+      "source": "Fortune Business Insights"
+    },
+    {
+      "id": "5f48a61989e1",
+      "title": "‘Strong sales’ at Sydney International Boat Show after two-year hiatus - Marine Industry News",
+      "description": "‘Strong sales’ at Sydney International Boat Show after two-year hiatus Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FSlA4R3NfQ0o5NGIyTGMzMDNuc1dyWk1tQUdVR3dEU3Y5NS1ueUZjU05Ya1MyVi1FVjZia1dRTmJTUmVCM2RwNmpmbFRGZjdpR1lTVlJMQURLX1JfYTRLRHpkbUhaSWVvbmU3dlBaeHpMUQ?oc=5",
+      "publishedAt": "Tue, 02 Aug 2022 07:00:00 GMT",
+      "source": "Marine Industry News"
+    },
+    {
+      "id": "14af4da6acc8",
+      "title": "NSW Jet Ski licence and registration fees go up again after record rise last year - - Watercraft Zone",
+      "description": "NSW Jet Ski licence and registration fees go up again after record rise last year - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1M1T1BwU1RVeU5jZGd1SFhJaVpQcS1KRllvVTZuWG9yeVJDcjhYcU9OYkptQk9SMHh4ZHU1LVhzaElxcENaZDloWUJ3cmR6UEt0T3NrQkRBY2xHbFdsQTRrRGdLYVVDTENOc3FCZVE0XzNOblFZZmRZbHpfM1J2eTV4UjdyMXRiQXREQ2x5S0JUZDR6ZGU3SjhyWktzWWM1REREWFpGc1FNdmIybGhSeUN3?oc=5",
+      "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "a52d4c6fcbd6",
+      "title": "Titans ride with JSW Powersports in 2026 - titans.com.au",
+      "description": "Titans ride with JSW Powersports in 2026 titans.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnB6YlF0OWU5Q2NqbGpBRUM3UktKamVtRzVTNldpaFJiNlVuaGhVYTdnRkI1T3Y0U1ZxNWptQmZ2UGJsY09Ca2hjQWtxYmtKNnJna3ZkMmhocXctZjg1YUc1SkN0WGVLUUpVYWNrTEotQnp5bll1eGVTdWdYdWNjdUJEejZmaXM1TkNR?oc=5",
+      "publishedAt": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "source": "titans.com.au"
+    },
+    {
+      "id": "dea826948b4e",
+      "title": "Taiga to re-enter Australian marketplace - Marine Business News",
+      "description": "Taiga to re-enter Australian marketplace Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkx3UG5Fbll2Nm5rcmczdGh5aDFhSUdDcTgtMk11Q3U5S2k2TnNEd3dlMWJOcGtONVlHaWN3b0x2M2dBRV9La2hJYm40anJFbGlKeUJjdnFUd0VwR01FVmg2WVRha24ySVRyQUc1c2pVREZYT1Axd251Y1c2Q2M5QjhCc3BWV0I1Uy1jMWJZeFg?oc=5",
+      "publishedAt": "Fri, 08 Aug 2025 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "4dbb516bb3e2",
+      "title": "West Coast Motorcycles wins Honda dealer of the year award - MCNews",
+      "description": "West Coast Motorcycles wins Honda dealer of the year award MCNews",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CS3hUZU9OYzlWVU1UQnFlMzA1VkR1dDVNZjlOY2V6Z2pmeEk0am1DSjhub2s4VEF2cFdDWk5WTW9TcFppanQ1UXFXT2hheEVCMEM4WmI0eE9pVjVpcXY2Y1IxNy0xekd1SHhEOHpzUGc?oc=5",
+      "publishedAt": "Fri, 19 Apr 2024 07:00:00 GMT",
+      "source": "MCNews"
+    },
+    {
+      "id": "bfda90f90305",
+      "title": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. - Powersports Business",
+      "description": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. Powersports Business",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUFBqRjVtVkZyaWFEZWlfcGc0QmtjR3llbl9aamlNUVBXTV9RYzhaYjE4TVVfUUx0M2xBQmpQZnZibHhuRVE2dmNxWjlnT3VxZnRLdDVFOTdjWWI5NkpJM0s4eDZQbXdSMFNnaWtJQmgtUUdJT1ZQeENZbnNSVjZrS01BcEFRU0hlY1JvZ1pMaXN1VU52Q2ZscEdsdDNFTzhHWmNSUjR3UHdhN0pQYVlwZE0zNUNuRXN6ZHBDNzl1RGRhNGowOUtsdG14emJSZV8xMmxxd0FudnV2WnVlRWo0V0RldXV2Zm8?oc=5",
+      "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
+      "source": "Powersports Business"
+    },
+    {
+      "id": "37ca9b6a5a44",
+      "title": "Beaches Sea-Doo opens Australia’s largest Jet Ski and personal watercraft showroom - - Watercraft Zone",
+      "description": "Beaches Sea-Doo opens Australia’s largest Jet Ski and personal watercraft showroom - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTFIUWl3NUREcE5YZkkyR1NfNEowX0hWVDV5UDJKcVdMQ19KVzV2TmxNLU9jbmlfa3NDVUJuZ2RZOEtrN3ZpS1ZqbDkwUEI3SzhkdHAwQ1Rhb2tSQVIyMEVWSHd1WkxVZVRhYk9QVnk0ZS1KdjdvbmN1SVNqUk0zcWo2YnQyUGtUSno2LUVfRE5mdGg2c2FJbFUwc1hfc096YlJTaWpVOA?oc=5",
+      "publishedAt": "Wed, 27 Jan 2021 08:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "07f66447571f",
+      "title": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart - MCNews",
+      "description": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart MCNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1RST3RXTHN3cjEwTUxMTUZkZ0c1R0pVUnZuTTBiYThiNmYyZ0w0TDh3SlludU1DUVpydktST0syVUF6M282bTFMQzJkWlZnNG5MRFdsaFRXMkR4NzZPWmZfZVJJTjlrS2dpdy1sQ2lNcE9hVU01ZlBkYi1wRENQbTA2aGthTDNUd25RUmo2WFRQdW9fejA2TUpFMEZ0YWxhVlJmaVFFQ3JqQnBzS3FTU2hrNVFIM2l4Rl84?oc=5",
+      "publishedAt": "Fri, 14 Feb 2025 08:00:00 GMT",
+      "source": "MCNews"
+    },
+    {
+      "id": "88941e7d3735",
+      "title": "The Sunstate Group expands to provide boost for community - Marine Business News",
+      "description": "The Sunstate Group expands to provide boost for community Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeHhaUGQ5QnZhSHJvckMxZ1lmMEQ2blRRUTFqT2Z4d3BXNUlraGV4NmFWTGxELVFlLUlnbXZHR1dPVGRoSG5aOXY4ZHQzQUNBbDNtQ19nSm5MNml6MXgtS3UxV0VFUE5nT05BczY0MnBPZkI4bF95RzFHMGU3bmRPMjRpbXhydjJQeE03VzdHTF9hYW1QWjRVSVNCZjRtSXRYSVNfaGFQdw?oc=5",
+      "publishedAt": "Thu, 27 Apr 2023 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "e3d7f00d330d",
+      "title": "carsales.com Ltd to purchase 100% of Trader Interactive - Motorcycle & Powersports News",
+      "description": "carsales.com Ltd to purchase 100% of Trader Interactive Motorcycle & Powersports News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTktWDBzdGl0VnBZUTM1NGR6SDNWYlMwSkQ5RFByRmlJM2IyeG1NNFdRbE9OdExBSVpLVC03YUZPUmhFSElxc2dPZGREaGdRS01vZlFYMFZHbjNUZ19oeE01OU82ak5zaEplSjF1ZzZORG5valB4em00RzMwcXR5Zk5Zdkx5Rm5XbTJHUlI1VXRka2tuN1E?oc=5",
+      "publishedAt": "Tue, 28 Jun 2022 07:00:00 GMT",
+      "source": "Motorcycle & Powersports News"
+    },
+    {
+      "id": "70e686a64554",
+      "title": "Get Mom and Pop Feels at Mitchell’s Modesto Harley-Davidson - Motorcycle & Powersports News",
+      "description": "Get Mom and Pop Feels at Mitchell’s Modesto Harley-Davidson Motorcycle & Powersports News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTNaRmd5aGF2aTVHeXdnVXFpVmNtTFRkZ2dSVFJrbDljY0ljV0ZZX2Fsay1oQ1JXSGFNb0RvUEI4YlNpUGVmLW51TVJIYWx5SWY1dlZZYWlLNmFHWTZtd0xxLXQwdVhRcWNocHhaLVV0SDFqck5hLXZSc3lJM1NQNC15TEJMR0x4bzV3c25xMDhYZlN1clJReE1SdHNZeDc2TGJF?oc=5",
+      "publishedAt": "Mon, 02 Dec 2024 08:00:00 GMT",
+      "source": "Motorcycle & Powersports News"
+    },
+    {
+      "id": "1f0f5673ea3a",
+      "title": "Powersports Market Size, Share, Growth, Trends Analysis 2035 - Market Research Future",
+      "description": "Powersports Market Size, Share, Growth, Trends Analysis 2035 Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "source": "Market Research Future"
+    },
+    {
+      "id": "91f6e47a4ac5",
+      "title": "USA Joins Canada, Switzerland, France, Austria, Australia and New Zealand to Drive an Unstoppable Global Powersports and RV Travel Surge: All You Need to Know - Travel And Tour World",
+      "description": "USA Joins Canada, Switzerland, France, Austria, Australia and New Zealand to Drive an Unstoppable Global Powersports and RV Travel Surge: All You Need to Know Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mcmlaS3huamVVbmN6enNxY050ZmdoUFlzZm8za3J0bTlDV254cHU0MGJEMm1lMUl1aW5OMWprc1pBRVhhU25Cbk9uN0Z6bmlCdVJfNTNtdmU0VFd2OEZrQngtRHF2M3otTHhFaXBR?oc=5",
+      "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "source": "Travel And Tour World"
+    },
+    {
+      "id": "66198644c0b0",
+      "title": "Carsales raising $1.2bn to takeover US truck and RV marketplace - Market Index",
+      "description": "Carsales raising $1.2bn to takeover US truck and RV marketplace Market Index",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU05iYmc1MDhEN3cyVENXbEVxalNhS1VJZm1vZGhuajRGc2IwcXNGNzVUSy1Ra2tDdDB6enk3QUlmSVc4MVV4SjBudmZOLTBRM2pTVU9DVHlkRkNLQXBmQlBjN3ozVHFTMUJMMHh5ajAtQnJDN0JBeER4Z0RqSndveHBDaVpydjc1dXpVT19idk51NHlRak9ueDFEM3dVN1JVSUdr?oc=5",
+      "publishedAt": "Mon, 27 Jun 2022 07:00:00 GMT",
+      "source": "Market Index"
+    },
+    {
+      "id": "e10cf9058845",
+      "title": "Camper & Nicholsons appoint motorcycle champion Mick Doohan as their Representative in Australia and Pacific - Marine Business News",
+      "description": "Camper & Nicholsons appoint motorcycle champion Mick Doohan as their Representative in Australia and Pacific Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmZuV0MyR0U5SmRBWjRwUzRCa0N1UG9vaHE5bDRNYTJjdFdWemtrN2RHenNZMlhZVHEwbjdXa1JxejdNRGNXSTh1R3lGYjBVdUx6WFJtY01TY2hlSjVsc0kxUlZOTzJzdWpEUFBLSWVDV2l0cmFmdWlYZFg3ZVB3aDZENl9jZHNaX3A5b213ZDZzb2RkZVQ1OTQ2M25mWFhockQ4R3RRUXVDLXQ3VXg4TFF1bUtPZmQ1MVNJc3gzd2pxNDlxZmhHcU5oRDJYUmYyZF85WEI0TkgwNUczLUQ1MVNEYjVZTjdq?oc=5",
+      "publishedAt": "Fri, 15 Oct 2021 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "a18e658debfe",
+      "title": "Motorcycle sales boom - GoAutoNews Premium",
+      "description": "Motorcycle sales boom GoAutoNews Premium",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rSGZBUDBLTUJsT2wxODhoTjFVMEFDMmY5QkxlVXhiMm5DaV9hcGNLQXN3QWZSNzVIQ1J2eU0wTGhaNlBqT0g4VDNta0lqNzM2d3RCT1g2Mm0zdjhvRWl6R2pR?oc=5",
+      "publishedAt": "Sat, 11 Dec 2021 08:00:00 GMT",
+      "source": "GoAutoNews Premium"
+    },
+    {
+      "id": "b70968ee2884",
+      "title": "Powersports Aftermarket Size & Share, Growth Forecasts 2034 - Global Market Insights Inc.",
+      "description": "Powersports Aftermarket Size & Share, Growth Forecasts 2034 Global Market Insights Inc.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRWwwblBobFJCN3lHdklhSWdXZ3JxdWFyNGVySFRWM09ZcEFiQUNqay1jUWluaW5RMk8zenV4NV9jVzU4azdxY1hvU1I4MXJNdXU5a0t3VHpmaTR1OE9GWVpKQUdibkxJQmRGVWFicWpfQmtGX0Fjaw?oc=5",
+      "publishedAt": "Tue, 18 Aug 2020 11:31:01 GMT",
+      "source": "Global Market Insights Inc."
+    },
+    {
+      "id": "8f2f00ed9925",
+      "title": "Luxury docks on the Gold Coast as Sanctuary Cove International Boat Show arrives in style - Marine Business News",
+      "description": "Luxury docks on the Gold Coast as Sanctuary Cove International Boat Show arrives in style Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnlsbVlIUW5MR2VvdkkxVXA3bXZQZjI4Q2N1cE4xVWtlWnI4VzZvdHljRUs1Z2c1Wm44UHlDaGVrMnRrSHNSNmttSXhuV0lQMTJXQUZyZEZHVFc2MEZqZ0ZvaF9qVlZsSlhUS3FVMTdtOUcyZEhJOGdhZ1Y4c2FnRVJxdkNORjB0bkp6Z2NIV2dfenVsZ1ZzVEpSaHU4bjQxUXpfX2IxU0VEZVV2UF9aQ2FiRzdqRDFtOE9Cdm5YdlNnaDBoMXZLX2hRcjRxSUpJTnc?oc=5",
+      "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "7546aadf14cc",
+      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
+      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "389fd13b4db2",
+      "title": "Caribbean 40F & 27F Flybridge Motor Yachts - Global Launches - Powerboat.World",
+      "description": "Caribbean 40F & 27F Flybridge Motor Yachts - Global Launches Powerboat.World",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmNZU3BSYzdybmtQZUp4SmdKaGZRaGd4TnN3UzM5aGdMQWthSTR2clJFdkhTdmZSODZkSnV4bkpoVHVRbUxsSFZMaHd4UE5TN0pRMDhGUFV3R05kZ2lZc3ktTGhpUFB2US1hNllRcWV6bi1jYmM2SmFxTVVrb2Qtb2lTdjJPOTE4bFB3UGJCVQ?oc=5",
+      "publishedAt": "Thu, 21 May 2026 04:31:47 GMT",
+      "source": "Powerboat.World"
+    },
+    {
+      "id": "9de0b59323fb",
       "title": "Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - - Watercraft Zone",
-      "source": "Watercraft Zone",
+      "description": "Kawasaki Jet Ski launches massive discounts, free fuel cards in double whammy deal - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0hIM0sybTBoWTVjZDFVbUFsTHhabXVNbTFVNkM4TVRLSXk0b0RfcU1GdFRlYWk5dl9BbHUwOWJLUHBpLThRMEdtN0gzOTBLa196RHpHa2ZXcUM2ck55TFFtMzQxbF9JYkZ0bUhsb2I2SEhKajVodWd5UlVJbzFzaTRFa1VBeVVhV1JIbUJ0bktkV3Zsb2ZmT3h5MWZBSUxPN3Rv?oc=5",
       "publishedAt": "Sat, 27 Sep 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0hIM0sybTBoWTVjZDFVbUFsTHhabXVNbTFVNkM4TVRLSXk0b0RfcU1GdFRlYWk5dl9BbHUwOWJLUHBpLThRMEdtN0gzOTBLa196RHpHa2ZXcUM2ck55TFFtMzQxbF9JYkZ0bUhsb2I2SEhKajVodWd5UlVJbzFzaTRFa1VBeVVhV1JIbUJ0bktkV3Zsb2ZmT3h5MWZBSUxPN3Rv?oc=5"
+      "source": "Watercraft Zone"
     },
     {
+      "id": "cd1df3b8a63b",
+      "title": "2026 Yamaha Crosswave revealed: radical four-seat fishing jet ski headed for Australia - Boatsales",
+      "description": "2026 Yamaha Crosswave revealed: radical four-seat fishing jet ski headed for Australia Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjRfZFlFRUZTd2pna0tKUWNob2t0cFNQazJacnFXOG9VNXZVamxHSXQ1QkNBZmo3b3JhVlpWVUZGaHNlSnYwbTdjLThfRFpzakJZdWdiR19JaElQbXQ1XzZmLUJjVkd5T0RlSzJPTjdTTnFKNWI4MnduTGJkM3N6VnBiZzJZQUVBZTZKb1IzTnFWREE3TnIwb3luVkRUQnZvRTIySHQ3Slo1cm5GU0dfUDNieVN6eVJ6UjJ6ZjZ2a01TTzZwMWpoVGFBZ191NVd5UThCMXktWQ?oc=5",
+      "publishedAt": "Tue, 26 Aug 2025 07:00:00 GMT",
+      "source": "Boatsales"
+    },
+    {
+      "id": "3541f94277ef",
       "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "source": "Watercraft Zone",
+      "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
       "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5"
+      "source": "Watercraft Zone"
     },
     {
-      "title": "Extended! Yamaha up to $2000 off, 2.99 per cent finance, free insurance on 2023 stock - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Sat, 01 Jun 2024 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0FkLVgzVERtd1UxbldCOF9VaHJDVENFTy1lTUR1dk9EYnkxSlFaR3BwMlBjSUtONEtNYlFDQWpVa3VDMUNkblE4M0g1eER4VEsxQ1FVcHZKQ1JrNk5IVkw0MjVyaVl4SkljZzdIZjh3ZjVsVHhGRlVQZ3BMdzZoOEdPVUVpT1lBSGtEMA?oc=5"
-    },
-    {
-      "title": "Kawasaki Jet Ski discounts extended! Up to $4500 off through January 2026 - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzRpa2tGNDNCQXBvSFRQdlBLOFZEQTJzOW1TZEVHQXpGc2ZYNDZfVVhNTloxUjRCTTJ0OUpFUE5fM1BzYkxOaklOZmpBVnZLNTN0Wjk3NG5CYnpJWW5YeXgwdnV2bjFUZFFLN01aWlJveENvS2dWbmJib0t2NmpmR09rbExMU3lsQ3lMWXBaZnM2ZkRVNG9rQk1R?oc=5"
-    },
-    {
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5"
-    },
-    {
-      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5"
-    },
-    {
-      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
-      "source": "Watercraft Zone",
-      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5"
-    },
-    {
-      "title": "Honda celebrates 50 years in Australia - Carsales",
-      "source": "Carsales",
-      "publishedAt": "Fri, 01 Feb 2019 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkNPdEhsVHVXRXcxQU5WMTI0cEJtNDFlZ2xUeHlxN3pWd25adndrQk5yY25Gek1lTGNsQlRQVDYzdjFFRTdPSnBxU2NNYUUtTmd5dWx0bzh5aGFwQzNRTXJKdExKdEE4OVZjSlo0dUltaFEzYWVFRk5vUktQUm14djRvbUN2MXdGTFNfeGFIQU8xTHZLRng4?oc=5"
-    },
-    {
-      "title": "RBA interest rate decision live: Little relief for millions of Aussies despite board halting brutal streak - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcTg5NGhQZHBvUDU1eEFkZHNrdnhnTW1BVjlzRXFScFZId09pUVlZZ2pMZzEzcE12cE9Da0hNeHVNenlrN2RlS2ZFeENFU3pydGlaWmpZdmFDd19VWnVZSjhVNS1tdm84a2JIbWt1TVJXX1VOdDRoX0ZXMEV5bmFEMDkxNkhkWVJGaG9ueE8yQS1xQjFEblI1QV9yckczLWJCbDJCelB5RmlfTUpiTVh6T2R3NEtEX3VYaFBHNFJUdzJLVGdydDM5NXdyUTNRVkY5Q1NBM205NWt1dmlic2ZqZmtDUDVhWHY1TFE?oc=5"
-    },
-    {
-      "title": "Can Australian Finance Group’s (ASX:AFG) 6% Yield Hold Up in a Rising-Rate Cycle? - Kalkine",
-      "source": "Kalkine",
-      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGxEQTJyM3I1cGpnVjVjNVFpVUpCTzRhQVZwMkZZel9RVnJteHpmdl95UTlCSnVadEk3R1R3ajk0YVdmQ0J0RC0zVDdEYWdIUllhSzRaUi1vR015X1RBSmZ3SXM4dkJDNmpabEFMT3FQLWdEY1Y2QUUzWFVmMktZMzRCWjBzTGVOOE5jTHRsX1NHcEtfQy1NMENEQWc0T1VLaFVUQnhDZmRqNEUyNThmNURfU29pQjRxSEpJ?oc=5"
-    },
-    {
-      "title": "Hidden detail in tax changes introduces rule Australia has never seen before: 'It's a rort' - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGxOdUFVRV81QlQ3bW9wdXlWUE5aOVFkZk5IT0l1OF9iWHY0TlZuSHJRXzN2aXBMV3FHeXo1V1BweXZqTV9ETDhoQ3lWT3JXQ21CMU5PQ3VpdFJzWEh3aHNjd2V2dE5hS0JCOEk5UUMyQVZiTUJqNTJUZjFCZV8wYy1ZRXMxaXh4QV9sanNpbFpIRmZBcFJWMHVQX1liQVhKajFyN1Z3UzhRVDkzWmlPQXM1R0tVdkRpSEltb3RMLWlmTVhGUm1hRHo1Q1ZmWk1w?oc=5"
-    },
-    {
-      "title": "Calls for major Centrelink rule change as Aussies in relationships see income 'ripped away' - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWpENURhWi05ZjlFN3ZEdHRJWTZwOVowWnJPb3VWeDdfUGhVa01tcEx1WTlhMmtMMHBwT2Uzb095eTBSQXg1UF92V0dKUmc0NndJSnJUSENwYUFTVXdQb0gwbHppMWd2MDg3VnU3eFJYSjdlYnhxazNwUjZ2SFQtWF9qY2JxWGhmYmxueGlYM3YxczVIeEF6RzJ1aVh0QlIxMDZlY2VaSlB0QUk4cEZkSjE5WTk3cml0T2VJNDJQaWM4WkpVQkpCNFNSYzVoek9xX3BYUw?oc=5"
-    },
-    {
-      "title": "10 side-by-side vehicles on offer at FarmFest 2025 - Beef Central",
-      "source": "Beef Central",
-      "publishedAt": "Wed, 04 Jun 2025 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0VnMlhwMFFXYXZZclNHUU5qZWRaUk9uVnU2MExzb2ZMQnhkVlVOUXhkb0M0T2l5VHgxQ2tGMGZlSjd6MFQxMDV2ZHJVYlM1bUxXaUxXYXZjSm45bENlaFg0RTBzYV9hbmx4SS1JMlZUR3B5SWhRcG51NFN6WERham5kNmhNQnBReGxIYU9mUEs4NzNjTG1NY3MteDg?oc=5"
+      "id": "731a19425362",
+      "title": "2026 Sea-Doo RXT-X 325 lands in Australia early, other models on the way - - Watercraft Zone",
+      "description": "2026 Sea-Doo RXT-X 325 lands in Australia early, other models on the way - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITVFZZHNINmpqZmptbkJyWDZUTTltN3FtMkRmYkY5UFNlQ3poZkRsSGpwQjJHZDRuVzY3bXRhVnl4QkVsSFBFNDJUVlVxYi12QlY3cll3RXJRMFVLWk1rYnlkXzdqbm9sblhRa3dtNF9vSkhST2hiQkxEbFd5V1E?oc=5",
+      "publishedAt": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "source": "Watercraft Zone"
     }
   ]
 }
