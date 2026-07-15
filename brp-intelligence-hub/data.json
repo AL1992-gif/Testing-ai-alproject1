@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T02:22:20.874513+00:00",
+  "generatedAt": "2026-07-15T02:24:03.291571+00:00",
   "brands": [
     "Yamaha",
     "Kawasaki",
@@ -241,16 +241,6 @@
       "promotionType": "Sale"
     },
     {
-      "id": "ec6d1ba0251a",
-      "title": "Velocity Frequent Flyer surprises members with record bonus Status Credits - Virgin Australia",
-      "description": "Velocity Frequent Flyer surprises members with record bonus Status Credits Virgin Australia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnppcFh3MGZWVThLSnZqaXFnX3NkOWd2RkF4UjVCZHM4VFN4dUJHNTJuN3pwS1FzVVpCN1ZiLS1TRGlpOW1aeVh6R0JpeXJESXNyNlYtRTMyU1c4emFtYXQ1OHZEMWtrZXM2VFRrM2NwYk9qRjFIRndHY1pVd1Q2RVd5ZnFBTnEzVzR6eVZhb3NrWUozNDZmWkJ4ei1OdGowU1pod01yei1BMVFqVXRJcHd1OGpDV25vWGYxdXhZcXgwVkpNd3Fndw?oc=5",
-      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Virgin Australia",
-      "brand": "Can-Am",
-      "promotionType": "Bonus"
-    },
-    {
       "id": "8a30c11eb6dc",
       "title": "Netflix Australia deals and discounts: Score a free subscription - WhistleOut",
       "description": "Netflix Australia deals and discounts: Score a free subscription WhistleOut",
@@ -261,6 +251,16 @@
       "promotionType": "Discount"
     },
     {
+      "id": "ec6d1ba0251a",
+      "title": "Velocity Frequent Flyer surprises members with record bonus Status Credits - Virgin Australia",
+      "description": "Velocity Frequent Flyer surprises members with record bonus Status Credits Virgin Australia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnppcFh3MGZWVThLSnZqaXFnX3NkOWd2RkF4UjVCZHM4VFN4dUJHNTJuN3pwS1FzVVpCN1ZiLS1TRGlpOW1aeVh6R0JpeXJESXNyNlYtRTMyU1c4emFtYXQ1OHZEMWtrZXM2VFRrM2NwYk9qRjFIRndHY1pVd1Q2RVd5ZnFBTnEzVzR6eVZhb3NrWUozNDZmWkJ4ei1OdGowU1pod01yei1BMVFqVXRJcHd1OGpDV25vWGYxdXhZcXgwVkpNd3Fndw?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Virgin Australia",
+      "brand": "Can-Am",
+      "promotionType": "Bonus"
+    },
+    {
       "id": "c74b2eb61247",
       "title": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus - Finder.com.au",
       "description": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus Finder.com.au",
@@ -268,7 +268,7 @@
       "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
       "source": "Finder.com.au",
       "brand": "Can-Am",
-      "promotionType": "Bonus"
+      "promotionType": "Trade-In"
     },
     {
       "id": "28c8261850ab",
@@ -369,6 +369,14 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CS3hUZU9OYzlWVU1UQnFlMzA1VkR1dDVNZjlOY2V6Z2pmeEk0am1DSjhub2s4VEF2cFdDWk5WTW9TcFppanQ1UXFXT2hheEVCMEM4WmI0eE9pVjVpcXY2Y1IxNy0xekd1SHhEOHpzUGc?oc=5",
       "publishedAt": "Fri, 19 Apr 2024 07:00:00 GMT",
       "source": "MCNews"
+    },
+    {
+      "id": "a7ac4de2e199",
+      "title": "36th Sanctuary Cove International Boat Show set to make waves with record-breaking launches - Powerboat.World",
+      "description": "36th Sanctuary Cove International Boat Show set to make waves with record-breaking launches Powerboat.World",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xZzV4VXlfTVdQUnh5NlpBaHFoTUhNaVBMTmVDU182LS01bk5hYko3WGtVSWpSQ1Bua3dUU0VUNXVGU2N5WDRDTG9QUld0dXh2MUdkcEYwUF84VjBpZnl4a0p1T25takVheTFLclBNX281dw?oc=5",
+      "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
+      "source": "Powerboat.World"
     },
     {
       "id": "bfda90f90305",
@@ -512,14 +520,6 @@
       "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
       "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Watercraft Zone"
-    },
-    {
-      "id": "731a19425362",
-      "title": "2026 Sea-Doo RXT-X 325 lands in Australia early, other models on the way - - Watercraft Zone",
-      "description": "2026 Sea-Doo RXT-X 325 lands in Australia early, other models on the way - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITVFZZHNINmpqZmptbkJyWDZUTTltN3FtMkRmYkY5UFNlQ3poZkRsSGpwQjJHZDRuVzY3bXRhVnl4QkVsSFBFNDJUVlVxYi12QlY3cll3RXJRMFVLWk1rYnlkXzdqbm9sblhRa3dtNF9vSkhST2hiQkxEbFd5V1E?oc=5",
-      "publishedAt": "Fri, 03 Oct 2025 07:00:00 GMT",
       "source": "Watercraft Zone"
     }
   ]
