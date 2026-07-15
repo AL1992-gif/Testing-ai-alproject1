@@ -52,8 +52,9 @@ jobs:
           git fetch origin gh-pages
           rm -rf /tmp/au-finance-pages
           git worktree add --detach /tmp/au-finance-pages origin/gh-pages
-          find /tmp/au-finance-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
-          cp -R docs/. /tmp/au-finance-pages/
+          rm -rf /tmp/au-finance-pages/docs
+          mkdir -p /tmp/au-finance-pages/docs
+          cp -R docs/. /tmp/au-finance-pages/docs/
           touch /tmp/au-finance-pages/.nojekyll
           cd /tmp/au-finance-pages
           git add -A
