@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#07111f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="AU Finance" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>AU Finance Pulse</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="./icon.svg" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <div id="pullIndicator" class="pull-indicator" aria-hidden="true">
+      <span class="spinner"></span><span>Release to refresh</span>
+    </div>
+
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">AUSTRALIA · FINANCE</p>
+        <h1>Pulse</h1>
+      </div>
+      <button id="refreshButton" class="icon-button" aria-label="Refresh news" title="Refresh">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 4v7h-7"/></svg>
+      </button>
+    </header>
+
+    <main id="mainContent">
+      <section class="status-row" aria-live="polite">
+        <div class="live-dot"></div>
+        <span id="syncStatus">Loading live headlines…</span>
+        <span id="lastUpdated" class="status-time"></span>
+      </section>
+
+      <section class="hero-card">
+        <div class="hero-topline">
+          <span class="pill pill-accent">DAILY BRIEF</span>
+          <span id="todayLabel" class="muted"></span>
+        </div>
+        <h2>What matters in Australian finance today</h2>
+        <p id="briefText" class="brief-text">Refresh the feed, then generate a concise market and economy briefing from the latest sourced headlines.</p>
+        <div class="hero-actions">
+          <button id="briefButton" class="primary-button">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 1.6 4.4L18 9l-4.4 1.6L12 15l-1.6-4.4L6 9l4.4-1.6L12 3Zm6 11 .9 2.1L21 17l-2.1.9L18 20l-.9-2.1L15 17l2.1-.9L18 14Z"/></svg>
+            Generate quick brief
+          </button>
+          <button id="shareBriefButton" class="secondary-button" disabled>Share</button>
+        </div>
+        <p id="aiNote" class="ai-note">Built locally from the displayed headlines. No login or API key required.</p>
+      </section>
+
+      <section class="metric-grid" aria-label="News overview">
+        <article class="metric-card">
+          <span class="metric-label">Headlines</span>
+          <strong id="headlineCount">—</strong>
+          <span class="metric-foot">latest feed</span>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Official</span>
+          <strong id="officialCount">—</strong>
+          <span class="metric-foot">RBA updates</span>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Saved</span>
+          <strong id="savedCount">0</strong>
+          <span class="metric-foot">on this device</span>
+        </article>
+      </section>
+
+      <section class="search-section">
+        <label class="search-box">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="searchInput" type="search" placeholder="Search headlines, companies, topics…" autocomplete="off" />
+          <button id="clearSearch" class="clear-search" aria-label="Clear search">×</button>
+        </label>
+      </section>
+
+      <nav id="categoryTabs" class="category-tabs" aria-label="News categories">
+        <button class="category-tab active" data-category="all">Top</button>
+        <button class="category-tab" data-category="markets">Markets</button>
+        <button class="category-tab" data-category="economy">Economy</button>
+        <button class="category-tab" data-category="companies">Companies</button>
+        <button class="category-tab" data-category="housing">Housing</button>
+        <button class="category-tab" data-category="super">Super</button>
+        <button class="category-tab" data-category="official">Official</button>
+      </nav>
+
+      <section class="section-heading">
+        <div>
+          <p class="eyebrow">LIVE FEED</p>
+          <h2 id="feedTitle">Top stories</h2>
+        </div>
+        <button id="sortButton" class="text-button" aria-label="Change sort order">Newest</button>
+      </section>
+
+      <section id="newsList" class="news-list" aria-live="polite"></section>
+      <div id="emptyState" class="empty-state hidden">
+        <div class="empty-icon">⌁</div>
+        <h3>No matching stories</h3>
+        <p>Try another category or clear your search.</p>
+      </div>
+    </main>
+
+    <section id="savedView" class="page-view hidden">
+      <div class="page-title-row">
+        <div><p class="eyebrow">YOUR LIBRARY</p><h2>Saved stories</h2></div>
+        <button id="clearSavedButton" class="text-button danger">Clear all</button>
+      </div>
+      <div id="savedList" class="news-list"></div>
+      <div id="savedEmpty" class="empty-state">
+        <div class="empty-icon">☆</div>
+        <h3>Nothing saved yet</h3>
+        <p>Tap the bookmark on any story to keep it here.</p>
+      </div>
+    </section>
+
+    <section id="sourcesView" class="page-view hidden">
+      <div class="page-title-row"><div><p class="eyebrow">TRANSPARENCY</p><h2>Sources</h2></div></div>
+      <div class="info-card">
+        <h3>Where headlines come from</h3>
+        <p>AU Finance Pulse aggregates headline metadata and links only. Full articles remain on the original publishers’ websites.</p>
+        <div class="source-row"><span class="source-logo rba">R</span><div><strong>Reserve Bank of Australia</strong><p>Official media releases, speeches and economic publications.</p></div></div>
+        <div class="source-row"><span class="source-logo gn">G</span><div><strong>Google News Australia</strong><p>Australian finance coverage from multiple publishers, refreshed automatically by GitHub Actions, with the publisher shown on every story.</p></div></div>
+      </div>
+      <div class="info-card">
+        <h3>Verification rule</h3>
+        <p>Open the source before making an investment or business decision. Headlines and quick summaries can omit important context and are not financial advice.</p>
+      </div>
+    </section>
+
+    <section id="settingsView" class="page-view hidden">
+      <div class="page-title-row"><div><p class="eyebrow">APP</p><h2>Settings</h2></div></div>
+      <div class="settings-card">
+        <label class="setting-row">
+          <div><strong>Auto-refresh</strong><p>Check the latest published feed while the app is open every 15 minutes.</p></div>
+          <input id="autoRefreshToggle" type="checkbox" checked />
+        </label>
+        <label class="setting-row">
+          <div><strong>Compact cards</strong><p>Show more headlines on one screen.</p></div>
+          <input id="compactToggle" type="checkbox" />
+        </label>
+        <button id="installButton" class="wide-button">Add to iPhone Home Screen</button>
+      </div>
+      <div class="info-card small-copy">
+        <h3>Privacy</h3>
+        <p>No login is required. Saved stories and settings stay in this browser. The quick brief is built on this device from headline text and publisher names.</p>
+      </div>
+    </section>
+
+    <nav class="bottom-nav" aria-label="Primary navigation">
+      <button class="nav-item active" data-view="feed">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16M4 12h16M4 19h10"/></svg><span>Feed</span>
+      </button>
+      <button class="nav-item" data-view="saved">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v17l-6-4-6 4V4Z"/></svg><span>Saved</span>
+      </button>
+      <button class="nav-item" data-view="sources">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7h.01"/></svg><span>Sources</span>
+      </button>
+      <button class="nav-item" data-view="settings">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z"/><path d="M19.4 15a1.8 1.8 0 0 0 .36 1.98l.06.06-2.78 2.78-.06-.06A1.8 1.8 0 0 0 15 19.4a1.8 1.8 0 0 0-1.1 1.65V21H10v-.05A1.8 1.8 0 0 0 8.9 19.4a1.8 1.8 0 0 0-1.98.36l-.06.06-2.78-2.78.06-.06A1.8 1.8 0 0 0 4.6 15a1.8 1.8 0 0 0-1.65-1.1H3V10h.05A1.8 1.8 0 0 0 4.6 8.9a1.8 1.8 0 0 0-.36-1.98l-.06-.06 2.78-2.78.06.06A1.8 1.8 0 0 0 9 4.6a1.8 1.8 0 0 0 1.1-1.65V3H14v.05A1.8 1.8 0 0 0 15.1 4.6a1.8 1.8 0 0 0 1.98-.36l.06-.06 2.78 2.78-.06.06A1.8 1.8 0 0 0 19.4 9a1.8 1.8 0 0 0 1.65 1.1H21V14h-.05A1.8 1.8 0 0 0 19.4 15Z"/></svg><span>Settings</span>
+      </button>
+    </nav>
+
+    <div id="installSheet" class="sheet-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="installTitle">
+      <div class="bottom-sheet">
+        <div class="sheet-handle"></div>
+        <h3 id="installTitle">Add AU Finance Pulse to iPhone</h3>
+        <ol>
+          <li>Open this site in Safari.</li>
+          <li>Tap the Share button <span class="share-symbol">□↑</span>.</li>
+          <li>Choose <strong>Add to Home Screen</strong>.</li>
+        </ol>
+        <button id="closeInstallSheet" class="wide-button">Got it</button>
+      </div>
+    </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
