@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-07-15T00:00:00Z",
+  "sourceCount": 2,
+  "articles": [
+    {
+      "id": "rba-a2a-payments-2026",
+      "title": "A2A Payments Roundtable releases vision for account-to-account payments in Australia",
+      "link": "https://www.rba.gov.au/media-releases/2026/mr-26-18.html",
+      "source": "Reserve Bank of Australia",
+      "publishedAt": "2026-07-08T00:00:00+10:00",
+      "category": "official",
+      "official": true,
+      "description": "An official RBA update on the future of account-to-account payments in Australia."
+    },
+    {
+      "id": "rba-payments-regulation-2026",
+      "title": "Review of Payments System Regulation",
+      "link": "https://www.rba.gov.au/media-releases/2026/mr-26-17.html",
+      "source": "Reserve Bank of Australia",
+      "publishedAt": "2026-06-25T00:00:00+10:00",
+      "category": "official",
+      "official": true,
+      "description": "The RBA publishes an official update on payments system regulation."
+    },
+    {
+      "id": "initial-business-feed",
+      "title": "The live Australian business and markets feed will populate after the first automated refresh",
+      "link": "https://www.abc.net.au/news/business",
+      "source": "AU Finance Pulse",
+      "publishedAt": "2026-07-15T08:00:00+10:00",
+      "category": "markets",
+      "official": false,
+      "description": "GitHub Actions refreshes the sourced RSS feeds automatically and republishes this dashboard."
+    }
+  ]
+}
