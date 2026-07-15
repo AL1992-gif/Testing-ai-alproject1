@@ -8,7 +8,7 @@ on:
       - "scripts/generate_news.py"
       - ".github/workflows/au-finance-pages.yml"
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -61,6 +61,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Published site is already current"
           else
-            git commit -m "Publish live AU Finance feed [skip ci]"
+            git commit -m "Publish auto-updated AU Finance feed [skip ci]"
             git push origin HEAD:gh-pages
           fi
