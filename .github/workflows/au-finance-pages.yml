@@ -13,19 +13,19 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: "au-finance-pages"
   cancel-in-progress: false
 
 jobs:
-  build:
+  refresh-and-publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -35,33 +35,31 @@ jobs:
       - name: Refresh Australian finance feeds
         run: python scripts/generate_news.py
 
-      - name: Save refreshed feed to the repository
+      - name: Save refreshed feed to main
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet -- docs/news.json; then
-            echo "No feed changes to commit"
+            echo "No feed changes to commit on main"
           else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/news.json
             git commit -m "Refresh Australian finance news [skip ci]"
-            git push
+            git push origin main
           fi
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: docs
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish current docs site to gh-pages
+        run: |
+          git fetch origin gh-pages
+          rm -rf /tmp/au-finance-pages
+          git worktree add --detach /tmp/au-finance-pages origin/gh-pages
+          find /tmp/au-finance-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R docs/. /tmp/au-finance-pages/
+          touch /tmp/au-finance-pages/.nojekyll
+          cd /tmp/au-finance-pages
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Published site is already current"
+          else
+            git commit -m "Publish live AU Finance feed [skip ci]"
+            git push origin HEAD:gh-pages
+          fi
