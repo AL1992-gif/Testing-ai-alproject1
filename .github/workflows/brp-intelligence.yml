@@ -1,0 +1,55 @@
+name: BRP Commercial Intelligence
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "brp-intelligence-hub/**"
+      - "scripts/generate_brp_intelligence.py"
+      - ".github/workflows/brp-intelligence.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brp-commercial-intelligence
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Refresh competitor intelligence
+        run: python scripts/generate_brp_intelligence.py
+      - name: Save latest data on main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- brp-intelligence-hub/data.json; then
+            git add brp-intelligence-hub/data.json
+            git commit -m "Refresh BRP commercial intelligence [skip ci]"
+            git push origin main
+          fi
+      - name: Publish project folder to gh-pages
+        run: |
+          git fetch origin gh-pages
+          rm -rf /tmp/brp-pages
+          git worktree add --detach /tmp/brp-pages origin/gh-pages
+          rm -rf /tmp/brp-pages/brp-intelligence-hub
+          mkdir -p /tmp/brp-pages/brp-intelligence-hub
+          cp -R brp-intelligence-hub/. /tmp/brp-pages/brp-intelligence-hub/
+          cd /tmp/brp-pages
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish BRP intelligence hub [skip ci]"
+            git push origin HEAD:gh-pages
+          fi
