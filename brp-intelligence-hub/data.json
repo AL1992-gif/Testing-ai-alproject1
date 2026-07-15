@@ -1,35 +1,14 @@
 {
-  "generatedAt": "2026-07-15T02:24:03.291571+00:00",
+  "generatedAt": "2026-07-15T02:25:25.590247+00:00",
   "brands": [
     "Yamaha",
     "Kawasaki",
     "Polaris",
-    "Honda",
-    "Can-Am"
+    "Honda"
   ],
-  "promotionCount": 27,
+  "promotionCount": 18,
   "industryNewsCount": 30,
   "promotions": [
-    {
-      "id": "90376fde19db",
-      "title": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - - Watercraft Zone",
-      "description": "Sea-Doo End Of Financial Year Deals: Up to $3500 off, 3.99 per cent finance - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xNbk9FLWxMelBxamVQbmRfQlJua0c4SmwtX2ZtNHo1ejZrSFNjRllRZy00WXZZTG9ZMlFyVi1MSGJfT092UXdKdkU0TC1DSUZBcy1WMm9NYUphNVNyMlFwQ29Td29yQnZJUi1UVDdYb3JlUDhSdFVhWVpUc1JrdkhwaFVCUXVhaTdud0FrVS1QSWMzMVpKUThZY2s4SXhNaXpTWQ?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "source": "Watercraft Zone",
-      "brand": "Yamaha",
-      "promotionType": "Finance"
-    },
-    {
-      "id": "3541f94277ef",
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Watercraft Zone",
-      "brand": "Yamaha",
-      "promotionType": "Discount"
-    },
     {
       "id": "5f69d7ce477c",
       "title": "Yamaha discounts 2024 models: Up to $2000 off, 2.99 per cent finance, free insurance - - Watercraft Zone",
@@ -38,7 +17,7 @@
       "publishedAt": "Tue, 16 Jul 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
       "brand": "Yamaha",
-      "promotionType": "Discount"
+      "promotionType": "Finance"
     },
     {
       "id": "def17d750a51",
@@ -58,7 +37,7 @@
       "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
       "brand": "Yamaha",
-      "promotionType": "Discount"
+      "promotionType": "Finance"
     },
     {
       "id": "e2cecd02b0f7",
@@ -108,7 +87,7 @@
       "publishedAt": "Fri, 12 Dec 2025 08:00:00 GMT",
       "source": "Watercraft Zone",
       "brand": "Kawasaki",
-      "promotionType": "Discount"
+      "promotionType": "Sale"
     },
     {
       "id": "305773bc6cc7",
@@ -131,16 +110,6 @@
       "promotionType": "Warranty"
     },
     {
-      "id": "6af68bdd3de3",
-      "title": "Massive Jet Ski discounts to kick-off 2025: Sea-Doo, Yamaha, Kawasaki - - Watercraft Zone",
-      "description": "Massive Jet Ski discounts to kick-off 2025: Sea-Doo, Yamaha, Kawasaki - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDNSeWhsNXdYcDJycG4tODJsQ3NRaFljY2V4TXRLRWRrdXZpSlFvMFd6MGVtVTR3MDZwM1ZrVEt5TnAwS292cTJjSU1sdzIzMGVwQW1VMnFhTUd3LVhxdkxDRTVkZDdSY3ZyZHhRQjJhSGdEZmJJdXB0cFpTUnl0NWNqa2xmcHhhZzJF?oc=5",
-      "publishedAt": "Sat, 04 Jan 2025 08:00:00 GMT",
-      "source": "Watercraft Zone",
-      "brand": "Kawasaki",
-      "promotionType": "Discount"
-    },
-    {
       "id": "af88af48db76",
       "title": "Extended! Kawasaki Jet Ski discounts: Now $2000 off until 31 July 2024 - - Watercraft Zone",
       "description": "Extended! Kawasaki Jet Ski discounts: Now $2000 off until 31 July 2024 - Watercraft Zone",
@@ -158,17 +127,7 @@
       "publishedAt": "Thu, 01 Aug 2024 07:00:00 GMT",
       "source": "Watercraft Zone",
       "brand": "Kawasaki",
-      "promotionType": "Discount"
-    },
-    {
-      "id": "6de4eb575b4a",
-      "title": "Australian Honda Riders Can Get a Free 6-Year Warranty. Are You Listening, America? - RideApart.com",
-      "description": "Australian Honda Riders Can Get a Free 6-Year Warranty. Are You Listening, America? RideApart.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOekJlR1otYU5vbEdiYnZmQnJHZjJTVlduUVJRaEJ6NEMtOEhnQXhOcU8yRGpyelI3YjZHLXdHaTlaWFRHd252djdhRkJlcjk0Vm9CM3BzNno2eHpvSHl3RktVbnU2ai1fVWxTd1FSbklVM0VQR0JvZng4V1d4S2FWeXZR?oc=5",
-      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
-      "source": "RideApart.com",
-      "brand": "Polaris",
-      "promotionType": "Warranty"
+      "promotionType": "Finance"
     },
     {
       "id": "4975fbccd765",
@@ -177,16 +136,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXlCbW8wbnlCanhTUFNwLWFYUS1PTURlZ1FjX3dmM0FsMjFza3lsNWdjQTBhbmdud0luWWwwcEJ4cC1CU3ByemZ2OFMxbjV3TlhJTHR3RXctWGUtQl9QLTIzRUtHN2wwTDBRX3lTRk5CdE04dWRnVGJiZFEzb0RoVWstd3NwbHRKZ1RGQzJKa19CQ3JGcHM1Mw?oc=5",
       "publishedAt": "Wed, 30 Jul 2014 07:00:00 GMT",
       "source": "Carsales",
-      "brand": "Polaris",
-      "promotionType": "Sale"
-    },
-    {
-      "id": "a45e5890eb0e",
-      "title": "2017 Australian Motorcycle Sales Figures | Honda #1 - MCNews",
-      "description": "2017 Australian Motorcycle Sales Figures | Honda #1 MCNews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Td2NSdmUwZzJDR1YzQmh4U19taVhSaDZoeTB5RWpoMFJpTHJvUmtPUTVTei1vZ2VpNlh1bmJfZXJKbE1zb25seGZnRldyaXJ3dG0xZmEwWE9RNUFSZ1YzY0xsdHhvOWx0TlN5LXNsanlmdkdW?oc=5",
-      "publishedAt": "Mon, 08 Jan 2018 08:00:00 GMT",
-      "source": "MCNews",
       "brand": "Polaris",
       "promotionType": "Sale"
     },
@@ -239,46 +188,6 @@
       "source": "Boatsales",
       "brand": "Honda",
       "promotionType": "Sale"
-    },
-    {
-      "id": "8a30c11eb6dc",
-      "title": "Netflix Australia deals and discounts: Score a free subscription - WhistleOut",
-      "description": "Netflix Australia deals and discounts: Score a free subscription WhistleOut",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kd1E4QTBuVFB1bEVYN05wODBzNVJkZVNZcGpvQkV6SmJINkVVMjY5dngxZUZOQnhfZVVQWG8tUk55elRob1MzaVVPVFctT3N5aExxWndHU3VaYUUtSE83N3EzUXpXX0k?oc=5",
-      "publishedAt": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "source": "WhistleOut",
-      "brand": "Can-Am",
-      "promotionType": "Discount"
-    },
-    {
-      "id": "ec6d1ba0251a",
-      "title": "Velocity Frequent Flyer surprises members with record bonus Status Credits - Virgin Australia",
-      "description": "Velocity Frequent Flyer surprises members with record bonus Status Credits Virgin Australia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnppcFh3MGZWVThLSnZqaXFnX3NkOWd2RkF4UjVCZHM4VFN4dUJHNTJuN3pwS1FzVVpCN1ZiLS1TRGlpOW1aeVh6R0JpeXJESXNyNlYtRTMyU1c4emFtYXQ1OHZEMWtrZXM2VFRrM2NwYk9qRjFIRndHY1pVd1Q2RVd5ZnFBTnEzVzR6eVZhb3NrWUozNDZmWkJ4ei1OdGowU1pod01yei1BMVFqVXRJcHd1OGpDV25vWGYxdXhZcXgwVkpNd3Fndw?oc=5",
-      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Virgin Australia",
-      "brand": "Can-Am",
-      "promotionType": "Bonus"
-    },
-    {
-      "id": "c74b2eb61247",
-      "title": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus - Finder.com.au",
-      "description": "Best Samsung Galaxy S26 pre-order deals: $700 off + trade-in bonus Finder.com.au",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlhIYkNXREV2ZlV0NGhsX2pWUlJfOVpyelhmbF9tdnFLYmM2akp0MFk4VG9tNlppZ0ZjeEFwRUZVUG51c3dpTkdxX3pKNUI3VEIwQzgxNWVYSmxwQWhkbDk5eEs2T2dLUkVfem94Z3pRTFlQeHpPcHpRakJ2UThLcEM4VEF5LXc?oc=5",
-      "publishedAt": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "source": "Finder.com.au",
-      "brand": "Can-Am",
-      "promotionType": "Trade-In"
-    },
-    {
-      "id": "28c8261850ab",
-      "title": "Centrelink $5,000 cash boost Aussie students are being urged to claim now - Yahoo Finance Australia",
-      "description": "Centrelink $5,000 cash boost Aussie students are being urged to claim now Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzJIOWtULWZTZnZCSkV6X3pVX1NDbnJtNHBJLVljdDhMVktDbWpsQmlkdDJBblVFYmJUZHp0WWpLeDRjc2JMa0hmbVNyRmpTVmtXeFVINGtxZ05MdHNOd3p3YmJxOTZzei1GVzA0S2xOYW9LRXlPUG10cUdzcFZDVUZpWDB4UEhla3FQdzhreW0xWnlqUmFfdUUwUk9uV1Y0MHNELVctdjhueTFZU3ZmaTUycEdzeUs2dHdBUg?oc=5",
-      "publishedAt": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "source": "Yahoo Finance Australia",
-      "brand": "Can-Am",
-      "promotionType": "Finance"
     }
   ],
   "industryNews": [
@@ -344,6 +253,14 @@
       "description": "NSW Jet Ski licence and registration fees go up again after record rise last year - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1M1T1BwU1RVeU5jZGd1SFhJaVpQcS1KRllvVTZuWG9yeVJDcjhYcU9OYkptQk9SMHh4ZHU1LVhzaElxcENaZDloWUJ3cmR6UEt0T3NrQkRBY2xHbFdsQTRrRGdLYVVDTENOc3FCZVE0XzNOblFZZmRZbHpfM1J2eTV4UjdyMXRiQXREQ2x5S0JUZDR6ZGU3SjhyWktzWWM1REREWFpGc1FNdmIybGhSeUN3?oc=5",
       "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "13494227506a",
+      "title": "Cronulla Sea-Doo to close and merge with Beaches Sea-Doo, Peter Stevens Sea-Doo stores go into administration - Watercraft Zone",
+      "description": "Cronulla Sea-Doo to close and merge with Beaches Sea-Doo, Peter Stevens Sea-Doo stores go into administration Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3R6SmhhQVVZbkdPQ1ZGWHgzUlg5N010LTRGaHNOMFgzVkhIZ0I3ZTFMeFpGZUhMTnFxUTNqRXdKUXpmbktfWWRsX2wtVlphdGdySDJuaEVtbXlhZUNITV91RTUtZ19Ya3dIMnFUTkpJR3pxNS1wanE4VnhweGJkb3p4VU10ZmduNHF2ZQ?oc=5",
+      "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
       "source": "Watercraft Zone"
     },
     {
@@ -513,14 +430,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjRfZFlFRUZTd2pna0tKUWNob2t0cFNQazJacnFXOG9VNXZVamxHSXQ1QkNBZmo3b3JhVlpWVUZGaHNlSnYwbTdjLThfRFpzakJZdWdiR19JaElQbXQ1XzZmLUJjVkd5T0RlSzJPTjdTTnFKNWI4MnduTGJkM3N6VnBiZzJZQUVBZTZKb1IzTnFWREE3TnIwb3luVkRUQnZvRTIySHQ3Slo1cm5GU0dfUDNieVN6eVJ6UjJ6ZjZ2a01TTzZwMWpoVGFBZ191NVd5UThCMXktWQ?oc=5",
       "publishedAt": "Tue, 26 Aug 2025 07:00:00 GMT",
       "source": "Boatsales"
-    },
-    {
-      "id": "3541f94277ef",
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Watercraft Zone"
     }
   ]
 }
