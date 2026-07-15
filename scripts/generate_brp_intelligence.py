@@ -4,11 +4,17 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 
 BRANDS = {
+    "Yamaha": ["yamaha", "waverunner"],
+    "Kawasaki": ["kawasaki", "jet ski"],
+    "Polaris": ["polaris"],
+    "Honda": ["honda"]
+}
+
+BRAND_QUERIES = {
     "Yamaha": "Yamaha WaveRunner Australia",
     "Kawasaki": "Kawasaki Jet Ski Australia",
     "Polaris": "Polaris Australia powersports",
-    "Honda": "Honda marine Australia",
-    "Can-Am": "Can-Am Australia"
+    "Honda": "Honda marine Australia"
 }
 
 PROMO_TERMS = {
@@ -34,6 +40,7 @@ INDUSTRY_TERMS = {
 }
 
 EXCLUDE_TERMS = {"accident", "crash", "rescue", "missing", "death", "court", "police"}
+BRP_TERMS = {"sea-doo", "seadoo", "can-am", "can am", "brp"}
 
 
 def clean(value):
@@ -42,7 +49,7 @@ def clean(value):
 
 def fetch(query, limit=15):
     url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) + "&hl=en-AU&gl=AU&ceid=AU:en"
-    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 BRP-Market-Monitor/2.0"})
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 BRP-Market-Monitor/2.1"})
     with urllib.request.urlopen(request, timeout=20) as response:
         root = ET.fromstring(response.read())
     rows = []
@@ -74,11 +81,16 @@ def dedupe(rows):
 
 
 promotions = []
-for brand, base_query in BRANDS.items():
-    query = f'{base_query} (promotion OR finance OR cashback OR discount OR bonus OR warranty OR "free trailer")'
+for brand, query_base in BRAND_QUERIES.items():
+    query = f'{query_base} (promotion OR finance OR cashback OR discount OR bonus OR warranty OR "free trailer")'
     try:
         for row in fetch(query, 12):
-            if any(term in row["text"] for term in PROMO_TERMS) and not any(term in row["text"] for term in EXCLUDE_TERMS):
+            title_text = row["title"].lower()
+            explicit_brand_match = any(alias in title_text for alias in BRANDS[brand])
+            has_promotion = any(term in row["text"] for term in PROMO_TERMS)
+            is_brp_story = any(term in title_text for term in BRP_TERMS)
+            excluded = any(term in row["text"] for term in EXCLUDE_TERMS)
+            if explicit_brand_match and has_promotion and not is_brp_story and not excluded:
                 row["brand"] = brand
                 matched = [term for term in PROMO_TERMS if term in row["text"]]
                 row["promotionType"] = matched[0].title() if matched else "Offer"
