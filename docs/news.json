@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:27:03.466915+00:00",
+  "generatedAt": "2026-07-15T01:27:18.514047+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -121,6 +121,16 @@
       "category": "markets",
       "official": false,
       "description": "ASX Preview: Australian Shares to Rise Amid Middle East Tensions; Rio Tinto Group Reports Lower Q2 Copper Production Yahoo Finance Australia"
+    },
+    {
+      "id": "e3505df3c65479a6",
+      "title": "House prices: What's really happening in Australia's property market? - The Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVNMT3NHNnNQeXdScmZSWmkyMEo2YUItUVh0NWZSbEV2NUFRSndpT2JibUxFQmNyYm9iZU1qUlNJQzI2VkdENGtvQ2NZM3ZKTmR4ekZQbU1WNE9RTDFHSzdocURCRG1yXy15aHczZ0ZwcFNtYzZNR1lVcno5N3lCVmtBNTFhbmlPNTRCNFZQYUE5YlVkT1MyaHh3dGFPYmlkWEhPbktnTQ?oc=5",
+      "source": "The Times Australia",
+      "publishedAt": "2026-07-14T23:57:29+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "House prices: What's really happening in Australia's property market? The Times Australia"
     },
     {
       "id": "bd229bad32067fe3",
@@ -493,16 +503,6 @@
       "description": "Wiseway Group (ASX: WWG) Falls 13% But Remains Up 81% in a Year: Is the Chinese-Australian Freight Logistics Company's Rally Taking a Breather? Kalkine"
     },
     {
-      "id": "04f1e1fb87ff9425",
-      "title": "Unemployment eases to 4.4pc sparking rate hike fears - The Nightly",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWFadzFxQnAxNjhtNjQ3YVFrVmxkSmpPUDBZem15UGVRQTZjdXRXWDdHdlJXOFZPWWszLVFMWHE4aVlvX2VNbk9TMlY3MmZqa0RobWtTeUsybmljdkZibHZjRzB4MHB5NWNpaXhGd0dEOXRmaDFIZktSYzFzT3VDV3RJZ0pDRWtrYUNZcFJNTzBSV1F1UHMyWXc1anFYNm0xLWhwcGRJdkZFVVJwVzN6SWllaXh5NkxkSXBqSXBSeS1NcXJzQS1xSkh3?oc=5",
-      "source": "The Nightly",
-      "publishedAt": "2026-07-13T13:04:59+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Unemployment eases to 4.4pc sparking rate hike fears The Nightly"
-    },
-    {
       "id": "dc8d4297fe8f359f",
       "title": "National Seniors Presents Noel Whittaker Live: Retirement, Money & Life | Brisbane | 13 July 2026 - National Seniors Australia",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLS1XQUhqRWsxSHV3NFVOeFptbHBfeGt5N3VLTGR4R2VnMEhjNHdRcE9FbkpiVFRCaGxYd2ppbW4yOTFDdDdWN1hyejFJRHp2S19EaXlLMkVuTGdJaWFpSEVycmV0TkV5WXRPVzk4czJHVVBIY3k5ajZablduaHNXN0hVMDBoYXFxamNFR0RZZHZHWFJtb3FKc0JuT3NOeVhlbnVyZzR2NjhLWFYtX0tkSUx2VFdzNW16TzZzTWxWMUxrT3NOcEVj?oc=5",
@@ -631,16 +631,6 @@
       "category": "companies",
       "official": false,
       "description": "Why Australia’s next generation of growth will be found beyond the ASX 20 AdviserVoice"
-    },
-    {
-      "id": "e3505df3c65479a6",
-      "title": "House prices: What's really happening in Australia's property market? - The Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVNMT3NHNnNQeXdScmZSWmkyMEo2YUItUVh0NWZSbEV2NUFRSndpT2JibUxFQmNyYm9iZU1qUlNJQzI2VkdENGtvQ2NZM3ZKTmR4ekZQbU1WNE9RTDFHSzdocURCRG1yXy15aHczZ0ZwcFNtYzZNR1lVcno5N3lCVmtBNTFhbmlPNTRCNFZQYUE5YlVkT1MyaHh3dGFPYmlkWEhPbktnTQ?oc=5",
-      "source": "The Times Australia",
-      "publishedAt": "2026-07-12T21:24:02+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "House prices: What's really happening in Australia's property market? The Times Australia"
     },
     {
       "id": "90db5e4319f4064e",
@@ -791,6 +781,16 @@
       "category": "housing",
       "official": false,
       "description": "House prices and bank stocks are about to tank. Are you ready? AFR"
+    },
+    {
+      "id": "d11f6b4a5cc7aaad",
+      "title": "Age pension may be next on the hit list - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcW5qUjhOamh0V2VydE5wZ1VvQVdabVFIMnZ0NmhPdGcxUy1JN19OTjB6TE1telV4NldyUEVfQkktZHZPVFkyaDZzaHR2NzdxREhPOXNZVnRNOEJ5UERKcGpGdzRVaVFwTldjY3ZSc0k1ZlcxX2thZjJ0YVdabDZ3YmdUblNkeEFySldPbzhRcGVYSWZxZnZBaGFzRUpLZnowUHFvd2NNekl5VFNSNGl1VjZPRno1WkhvclljZ1VnZmFqOHJYZDJKcTl0UzEzNHRZUU9qaWpabjFoNjhHR2xfYzA1eDhrb05yOUhhbFVFb9IB9AFBVV95cUxPUE1odU5mdnJid0czbkd1QmhrcFJsMXQxN2pJREZ6bUJXcEhrbDFMbXU5MHlBaFNxRFRTMW1vcW54RFdwUXA0ZnMxY1NaTWJOTU54cE5Ud0dGR0huSlIxSy1XTTlxb0VEcGpMc0J0ZVpvaVY5ZDFDeENNRmNjaE1UMk5nWW5tT24wZzE3RGUzcmlfX3FwRUFDNzVUYmROaVpucjJTZjR6UzUyYk8xeWhlVUttYTBaWUZxcW43UktyUXpxUWNoQVd3SFFXZU5Nc3BSc1NzR3M2S1ZISzhoQTJ1RWJ3LWdEU2JJV1V6QXp0aW4xcnR4?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-07-10T01:28:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Age pension may be next on the hit list The Australian"
     },
     {
       "id": "ff125875f22451f5",
