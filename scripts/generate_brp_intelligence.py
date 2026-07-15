@@ -3,44 +3,110 @@ from datetime import datetime, timezone
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
-QUERIES={
- 'Yamaha':'Yamaha WaveRunner Australia promotion OR finance OR cashback',
- 'Kawasaki':'Kawasaki Jet Ski Australia promotion OR finance OR cashback',
- 'Polaris':'Polaris Australia promotion OR finance OR cashback',
- 'Honda':'Honda marine Australia promotion OR finance OR cashback',
- 'Can-Am':'Can-Am Australia promotion OR finance OR cashback'
+BRANDS = {
+    "Yamaha": "Yamaha WaveRunner Australia",
+    "Kawasaki": "Kawasaki Jet Ski Australia",
+    "Polaris": "Polaris Australia powersports",
+    "Honda": "Honda marine Australia",
+    "Can-Am": "Can-Am Australia"
 }
-PROMO_WORDS={'cashback':3,'finance':2,'offer':1,'promotion':2,'discount':3,'bonus':2,'free':1,'warranty':1,'sale':2}
 
-def clean(v):
- return re.sub(r'\s+',' ',html.unescape(re.sub('<[^>]+>',' ',v or ''))).strip()
+PROMO_TERMS = {
+    "cashback", "cash back", "finance", "interest rate", "comparison rate",
+    "discount", "sale", "offer", "promotion", "bonus", "rebate",
+    "free trailer", "free registration", "free accessories", "warranty",
+    "drive away", "ride away", "trade-in", "trade in"
+}
 
-def fetch_brand(brand,query):
- url='https://news.google.com/rss/search?q='+urllib.parse.quote(query)+'&hl=en-AU&gl=AU&ceid=AU:en'
- req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 BRP-Commercial-Intelligence/1.0'})
- with urllib.request.urlopen(req,timeout=20) as r: root=ET.fromstring(r.read())
- rows=[]
- for item in root.findall('.//item')[:8]:
-  title=clean(item.findtext('title'))
-  link=clean(item.findtext('link'))
-  pub=clean(item.findtext('pubDate'))
-  source=clean(item.findtext('source')) or 'Google News'
-  text=title.lower(); score=sum(weight for word,weight in PROMO_WORDS.items() if word in text)
-  priority='High' if score>=5 else 'Medium' if score>=2 else 'Low'
-  assess='Strong promotional signal; review offer mechanics and dealer coverage' if priority=='High' else 'Monitor for repeated discounting or wider dealer adoption' if priority=='Medium' else 'General market signal; no immediate response indicated'
-  rows.append({'id':hashlib.sha1((brand+title).encode()).hexdigest()[:12],'brand':brand,'title':title,'priority':priority,'assessment':assess,'publishedAt':pub,'link':link,'source':source,'score':score})
- return rows
+INDUSTRY_QUERIES = [
+    "Australia personal watercraft industry sales registrations",
+    "Australia marine industry dealer powersports news",
+    "Australia recreational vehicle powersports industry",
+    "personal watercraft new model launch Australia",
+    "marine dealer inventory Australia"
+]
 
-signals=[]
-for brand,q in QUERIES.items():
- try: signals.extend(fetch_brand(brand,q))
- except Exception as e: print(brand,e)
-signals.sort(key=lambda x:x['score'],reverse=True)
-high=sum(x['priority']=='High' for x in signals)
-medium=sum(x['priority']=='Medium' for x in signals)
-pressure='High' if high>=3 else 'Medium' if high or medium>=4 else 'Low'
-assessment={'pressure':pressure,'sales':'↓' if pressure=='High' else '↔','margin':'↓' if pressure in {'High','Medium'} else '↔','inventory':'↑' if pressure=='High' else '↔','priority':pressure}
-lead=signals[:3]
-brief=('Competitive pressure is assessed as '+pressure.lower()+'. ' + ('; '.join(x['brand']+': '+x['title'] for x in lead) if lead else 'No strong competitor promotion signal was retrieved.') + '\n\nRecommended action: validate whether signals are national campaigns or isolated dealer activity before changing BRP pricing or sales-program support.')
-out={'generatedAt':datetime.now(timezone.utc).isoformat(),'assessment':assessment,'brief':brief,'scope':[f'{b}: {q}' for b,q in QUERIES.items()],'signals':signals[:30],'stories':[{'title':x['title'],'source':x['source'],'publishedAt':x['publishedAt'],'link':x['link']} for x in signals[:15]]}
-Path('brp-intelligence-hub/data.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8')
+INDUSTRY_TERMS = {
+    "personal watercraft", "pwc", "jet ski", "waverunner", "marine",
+    "powersports", "dealer", "dealership", "registration", "registrations",
+    "sales", "market", "inventory", "new model", "launch", "industry",
+    "recreational vehicle", "watercraft"
+}
+
+EXCLUDE_TERMS = {"accident", "crash", "rescue", "missing", "death", "court", "police"}
+
+
+def clean(value):
+    return re.sub(r"\s+", " ", html.unescape(re.sub("<[^>]+>", " ", value or ""))).strip()
+
+
+def fetch(query, limit=15):
+    url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) + "&hl=en-AU&gl=AU&ceid=AU:en"
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 BRP-Market-Monitor/2.0"})
+    with urllib.request.urlopen(request, timeout=20) as response:
+        root = ET.fromstring(response.read())
+    rows = []
+    for item in root.findall(".//item")[:limit]:
+        title = clean(item.findtext("title"))
+        description = clean(item.findtext("description"))
+        text = f"{title} {description}".lower()
+        rows.append({
+            "id": hashlib.sha1((title + clean(item.findtext("link"))).encode()).hexdigest()[:12],
+            "title": title,
+            "description": description,
+            "link": clean(item.findtext("link")),
+            "publishedAt": clean(item.findtext("pubDate")),
+            "source": clean(item.findtext("source")) or "Google News",
+            "text": text
+        })
+    return rows
+
+
+def dedupe(rows):
+    seen, result = set(), []
+    for row in rows:
+        key = re.sub(r"[^a-z0-9]", "", row["title"].lower())[:100]
+        if key and key not in seen:
+            seen.add(key)
+            row.pop("text", None)
+            result.append(row)
+    return result
+
+
+promotions = []
+for brand, base_query in BRANDS.items():
+    query = f'{base_query} (promotion OR finance OR cashback OR discount OR bonus OR warranty OR "free trailer")'
+    try:
+        for row in fetch(query, 12):
+            if any(term in row["text"] for term in PROMO_TERMS) and not any(term in row["text"] for term in EXCLUDE_TERMS):
+                row["brand"] = brand
+                matched = [term for term in PROMO_TERMS if term in row["text"]]
+                row["promotionType"] = matched[0].title() if matched else "Offer"
+                promotions.append(row)
+    except Exception as error:
+        print("promotion", brand, error)
+
+industry_news = []
+for query in INDUSTRY_QUERIES:
+    try:
+        for row in fetch(query, 12):
+            if any(term in row["text"] for term in INDUSTRY_TERMS) and not any(term in row["text"] for term in EXCLUDE_TERMS):
+                industry_news.append(row)
+    except Exception as error:
+        print("industry", query, error)
+
+promotions = dedupe(promotions)[:30]
+industry_news = dedupe(industry_news)[:30]
+
+out = {
+    "generatedAt": datetime.now(timezone.utc).isoformat(),
+    "brands": list(BRANDS.keys()),
+    "promotionCount": len(promotions),
+    "industryNewsCount": len(industry_news),
+    "promotions": promotions,
+    "industryNews": industry_news
+}
+
+Path("brp-intelligence-hub/data.json").write_text(
+    json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8"
+)
