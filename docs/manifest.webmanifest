@@ -1,0 +1,14 @@
+{
+  "name": "AU Finance Pulse",
+  "short_name": "AU Finance",
+  "description": "A mobile-first Australian finance news dashboard with live sources, bookmarks and a local quick brief.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050a12",
+  "theme_color": "#07111f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
