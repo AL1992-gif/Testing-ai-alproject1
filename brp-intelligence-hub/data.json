@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T19:11:08.041156+00:00",
+  "generatedAt": "2026-07-21T09:41:59.759146+00:00",
   "promotionMethod": "Official Australian brand websites only",
-  "promotionCount": 19,
+  "promotionCount": 17,
   "industryNewsCount": 30,
   "promotions": [
     {
@@ -13,7 +13,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "27974b427e29",
@@ -24,7 +24,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "6ead72e98ae6",
@@ -35,7 +35,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "3e66e88e034a",
@@ -46,7 +46,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "7456a0c4a91b",
@@ -57,7 +57,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "2740bd807e86",
@@ -68,7 +68,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "da41fdf550bc",
@@ -79,7 +79,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "2ef2148c0c60",
@@ -90,7 +90,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "ab858c1c8969",
@@ -101,7 +101,7 @@
       "source": "Yamaha official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00"
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -110,9 +110,9 @@
       "description": "42857,0 12.5,0 C13.4857143,0 14.2857143,0.798214286 14.2857143,1.78571429 L14.2857143,10.7142857 L23.2142857,10.7142857 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/warranty",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -121,9 +121,9 @@
       "description": "57 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/kawasaki-motors-finance",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -132,9 +132,9 @@
       "description": "Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7142857,14.2857143 L7.58928571,14.2857143 L1.78571429,14.2857143 C0.8,14.2857143 0,13.4875 0,12.5 C0,11.5125",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/recalls",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -145,7 +145,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -156,7 +156,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -167,29 +167,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
-    },
-    {
-      "id": "fae7884929dd",
-      "brand": "Kawasaki",
-      "title": "Kawasaki Racing",
-      "description": "RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/purchase-tools/current-offers/1105/get-out--play-more';",
-      "link": "https://www.kawasaki.com.au/en-au/racing",
-      "source": "Kawasaki official website",
-      "promotionType": "Offer",
-      "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
-    },
-    {
-      "id": "ff6d313ef8eb",
-      "brand": "Kawasaki",
-      "title": "Racing News",
-      "description": "ropdown-menu\" aria-labelledby=\"racingDropdown\"> RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/purchase-tools/current-offers/1105/get-out--play-more'; window.location.href = url; } <di",
-      "link": "https://www.kawasaki.com.au/en-au/racing/news",
-      "source": "Kawasaki official website",
-      "promotionType": "Offer",
-      "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "1e965884b849",
@@ -200,7 +178,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     },
     {
       "id": "d5032809602d",
@@ -211,7 +189,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00"
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00"
     }
   ],
   "officialChecks": [
@@ -220,15 +198,15 @@
       "url": "https://www.yamaha-motor.com.au/buying/offers",
       "status": "checked",
       "activeOffers": 9,
-      "checkedAt": "2026-07-20T19:11:02.782076+00:00",
+      "checkedAt": "2026-07-21T09:41:53.049847+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
       "brand": "Kawasaki",
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
-      "activeOffers": 10,
-      "checkedAt": "2026-07-20T19:11:03.855700+00:00",
+      "activeOffers": 8,
+      "checkedAt": "2026-07-21T09:41:54.349567+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -236,7 +214,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-07-20T19:11:04.088907+00:00",
+      "checkedAt": "2026-07-21T09:41:54.967730+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -244,7 +222,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-07-20T19:11:04.658438+00:00",
+      "checkedAt": "2026-07-21T09:41:55.687059+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -258,12 +236,12 @@
       "source": "Market Data Forecast"
     },
     {
-      "id": "74ec738c0df2",
-      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
-      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
-      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Marine Industry News"
+      "id": "a3d40dbe3d21",
+      "title": "Electric Vehicle Sales Review Q3-2025 - PwC",
+      "description": "Electric Vehicle Sales Review Q3-2025 PwC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkw0Y0JpaGtOU0IwQUladXZCUjJrNjlvM2VmMmczdFM5RUdNRUZLbEtHT2J6VVRvYW0tbUlTQ0I0VHdzUWtFNjA1a0p1RjhSSUJzampocGN0WTBmanJJazJxT25jSDNnVS1CV1NZaHpSNEdKbEhLanREMndHTUJCSGJCa1RRMF9pUDEzN1N1bUw4Yld5dXM4bjk1UENQV09TdnN3Yw?oc=5",
+      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "source": "PwC"
     },
     {
       "id": "9028bda0d705",
@@ -272,6 +250,14 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
       "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
       "source": "Watercraft Zone"
+    },
+    {
+      "id": "74ec738c0df2",
+      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
+      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Marine Industry News"
     },
     {
       "id": "c1bf3411cecc",
@@ -298,28 +284,12 @@
       "source": "The Watercraft Journal"
     },
     {
-      "id": "a3d40dbe3d21",
-      "title": "Electric Vehicle Sales Review Q3-2025 - PwC",
-      "description": "Electric Vehicle Sales Review Q3-2025 PwC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkw0Y0JpaGtOU0IwQUladXZCUjJrNjlvM2VmMmczdFM5RUdNRUZLbEtHT2J6VVRvYW0tbUlTQ0I0VHdzUWtFNjA1a0p1RjhSSUJzampocGN0WTBmanJJazJxT25jSDNnVS1CV1NZaHpSNEdKbEhLanREMndHTUJCSGJCa1RRMF9pUDEzN1N1bUw4Yld5dXM4bjk1UENQV09TdnN3Yw?oc=5",
-      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
-      "source": "PwC"
-    },
-    {
       "id": "b6eb5abd72e6",
       "title": "Jet Ski and PWC registration fees in Australia, how every state compares - - Watercraft Zone",
       "description": "Jet Ski and PWC registration fees in Australia, how every state compares - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUo4TjF3d2VINnQ0SWJUeFc4VVFSTUctWm96QlF0LUwyMk9rZVVlaVBvbFRKbFNibVozS0dsOGZSSUl4V2pFdDRqZDE5M3kwamNCc3p4czFuTEQ1aTRkVk5xY24xOUZZWFJVaVlJalBGMkxOcVhfYWRPTEZsRy1hQ05hWW9BYUxweXJUSW1lVVNic2h5alBhWlUxMmtybDMydkxFYg?oc=5",
       "publishedAt": "Sun, 27 Jun 2021 07:00:00 GMT",
       "source": "Watercraft Zone"
-    },
-    {
-      "id": "9b7a8f285d25",
-      "title": "All aboard: Luxury boat builder cracks $300m in sales - The Australian",
-      "description": "All aboard: Luxury boat builder cracks $300m in sales The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVpOMUl0dGFiNkdnS3VGTUNtSTkxRmJVYkd4Nzc4THVwS0lfb3ZRQWpBV3I4TElmRU1Nek0xeGNnS3ZCUVJkN2xXRlBGMTJIc3dOazVEMEtQb0s4dFBqRFhWbVhOajZvLW84SWI3NVhHdXJDTENyQm9HZzcwV3gyRlJzc25VZEFVVHUzZ1NNaUN2SDQzYlhIcGEwNkcxVFdLNDdGaWp5VnpfRlJFMU5LRU1UeXpVYVZmNVpmdnNUUF80aDY3aFJvWDNZOWhrS0MtMno00gHYAUFVX3lxTE9MdkNGbVRjRW9RV2E0QkVUQjNaWEk5TENxRV9tT0dwYmVERVFVX0NkM0ZMZi1pdmlESEV6Z09nR21NOFh3VUp0Z0lPSWdaR3ZzMEY3YThneEpnRFkzNkFiTHlfQktZU1owT0xBV3dsa2xwN1RWT1hyVHh3cGlqZ2diU3ZncHBGTE9aOUc3LWNZV1h4WEpnYlFpOEZiY0cwTEhXNGtMMGVUWUdLeUhKeDJrWnF1MWt5bzdRLTdzbjFOYXpUbVhJcGhfcVM5OFBudkdsbVVfWm44cg?oc=5",
-      "publishedAt": "Wed, 21 Jun 2023 07:00:00 GMT",
-      "source": "The Australian"
     },
     {
       "id": "5f48a61989e1",
@@ -410,6 +380,14 @@
       "source": "Motorcycle & Powersports News"
     },
     {
+      "id": "7a7bff910094",
+      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - Kalkine",
+      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
+      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Kalkine"
+    },
+    {
       "id": "1f0f5673ea3a",
       "title": "Powersports Market Size, Share, Growth, Trends Analysis 2035 - Market Research Future",
       "description": "Powersports Market Size, Share, Growth, Trends Analysis 2035 Market Research Future",
@@ -424,14 +402,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mcmlaS3huamVVbmN6enNxY050ZmdoUFlzZm8za3J0bTlDV254cHU0MGJEMm1lMUl1aW5OMWprc1pBRVhhU25Cbk9uN0Z6bmlCdVJfNTNtdmU0VFd2OEZrQngtRHF2M3otTHhFaXBR?oc=5",
       "publishedAt": "Sat, 13 Jun 2026 07:00:00 GMT",
       "source": "Travel And Tour World"
-    },
-    {
-      "id": "d802a7a4ec86",
-      "title": "Polaris Inc.’s SWOT analysis: stock gains edge as tariffs reshape powersports - Investing.com",
-      "description": "Polaris Inc.’s SWOT analysis: stock gains edge as tariffs reshape powersports Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa2N6S3htOFIyWEJ6TDYtaWxEc3lXanppLUY4X0Foa0ZqRzREczVJdEFnbmhSaDNNZk1Rd1U1aTdGaUJKVU9QSU1fQzB4V0phRm1rODI4djdfWTFydnZ4cW5NRnUxdnFFM1BqZncxTVhjWUh3MkpuSDFxN043VnpNNFJfbjh4enNxQzZFQTZKQzBoNUpjWHBnSE1XcFJTODgwTVY1T2pxNkdYejVlbDJRcDRfejJJU2N4UUo1TUxZMk1COFNKWUhtOU9xZ2U?oc=5",
-      "publishedAt": "Mon, 25 May 2026 07:00:00 GMT",
-      "source": "Investing.com"
     },
     {
       "id": "d94b1eabc6cc",
@@ -466,28 +436,36 @@
       "source": "Global Market Insights Inc."
     },
     {
-      "id": "8182eef25ac7",
-      "title": "Powersports Market Size, Share & Trends | Growth [2034] - Fortune Business Insights",
-      "description": "Powersports Market Size, Share & Trends | Growth [2034] Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ObjF1WW9uYVZuNzZ3SHY1VU44M1BzdmFNeC03MHQyOEU3bkFzME5wT1hyU3JZbmFFUW1NUmhpaFdYZzh3MDJnQTBzTUgybXVJY1FQbjhBTHNlUnBIRjFkS1k0LWhBZXhpeElBZ2NYM3NvMGc?oc=5",
-      "publishedAt": "Wed, 19 May 2021 02:54:37 GMT",
-      "source": "Fortune Business Insights"
-    },
-    {
-      "id": "3541f94277ef",
-      "title": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - - Watercraft Zone",
-      "description": "Sea-Doo boosts discounts, now up to $4500 off – if you own a Yamaha or Kawasaki - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW5jRlhiclpINlJtQjNwaEtrdldmUUtlTVpvM2kyTjRiNHNEajN5ck8zMWdZWGloWS1FRTk2eWE4MTMtNDd4VnZyUXJGVFpVN3pxOWdDTV9OZTBVRnZmNkhrUUdTanBaLTMyNFhhMEUtUW9wTzRJX0lETUx0dnJyc2tkVzc0d1k?oc=5",
-      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "source": "Watercraft Zone"
-    },
-    {
       "id": "8f2f00ed9925",
       "title": "Luxury docks on the Gold Coast as Sanctuary Cove International Boat Show arrives in style - Marine Business News",
       "description": "Luxury docks on the Gold Coast as Sanctuary Cove International Boat Show arrives in style Marine Business News",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnlsbVlIUW5MR2VvdkkxVXA3bXZQZjI4Q2N1cE4xVWtlWnI4VzZvdHljRUs1Z2c1Wm44UHlDaGVrMnRrSHNSNmttSXhuV0lQMTJXQUZyZEZHVFc2MEZqZ0ZvaF9qVlZsSlhUS3FVMTdtOUcyZEhJOGdhZ1Y4c2FnRVJxdkNORjB0bkp6Z2NIV2dfenVsZ1ZzVEpSaHU4bjQxUXpfX2IxU0VEZVV2UF9aQ2FiRzdqRDFtOE9Cdm5YdlNnaDBoMXZLX2hRcjRxSUpJTnc?oc=5",
       "publishedAt": "Thu, 21 May 2026 07:00:00 GMT",
       "source": "Marine Business News"
+    },
+    {
+      "id": "f1d6d3d96a5e",
+      "title": "Informa to launch Australian International Boat Show in Sydney - Marine Industry News",
+      "description": "Informa to launch Australian International Boat Show in Sydney Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2J2d2pkWWxjWUVMdUtrVWdYWlFPOGdlZ1J3VmNEQ2FuT0xrY3ZHb2ZCa2JGdU52d3Z1dnZ5VHhiVEJOXzlWakk5dERJYVk3dXBmdUdqMzZqY3VCU1pNYkNVeGFEcnV0cF8tcG5tQ1l2ak5VZVZZa1JxQkFGT1l0c0JEU2ZYTnRQbUp3UzJiT1U5cWFNT3VjX3lMSUE?oc=5",
+      "publishedAt": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "source": "Marine Industry News"
+    },
+    {
+      "id": "7546aadf14cc",
+      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
+      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "389fd13b4db2",
+      "title": "Caribbean 40F & 27F Flybridge Motor Yachts - Global Launches - Powerboat.World",
+      "description": "Caribbean 40F & 27F Flybridge Motor Yachts - Global Launches Powerboat.World",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmNZU3BSYzdybmtQZUp4SmdKaGZRaGd4TnN3UzM5aGdMQWthSTR2clJFdkhTdmZSODZkSnV4bkpoVHVRbUxsSFZMaHd4UE5TN0pRMDhGUFV3R05kZ2lZc3ktTGhpUFB2US1hNllRcWV6bi1jYmM2SmFxTVVrb2Qtb2lTdjJPOTE4bFB3UGJCVQ?oc=5",
+      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT",
+      "source": "Powerboat.World"
     }
   ]
 }
