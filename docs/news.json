@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-07-27T12:40:46.368477+00:00",
+  "generatedAt": "2026-07-27T18:14:54.990576+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "1a7a713ef0d388b7",
+      "title": "Australian Dollar Price Forecast: Testing 0.7000 as traders await confirmation - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmtRajlNQ21Pd2pSQWloNXQ4LXJmZE1GNFlqdDN2SVl1RW1MY2RuUHNienBDdnVzUk1aRGJ2ZUhlYVJBME1CSElvTU1UMFU1SXZHVTRhQm1oSGdVVTVnZ3ZtOVBiU3Jtb2FMUUNsUEJxZDR3QzZRNTJMME11V2RoOUlKZkRnQnhGbTVwY0tsNEJzMWRLS2ZhSTNEYjNQN1E1LTNVRFNsYk9fQUs4Rk91aVZ5NG45MlhuZ19QT190X2c?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-07-27T16:17:11+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian Dollar Price Forecast: Testing 0.7000 as traders await confirmation FXStreet"
+    },
+    {
+      "id": "07828b7088d590b0",
+      "title": "FLT and CAR Group Limited: 2 ASX shares to dig into - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHVubEstbUJuV2I5em1TeVU4eDBaYWxPX1VCY2xSZUotLS1ndEJuZ2NseGtJU0FPd1NFNzhMaTloSkhkRXBiaGlpemNhVFJuUXNZUDFOOTJJazhrNDZYMWN6aVgyX0p0UFczSFoyYlkxVDJGUEJ6VU93ZWVTaXFpUW9zYmEzcEQzTjNHRGZLRnl4dmYxeXI0SQ?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-07-27T12:32:41+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "FLT and CAR Group Limited: 2 ASX shares to dig into Rask Media"
+    },
     {
       "id": "4105b29a0ba46944",
       "title": "Brambles (ASX:BXB) Gains Momentum: Investors Track Business Model and Industry Outlook - Kalkine",
@@ -21,16 +41,6 @@
       "category": "markets",
       "official": false,
       "description": "Rio Tinto (ASX:RIO) Moves Higher: Commodity Exposure and Global Mining Position Remain in Focus Kalkine"
-    },
-    {
-      "id": "589f7832eef422ac",
-      "title": "Pro Medicus (ASX:PME) Jumps as Investors Assess Healthcare Technology Outlook - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0QyMWpyVXFNdjRGWl9wU24zejhIWG5TVnJ5QUpESDFwVXdXOGIyRTdXemNsQUlwTWhSWHlTNWV4Z25PUmNLVFZUSE42eDk3c3J0S2FYdTFidFZobVoxX1ZiOW94QkNYTFlJS2Fwem5nZE9XTXhhNmI1WFJ4LXlrYjZjTzVoei11aGRfNXp0TkMycGdoUENYMUl4Y0VvdVplYXFRWGtjTXZIZ0ExR01zWjNiUQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-07-27T11:24:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Pro Medicus (ASX:PME) Jumps as Investors Assess Healthcare Technology Outlook Kalkine"
     },
     {
       "id": "f43901dcb34d4aef",
@@ -53,6 +63,16 @@
       "description": "Wesfarmers (ASX:WES) Shares Edge Higher as Investors Track Retail Strength and Market Trends Kalkine"
     },
     {
+      "id": "589f7832eef422ac",
+      "title": "Pro Medicus (ASX:PME) Jumps as Investors Assess Healthcare Technology Outlook - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0QyMWpyVXFNdjRGWl9wU24zejhIWG5TVnJ5QUpESDFwVXdXOGIyRTdXemNsQUlwTWhSWHlTNWV4Z25PUmNLVFZUSE42eDk3c3J0S2FYdTFidFZobVoxX1ZiOW94QkNYTFlJS2Fwem5nZE9XTXhhNmI1WFJ4LXlrYjZjTzVoei11aGRfNXp0TkMycGdoUENYMUl4Y0VvdVplYXFRWGtjTXZIZ0ExR01zWjNiUQ?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-07-27T11:24:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Pro Medicus (ASX:PME) Jumps as Investors Assess Healthcare Technology Outlook Kalkine"
+    },
+    {
       "id": "14968ef70c79d862",
       "title": "REA Group (ASX:REA) Jumps as Investors Monitor Online Property Market Position and Growth Drivers - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmp6cDdyeXVVYmptd3BSVUEweDZpMVZtVlltY0RxczRuVk5VUVlSYXRvZEtRZUVNdk1KaFFDVzdfRmI1dVZCb1lYWnlRV0ZuQXU3RlpudkpvaWZ0YXpsa3hIR0Y0R2t5eFlvWFhBTFdLRU5qb3RhSU52QUdXQ2VsLVJ3ZF81SDNFdFpUX2U3VHlLd2YwTlE0WW5oWVRWejZHbER1T01IdmlXM25ZLWhyaldCNW1VdUNUYTI3TUk5Mmk5ZkswdTVCNEgwaw?oc=5",
@@ -63,24 +83,34 @@
       "description": "REA Group (ASX:REA) Jumps as Investors Monitor Online Property Market Position and Growth Drivers Kalkine"
     },
     {
-      "id": "04bb4aa8f1b981e8",
-      "title": "4DMedical (ASX: 4DX) Highlights US Veterans Bill as Lung Imaging Expansion Gains Momentum - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVRvQm50MUwwdTlmX0FmZnpFREEwN1NGOXVfRThZSzJEZGp6aUM3NkpWRFZ2QnUxZ0ZmTFAxelpYeUpzSFRETlpycU1LUjZxZWExQktFa2huMmVoVVJ0UTA4OGgzU203cDl2dHZoNDloUDNrUXdINDJIR2RZX0xuQlBtaF96ZEJiSzdZR2pDczY0SHlhSHo5Y2ZSNnltc1NpSkFmY3hJVnJFNUotbGJXRmszcks3Y2diWUw5WXMtQnhfWXM?oc=5",
+      "id": "b02ea3ae56da1aed",
+      "title": "Coles Group (ASX:COL) Moves Higher: Can Consumer Staples Momentum Continue? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJrN1BISzJmT0FFT0RPdHRQSDF5NjF6d3BkT2tJTUdianBFWUthUFlxMS1kYUt6RkFRX1FfdlFQZTQ1RkdNN3lienRJLTRESDQzdFlKU0FNNmhka1RjM080Ul95eU5BNXhlV3BCZjRvcEVHMlNNNFJLNllqbVgxbUE1ZWw5aDJDbjljX0tLYmZ5TkFZbmJ6TXJYdW9jNEpJV1RtMnBSdnhldjA?oc=5",
       "source": "Kalkine",
-      "publishedAt": "2026-07-27T11:03:00+00:00",
+      "publishedAt": "2026-07-27T11:23:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "4DMedical (ASX: 4DX) Highlights US Veterans Bill as Lung Imaging Expansion Gains Momentum Kalkine"
+      "description": "Coles Group (ASX:COL) Moves Higher: Can Consumer Staples Momentum Continue? Kalkine"
     },
     {
-      "id": "70fba35b2b5f2e90",
-      "title": "Oneview Healthcare (ASX:ONE) Shares Slide as Its Epic MyChart Bedside Hub Waits for a First Contract - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHhvSU5WSEpSUlNvUjUyazlwSnNoaXk5YlFlRUtRM0hFd01oVkU0MjRXaGlEOWJQUHZleXAzS3lWbW9FZG94MEQtd0pycmhpSUw2WW5wcHhRM2poUUFxWVA0LVhEOENtVGJtYTI1MGdVVE1JUERBWDR6akFNdjBfODNyZW9FY2c3ZW8yNVVoZWtsZXdTeE90bURuakhtRDVGOGRIQXNHX0htcllTRy1BS3dGdmFLNGtLZXJHSVFILVlGc0IxY29fc0gtWW1EbEZDWHc?oc=5",
+      "id": "c4c5229ee02f960e",
+      "title": "BHP Group (ASX:BHP) Jumps Again: Is Global Resources Demand Supporting Market Sentiment? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2VuM0V3SzNsYmZSMmxtdGhDMUNYY1N2RUpael9FdVRLOE5Lc3d3YlpKWHdhZE5oNnQ0dFI0Qk40SmFVSl9sSjY4dld5ZnAxbk9tUWJqRjZMRy1kWkk4cWhmZVJGSDlYd01UYXlfQlFpek1HSkRIV1E5UkYtR2xKNm5POUlYYkk0YnpncHdsUk95UE9KY3pUV1k0TTcwWVN2ZFlsdTBJWS1NMXBsT0MwdHdHRzhZTkVHT0E?oc=5",
       "source": "Kalkine",
-      "publishedAt": "2026-07-27T10:51:00+00:00",
+      "publishedAt": "2026-07-27T11:22:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Oneview Healthcare (ASX:ONE) Shares Slide as Its Epic MyChart Bedside Hub Waits for a First Contract Kalkine"
+      "description": "BHP Group (ASX:BHP) Jumps Again: Is Global Resources Demand Supporting Market Sentiment? Kalkine"
+    },
+    {
+      "id": "21c877dee7ee5d64",
+      "title": "Australian Dollar advances to 0.7000 as Middle East de-escalation weighs on the USD - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdl9FSFZrajJrTHZSTTItUWtZc01KSThPbTZ6eGc3cmNLckhiUHU1TFFpMWFTTHFXSzhaYWdLdjJ3Q2xvcUMtWWFvZnpsbjFsMmVxcXQ0VENocFU0V1ZXWFlKN1A5NzZUaFVKd1ItNmlCWXppQVp0VFdkQXBrWTc1UTN6YldPY0lELTRXRjBsWFAzSHpxcS01SHBRMzBVV19CVF9udVU4c0ducWdWdW5zS1hEN0hPV05NenhrMkpVZC1teXc?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-07-27T10:31:03+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian Dollar advances to 0.7000 as Middle East de-escalation weighs on the USD FXStreet"
     },
     {
       "id": "740b5fd31d163806",
@@ -93,16 +123,6 @@
       "description": "Intelligent Monitoring Group (ASX:IMB) Agrees £180 Million ADT UK Acquisition to Expand Recurring Revenue Base Kalkine"
     },
     {
-      "id": "4a659be500c66a91",
-      "title": "Orbital Corporation (ASX:OEC) Achieves AiRanger First Flight and Secures Follow-On Engine Order - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEhxRDdwb21FdVJBbFgyRWNkajhlck45WENlU2o5bFIwN0JCT1JUS2pBZTk3eGNTeFpIb1prbGNudFB0a216UExDalVQUWJ4NkZXZzJPN2RSeDVNdUxUYngwVUZDZFZzZlhxcXF5a2FZenlGYUUwYndmZTc5clFRTEVVa0hJS2dnMVY0UGpLVDBSUURsVnFsWnlFYUFMWm9CX3h0YTg1LXJ2TTFzMS1ndXYwZmJYb0J6SXVIc0hLbHVrckRRUUxnQVBGS1g?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-07-27T10:27:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Orbital Corporation (ASX:OEC) Achieves AiRanger First Flight and Secures Follow-On Engine Order Kalkine"
-    },
-    {
       "id": "735097a717f75878",
       "title": "Acrow (ASX:ACF) Raises A$86 Million as Oversubscribed SPP Supports Acquisitions and Debt Reduction - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWk3LWFOdW1vendrNWZmVzFqZmphdnhlUS1FNEstdW9qWDVySE45U3V3bUVWcU1xX1lEQm9RU0puSFhYVkhFVDdsS01tZ3ctUVlwUlVYRE54ZkpBUVl4OWRuVGxidkMyNEVjenJQOHlLN2oyOW9ZRkRtZDE3TGxDTmdSWEpSaWp2TmdYOWZPNF90WXJlektqNUJpZ0FxQ3hvSGhuN0ZZeUZsUVFiMEFqMjdrc0JPTGt2T28tTlhDWkg5RlM2TlBhb3U5aDVNbjg?oc=5",
@@ -113,14 +133,14 @@
       "description": "Acrow (ASX:ACF) Raises A$86 Million as Oversubscribed SPP Supports Acquisitions and Debt Reduction Kalkine"
     },
     {
-      "id": "b81ae8666ec98ade",
-      "title": "Hazer Group (ASX: HZR) Advances Graphite Technology With Purity Milestone - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1FUMUQ0WEhqU2VyeDBpdVFMWEdOSnI4eUtYVHR0YUs4SFplS1ZJbXNLSnRLWU5wVEZBQThiWEQ5QXpHcndSQ3B2eEloUWhjblYtWmR2eS1VSWNOU1ZVQ1pDUG9EVEZFZ0thekJQaFQ1eHVBZU5UelJ5Vlp3VFRVczdLd3dwTUJsTDctbkRRMk9MWG9GbnNCaUZwSXQzZnhZakQ5d3ZSWFc?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-07-27T09:47:00+00:00",
+      "id": "13ea308bfbf3d2bb",
+      "title": "2 tools to value the Bank of Queensland Limited (ASX: BOQ) share price - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3gxRnRhcnVHY1RINWtkX2Z3eFBITGNZQmxWU1poU0RGMkQxc01GeHptWmU1YW1GLTVRUGxWYXJ0Q1FqR2EwZUdPcHZaXzZUeWY3ZVg3NHdXSmQ5NHZzc2J0ZktuRDQ1d2gtMk45Q0VPUnJieUZPdngzdFJQUGg2TnFXSzRubTFDaXJERmNZcjBlazhPcTducDhUcktfTDBnQUs2dmFXWkM0akNmTlFGSA?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-07-27T09:43:12+00:00",
       "category": "markets",
       "official": false,
-      "description": "Hazer Group (ASX: HZR) Advances Graphite Technology With Purity Milestone Kalkine"
+      "description": "2 tools to value the Bank of Queensland Limited (ASX: BOQ) share price Rask Media"
     },
     {
       "id": "ab7424266e295ba2",
@@ -133,14 +153,14 @@
       "description": "Evening Wrap: ASX 200 soars as oil price collapses, gold, mining and technology best as STO, WDS slump Market Index"
     },
     {
-      "id": "a65aa251ba2f9134",
-      "title": "EDU Holdings (ASX:EDU) Guides First-Half Revenue Around 48% Higher - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbW5hZmtNd3JXSUp6Mm9mWXJ1MDhnWFpMRU1od2lXbXZGdDhkSTAxR2d1UWxFZDc3eDBXdVE1dFl6Wnlpb25GSi1aSk1WMTJmWnFocFduMEhyXzBidTdwdU1EU2g5RkctNHpFTnBTcDlhNjVReDZpQnRsOE1Ba3pPUmhFSmdac3o0bTRwN0xTVzFTdWhKODhIMnZJbDZTN3NZX1VQWU9R?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-07-27T07:49:00+00:00",
-      "category": "markets",
+      "id": "a0b966add777790e",
+      "title": "ASX ends higher as gold and tech stocks rally; Myer slides on profit warning - Capital Brief",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTlJ2NDJDMW84cWFYMUpMSlZzR1NpV00yY2owdlNwa2lzMjF2ckNmRXVBTU81SnBXNVRCcHZMLUs3a0lwRXBaaEZZcUlrdGl0OU5PbkRGc2pSNHUtRmZ4OGNQdDRJdjdWdDNtMWtXaDlnWGxVYnhuZDVlWW1iQl9DSEU3M2xnZXctelZVMXE3ZUVRRW5pVC1FZ3hyOHNkd09adTc0LWs0X2YyZjRvVWlIR3NOLXYyUVp1YkVRbmtsdXVKZlVlMnZ5TlNjdGxDdjdMbkQtdEQ5NDQxcWRYVjFCVFpsN0xadWh4SzY3UzBPby1EMTdpLTdj?oc=5",
+      "source": "Capital Brief",
+      "publishedAt": "2026-07-27T07:20:00+00:00",
+      "category": "companies",
       "official": false,
-      "description": "EDU Holdings (ASX:EDU) Guides First-Half Revenue Around 48% Higher Kalkine"
+      "description": "ASX ends higher as gold and tech stocks rally; Myer slides on profit warning Capital Brief"
     },
     {
       "id": "89360e3e9b3fab61",
@@ -333,16 +353,6 @@
       "description": "Why Is Bank of Queensland (ASX:BOQ) Back on Investors' Watchlists? Kalkine Media"
     },
     {
-      "id": "67e3439cd92ca2fd",
-      "title": "3 Australian Stocks With Strong Balance Sheets Trading Below Fair Value - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmdneGJMZDRaa3lGLW15cjZwNUVRd1ZaT3puMEtZaWFJYnJCVVcyaFpQalFWWXM5ak1mZkNLOWg5VVhBb2dQOXN2UDNVVGlyY1oxNzVhSG9lN2xfb1FWLTBackxrV0VxVE1SUlozd1hMbXFMNF9YUFhYZFh6dk9ZaWRmQmRUV2xwOHZjMUVnWEUzQ2VJZTJkRzVSNGNQZHFtaHltS0F0anZ3SkJLT3QxU1Vvb2hueVV1a3RDQnB5ODlKZWtOdXFyZG5LeUh3eEoxckZJY1N5Sm1wd2pEbEtrSExGQTJqV1NKQW9xcVB5Z0Rjd9IB9wFBVV95cUxOME90bU5XcG9Bd0xOQk1uRDFyU3kza08yRjhWcEpHZ0FydGlObW5ZMlJmSTEtWU5DLWdCdkhPLVFmM2J3c3MwblRHWGFnUE83cm9ka3lpdU9Ddi15MUpWbGYzNll0ZjRKQ3Nab01Ldkg0dU1pREpxQlJSTjY2T3ZUazhwbWRUNVBqdzRaMnVFdGkxbnd5ME5TN1NmU0kydDJwQTAtdlBkZm9IeXlvV0xHSWg1eXpMSFpScE9md21mZ19qNmVTSDBhbGljMUpRdFVQZVlpSVdRa0JTb2c0dmVIUVVOUzJnNnhkdnBwT0hSb3QwbEFNZEZB?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-07-27T01:06:03+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "3 Australian Stocks With Strong Balance Sheets Trading Below Fair Value simplywall.st"
-    },
-    {
       "id": "d4a1321fa065bb5c",
       "title": "Morning Feed: What’s cooking on the ASX? - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZHJnYzJDb2JIcUNyM2JhQWZic2xGR2dCTmVVbTVxMDc0ZWZXclJEcTZpVnlzV3NKdWRKdG1RTjhPM2RLX1ltNTl1dUxIMFBnZ2RyQjZNSWxNR0s3djJGM3preGN1WGhmcWVBLTlCZk9VbFZlcXFqMmhlMA?oc=5",
@@ -391,16 +401,6 @@
       "category": "companies",
       "official": false,
       "description": "AFIC profit rises, dividend steady as portfolio underperforms ASX 200 The Motley Fool Australia"
-    },
-    {
-      "id": "87c06216a859896a",
-      "title": "Geoff Wilson’s WAM Income Maximiser launches $151m raising - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjdKNjJoVmxXUkRyS005QVZsMm5jZ04zSW1GVENTX0ljbEp1c2lYYVlYMnVoSmVRWm1ENFR3NnYxUW1OcXJ1ZTgwZV81ZmNqRFc4LWpHTW5mMEJ4ckZ1RE1fN1d2NTJ2ZzNMSjd0NW81dVFYLTY2YnpCVjNTcGlRYlhCX3RlWS1HSjVWNVczdWVTcmxUT3lTR2Y1X3NYYXFNam1pcV96Sko?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-26T23:09:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Geoff Wilson’s WAM Income Maximiser launches $151m raising AFR"
     },
     {
       "id": "a3c6407576710bec",
@@ -458,7 +458,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlFZcTE4aENYNVlZSVRUVnFoaFROQnR2OFJvSUVzSExZRFpGbHZLSXhMSVJ1aUthZjR6SlRvYXotSWtNdmIwLWF0OFBXQ0lVdkxFLVd0QWhnVlk0NXJZekhhaWhyOVlfbWJUdkdZa2w3THFHOEhfVGppWmNZSXdsdUFiTFpxV3JOaXpkb3Jkc3hQSzROSGFDa0FhaHJhbWJUN1Y0OVI1QURlTUVGdG0zakNfcXd4M00?oc=5",
       "source": "Nine.com.au",
       "publishedAt": "2026-07-26T04:12:31+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
       "description": "Staggering amount of Aussies may be forced to sell homes if RBA hikes rates next month Nine.com.au"
     },
@@ -553,6 +553,16 @@
       "description": "Grim reality of house price fall exposed News.com.au"
     },
     {
+      "id": "8117c3998e8547bb",
+      "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenZEc2ROTmRUWEd3ck1qa3VCOE1QcGN1X0dKZEE2Xy0wWEFDVlo2REtiQWxLSFBXcE9UR0pLaHY1S1NHSmJpT1o4SGFnS1drXzdzaVNaMmxlZkItQUcxT3VFYXJnLVBNc2VpMExFaXpJYnN5aXlOeDhJUnAyb2E1SnRmQUdoX1BiQzl5ekN5bTU4Mm1GNWdaZWlKd18tbTNzRkJncnBJMmthSTN3amtXT25aTC1fQkZwRHROb0dMWGRjNlE?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-25T02:31:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre The Guardian"
+    },
+    {
       "id": "192413926867d30d",
       "title": "3 Australian AI Stocks With Profit Growth And Reasonable Valuations - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHBoMVhlTnBrMXVPSFMwTTVBaWtCdndDMGdoeWlvUm55TlM2OVhPTV8xRS1ySDE1TzZKeGtudWlfRjZHcFk5SDNQeWt2VmdXRlFLNmFaWjR1azFQbG9FMVpHRmJ5NGRLTFI5RjdXSUFscnhBQ1EwNkdFVmJSQUQ5V0dZeGpaMEs1UmJzLTFsNjBKcllEWlhQamhuMF9BT0cwQjBkU0liLXpmbm42d2RDUGM1ZWwyMTJzaXdBcmJVOGgtYTI4M29UR2N30gHPAUFVX3lxTE1NdExfVE1BVi1Ub01nZVdsQnRzQUtaUlBFbVIzVWhOa0NMZVJEZ2Q2VEEyU1pxT0lET1VSSW5UQ1Nwc2d1RWQ0VV94Ynd4dllxMHhudkp0eldQUVp6TE0tay02TW9STy1BaHJYZ2pFM3FYOHc2TU1BR0Z1UW9FdjY2QnhvQ2txYWNvZ0FBRjVGUHBBOWVtTkROOEFVUzhEdHhxUnMtLWJ4RWxhbXRBU29rSnJDNnplYUpMc0pRWXo3QXhTXzM3RlBGNlZMWjhvNA?oc=5",
@@ -563,16 +573,6 @@
       "description": "3 Australian AI Stocks With Profit Growth And Reasonable Valuations simplywall.st"
     },
     {
-      "id": "1e00682d0e6367f5",
-      "title": "Amidst the turmoil, buyers in some markets are stirring again - Australian Property Investor Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0hZV2RXZERLUkxkN0NyeU13ZU0yWTJncHdqMk40UzBORDNkSVViVjZzakwxd0lTMktrZS1IMEE1NGZtczM1OXJlMjJPUXJBLUVhcmlZVHJfMTZfd3dONnJNTC1WN3AtOUNoUlB2VjRVTlUtcDk1VTNFY0w4UGdnaTFxU2tibVk2cVp5LWY5Wm1SLUJxcmZ2dVVSWDdjRDl6RTlER2FDTQ?oc=5",
-      "source": "Australian Property Investor Magazine",
-      "publishedAt": "2026-07-24T20:44:44+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Amidst the turmoil, buyers in some markets are stirring again Australian Property Investor Magazine"
-    },
-    {
       "id": "9c8d6687f1c644d0",
       "title": "Why insurance brokers should ignore falling house prices - Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9tdHgtRGpMVkE0SGNnMTJGY1JXeW04TkoyUzNhcF9hWTRWb296WkU4b3dtOVBvZzRFR0FwRV9rMUFUOWlfdEtVUlY4R1NWbXRHR2VsamRiU1Q4MngwLTFOTDhmQUpoem1LQ2ZXcGsyVUp0YUJoV3RrT2RJb0JNbDd1LTRVNGVLWDM5RFl6ZlJpZGt4bk1oX1hjTFc0Mk5hN2E4cC1mYmRrTkh1NEpaVXBzSWhIM3dybWRzaDNNUQ?oc=5",
@@ -581,16 +581,6 @@
       "category": "housing",
       "official": false,
       "description": "Why insurance brokers should ignore falling house prices Insurance Business"
-    },
-    {
-      "id": "7787b5182710d4f4",
-      "title": "Panic grips property industry as prices decline - MacroBusiness",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWc3N3huSDJiMXMzUld5UFlSZWJRU1hEZ0p1dk5wczVRX3BoSUVWMXJ5TzJ4R3BNUXdKVHo2Z0VyNW9SWVFwOE05a25xX0xiM08tZk93X0dXaWhsSkdVb1ZWN0czZFFWMWRHZS1fVnBMUHgwZHJNb19XY0hhdnp3SWt6OUxwdHZjRkN4V1V0Qzl2WGc?oc=5",
-      "source": "MacroBusiness",
-      "publishedAt": "2026-07-24T03:00:41+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Panic grips property industry as prices decline MacroBusiness"
     },
     {
       "id": "ce890f01b7eebf77",
@@ -901,6 +891,16 @@
       "category": "economy",
       "official": false,
       "description": "RBA interest rate hike warning for Aussie mortgage holders: 'Do not rule out' Yahoo Finance Australia"
+    },
+    {
+      "id": "c8b8b186170d5377",
+      "title": "Our Plan to Put Australians First - Liberal Party of Australia",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucjZSY1NtSTZmUE5zNld1X0xfemRDQng1WjctcGpLYUx3SWlZTEkwQk1ycFZvNk1ZbzByRVZhYTZXMlA0MElyVDJodXF1cGM4RDJqNUVydlZqZ1k?oc=5",
+      "source": "Liberal Party of Australia",
+      "publishedAt": "2026-07-21T22:54:09+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Our Plan to Put Australians First Liberal Party of Australia"
     }
   ]
 }
