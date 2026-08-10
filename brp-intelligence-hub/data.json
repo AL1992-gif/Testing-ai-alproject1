@@ -1,9 +1,108 @@
 {
-  "generatedAt": "2026-08-10T05:51:50.126855+00:00",
+  "generatedAt": "2026-08-10T10:45:31.829828+00:00",
   "promotionMethod": "Official Australian brand websites only",
-  "promotionCount": 8,
+  "promotionCount": 17,
   "industryNewsCount": 30,
   "promotions": [
+    {
+      "id": "e9532b4d2742",
+      "brand": "Yamaha",
+      "title": "Road",
+      "description": "class=\"\"> Buying Offers Filter by: All Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance <a href=\"/buying/of",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dRoad",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "27974b427e29",
+      "brand": "Yamaha",
+      "title": "Off-Road",
+      "description": "i> Offers Filter by: All Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike <div class",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dOff-Road",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "6ead72e98ae6",
+      "brand": "Yamaha",
+      "title": "ATV/ROV",
+      "description": "s\">Offers Filter by: All Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike <a",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dATV%2band%2bROV",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "3e66e88e034a",
+      "brand": "Yamaha",
+      "title": "Outboard",
+      "description": "> Filter by: All Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike Offers",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dOutboard",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "7456a0c4a91b",
+      "brand": "Yamaha",
+      "title": "Watercraft",
+      "description": "> Filter by: All Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike Offers <div class=\"formGro",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dWatercraft",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "2740bd807e86",
+      "brand": "Yamaha",
+      "title": "Golf",
+      "description": "=\"\"> Road Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike Offers Filter by <select class=\"form-control sele",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dGolf",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "da41fdf550bc",
+      "brand": "Yamaha",
+      "title": "Power",
+      "description": "=\"\"> Off-Road ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike Offers Filter by <option data-url=\"/buying/offers?f=category%3d\"",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dPower",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "2ef2148c0c60",
+      "brand": "Yamaha",
+      "title": "Finance",
+      "description": "class=\"\"> ATV/ROV Outboard Watercraft Sky Golf Power Finance e-Bike Offers Filter by All <option data-url=\"/buying/offers?f=category%3dRoad\"",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3dFinance",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
+    {
+      "id": "ab858c1c8969",
+      "brand": "Yamaha",
+      "title": "e-Bike",
+      "description": "Outboard Watercraft Sky Golf Power Finance e-Bike Offers Filter by All Road",
+      "link": "https://www.yamaha-motor.com.au/buying/offers?f=category%3de-Bike",
+      "source": "Yamaha official website",
+      "promotionType": "Finance",
+      "verified": true,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00"
+    },
     {
       "id": "98f3d41faa3d",
       "brand": "Kawasaki",
@@ -13,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -24,7 +123,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -35,7 +134,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -46,7 +145,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -57,7 +156,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -68,7 +167,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "1e965884b849",
@@ -79,7 +178,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     },
     {
       "id": "d5032809602d",
@@ -90,24 +189,24 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00"
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00"
     }
   ],
   "officialChecks": [
     {
       "brand": "Yamaha",
       "url": "https://www.yamaha-motor.com.au/buying/offers",
-      "status": "unavailable",
-      "activeOffers": 0,
-      "checkedAt": "2026-08-10T05:51:20.555127+00:00",
-      "note": "Official page could not be verified automatically: TimeoutError"
+      "status": "checked",
+      "activeOffers": 9,
+      "checkedAt": "2026-08-10T10:45:27.013408+00:00",
+      "note": "Official website checked. Only explicit offers are shown."
     },
     {
       "brand": "Kawasaki",
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-08-10T05:51:45.665456+00:00",
+      "checkedAt": "2026-08-10T10:45:27.773571+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -115,7 +214,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-08-10T05:51:46.016945+00:00",
+      "checkedAt": "2026-08-10T10:45:27.844849+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -123,18 +222,18 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-08-10T05:51:46.805684+00:00",
+      "checkedAt": "2026-08-10T10:45:28.266715+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
   "industryNews": [
     {
-      "id": "8b51eacb874f",
-      "title": "Boating industry launches Jet Ski safety campaign, calls for tougher enforcement - - Watercraft Zone",
-      "description": "Boating industry launches Jet Ski safety campaign, calls for tougher enforcement - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZxZkc5M1hnbng1THhWcGVyNWNmWkdTSHRsM09LRmZhVnFGdjlSbzliNWlFd0JMNjZFNVJKeHBBSEhMemkyWkppSFFDbDNQYUh6bURiS2pRSDl6am9CdFZYMkVtOU5NNmRoVVZxTGhaWHpnRkJpZ0VrZ3FyWHZWSFg5dE1qaUhSRzFwWUxMOG52dVVHLUdPaUVES0o0cHAwYzJEVUVCMEYxdw?oc=5",
-      "publishedAt": "Sat, 20 Dec 2025 08:00:00 GMT",
-      "source": "Watercraft Zone"
+      "id": "ef39e069bdfd",
+      "title": "Australia's A$10.5bn boating market holds firm as Sydney exhibitors report confidence returning - Marine Industry News",
+      "description": "Australia's A$10.5bn boating market holds firm as Sydney exhibitors report confidence returning Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnA4NWc2RU52WnlBLU1GY05SZFQ5aDlTemFVSm5USW5OekdFdWZyZURETnRQamlyc0lTMThfQ0VKNms2SkJfdFhrdFFfNE0tQlBwRUpQVS16czhJSTQyWFhwSzRZTU9OMEtOM2hFYWVWSFd6NW5ob2NKWkE5anZYMGtqakNvRWZYVk8zX3lwTTY4d1pOOUJwcFBhUUc2Vk1qOFNSRUthZm9mbU9yaU1EbGs4UlM1b1Z6cHVqYTgxd1hMeUcxdHc?oc=5",
+      "publishedAt": "Mon, 10 Aug 2026 10:30:00 GMT",
+      "source": "Marine Industry News"
     },
     {
       "id": "682fae9b4419",
@@ -145,20 +244,20 @@
       "source": "Market Data Forecast"
     },
     {
+      "id": "8b51eacb874f",
+      "title": "Boating industry launches Jet Ski safety campaign, calls for tougher enforcement - - Watercraft Zone",
+      "description": "Boating industry launches Jet Ski safety campaign, calls for tougher enforcement - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZxZkc5M1hnbng1THhWcGVyNWNmWkdTSHRsM09LRmZhVnFGdjlSbzliNWlFd0JMNjZFNVJKeHBBSEhMemkyWkppSFFDbDNQYUh6bURiS2pRSDl6am9CdFZYMkVtOU5NNmRoVVZxTGhaWHpnRkJpZ0VrZ3FyWHZWSFg5dE1qaUhSRzFwWUxMOG52dVVHLUdPaUVES0o0cHAwYzJEVUVCMEYxdw?oc=5",
+      "publishedAt": "Sat, 20 Dec 2025 08:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
       "id": "74ec738c0df2",
       "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
       "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
       "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
       "source": "Marine Industry News"
-    },
-    {
-      "id": "4a47dcd192cb",
-      "title": "Electric Vehicle Sales Review Q3-2025 - strategyand.pwc.com",
-      "description": "Electric Vehicle Sales Review Q3-2025 strategyand.pwc.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkw0Y0JpaGtOU0IwQUladXZCUjJrNjlvM2VmMmczdFM5RUdNRUZLbEtHT2J6VVRvYW0tbUlTQ0I0VHdzUWtFNjA1a0p1RjhSSUJzampocGN0WTBmanJJazJxT25jSDNnVS1CV1NZaHpSNEdKbEhLanREMndHTUJCSGJCa1RRMF9pUDEzN1N1bUw4Yld5dXM4bjk1UENQV09TdnN3Yw?oc=5",
-      "publishedAt": "Wed, 29 Oct 2025 07:00:00 GMT",
-      "source": "strategyand.pwc.com"
     },
     {
       "id": "da547aeffa3e",
@@ -233,12 +332,12 @@
       "source": "Marine Business News"
     },
     {
-      "id": "4dbb516bb3e2",
-      "title": "West Coast Motorcycles wins Honda dealer of the year award - MCNews",
-      "description": "West Coast Motorcycles wins Honda dealer of the year award MCNews",
+      "id": "910d2766a23e",
+      "title": "West Coast Motorcycles wins Honda dealer of the year award - mcnews.com.au",
+      "description": "West Coast Motorcycles wins Honda dealer of the year award mcnews.com.au",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CS3hUZU9OYzlWVU1UQnFlMzA1VkR1dDVNZjlOY2V6Z2pmeEk0am1DSjhub2s4VEF2cFdDWk5WTW9TcFppanQ1UXFXT2hheEVCMEM4WmI0eE9pVjVpcXY2Y1IxNy0xekd1SHhEOHpzUGc?oc=5",
       "publishedAt": "Fri, 19 Apr 2024 07:00:00 GMT",
-      "source": "MCNews"
+      "source": "mcnews.com.au"
     },
     {
       "id": "37ca9b6a5a44",
@@ -249,12 +348,12 @@
       "source": "Watercraft Zone"
     },
     {
-      "id": "07f66447571f",
-      "title": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart - MCNews",
-      "description": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart MCNews",
+      "id": "104b35ec1470",
+      "title": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart - mcnews.com.au",
+      "description": "80th Anniversary of Pitmans Motorcycles - A history of Australian motorcycle industry stalwart mcnews.com.au",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1RST3RXTHN3cjEwTUxMTUZkZ0c1R0pVUnZuTTBiYThiNmYyZ0w0TDh3SlludU1DUVpydktST0syVUF6M282bTFMQzJkWlZnNG5MRFdsaFRXMkR4NzZPWmZfZVJJTjlrS2dpdy1sQ2lNcE9hVU01ZlBkYi1wRENQbTA2aGthTDNUd25RUmo2WFRQdW9fejA2TUpFMEZ0YWxhVlJmaVFFQ3JqQnBzS3FTU2hrNVFIM2l4Rl84?oc=5",
       "publishedAt": "Fri, 14 Feb 2025 08:00:00 GMT",
-      "source": "MCNews"
+      "source": "mcnews.com.au"
     },
     {
       "id": "88941e7d3735",
@@ -305,12 +404,20 @@
       "source": "MarketsandMarkets"
     },
     {
-      "id": "e0164abbff18",
-      "title": "Motorbike sales jump - premium.goauto.com.au",
-      "description": "Motorbike sales jump premium.goauto.com.au",
+      "id": "54af9cbd59b4",
+      "title": "Pre-Owned RV Market Remains Strong, NPA Reports - RV PRO",
+      "description": "Pre-Owned RV Market Remains Strong, NPA Reports RV PRO",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMVlKWGVRVm5FTWVjV2NBdEd0akxZa2pkam9LbVFncWtLYXNhbWNyZlc0RXc2a3NkdGx0aGZHTmx3YnVoaFNDQmYxbnptUzg4ZTBILVJlM0k5bHBVMlJNMDc3SjJhN192eWJDTFpvdWt0TDFsVWxheGpSNA?oc=5",
+      "publishedAt": "Fri, 07 Aug 2026 17:32:38 GMT",
+      "source": "RV PRO"
+    },
+    {
+      "id": "d84e6706ee3f",
+      "title": "Motorbike sales jump - GoAutoNews Premium",
+      "description": "Motorbike sales jump GoAutoNews Premium",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FVzRVekJjQmxyb0cwWmMwMlBGX1RlTmM5V0RQaUpyLTVHeWNWak9ISV9DX04zOHdqRzlSMU1KZ3NpZlFDZGFnMWJMYlc2Z0d4MzcxLUZZRmRxUHZWWTBZYg?oc=5",
       "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
-      "source": "premium.goauto.com.au"
+      "source": "GoAutoNews Premium"
     },
     {
       "id": "529005c88350",
@@ -321,20 +428,12 @@
       "source": "RV PRO"
     },
     {
-      "id": "54af9cbd59b4",
-      "title": "Pre-Owned RV Market Remains Strong, NPA Reports - RV PRO",
-      "description": "Pre-Owned RV Market Remains Strong, NPA Reports RV PRO",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMVlKWGVRVm5FTWVjV2NBdEd0akxZa2pkam9LbVFncWtLYXNhbWNyZlc0RXc2a3NkdGx0aGZHTmx3YnVoaFNDQmYxbnptUzg4ZTBILVJlM0k5bHBVMlJNMDc3SjJhN192eWJDTFpvdWt0TDFsVWxheGpSNA?oc=5",
-      "publishedAt": "Fri, 07 Aug 2026 17:32:38 GMT",
-      "source": "RV PRO"
-    },
-    {
-      "id": "9a94aac75203",
-      "title": "Powersports Market Size, Share | CAGR of 7.3% - Market.us",
-      "description": "Powersports Market Size, Share | CAGR of 7.3% Market.us",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnMVpxbXJXVnVoVmoxMUZIeXA2czBKQ1ZSYVNSQlY0TDRUSDRvMGc3SU92a1lhaUhWU1hGN21Hb0hVZ2hqaFlvSTluNmo4VWdnS29BX2RuMA?oc=5",
-      "publishedAt": "Tue, 16 Dec 2025 06:08:59 GMT",
-      "source": "Market.us"
+      "id": "2534397a9bee",
+      "title": "2026 SEMA Show To Add Dedicated Powersports Section | THE SHOP - theshopmag.com",
+      "description": "2026 SEMA Show To Add Dedicated Powersports Section | THE SHOP theshopmag.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JRzhSdWs2RWkwX1dOTnNpdzVDUURZeUNXd2ZFUlFGOVFTRWZPczM2VkhuZVQ2TGNXQUpTejBJa3RnNjh5SU1QdTctS1VvV0FPc1VWcV9tQ2ZXcXBNWkotSFJJTjJYcWJLOGdrNmFLVUVjQTZzV290c05sc1piQdIBhgFBVV95cUxNZFdNX3VONExVaVluVEJXSWF6V1hJemxFaDBTQ2taTjFGLWtaUVpMcG0yQncyYzhhZ3Zxa0JxVjZiOXhuWnRDcE5KcnJEUXpDbDNPWjNEdGROZk12ZkFSWHlVSFNndmVsenEwM1kwdGZObmV4VXJiaDdVTmhjQ0RqdUw3VVdQQQ?oc=5",
+      "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "source": "theshopmag.com"
     },
     {
       "id": "14555dff1b7d",
