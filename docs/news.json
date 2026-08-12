@@ -1,7 +1,137 @@
 {
-  "generatedAt": "2026-08-12T21:27:05.492498+00:00",
+  "generatedAt": "2026-08-12T23:25:50.751926+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "8513bb3420704b3e",
+      "title": "ChartWatch ASX Scans: Avita Medical, Codan, Cobre, PYC Therapeutics, Accent, Premier Investments, Tuas, Webjet - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWNnLUtEa2E0WUd3Vm9KODFCeHBObk0ybXVHWmEzampjczNyNFg5MWZObTRMY3RHTUdmbTdUWkthNEVQRnJ6cHJFU3RhZGc0cklMUm05Q2ZodXRSRnpidFQzc19tejc5N3JwWXJJbl9ERWJTcHF3X2wzLUFhUU1yY1VQU3FHenlVcFJqdHJ3V1JMVGhkb2FCanUzcHhGcndnMXlMbjJ1eG5jbm5fNm5pYm1vU0JRRkVtZ2tXRTNFczJfOHd2VEZtY3dqbjJzVlJ6S3NpNQ?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-12T23:16:44+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ChartWatch ASX Scans: Avita Medical, Codan, Cobre, PYC Therapeutics, Accent, Premier Investments, Tuas, Webjet Market Index"
+    },
+    {
+      "id": "1e9da6bfadc7e844",
+      "title": "ASX Limited Declares AUD 1.047 Interim Dividend with DRP Option - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXQzZWpZc0M3Rk1xNVZvQlNlMlo5c0tjdnBSbnhvS0ZjaExtckNqVHFORGRscHgyRGRCVWdybFJ2WkFIb2R4ZmNFLUs0a2dXZDFRX19OX2xtUEtrVE9VeG1ybUxpd2J5Q0ViYUd1dzVPWmloVk9oLVcwMUxOUFdwUjdSaWF6Ml93VnRBZlRadWI5NHJWOXRxMWh0VWo1VVpLSWVLTFRaVQ?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-12T23:15:02+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX Limited Declares AUD 1.047 Interim Dividend with DRP Option Kalkine"
+    },
+    {
+      "id": "3e06528810401613",
+      "title": "Rubix Resources Responds to ASX Price and Volume Query, Denies Undisclosed Information - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTUtEOFg4QXdoQ1pvWjEwc1Z2Z0lvd3pnMHdYTDNtRUZkWDRoTHdSLUVpNGpuWGlsbGFkQXphOGhxSWgwSnhRSDh2aEx0T0tGczhoUm1md3oxTzRROFRacFpSQk9DRHVUOXRKTGhmQ1ZUNnFFYl96RzE3U3RSZzZ1R0cwaFlBeE1BcnVXalJTbmFiQU1USTBsNzVsbGRSZW45LVlOY1d0eW1pQl9FejlRMGZ3ZXFKdVBVZ1NHUEVTN0M1RHRoc0E?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-12T23:15:02+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Rubix Resources Responds to ASX Price and Volume Query, Denies Undisclosed Information Kalkine"
+    },
+    {
+      "id": "a2a736bcaa2f6385",
+      "title": "ASX Limited Releases FY26 Full-Year Results Presentation Showing $1.25 Billion Operating Revenue - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFYxS0ZMaEtzY3ZRbG5XN2cwQXFoUjlKcHMtd3N1MnQtQWtfTGxaLVpaQ2RiVE5KRzV2a0hlVW5MZ0szR1p2c0hQNmRDbjZsTXlvUkNMMTE1M1pZTEhjaHVNaGNOS3cyMHB6WjZPcnpWYlNkVjY2Uks0WFl6eThldElhT2ZTMmR6UEU5Szd5RUNlN2liX1dZM1ZZSEdQZF92QWFnUXM4SVRoQUw5QURhNXhtUzRMZW5fVEhLRFlSdVBvVHZ5ZjN6ODNVWHpPQlAwOVE?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-12T23:15:02+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX Limited Releases FY26 Full-Year Results Presentation Showing $1.25 Billion Operating Revenue Kalkine"
+    },
+    {
+      "id": "1b53aba7611cd9f8",
+      "title": "ASX Limited Reports FY26 Operating Revenue of $1.25 Billion, Underlying NPAT Up 5.2% - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzFWVHpZNU9UdW5KazdNc0NpUzF0THZlNzhaU3RtR29WX3phU0hhbm9obFhWUnlYOF9ZWUEzZFNESTIxOThoZmROMnFfSlIzblRfWmk3X0RFcHl3TUcyRElJa2lLaWk0SWl6Q05tZjAzQ3VfOTNtSW9mNkJIZUdWTVdrNU9NajlEOV8tM2g4b2dWZFVib1JJM3FMa0V2TldQQTZ0TF9HSGRvSDRobVpvejBjOFlOS05PYzhFSEJB?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-12T23:15:02+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX Limited Reports FY26 Operating Revenue of $1.25 Billion, Underlying NPAT Up 5.2% Kalkine"
+    },
+    {
+      "id": "69d1322808e8ad3a",
+      "title": "Morning Wrap: ASX 200 to fall, S&P 500 higher on tame CPI report + results from Telstra, Amcor and more - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3cxbUtFWjVwbV9fVW5FR2tKTzFzak9VcTl6RUN5VG0yNGY2UjZxUVZZVFFaMktpdUJISTZ0ZWREbG1kM0FkVXpuT21ETlp4VU5nYUNpMXM0bGFQQ3Joekg1VTA1NzctUTlrc2V1c2FnN3BERFZiX2djYkVmYVRmNkQ3OG1wUmNQU0tjaGlILTlTX2FOMTBqMWZjRFppczN6aGM2dGtXSDFvanJRcl9n?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-12T23:15:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Morning Wrap: ASX 200 to fall, S&P 500 higher on tame CPI report + results from Telstra, Amcor and more Market Index"
+    },
+    {
+      "id": "3be3518b5ad835ab",
+      "title": "3 Australian Mining Stocks With Strong Earnings Growth Potential - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNnZfNjRqeHM3cGdEdDNBaXFYVER0cW5zUVdQZGhaV00yUThkWF9BakNlaGI5aGVoaF9Ud3RlRmhHRXo1ZkZOWlZwckw5RUhoMGNab20zS2gzYWs0MUJqSUVvV0hCaW92NEhpWV8xR1lWZmY3V1VZdk9GcUdyOGNFZDhxSE5iTVJzdzY5bGlNWjBLTElybWlva3FvNXRSOUcwakxvb1BTd01OeGJpZHEtNGZxNUt2dm9WS256bDB2RTJKWFN5VmhDTDdCak40SXJaMEJsQUdfNUHSAd4BQVVfeXFMTTFoZVdwYzhZYk5ia3ZsVGVQU0pvdEFHN05jTEVlOVZRT3RDWHg3NTh4MGo1NHRhM0RBTE50UXpGc21nYlpSMGQ2eE1rNEVkNno2RVJ5LTRNUEVNN3ZmaGM5bUtvdVRqRlVLeHNVaFFTRldRcVBEZDFCbC0wa1V2RDYtRzRwTWZZZW9tazFuRF9YczdUREo3clM2TGw5N1ZabnZIa1B1UWpnTTA3ZXkzTWhmeV9EM1ltYlNoYmdVelhzbFIyb1lEb001U0h5dEloZVZYS181dTR5WHVhRk9R?oc=5",
+      "source": "simplywall.st",
+      "publishedAt": "2026-08-12T22:59:42+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "3 Australian Mining Stocks With Strong Earnings Growth Potential simplywall.st"
+    },
+    {
+      "id": "20c086af22f3160e",
+      "title": "Chart of the Week: Why ASX tech is poised for a comeback - Morningstar Australia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmFhN2x0S3dJRUViRVFBTVc5YlBRZ2UzYTdvMWJlZGJDZGo3ZnVYZG4tRU93Y3pNc1BPRThEdWkzRXZqTnlWaWZaTkZCUXNQcnZUQnE5TmlUdmtRX1V1MXpzX2pKMTNoNjNpR1dFSHN0cjZ6b2NqTktXcTU2TnB0OTl4VzFCXzQ?oc=5",
+      "source": "Morningstar Australia",
+      "publishedAt": "2026-08-12T22:40:17+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Chart of the Week: Why ASX tech is poised for a comeback Morningstar Australia"
+    },
+    {
+      "id": "73c490e587b7975e",
+      "title": "Australian Dollar pulls back as inflation expectations loom - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWNzU1BCSmRyTGFscnlwY1lTZkxqZkdIVXZGOGhDY3FVY3hPRk1fS24zVllsS21WdHpyeE8yWkM4RjhUbHpQbkRnZDNNa1VhSmM5MmNvR0pCY2NlbDRPSXUyb1FiblhXZEFIUXB3RXVXQllXT2R5aE5qdEpGRERmdUhFaFBYYW42THVnQWRrS1dYVWxPWklSMl9GbkpNcXNmM2hNVw?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-08-12T22:31:15+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian Dollar pulls back as inflation expectations loom FXStreet"
+    },
+    {
+      "id": "b8a61519e4877293",
+      "title": "ASX set to slide; ANZ posts $1.9b quarterly profit, home loan applications fall - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3YzTFUxcHFMbjAtSXF2c3hZblJvX3VVUmtuRWl5aUpSWEJ5RmZDeV9NaEdfUDIzbS1CNlY1aXhldVN1WWJNclNQQXFKMWE5UV9ZdjIxR1pubUE2RTNaakNlUmhCcUZ6LUdMY0NXTDV2b2dnVVN4TGxpUTlfWHFpOThZdDdXUDNoeXNXTHJmdERJUzJZdnlmTEFsNk4tU1YtV3E0S2RDUjdiOG15YVhTU0JveTdJMndmN1kzQXE5RVVMXy15X1E?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-12T22:11:22+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX set to slide; ANZ posts $1.9b quarterly profit, home loan applications fall SMH.com.au"
+    },
+    {
+      "id": "0cc87f399775683e",
+      "title": "Australian shares to fall despite softer US inflation easing rate hike fears - Capital Brief",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmd3WHljMk5Lc3JsTFJCS21jN04yUUw2SktWVENQWjVpRFFLdVp4M3h4MGl3ZU92SUxMYURYc2tOVGZ3d1V0RF8wM2FPODYzTWY4bW92OVNGeDBkdEM0NHZwdVQwSmZFOENSVGZhM3dSZ0dSVWNoQldfWGxrZnJ2N1FJSzZ4OXQyUGlfZXhGWEZGd3pQcDd5dUI5a0FicWtYd3VmYVlmX29aS2stUFVlcVJ3Z1JNZ0VvY3dYdjRYSUZvTG9adG5VMmJ3cHFUUk9tOTRPUVZxME1YaFdzRURncW1lVUFQVjA?oc=5",
+      "source": "Capital Brief",
+      "publishedAt": "2026-08-12T22:08:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian shares to fall despite softer US inflation easing rate hike fears Capital Brief"
+    },
+    {
+      "id": "43b717ea123a03e5",
+      "title": "Vehicle Watch, 13 August - Queensland Police News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yTjFMNGY4eDlpZjhocmRWQ19Fd08wWWlubGdVa1BOdkJwbklXLVQwMWZOM09zcFpTZjZmOFQ1bnRhTFk5SG4zSTl5ZHJlb3VEYVl1M09UMllVQUVXMHNfS2xqd1FlTnVMOVhQbklQMy1iS2hfOTlQSnI0MWM?oc=5",
+      "source": "Queensland Police News",
+      "publishedAt": "2026-08-12T21:41:50+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Vehicle Watch, 13 August Queensland Police News"
+    },
+    {
+      "id": "dace13ea904b5e4a",
+      "title": "WOW and Flight Centre Travel Group Ltd: 2 ASX shares to dig into - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUtpQ3Izei1NeXA1eHBlejNobE9pZElkZm95U3Q5SXU0eW5KeVhRWHVXajJVakRDc01oUWhZMGsyTUV1YXdoeFA0ZzRZYUpySmFpeVVxTm5YYnRKTkh0QmpacTh0eTI4UTFmaGRPajRKX1NBeTlzNFFOUlg4Q2k0TTJFdnBwUlQweHJyLTg2ZzhfbS1qeFdHMzlGenZReUJQeExRbHM4S0R1QQ?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-08-12T21:28:38+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "WOW and Flight Centre Travel Group Ltd: 2 ASX shares to dig into Rask Media"
+    },
     {
       "id": "2eda67affe665d15",
       "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
@@ -43,54 +173,44 @@
       "description": "5 things to watch on the ASX 200 on Thursday 13 August 2026 The Motley Fool Australia"
     },
     {
-      "id": "2cd7bb9a398bac99",
-      "title": "ASX set to slide, Wall Street boosted by AI stocks, inflation report - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3YzTFUxcHFMbjAtSXF2c3hZblJvX3VVUmtuRWl5aUpSWEJ5RmZDeV9NaEdfUDIzbS1CNlY1aXhldVN1WWJNclNQQXFKMWE5UV9ZdjIxR1pubUE2RTNaakNlUmhCcUZ6LUdMY0NXTDV2b2dnVVN4TGxpUTlfWHFpOThZdDdXUDNoeXNXTHJmdERJUzJZdnlmTEFsNk4tU1YtV3E0S2RDUjdiOG15YVhTU0JveTdJMndmN1kzQXE5RVVMXy15X1E?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-12T20:07:25+00:00",
+      "id": "7c2010cbea183bba",
+      "title": "Return of El Niño: Global Impacts on Commodities - Teneo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEJoWUdCd2VXSW8xdS1aTGJJc2R4b0J5VlE1cnZiQjF2QzBBV1lmdzlscS1sTjZha3FqSTlmLXdFNzAyUEhPTUFNcVZQZlpmWnd2SWstYnkxNHZjOGQ0VVBsdlk0eUx2RERvQnowTWxablkycVpQTmkzeG1LR3FSWHVZRzNCYmstMUQ5d1h1aGR4QQ?oc=5",
+      "source": "Teneo",
+      "publishedAt": "2026-08-12T19:45:01+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX set to slide, Wall Street boosted by AI stocks, inflation report SMH.com.au"
+      "description": "Return of El Niño: Global Impacts on Commodities Teneo"
     },
     {
-      "id": "adc132114870002d",
+      "id": "b37415c1d9fa0cf5",
       "title": "3 ASX Growth Stocks With High Insider Ownership And Up To 34% Earnings Growth - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXVRakxHM2JlYXlOb2FaVWRpT2pDRmx2aWZhQmZHaW5WOTRURDBiUVNrdDBLWHhzLXFPN1daM010a2syM01CcU9Ja3V5a0hIMjZ4c2tYeGdza18wNmszV1YtbjRNR0UwNTN1dTdTR1pTWEhIV29oaVpXeFg4V29TeDBJN25uX3NZR3RqcjYwQURsYS1DSmNmZUVmVEhzRmNPWkVzeGZsb1FJdWpPWWIwdkhGQTdIM3lXLTUxY1hmVlFNbHpqVjRXcXhSa0xKVnFzSS1TMGtQSVd5WmgyTnlHWnNJZUdLTzFidTZfS2dxbVNEckFJY09R0gH3AUFVX3lxTFBpdVFqTEczYmVheU5vYVpVZGlPakNGbHZpZmFCZkdpblY5NFREMGJRU2t0MEtYeHMtcU83V1ozTXRrazIzTUJxT0lrdXlrSEgyNnhza1h4Z3NrXzA2azNXVi1uNE1HRTA1M3V1N1NHWlNYSEhXb2hpWld4WDhXb1N4MEk3bm5fc1lHdGpyNjBBRGxhLUNKY2ZlRWZUSHNGY09aRXN4ZmxvUUl1ak9ZYjB2SEZBN0gzeVctNTFjWGZWUU1sempWNFdxeFJrTEpWcXNJLVMwa1BJV3laaDJOeUdac0llR0tPMWJ1Nl9LZ3FtU0RyQUljT1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVnpyRXNBNXJfdWMyT3VfSXkzbjFTeGZWQm05M2RSNUg3cG1OYkxCOU8wbGc1ZmFZcDdHOHFVaS1OZ2NZSko1aUUwYnh3NGZ5YURuNGNjV0kwdk1KSVdBb055dTB2aXUwbGtUaEhTVGE4Uy1oYkJOZndxVlgwbk5iMmdGVFF4b1NtbndpdEQwcUZrNzFVX2hYTTlJaHBVYUR1S3FwdFBwc1JNOGtJd0tVX3MwMlZPeFlGVWJNM1ZaQXBzanh6cng5NHZBal9qVzB6Z1plQVJNcDBXeHhnNU9JTkM0bTlpNzlzWnVPZm0zTEZ0d9IB9wFBVV95cUxQaXVRakxHM2JlYXlOb2FaVWRpT2pDRmx2aWZhQmZHaW5WOTRURDBiUVNrdDBLWHhzLXFPN1daM010a2syM01CcU9Ja3V5a0hIMjZ4c2tYeGdza18wNmszV1YtbjRNR0UwNTN1dTdTR1pTWEhIV29oaVpXeFg4V29TeDBJN25uX3NZR3RqcjYwQURsYS1DSmNmZUVmVEhzRmNPWkVzeGZsb1FJdWpPWWIwdkhGQTdIM3lXLTUxY1hmVlFNbHpqVjRXcXhSa0xKVnFzSS1TMGtQSVd5WmgyTnlHWnNJZUdLTzFidTZfS2dxbVNEckFJY09R?oc=5",
       "source": "simplywall.st",
-      "publishedAt": "2026-08-12T19:17:06+00:00",
-      "category": "companies",
+      "publishedAt": "2026-08-12T19:32:28+00:00",
+      "category": "markets",
       "official": false,
       "description": "3 ASX Growth Stocks With High Insider Ownership And Up To 34% Earnings Growth simplywall.st"
     },
     {
-      "id": "8ee9c843b5a50ae5",
-      "title": "ASX Stocks That May Be Trading Below Estimated Value In August 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOXRzN05YZk9vRmU5NUJySnNlWGk5eEk2dmIwREVleDVFSTNNa3dIcDVEZDBRck9kMEZTQTRCbUdPR2tTVnBrNk5la2J1dHUtOFZHTDlHbjdfZUg1d2ZqVlc5aGNJTnUzTUtfendtaW54RU0xSTNiejRyaWJaUkpUaXhYZHQxMFBKcUJTRGxrb1NEZ2pwclZjMTFpTnh0dWRaZy0yc2NiNDhyaTZuVzVTTWdZSlRaYUQyLWllbDhuV3RjQVg3UDlTeUFuQ2NhckE2TndsNHUxbGIwbzFiZ2E3VmZFd9IB6AFBVV95cUxPTFA5a1FHQXJxZ0JyN3Z1LVZ6SjVhZDI1WFpia0JpaGVRS0lwLVRoQjBIVngzbG9yT3VEVWRtQ2JxVEhGTjZVem0xWWtOTlBzQUlnby1tMkN0UzF4MHdGVlgxekJTZTBmT3NsbTcyOXhZUTVTWUVxYjZaTlRDeE5Zei12V0IyeUI4Vy1PMmR5NHhGZFg1cmV2dERVS29xR1NxTThkeEJraEdxc3gzQ25mUWE2Tm90ZDFwb3ktRmczUnlqc2hQeXBucWg5NXBZYnJ3NFM0bGgwSXFmZXJEd2NJVFAxSFR0RmlV?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-12T19:17:05+00:00",
+      "id": "71a7ccb2102f20f1",
+      "title": "CITIWARRANTS 56.1757 VHY 21-JAN-32 INSTAL MINI (ASX:VHYJOD) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzRPOHlHSmsxXzZsdjlFMVlrbW1zZDBoTHhpNHhyc0dWRDRGVDI4eUdQM0d2WHh0aFlvV0llRl9WcmxVNW5Oc08xbjhWVUdOckdHR0p1V05VMHhBM0hRUG5GVkFwZURyUXNDYlZDYnAwZFNaTFRscmhmSlJ4WUk4U0F4b29BYXRrZm5ILTQwalo4czNmRm9WTGVqaFI4emswdUtYTw?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-12T19:07:28+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX Stocks That May Be Trading Below Estimated Value In August 2026 simplywall.st"
+      "description": "CITIWARRANTS 56.1757 VHY 21-JAN-32 INSTAL MINI (ASX:VHYJOD) intelligentinvestor.com.au"
     },
     {
-      "id": "4ac08e870be91f7a",
-      "title": "GreenX Metals Leads 3 ASX Penny Stocks To Monitor - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlNwRk4xMGdwRFo2dnBkaUQ3WWE4N0x6THhjb043MVdGT3g0WndUNmJmcWxXUFhDUWNHcVphRlAtVm9RN0xpa2w1a0w1LURjbFJfRkplT0IwODFXeTRkb2xjbDhDbHRhQ1BQYTVEWjFESGc4VENROUJ3OHBzZ24xdnU1WXRPQ2w3cVZhUW5MaGc0dXN1NkRwdWZXNEdlQm5UX0dCalNrOVNwcDRKSHBvWDczaFVnSWRCWm5OR21KOGYyTDDSAcgBQVVfeXFMTjlBcGRxY1NpRWFDektiUzVEVnl4UmZ0Umdla1dURmV6c3l1LXc4bGVuZHV6X1AtbHFsZEl4WEJxYkl3aWpKWUFKZTNaZ3ZyalFha2F6RDMtV2pSbXJXYWF2Y2N2NGhMVml6T2JjZWluSjdVYXhNVlNxbFM4TnhnYlBib1NVcGNoVy02bEszeUhzVDBCVmNiYU44X0lZN2RPM2hsbmxjRVpwdS1vNE1SNkxidjF3T2RVN0ZZdnFXWGRPdjI0OW9rTnc?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-12T19:17:05+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "GreenX Metals Leads 3 ASX Penny Stocks To Monitor simplywall.st"
-    },
-    {
-      "id": "c3a653bf508342e6",
-      "title": "‘Declare everything’: Why it may be harder to get a mortgage right now - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlpISkdKMmJpYXBvXzR2WElLVkdRZVpXNmZZOXI0M3lWeThDQUxXWDdDNXBFeU40c0dfaF9fMW5kdF9DRk5nMWNpcGkzZGpaaWJVbVYySEQ4WHR3Q25JUk1yVUlQM0JGa29HUkQybV9VNjhpQUI5RE1jak94cjNCTTNrbXFtV1ZtSk50RE5Hb2VCYzBWampZZVQ0amVFU2FnN2dEUGIwN3ZYbWJnc2lOUm0wZUdyYXNBNXFTZjNST3N4dmM?oc=5",
-      "source": "SMH.com.au",
+      "id": "6ecc757e05c3d721",
+      "title": "‘Declare everything’: Why it may be harder to get a mortgage right now - WAtoday",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmVtSXRMR0NGN3h4bnA5ODhRQy00OXd1eXYzY2xxbklxYTQyXy1VcnZGdVZacDFUMnZjemJtVVhtY2VzbUxZc1pJbV9LWEZLcEFtdVRyekZrRDRMU3pmMF9rSFl5TGU3VmlaNENBWVltcDlzWE5PdlF6WjZIaVJ5dnpoYkxMSUt1MS1uLUl3ZjZYY0VXRXN0R0J6MmNNV01scDVuSTB6cjFuMjNzd2VQNm5Ic205ZlRPUW91djdSV0FSRWZvU3kxUw?oc=5",
+      "source": "WAtoday",
       "publishedAt": "2026-08-12T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "‘Declare everything’: Why it may be harder to get a mortgage right now SMH.com.au"
+      "description": "‘Declare everything’: Why it may be harder to get a mortgage right now WAtoday"
     },
     {
       "id": "983eb536148afd52",
@@ -113,26 +233,6 @@
       "description": "Life360 (ASX:360) Shares Jump But Investors Are Watching the Bigger Platform Opportunity Kalkine"
     },
     {
-      "id": "78de9de34c651e57",
-      "title": "Codan (ASX:CDA) Shares Rally as Technology Stocks Build Momentum - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkpTRWVsaVd5WWhPVjZfTXc5V0l1Qmd1V2lJaGpTNFpoZm1WcmRBTVRQZXl5NDROZzlXNnFnTXB6aHRmcTR5cjJKd2hXUlRuQ3gwbG1JdHFaYXFLeVVrY09hbFh1STZnTmhEQ0dQV0xuaUdDaXlManlDa3NJeW1yNS1yOERCeWtidUQwOERZZS0xVXJHX3EwaWVQQTZKV3hKWUdEUA?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T13:33:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Codan (ASX:CDA) Shares Rally as Technology Stocks Build Momentum Kalkine"
-    },
-    {
-      "id": "fb8d2f02fc589b99",
-      "title": "Why Dicker Data (ASX:DDR) Continues to Attract Investor Interest? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2FXeV9jcGJBWFBHaUxhdFJIR3l5ZlFRclBwLXVzOUlwUWp2N3hIWFJ2MnhIT1FmYVJlbzFVd0hmQktXSkIzVExNdndPNmlReFBGLTVMNWVfZUtkSERBazBMLXRWc0NHREZLX1JYNGc0b2F3NnNDRVdTZE9sVkRrYVYybTkwT2hMWTgtNFpIRnhEQXpxWGJtMkE0UjlYckxCSTVSVw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T13:33:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Why Dicker Data (ASX:DDR) Continues to Attract Investor Interest? Kalkine"
-    },
-    {
       "id": "08c8b42a4dd06288",
       "title": "EGR:ASX Announcement - Key German Partner to Double Offtake Volumes - 12 Aug 2026 - Market Index",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEE1SDk4TTRPQ2J1SHUtTEYxZUdWdFB3SEJ4eFpleHg2Q1VldHZFbElNVkMzZkYxTjRBY1JKQ0UtXzRmc0FUWEsyRC1LbkxHUXdmU1VMdEFualJ2LXZKSnBiR0xpUjlDSmFJdllBTWdrcjZYdnJOSXRLTmpnaVFia3lSZ2V4RVdQQ0VhUFk4NVZwTXJPbmIxNF9ZdTBRNXZWZWZ4Q2ZfeV9XMVU?oc=5",
@@ -141,46 +241,6 @@
       "category": "markets",
       "official": false,
       "description": "EGR:ASX Announcement - Key German Partner to Double Offtake Volumes - 12 Aug 2026 Market Index"
-    },
-    {
-      "id": "8a5c4ab2740db168",
-      "title": "URF:ASX Announcement - Distribution announcement - 12 Aug 2026 - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFQxemtCemE2di1OdlNDWHJxUjZiWXRBanhMVXZvWnpBTkMxRzk4bVpYcGlwTnZ5T0p1SHdpbm1lMVl6Ujl1V1gtOEVMUEpfQWFFeURmWFRvUmxBb19CMjJjeXJud2k1c09KblZ3UzVNektIcV8xVVpzend1MWJ5N3lHWWZiSDJXYjZOSkhNN3Y3Zw?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-12T11:54:49+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "URF:ASX Announcement - Distribution announcement - 12 Aug 2026 Market Index"
-    },
-    {
-      "id": "737fb09ff848b3c6",
-      "title": "South32 (ASX:S32) Shares Pull Back — Are Investors Getting Nervous About the Mining Giant's Next Chapter? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGlfR3pVSm5GVkMtZVNPN2ZIbGpOTFdHb2JVeFp5SmdUOVhZaF9CZWlVX3ppc3NndVp0N1lxYWExMjRtS1djdUszdlIzZXNaT1VBTGZrSUVILS1KOGZPRTc3c2hxYWVYeEY5bWQ0LThNUTVENTFSMFpydldRT0FvenJaYXRNOHA5WXdJeXhhTWJ1bWdGRVE1eHFrRVVjTDYtV0J6emtQS0Q1bDBPUTBSY3dPMWNFd2pBdHVpajA2TF9iYUFfWFFDR0NHNVFzUQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T10:52:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "South32 (ASX:S32) Shares Pull Back — Are Investors Getting Nervous About the Mining Giant's Next Chapter? Kalkine"
-    },
-    {
-      "id": "85b996e8152fcc46",
-      "title": "Ridley Corporation Ltd (ASX:RIC) Shares Slide — Is the Market Missing a Quiet Agricultural Growth Story? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkFZa1RoNWtCSjg0QXU1N3RsQVVoTElKYU5KWDB1RDZWS3pMU3VQcFNISFFDWERKUEtzRHFKMVlKRjJoWWkyZlZ0Nkxvb0hIY2tKck40WHVROGU5M053ZllwVGtvZGVGUjlKR2IzSnRTd2R2YmR4a29JYkhEMFNZTzdXemNjZ3dCZC11bFk0S25OQ0hLSlJzYy1YSDgtQ2RPcFR1NHdab2hYMWdTSVluRWQwV1JfVzNUa2ZVdUxIQzlKck9RVXhuUnMtbGNCX3RJ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T10:47:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Ridley Corporation Ltd (ASX:RIC) Shares Slide — Is the Market Missing a Quiet Agricultural Growth Story? Kalkine"
-    },
-    {
-      "id": "01ab3f21e68b526c",
-      "title": "Premier Investments (ASX:PMV) Shares Slammed — What Has Investors Heading for the Exit? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9iR1F0X0xfR2JjTlVTMnl1cjN4aEhVeDZBUzhuWWMtLWNVRkdHZkh0aDluWFVfSTg4YXV3eGV2V2IyQWppUEItNC0wR3dzTXlDaXdLR0dfbFBEYXBlSmFHMjFvdTVMY2tJc0szS2lMRUJpWFpjN3FGeHlKY2pNbGNpdkJ2VDk2TnNNVDdKVzBvYm9jazUtZmlObVZaUlVIR0NzWjhxbUJ2d0VwU1ZIZ2wwNndiOXM?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T10:47:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Premier Investments (ASX:PMV) Shares Slammed — What Has Investors Heading for the Exit? Kalkine"
     },
     {
       "id": "0a0f50b0df7bd6dd",
@@ -193,22 +253,12 @@
       "description": "Regis Healthcare (ASX:REG) Shares Retreat — Is Australia's Ageing Population Still the Ultimate Long-Term Tailwind? Kalkine"
     },
     {
-      "id": "c0c737335530280a",
-      "title": "Pinnacle Investment Management Group (ASX:PNI) Shares Slip as Investors Track Financial Sector Sentiment - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUIyLWgtNFc0MDJKT3JuUTZOeFczMzNkN2ptNElESzNWOFhpcTcyR1lEN3BXWEREUlRjRFNFWno5ajVnOERaWnZaOHNybG9KQTFZeWF2MHdUZ0RCa2dlczdYbms0QUcwQldrdHFMa0tDNHVYbllVclVYTllIX2RFaWQ2UmliX0FNX0RVaXBseE95bnNFRGZlalZPLXRkbW9MTmhaeWlrWVVVclNnMGJ3UDlMWWdBM093dE1pd3VnYjM1dTdmRnBXbTJxVDVqanRoNjNwWl93?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-12T10:31:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Pinnacle Investment Management Group (ASX:PNI) Shares Slip as Investors Track Financial Sector Sentiment Kalkine"
-    },
-    {
       "id": "8cfcd6a3470e68e9",
       "title": "Alfabs Australia (ASX:AAL) Mining Services Growth Story Draws Value Investor Attention - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNldGUkpwYnRmQXhJZG5JaExNcllIUFFIWW9LNHZRYTRyYlZJd1FDQVF2MjZ3S054YlUxWUY2MUVaQVZ3c1otVU1xSUtyTGJKcFRuT1MxTUtsVWpWd0M4VG1tVVp4LXQ3ZUJjeGVvUW1sekdUN0c5U2RpVFZNaXhjVGNQSUt6Mzc5MzZVS2VjRzhEYnJlcWtObG5aSjhoelhDOWdrRWx3MDRIRkxKdHRDOFhmcllqY1RsSTE5QUtYbllCdw?oc=5",
       "source": "Kalkine",
       "publishedAt": "2026-08-12T10:16:00+00:00",
-      "category": "markets",
+      "category": "companies",
       "official": false,
       "description": "Alfabs Australia (ASX:AAL) Mining Services Growth Story Draws Value Investor Attention Kalkine"
     },
@@ -263,84 +313,64 @@
       "description": "Australian Vanadium (ASX:AVL) Advances Vanadium and Long-Duration Energy Storage Opportunities Kalkine"
     },
     {
-      "id": "2883a8ae6dcbdd50",
-      "title": "Comyn says real estate was running too hot, downturn fears overblown - AFR",
+      "id": "40ed9296d9db9a29",
+      "title": "Peak tech? CBA claims its AI snowball is finally rolling downhill - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2p5anNZX3gtTnY0ak1yNEY2U2s5aHBMQlBnTVdCakFDVU4tQU5XMkhVMzFKMHZTYnNFSVh4bkYtVXhpVHBJTEw1NmpMdFFlVlBlN2R0V2dLbnBBUDVQZ2h2Rjk3WjNEU2dwWlJiejZ4emt6ZmpWYzFBcUpoZURab0FER1RhejRwVm1sanpMSEJTQUtLQmMtLW9lYm1uVkU4VjQ0ZUo3VmNISjAzTl9OTEp3?oc=5",
+      "source": "afr.com",
+      "publishedAt": "2026-08-12T06:48:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Peak tech? CBA claims its AI snowball is finally rolling downhill afr.com"
+    },
+    {
+      "id": "83e4bc74700c1d51",
+      "title": "Comyn says real estate was running too hot, downturn fears overblown - afr.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnhWM25BY3ZtMnRxSmFvaUY0ZFR0M1dTMm1hZFphMFdDZEo2QUdJUTRQQ2F0S3hmM2FDOVVRSWVud3ExV0VFU1A1S0I2dGk2SEY5dU05Y1dzWllQMGI3OGdnOXBlWTBZVmZXdnhMRWQyd1pPS25HRUxJeVhPSGlXallmbHlnN3lDTk16aUNhZmtualQ1OTQ4VW1HZHdTV05LbFV4NzFWanlocm9JcWxwOFZpcG5XNzBVUnktdDRHWlpSWm1s?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-12T06:37:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Comyn says real estate was running too hot, downturn fears overblown AFR"
+      "description": "Comyn says real estate was running too hot, downturn fears overblown afr.com"
     },
     {
-      "id": "6d9ef866bec822d9",
-      "title": "Australian Shares Fall; CBA Fiscal H2 Cash Earnings, Total Net Operating Income Up - Yahoo Finance Australia",
+      "id": "7d78ca353f864cac",
+      "title": "Australian Shares Fall; CBA Fiscal H2 Cash Earnings, Total Net Operating Income Up - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1RGWk1Hb0ZLNXpYN090MHpRNU9YeUl0TWJiekJjdzJhbmpYN2tPWkZXWWl2UjdMNVZKRS1JbGhxOGxHUVZkV0FiZU03bEhHSHpTbmRDX1NCOE5QbmZmYkY4M2FXRlhHenpnU1VBY05nRk55QU9Vbmg0ME9OTHhHZzVpcnllcEJwUFE?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-12T06:30:00+00:00",
-      "category": "markets",
+      "category": "companies",
       "official": false,
-      "description": "Australian Shares Fall; CBA Fiscal H2 Cash Earnings, Total Net Operating Income Up Yahoo Finance Australia"
+      "description": "Australian Shares Fall; CBA Fiscal H2 Cash Earnings, Total Net Operating Income Up au.finance.yahoo.com"
     },
     {
-      "id": "cde504061f86c648",
-      "title": "Challenger launches retirement institute - smsmagazine.com.au",
+      "id": "92eb52f6b24b8c12",
+      "title": "Challenger launches retirement institute - SMS Magazine",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUpZTE43d2JXaWJmQ1lwSV91VlYwaEdLZlBSVmxLRjhmblZtN1hNdHYyUDFFS1BLY056OGVpeVpUTmU2ZElKNVVzaU5qUlNlQ191ekw0S21IVXRBRFR6blU4Zm9ET2hyMGdyVklOMHFuOWxXdUYtbWY4bWlqc1RsMmZTY1ZWZVFkLU9faw?oc=5",
-      "source": "smsmagazine.com.au",
+      "source": "SMS Magazine",
       "publishedAt": "2026-08-12T06:04:12+00:00",
       "category": "super",
       "official": false,
-      "description": "Challenger launches retirement institute smsmagazine.com.au"
+      "description": "Challenger launches retirement institute SMS Magazine"
     },
     {
-      "id": "b6a33ce464873fe9",
-      "title": "Innovaero to list with $7.5m from WA Government - The West Australian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclVXU1JjU2RvcjUwOTdLcGUyVE5XMmFOVzVCZWxTNG9yLVVyWDVaTWhjQmJUWURKRjRDWU5YYmJSdVFWVmEzVHZVTnJ1ZDEtcXNtZmVmUDY0YlZweldqd1lzczJldUZiN1JjQ2Vmdk1vcnU5SWNtakowendwaWNWOWtTcXJpcHZHUzZsRFBnb3ZvVm9HVnpSQnV3YTQ?oc=5",
-      "source": "The West Australian",
-      "publishedAt": "2026-08-12T05:14:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Innovaero to list with $7.5m from WA Government The West Australian"
-    },
-    {
-      "id": "ab5dfa0707504b7c",
-      "title": "Housing industry urges Government to keep SMSF finance flowing to new homes - hia.com.au",
+      "id": "b8246e54212cd7e1",
+      "title": "Housing industry urges Government to keep SMSF finance flowing to new homes - Housing Industry Association | HIA",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNempxNG8yRGdIYVE5SGhYUUV4TnJHc0lLZmZTWWNYYmlWNGVvSkprYUlqNEJaeHFXQ1JGNms5cEpxUDRpcEJWVTFTZUlEOF9GV1RoR2hpTEhZWHBzSDRSMklZYXl0OFlOcFNDU2Nwa1Y3eFRVcm9XVV9wZ09qem90NWhnMko3R1BOWWlnbUNKNzNkbEhISUZMeGhRZzBGcC1vNnVncFJwQkFreGJScFNaZXdlTk0zNHpDdTBmUGRUMEY0Z2ZfTzBHVVNqckQ0Sl9ia1lpbzN1ZzM4U2hNdEVNb3VKU2RYX0l2M0NLNlFJVQ?oc=5",
-      "source": "hia.com.au",
+      "source": "Housing Industry Association | HIA",
       "publishedAt": "2026-08-12T05:01:31+00:00",
       "category": "super",
       "official": false,
-      "description": "Housing industry urges Government to keep SMSF finance flowing to new homes hia.com.au"
+      "description": "Housing industry urges Government to keep SMSF finance flowing to new homes Housing Industry Association | HIA"
     },
     {
-      "id": "b242d79cc7c7240b",
-      "title": "ASX healthcare share remains cheap despite mixed earnings result - Morningstar Australia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0lZVFlPVjg0aDNUWndNbVlPVzk0aktHLTZadG9xRDYyMVpqLThNR1NDanlObkhqd3BwUjkyU3piWUFtMHVFSXVDOC1Od3Aybi1VV3RqT1lLcWNIR2hva1dwdGZ6Yi12NHlyQkpMX0JTX0NaZUdhSGVGRFRCUVFveHlPck1wNXpZVm5UbEhOU1pLN2JLTU5TQ3ZLZVVvaklxXzh6Uw?oc=5",
-      "source": "Morningstar Australia",
-      "publishedAt": "2026-08-12T03:11:08+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX healthcare share remains cheap despite mixed earnings result Morningstar Australia"
-    },
-    {
-      "id": "435b7ea7bf8e2e31",
-      "title": "Lunch Wrap: ASX slips despite CBA’s monster profit; SEEK belted - Stockhead",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0dRa2RvR2lOa216NElNclIxclpoNjloa1BLVTZvVmtXYjJzcTh2bktCWWp6cTh6LUJoSmd2SWwxc3N0TGNjc24taEtNcTRPX3F0aWo3VDBuRmpnQXU0VVRZZFFXM1plekpZZnJVM0tRUkpSQ3l3WlR2X0UzZW9sUmFUMnlEbzk0RDRpRVpmd2Z6QWh6cWZXX2JMRVZiQQ?oc=5",
-      "source": "Stockhead",
-      "publishedAt": "2026-08-12T03:05:11+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Lunch Wrap: ASX slips despite CBA’s monster profit; SEEK belted Stockhead"
-    },
-    {
-      "id": "a7b7e6ea3d63a9e6",
-      "title": "Under pressure Seek expects to pay out cash from $1b Growth Fund sale - AFR",
+      "id": "95b03c5fbb8ff3fb",
+      "title": "Under pressure Seek expects to pay out cash from $1b Growth Fund sale - afr.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVk1ZakRpSnAtcTA4M3lTdXRfTm9IQXJDWDJldURvM1RnSHZmbmFYUDh4N2pIa0NDQnR2UzEwTl9JRjItUGJBMU9LM3RFLV90aFM5R3I3QjlhQ0NWQUdsUmhXZUxiRzc5dVFfNlRQVGVYV294bF9IOTFqa090b2tYcUpDdEJkMk91M0JQaThMNWJ0Q1piTFlOU3lHa1ZjTEMtbUJmTUdoLXEtSUw2VnZtamQydk92ejdaMkpmMFJhYXRDTk1KUUxrazJpalpFQQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-12T02:59:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Under pressure Seek expects to pay out cash from $1b Growth Fund sale AFR"
+      "description": "Under pressure Seek expects to pay out cash from $1b Growth Fund sale afr.com"
     },
     {
       "id": "ae3339c6f2b0c8da",
@@ -353,16 +383,6 @@
       "description": "Lynas Rare Earths (ASX:LYC) Heavy Rare-Earth Push Could Put Australia at the Centre of Global Supply Chains Kalkine"
     },
     {
-      "id": "e0a3c06e436775bd",
-      "title": "Households to bear the brunt of sluggish productivity - CommBank",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM19IS1lucFJTQXowbExGdXlEa0c5S3B5LU9HaHNSZXhFcEF5Y1dnU1k1WDFQUTA5eTZzcWVoS2tzRjJ0Yk5uRXVKQzdxLW5RRGJuaVpsVHJhbXJ3cnBUS1cyTC15UkhENmZvN1FIZ1VGaU96ZlE3QXRMczlOS3dXM2RxQzZmYk5JSnFDSUEyS3JMRG1xV09UbThYN1ZKdTB2eERSMVFJRmZMMmE0T18xQnBR?oc=5",
-      "source": "CommBank",
-      "publishedAt": "2026-08-12T02:45:38+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Households to bear the brunt of sluggish productivity CommBank"
-    },
-    {
       "id": "dbdb43bd87f63ea8",
       "title": "ASX shareholder plans to seek court approval to sue former directors over CHESS project - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzlUTkxHTnJPeC1hdlhKSEk1dkEtS0h3am5SSTNxTUg3c3Z1OS1ONThSYUVZRV9tQmZ4bXJ3R2ZDYkh0WnFLU0R1dHY0ZVc4VmpZVV9lNEp5MGJVaXEwcjNnNWx6QVRFeEJjTHhGVElVajh5MHJUVmZHQXB3Y2VGMkl3V0VwaFZXdXBaRS1nNVh1dDg1UmFDN0p5eXFYT2NrVndudzR5bXJhZ1JxemhFZnk5YTE3YldtQVpLeU94WVltdUlH?oc=5",
@@ -373,24 +393,24 @@
       "description": "ASX shareholder plans to seek court approval to sue former directors over CHESS project Reuters"
     },
     {
-      "id": "7288a3aedf30f3a3",
-      "title": "Japan’s Orix comes out of left field for FleetPartners takeover battle - The Australian",
+      "id": "095287865a8770eb",
+      "title": "Japan’s Orix comes out of left field for FleetPartners takeover battle - theaustralian.com.au",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcmxqeEtPSHZxdFgyazg0cmM2d2RTNEhqYnI4N1VrQ01pSWc4UlJMQzNzYUhzQ2wzc0FjNGdOaXBXLXQ0dktUTlNxZ2hvMnNkVXhWNG1PanJDZk4tUVJ6d1F1WlRSWEEtaV9kQ0JmMF9uMkY3OTFnc0dXakZadmQ5aEp5LXcxUUJrYWFjblVwUEpIVlhma3V0dTZXSHdtbFYwckpNdDQwVkd2U1UzOHE2bDhWM0dQbEdEZVlLYW1UeGp2UFpkSjdBTGF3bTZFTFJzWmtrWVlzVk9rQzduMy1waE5vUzVZcUR1UF9jbTdFdUxodS1mUjNHV3RZNmrSAYICQVVfeXFMTXp3NGd5N0RJeFVrTW1aM1YyVzFucHpUbGl3NVhSOWFseks0c1dBM2xCbGJCcllDS0VQLUhjVjF1NHhuaE1ZanJHc0FtX0JHb1F3TTZjZVpuVjAzbHpKWnhRUXQtbTg4YUx2NmdhMUJxM0NsQUpiX2ZNamh6YVozVEltaVZWY3JUZWZuTDExN0RiX2xlVU9lLXA3U2RZckM0SUJ0YXhKTkt1Z0JGYTdtT1EwZ084ZkJSN0R5Y0ZmN3F0ejRUT1RXaEk0dldCcEhKVVNmZjdYVzV5ZmJxT2hVYXZydTJvSEkwVmNHVGY4YlBMSlA4UUROdXRndWQ0NWR2NXJ3?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-08-12T00:35:33+00:00",
       "category": "companies",
       "official": false,
-      "description": "Japan’s Orix comes out of left field for FleetPartners takeover battle The Australian"
+      "description": "Japan’s Orix comes out of left field for FleetPartners takeover battle theaustralian.com.au"
     },
     {
-      "id": "f73121d8b5934cb6",
-      "title": "ASX Preview: Australian Shares to Fall as Gold Slips Ahead of US Inflation Data; Commonwealth Bank of Australia Fiscal H2 Cash Earnings, Total Net Operating Income Up - Yahoo Finance Australia",
+      "id": "a0fbba67466cc618",
+      "title": "ASX Preview: Australian Shares to Fall as Gold Slips Ahead of US Inflation Data; Commonwealth Bank of Australia Fiscal H2 Cash Earnings, Total Net Operating Income Up - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUktTnpsSXVLZlltZHhVWlhTXzA5bzd5cUJadlhnUDRPR2duN1MwSC1wcDNsNmNXYzdjMGNQRF9WczRfQzhWUUhxN2lCWV9SR09GSFFvclhkRS1EN1JuN0VrV1B4NmVuZ2ZjeWw3TjZvRnRiZGZVTVJXUUZhaVo3TVpvYzRVSGgxcjRz?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-12T00:19:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "ASX Preview: Australian Shares to Fall as Gold Slips Ahead of US Inflation Data; Commonwealth Bank of Australia Fiscal H2 Cash Earnings, Total Net Operating Income Up Yahoo Finance Australia"
+      "description": "ASX Preview: Australian Shares to Fall as Gold Slips Ahead of US Inflation Data; Commonwealth Bank of Australia Fiscal H2 Cash Earnings, Total Net Operating Income Up au.finance.yahoo.com"
     },
     {
       "id": "a858cc9a7bcfda0a",
@@ -423,16 +443,6 @@
       "description": "Top 3 ASX Cobalt Stocks of 2026 Investing News Network"
     },
     {
-      "id": "dfc3840159b2d7e5",
-      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmtwbXBwdG5nam92b3R4Q2xxbVJnbGtkUkZ4MFJ3VE9ld2dlXzZsM0FPUVVPR1ZYZ1NkMHl4VUdKZXlhMWdvNUZsdFJpejNkaXllZmNDbktxdHNWQTU4UF9FenlUUVhkV0RuMXh3T3NHRmVGSElUNHRfVXRmNU5CM051ZWVYa05rbmhBRmNVOFF3cjRwZkRJamFzMjVGM0V4a2lZVk95Xzk2dmRTRGthUEhYWG1jbjA?oc=5",
-      "source": "theguardian.com",
-      "publishedAt": "2026-08-11T21:28:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud theguardian.com"
-    },
-    {
       "id": "af4f97c5a692fadd",
       "title": "Will you run out of money in retirement? - Firstlinks",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51SEdJTHhwbFcyVTJGUDZmUzVzdzZLUG96VEZBbXFHdmtSekNBNWxaVnJ1ZU1IVmVrelBzSXpzSElVeGhOUlVoc3poWGpra2lEWFk5dkNHbTJMLVk5Wkp2bXN6MnpqdDd4SHlaa0ZadUJyRmxVSHFBVw?oc=5",
@@ -453,14 +463,24 @@
       "description": "This is how much of a pay rise households needed this year to keep up in property market SMH.com.au"
     },
     {
-      "id": "29fbb5a8f9e4db92",
-      "title": "Three big super firms managing $500b urge Labor to allow direct advice - AFR",
+      "id": "6f6aa96353d7f323",
+      "title": "House prices in this loosely held Labor seat down $90k in three months - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGttbHF4SjZRck5pVF9jQjFtZ2JtUGhQTnNWTHZCMlJLMVBjZVd3Z2JzMFZvUmVvaHk0TXZaejR5WVRnZFo3MThXSUMwbzdxeVo0V3hKRjExNW1CU1VWajljZHdHODhnd0RZRXIxM25rZEQzX0xfaERrVjgtZG8xeHZzZFZuT3RLSGhPcWhqYVdLQTV2Z09VSmlVVnRFckFUa3p3NnNrTUVPQnNYYVFudnZTZDg5RmdOUUhscg?oc=5",
+      "source": "afr.com",
+      "publishedAt": "2026-08-11T19:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "House prices in this loosely held Labor seat down $90k in three months afr.com"
+    },
+    {
+      "id": "3127aa8e7583d014",
+      "title": "Three big super firms managing $500b urge Labor to allow direct advice - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMUJleTJtand4X2JGcDA4alQxRC1FbndLaXhvbnNhc1V3bkZhaFM3aFBPMkdUdlU3Rmp2S2FmcFBkd2lJSEhKejcyX1dXc3hMQzN6UnZYS2JDMmJ3bUFKWG52cTk5eS0xdjAwMTgyMld2anRDQ29KakRCRl9TMms3SUV2bER2c2RRbW0wcFFSR3RSc0EyT2h0amJnZWJHQzBsSHhmT3k4RlhMOWdKRkkwR19hOVh3WVZvOTB6YmQ2QkhQMFMzZE9xaQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T19:00:00+00:00",
       "category": "super",
       "official": false,
-      "description": "Three big super firms managing $500b urge Labor to allow direct advice AFR"
+      "description": "Three big super firms managing $500b urge Labor to allow direct advice afr.com"
     },
     {
       "id": "ae976c71079c6592",
@@ -481,36 +501,6 @@
       "category": "companies",
       "official": false,
       "description": "Australian Clinical Labs Limited (ASX:ACL) Share Market Overview and Healthcare Sector Profile Kalkine"
-    },
-    {
-      "id": "e0d69426e7dbb3d3",
-      "title": "The RBA doesn't think it will raise rates again, but it doesn't want you to know - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTlNUk5fMGNGbGk5bW5QMXl4OTB2UXVfZmxDZzNBbl9EbWRxUUt2UFF6MmkyUmlwV1hWdTNIdTN3NXgwTUpsNHVwUFIwS2RMVFFjQTBnbFh6ZUtQLTFXbVRGaXctbUY0YzhLSUpobjRkUTBGdTJHdnNabjZxeHAyYkVJRzlyNUp2U1RId2tHb1U1dHYxbGd5Z1R3?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-11T08:42:58+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "The RBA doesn't think it will raise rates again, but it doesn't want you to know ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "d00ffbd9ae8504fd",
-      "title": "Data centre boom keeps up pressure on RBA interest rates - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFNKa0RXd2dIZVFSbGwzcnBJbFlXQlFJZDhiV3BDejJmWWxPLXZrcnNLeUZ6V05hZ0pWVjNOR3ZfUDlYSEVGX2tJRXk1MW1HdTlPOEpvVFRicllJYWVqeEtnMlg1UlJJczFRck5lc0tVWmNLbm9pZHhQV1U4T2p6S1V6dWV4VjF2N0xQYUFzX1JJU2lKYWxBRXRaRm1rcDhiLTk1eWVtSG5KaU0?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-11T08:03:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Data centre boom keeps up pressure on RBA interest rates AFR"
-    },
-    {
-      "id": "0422cc36a9d561a3",
-      "title": "RBA keeps rates on hold at August meeting - Australian Property Update",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeng4UFFiTTRyTnMwVmJSMXRzOUFvQ2x0dUU1UU1JazZONUloelNKNnpNaUlaREUtc0lyXzc5bE5vXzhqSlpIb2Z5TEtQUjR5Z201RDluLUw0c0pzdXFWUFZycUFtZ1JRdXI1em5yZjhDeXpVMDR3SDM5ekxHMFVMeEtHYnNOY1lNOE9URnVR?oc=5",
-      "source": "Australian Property Update",
-      "publishedAt": "2026-08-11T08:02:18+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA keeps rates on hold at August meeting Australian Property Update"
     },
     {
       "id": "b9905eb9ade78a76",
@@ -553,64 +543,24 @@
       "description": "Bubs Australia (ASX:BUB) Shares Track Lower in a Soft Trading Session Kalkine"
     },
     {
-      "id": "b3b4628ed5c48b2d",
-      "title": "Sorry, but there’s no good news in this RBA hold - AFR",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2NXY3Ayd0NfWWdqR1JBRnp5QWJxcGtLcDZyZmdneFd1X1RaMTFacXd3YmJrUjl5ZWw5cFBYNDZQUlhYTjNwSFB4YTR0ejV2S0lLdnFIVWdnNnR2aE9mZWhWY0FWY2pXOHU3bHpQdDQ3QVR0VDZDMTJEUVVLMUdqYjlSZ1drQW1hSnl5dkxOSG9LT21OYm9qdnRvbw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-11T07:05:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Sorry, but there’s no good news in this RBA hold AFR"
-    },
-    {
-      "id": "f0621940f557aa72",
-      "title": "‘Disastrous’: RBA urged to lift interest rate - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONlpWTnBZQ0J1b3NzVm9YWUJ1cktFRlBEMm1GcWpDZkRkWDdwWkNab0tCX2d2UXB4S09tYUotZDZEVXVYYzBNdmlpV0lwbmg1V2tFMmxBcjE0N3dqRUJYWVRnakc4SHcwQmtPQXpjdGRYYUV3RU5NeUU3SnJqVlRxQ2tLbWN3XzdxN0NaTkducWVrVXNyandIT0hEMUJHTFBOemx5NVgyQnZyT2tQOUF3d3hmTGNyUWEzbnBhdm1ERHd6czBrTWg2TkpnaXJrNlFGMGFtV1MtNno5cl9qMXl1a1JOdGlJSWtFbWozTzJPMjJjQkhUV0lZX0NwRUVReXZGbkpn0gGIAkFVX3lxTFBTV29lWU9BZGhSczNESjFIS2xGYXl6eF8tNzVYUzc5V2Vwc0p5YTRlNFdzcVd3aUFqV0NSbHdCVW42OXd2c1NsQ1NNZ3k1R21hSjFiY3ZxbEpyWThqYUtqUXNoVXRJblZGZVk0dDJxTVBHRnhUdnJIaFJaY1lqTnBWNUZyNnR6NzNCVDVaWE5RLWVlQUpKTm11a3g2VjcyRzlHY1BINi1yQ0MtZ1JLdE1xMlc5YkVJbXhHX3NIcTh5eVZ5WXBSWEdvdnZtZ1VFNkxiNW9uSy02X3dHaG5OaHJPQTZyUkhIeHNONGJNTzF1RlNDeGdrRmNnVVVnT01FUkU1TGgySXZCNQ?oc=5",
-      "source": "News.com.au",
+      "id": "c30f2c8bcd3c6554",
+      "title": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction - Property Update",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90RlgtODZENjZyYkoxdTcxN3JRWi04akllOG9vZ3FOaDJwZG9TbWRwM1drOGJsZVZpc3NFZ1VRRllPNGFsM285Nkt6NTluLUJMNmszVi1ZcTZVc1ZrbWttMmZ3V1EwQ2RhX3BnTV95RkNYWUtOenktNA?oc=5",
+      "source": "Property Update",
       "publishedAt": "2026-08-11T07:00:00+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
-      "description": "‘Disastrous’: RBA urged to lift interest rate News.com.au"
+      "description": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction Property Update"
     },
     {
-      "id": "c9ff74db5770cdc2",
-      "title": "Markets got the hold, but not the all-clear from RBA - investordaily.com.au",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RaWh3blNWMVhfd3ZHVVRRTW01OEhJblVlQXdQampITXdLd3A0ZzJabW1Mb0tpSk13eEdMV1poUzMtYjB5bkJaZTBINGlnellMemRvOExvbGx0RjBCTFI0ZzFXUTA1b0NyNkdSYW1MTnhoclk2UFE?oc=5",
-      "source": "investordaily.com.au",
-      "publishedAt": "2026-08-11T06:35:47+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Markets got the hold, but not the all-clear from RBA investordaily.com.au"
-    },
-    {
-      "id": "eedd5ee69a35358a",
-      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - theguardian.com",
+      "id": "da47dccea1181c37",
+      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaHFpTWVBMHJMUXhoalFlbmthal9WSV90b2xfRllaS2JNRUdlSy1jcWFoWFk4T3lmbUZMOFFuV1Z5Xzc4ZU44bzRXSFEwM1Nxa2JLcmJFcmgxOFNrRk0yd2loX2EwX2s2VjZBdzJVdUJpSEJfSF9NaURXZGU4alV3dFNwN244Q3MzSi1JQlJlTkdRNElzQTdwVXhhdWM0OWhWcEtiNmJfRmlDYmFvNlBPeUQ0cGxvNFRNd0dqMGJpMDZRc3hia0FpUVRSVDdGVmk0YzZxNWFEV3hJMG8?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "publishedAt": "2026-08-11T06:22:00+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
-      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why theguardian.com"
-    },
-    {
-      "id": "a625a26e83d80942",
-      "title": "Australian ‘real unemployment’ virtually unchanged at 11.6%, but workforce and employment both contracted - Roy Morgan Research",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUFCWHVjNXhpc2hZQVhrQzdNNUxfamxNTTV6SXJMMFVqMlFEalZ1Q05XMExIWEtGM0dWeFB4d25fMEtyY3l2VF93cWwwd1RQak5QaTd2UEZYUjdWNjJONWVuZlJSdEE0ZkVrcDRFMmlvaGpIR1RBRGlIdm1tem9xZjFGbjZpRGZkME5tOQ?oc=5",
-      "source": "Roy Morgan Research",
-      "publishedAt": "2026-08-11T05:29:17+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Australian ‘real unemployment’ virtually unchanged at 11.6%, but workforce and employment both contracted Roy Morgan Research"
-    },
-    {
-      "id": "0c85e0786da523e1",
-      "title": "Australia v the world: Why our official interest rate stands out - SBS",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY080bFRRaG1EUExybXZ1VEVqYllYa3FsOGxXb1YzRFI5N3R4Y19KYmY0Qi1pXzJlcmNHSFJ3NDBjTXdLV0lSU3hpNy1HVUNWZ21xNHN1enpwdDJEbmNSbTVHaFp1RlpGejFUMThSZHN2R2p2b2d2RnQwMWpnUEZSTjE5bjhNSEdfRUcwekhJVWpPNFVaRGpvQkFCOFZ0aUJnUnJ4aVZn?oc=5",
-      "source": "SBS",
-      "publishedAt": "2026-08-11T05:24:06+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Australia v the world: Why our official interest rate stands out SBS"
+      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why The Guardian"
     },
     {
       "id": "124972461e1be6a5",
@@ -628,29 +578,19 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSVExSUhZS19mazlSeGxEckpsX3ppZzBtNUZueVVVYWJ1eDNBTkxWVThoR2czWlhqdm1uOGN3NXdVX1psbzJETXB0TUYyT3pGdHg5Y2RpS19mWE1OTDNsSjRTdnBiSVV0cWFsTGpoa2VHT2toczRJMW9Gbkl1Vlp0b1QyTHVhUQ?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-11T04:48:33+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
       "description": "Interest rates on hold but RBA governor keeps door open to hikes ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "50cbeeaa2182148b",
-      "title": "RBA warns house prices have further to fall - AFR",
+      "id": "d9c1e6d0c0e78d38",
+      "title": "RBA warns house prices have further to fall - afr.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUnc0NVNmaWF2Y2M1aEJSUHRzZG1uVDZ1UzdCSm4yYmdhcklpYU9QVXdJR1dKWnBTU2JoMHNaRURPOERxMy0tdHhnb0RqLWdJelZua0ptUnJNRDU2VEJnQlZGdDFVM0tlS3ZSR0RQQU9hV0NBZGFlakNQbFpiaW5wNGowbUtubnY4bG8zQkpweVRRTDlrdDJyZ29B?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T04:46:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA warns house prices have further to fall AFR"
-    },
-    {
-      "id": "ad94072e9932025b",
-      "title": "RBA spares borrowers another hit as bank tips 14 per cent fall in house prices - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMl9GU2NmQ1dwbENyWFhZaVR2Q2Y3TVB0WWJYT25OUFJoUTVxSHFtUU1HSHpzeDc1T1VEdHplb1J3eHprd3VqZHY3Q0NVanB5U184M2E4eXZIWDgxaGFwU1hKYk5rTjNZeUszZUp3RFNmd2I4TkVxakZqWDZDUGdicVpKVy1KNks1MWtEbGtaOGtCbGlvS012dGRCY2RPcGs2c3pZREhSQXo0cmFKaS0ySG5VWjFDWGJFTGNuYXF5MUFXRWx2Y3c?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-11T04:31:01+00:00",
       "category": "housing",
       "official": false,
-      "description": "RBA spares borrowers another hit as bank tips 14 per cent fall in house prices Yahoo Finance Australia"
+      "description": "RBA warns house prices have further to fall afr.com"
     },
     {
       "id": "7e56bdc85fb8027a",
@@ -658,39 +598,29 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WT0ExZGxZTlRtSXpod1dnTFljblZ4Y2tfU1ZPcW9lejdySGZJczlWS0RpaGlxblM5YVU0ZDBldVBscFBqakd1MnVEREVZenY4ODJ2TzNkRERWLWN2NGNDeml3X1NhYzg?oc=5",
       "source": "rba.gov.au",
       "publishedAt": "2026-08-11T04:30:00+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
       "description": "Statement by the Monetary Policy Board: Monetary Policy Decision | Media Releases rba.gov.au"
     },
     {
-      "id": "ab539457df524dc7",
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - theguardian.com",
+      "id": "d19d3685a241337c",
+      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzB3blRNSGJad2pGdTAzYXplQmwxMm8yUU5FTXJiNnlSVWRSbkY5YXZKSm1VN0tBcEdEOGtNeGhpWnpUekVKMVBpdFF2UDNvall3bXZqNnV2ZWtJdkMtaHE2ZkRsWUNuS3VyM1hWMFVRUUtnMnNpdnptblJzNGFFUVplNTVLNGEyN3drdnNiam9vanVCQWxZSnFLUXJjWWUwOWRJU3lRN3F1dVk?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "publishedAt": "2026-08-11T04:30:00+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
-      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed theguardian.com"
+      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed The Guardian"
     },
     {
-      "id": "b71ac182cd489851",
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35 per cent for second straight meeting - 7NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1FYTmp6dy0xSWp1T3lsTktGR1NUMDhZU04wdFRXZC1RV1dUeFZyMGQ2X0p6dGFFMVRxeGpFNlBOSldYRHU2aVh4Vmh5N1NLQm9qMDlBUDVUQ2p5THRXZlA3UFktaUZtVUtoSUNVand2LVBRX2lhaW5WN2pnVEFqY0pCS3lnLTBsQXNPV0VteEl0Zm5QV3VQWERTcVVMbDhIWjhjLXlLbUROR3prOGkwa2NTb2psc3Z0OVE3NEZ5NDExNnVOTGg00gHMAUFVX3lxTFBRVzYtVTRodndvVmdzTngtSXcyM3ZUb0M5WnNEdGtuRXJKa3NEejNPU0xTcTk2NjVHWHZwbXE0RmRULUdPMHVvRURlRXBZVkEyRXNmNWw1WkhhZ0ZxM2lvblhyX3FId3R3Nmo3WlZaREZ2ZmtPM1NOc3R6NUxva3d1U0JUdVN2RHVyN3B3S0xkUmxRTHo1aFBTZUI4c3dxc0dnZDJVUkRCM0dkc0ZQNzFHQ1liLTU0U1ZIenNkWWNfUEdfZnRBbTdRQkpKcg?oc=5",
-      "source": "7NEWS",
-      "publishedAt": "2026-08-11T04:30:00+00:00",
-      "category": "economy",
+      "id": "32082fc357061fe8",
+      "title": "ANZ forecasts Sydney housing prices to fall by as much as 14.5pc - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHFjemQyUkFCczUxZDhKNXNsNGE3ODNBbktmellpVWhPdU9wSFB2Ui1UYWFqaldURUozWUQ5d3M5dzFNVTRndkhMcTVtTjlxTUR5cUpzRUpha25heWhmLUI4V3VLb2JYR2VjYTVpUlJWOXNMRWh0eHZOcUQ2OTQ2RXB3cDY5NS0ydlhtT1NQTHhwVTNNQkRYV0Jkbjh4OU1KS05uTW9hdGxVMFk?oc=5",
+      "source": "afr.com",
+      "publishedAt": "2026-08-11T02:19:00+00:00",
+      "category": "housing",
       "official": false,
-      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35 per cent for second straight meeting 7NEWS"
-    },
-    {
-      "id": "b4ebb3cb5a735223",
-      "title": "Reserve Bank tipped to hold rates but keep the door open to hikes - CommBank",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0N5STZzOFF6LXJpeTlpOXRVb0VPVlZKZXpoTnpZQXRoWWdMc3NCTmItSGJNcW9odlh1OFFnNnpuZ0J0NllZLWwwUEc1QXZoRzQyUDN6emluQ3d2OWQxNXp2bkJtMnNOSFZ2U2RIWHFkd3VENmJweHVJb0dUOHhLdzl0U0xRN3VQSWJZWWdHVmJMYzNkNUNSMDNHcExZNnJEM1R1MHo2YjdHdUM4ZVdCN25Fbw?oc=5",
-      "source": "CommBank",
-      "publishedAt": "2026-08-11T01:00:16+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Reserve Bank tipped to hold rates but keep the door open to hikes CommBank"
+      "description": "ANZ forecasts Sydney housing prices to fall by as much as 14.5pc afr.com"
     },
     {
       "id": "8d4ce575be4773cc",
@@ -703,14 +633,14 @@
       "description": "Rate rises still on table: Bullock says even 20% house price slump wouldn’t spark crisis SMH.com.au"
     },
     {
-      "id": "443f12a3504235e2",
-      "title": "ASX Preview: Australian Shares to Fall as Oil Surges; SGH Fiscal 2026 Underlying Earnings, Revenue Down - Yahoo Finance Australia",
+      "id": "22d2e6e119d94500",
+      "title": "ASX Preview: Australian Shares to Fall as Oil Surges; SGH Fiscal 2026 Underlying Earnings, Revenue Down - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmhTaWo4Zy1MRnNBeGVlOWxEaUpDS2FpNmRKbzNQZjhEcFNpZEJGZi1aWDYwUG5YYm9QU0pTcHBvUG8xV0JFT2RnVkFobmpGalk4SWxEdUpYTVk3c3dXTjh1aEUzOXZibmJQSFA4aTNkV0xZUFI5b0U3WG9DaF8tYk9DS3VtdHZ0bS1N?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-11T00:04:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "ASX Preview: Australian Shares to Fall as Oil Surges; SGH Fiscal 2026 Underlying Earnings, Revenue Down Yahoo Finance Australia"
+      "description": "ASX Preview: Australian Shares to Fall as Oil Surges; SGH Fiscal 2026 Underlying Earnings, Revenue Down au.finance.yahoo.com"
     },
     {
       "id": "fd59cd2a3ace6ee9",
@@ -728,7 +658,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaG9KX25CT055Q0ZNOUNmd2I3NW9pTV81Ty1NVHVhVHZjRTdSTU9aZWpkT1B1LTFfcVhSQ3JZa3hKOGhndjlpbE9HTmRmbjdXR0hHSUFxOU54eXdqQThBQjNMNTNHNmxNV3BIVkh1by1qaDk2blNGZVBVOXBXSWs0T0xsejNrRWpxNmZLaDZncmFMeVljNEVrY2VxQndnZEZKUVFYTHFpMkJDekZLd3F1MWZGdUl6eHRiTGNqdUxhUUQ0bTloalV4Zy1wcS1hcUpM?oc=5",
       "source": "Nine.com.au",
       "publishedAt": "2026-08-10T19:33:31+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
       "description": "‘Tumbleweeds’: Buyer’s agent declares Australia is in a property recession Nine.com.au"
     },
@@ -748,99 +678,79 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGF5Tl9rVjJ2Y043aUZEVzEwYVRidnJPRUZxYUcxUFR2OWx4UEhxZE1ENWFobXd2UnF1TXVVU0Fjem9RMzBfYk9OY2JaYWRQalM3cFFWVWxaSDNMNnpWNTJLMEtpLWloanE5ek42SnhuQjA1MWp3bWQwenRoTWZYLWJhTFIwRWxMX0pFRE5xdFZxN2xCSTQzbjNuNVhQNDF4X2dVczV6elZlWmRuU0E?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-10T18:48:35+00:00",
-      "category": "economy",
+      "category": "housing",
       "official": false,
       "description": "The RBA's big challenge: How to navigate a real estate downturn ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "ea0a4545125a7444",
-      "title": "SMSF ‘ban’ is shaking up housing – and commercial property, too - AFR",
+      "id": "8be0bc626ddc79d8",
+      "title": "SMSF ‘ban’ is shaking up housing – and commercial property, too - afr.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM281NkQ3bVFVWVQtWXIxYXBrVWpWMVRoVTZ6OW45TVRtMk5MZjRIaEVrdkRpTGR4eE8wam1HNlN3cndMdmRoaVFtN0NsanU2cDBGT2RFMEZyaWVnNmJ3WnR1XzhZWlA4M21SM1BwX3BTeWQwaGRXa0dCaXc4b3QyMkRSWmlmYjByVkxHY05rVV9QUFdSRTNUUUtiZmtJUDFSaTYzb25ubHFSVzIyUmJRZDByZWI?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-10T07:27:00+00:00",
       "category": "super",
       "official": false,
-      "description": "SMSF ‘ban’ is shaking up housing – and commercial property, too AFR"
+      "description": "SMSF ‘ban’ is shaking up housing – and commercial property, too afr.com"
     },
     {
-      "id": "2ed563d34d4ad8bd",
-      "title": "Calls for 'small' change as self-managed superannuation ban starts today: 'Drive up rents' - Yahoo Finance Australia",
+      "id": "e14961afe7470e18",
+      "title": "Calls for 'small' change as self-managed superannuation ban starts today: 'Drive up rents' - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVBTREhSTEZqaVRESktFOGJHWFFkcTZtUnFRSWVKVmZUbmFQdmIyVDItdkFKUC03N09tWXkteFpjQ0Y0eTFQN3o0ZWRIRC11SS1JR2V6eXVUOU1lRkRQcFRkaDBxeEZXWkRIVXc4LUFGNmRzQmdNVTJZVTQ2VXJCand2QjQ5bEJvUVNUd19YVmpna1gyODY4a2NoclRtNGpMdTQ4T29EU1ZHb0E0aXkyc1BMcEZLSnhHTWxGamFTNnVyV3EwZ2ZBc2pJSU9wUms?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-10T04:39:00+00:00",
       "category": "super",
       "official": false,
-      "description": "Calls for 'small' change as self-managed superannuation ban starts today: 'Drive up rents' Yahoo Finance Australia"
+      "description": "Calls for 'small' change as self-managed superannuation ban starts today: 'Drive up rents' au.finance.yahoo.com"
     },
     {
-      "id": "a3952f22c91f587e",
-      "title": "Co-buying on the rise as property affordability worsens - Australian Broker",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm0taXVZN1pSUGIwUk9WTWNHcU1YZGp0YU1mVlBOTGpOWjB1ZmFWNzBZeWtpdXFTMVZNRU9NOFotTlRzbVhJY1JNYjZLY0pqd3RuT19ZTnFfeE5WbFdsOXV5d3RWdExEeWdJUmE0Z0hYT2pqWWdQX3lURVo1Nm9SQnZvM0ZIV0IwWFNROXdWb0FKYVdDeTF2eDlJRDBZNGs5NkFlN25GOHlOVDRiRy0wN0RmY0Fmdw?oc=5",
-      "source": "Australian Broker",
-      "publishedAt": "2026-08-10T02:39:29+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Co-buying on the rise as property affordability worsens Australian Broker"
-    },
-    {
-      "id": "1ddc8709038e6c59",
-      "title": "ASX Preview: Australian Shares to Rise; Westpac Banking Fiscal Q3 Net Profit Excluding Notable Items Down - Yahoo Finance Australia",
+      "id": "2bed181925a16823",
+      "title": "ASX Preview: Australian Shares to Rise; Westpac Banking Fiscal Q3 Net Profit Excluding Notable Items Down - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWlRbnYyMEZDckhOcF82czRlX05DeG9WMXBhMS12SnVzTnhoeXU5VUFldUlEWm1IMmxLMzBKUVBtOFRSd3l5YjRzSE02Q0MyZS1Lb2t5VmJuSHlmWXVZVTYyR3MxWUQzQVN3TTdpMDliR1lkWEdYbFkxdFRWVDM4b29tcFBSdW9xRzI4?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-10T00:09:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "ASX Preview: Australian Shares to Rise; Westpac Banking Fiscal Q3 Net Profit Excluding Notable Items Down Yahoo Finance Australia"
+      "description": "ASX Preview: Australian Shares to Rise; Westpac Banking Fiscal Q3 Net Profit Excluding Notable Items Down au.finance.yahoo.com"
     },
     {
-      "id": "1052f50c2c17cd1f",
-      "title": "Centrelink tactic to retire early and preserve super : 'Nothing to stop you' - Yahoo Finance Australia",
+      "id": "3baf75e90c5ea16e",
+      "title": "Centrelink tactic to retire early and preserve super : 'Nothing to stop you' - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2FGUVdDZTVrWXVBa25UNEZhc1dVMFNUajhLNDFOZ3lkTHBWME9YMUNiQ1BROFNYLU5VN1hVWWVkRjZmaUlVOVltSTdSQjYwWEp0TEtHOEtaVlJ5WnNvYnJldWdONHpPaTNQMExCUm11azViNWVfc1ZKb3NnNWpSOVlwSjRuN2pqaHZwcmotY1kwMWFwT2Q0T1B0Sk9seklWVWZYZ2J1SENkVjZzLXpaeFdsTFNvYjhMNm1Za1JaNXN5c2NERUl0aWJVOWJrR1FGZzBraA?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-09T22:42:28+00:00",
       "category": "super",
       "official": false,
-      "description": "Centrelink tactic to retire early and preserve super : 'Nothing to stop you' Yahoo Finance Australia"
+      "description": "Centrelink tactic to retire early and preserve super : 'Nothing to stop you' au.finance.yahoo.com"
     },
     {
-      "id": "dfa59853e05fff3b",
-      "title": "SMSF investors still back property after borrowing ban - smsfadviser.com",
+      "id": "47a9177b4d4f97c6",
+      "title": "SMSF investors still back property after borrowing ban - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXpGbEY4ZDlQZUgwN09sX2s1VW9fQ1hEUTlCOFNhcEJoWFRtQmlHd0dwN1RVM3I3TU5Td3VBRXNaOFRhQklLX05NSV9jWlJKRzN0UTFVb1VXblppb1V3NnRkRzhrMUhTTVd2QWQ0czhwUWktX3pZUnNVV1ZEc1Rjbzd2OE9IU20yelVB?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-08-09T19:36:16+00:00",
       "category": "super",
       "official": false,
-      "description": "SMSF investors still back property after borrowing ban smsfadviser.com"
+      "description": "SMSF investors still back property after borrowing ban SMSF Adviser"
     },
     {
-      "id": "5c7d79a3f9e84292",
-      "title": "IPA tells Govt to keep hands off Australians’ super - smsfadviser.com",
+      "id": "9ec6754becca56e1",
+      "title": "IPA tells Govt to keep hands off Australians’ super - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWF80bkxPZUdvTlFhTDdjUmRxdU1TZ2tFazdTWW5FSEJrNUdtVFVMQThsaVpUNEo5QkZxaVlFS0x3UG5aWEJUaVo4N3VFdTVKUjVFZkFTNVFqb2tjTDB1N2tsV1E1cDJ5cE1QeW1lM1o4RWljM21wcERXUGltX3U3Nk4tU3h2dw?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-08-09T19:36:16+00:00",
       "category": "super",
       "official": false,
-      "description": "IPA tells Govt to keep hands off Australians’ super smsfadviser.com"
+      "description": "IPA tells Govt to keep hands off Australians’ super SMSF Adviser"
     },
     {
-      "id": "fac7040bb79c0a17",
-      "title": "There's another way to fight inflation — and it involves your super - SBS",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmJ1SU1UVUJVU2pWNzZ5a0MySUJ0OU9Sa1R5M09qanpQS2JhdTd1TVRDYmE1TTdscURhT1Q5YmxSdzFtcTdSdEFPSk9SVlIyd1VmMEhyRXdWNDdYbHhPTExEeEJaMjhfUFhwb01ZOTBVR0V1M3laY25sQmtBMS1CNlJ6eFZVZkwybTJCS3A3N2lWMDFsNjIyQmdiTGc4UlF4UExXOTdJRkt6RkFES0hMZUZn?oc=5",
-      "source": "SBS",
-      "publishedAt": "2026-08-09T19:33:19+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "There's another way to fight inflation — and it involves your super SBS"
-    },
-    {
-      "id": "0b4542c73b81670c",
-      "title": "Mosman to Toorak: The 50 biggest suburb house price falls revealed - AFR",
+      "id": "2b3253cff4c7f1d2",
+      "title": "Mosman to Toorak: The 50 biggest suburb house price falls revealed - afr.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVhtc2p0R0xJQ2RRbVJVWHhiSTBXblNnN1N6Z0dEVHZWN3J0TFBDOUFsVDVySUwzTHQtTm1qRzRSdE0xajdQTXN2cUZQeFFqbDBFQlliZGIxZ0VKMll5cGRaYUprbE16OTQ4NmpOU0JwOFlMS0FZOEZ5dU5IZkljcU15ek54VVRMdy1zVE9zZWNUT2lqdkEzNnpLRDdaVnNVOGh2UEIwX2EtNjJrVW1HS2cyT1g1Sk0?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-09T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Mosman to Toorak: The 50 biggest suburb house price falls revealed AFR"
+      "description": "Mosman to Toorak: The 50 biggest suburb house price falls revealed afr.com"
     },
     {
       "id": "1227f535fd1f2d41",
@@ -863,26 +773,6 @@
       "description": "Millions of Australians could have no say in who inherits their super ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "44477983880f3e2b",
-      "title": "RBA interest rate relief this week could be brief as Australians told to 'buckle up' - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWlqMkNWSldoeXJ5clJZNkF5TWFJa0tTRWdaLXJkQmRfT1pNNjliRURKVGRGUGdKSktkQ18wdlZqQTFCanQ3S3dYb2Vka0J2SnRFb0xmdlFxeS1wUXgzcVN5NHNub1ZKUDVRM0VZN3UwRGVLajA0OXdiN3VWY1FBbGlaMG5ZN0hfYV92RmZTOUhoUHdjR3ZTQ2Mxb0JUNGg2cTV0cmJhY2ZpR1J5UFRhQm83ZVdpTDlzcU5VTnd4RUF0SEN5XzZoTk45NA?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-09T06:00:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA interest rate relief this week could be brief as Australians told to 'buckle up' Yahoo Finance Australia"
-    },
-    {
-      "id": "dd9c2c55ff7fd254",
-      "title": "RBA should defy the markets and not miss opportunity to raise rates - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3pzZXMxblAyemM3ampsV2IwaHZHeHVEZGtfZVNEOHM1VTN2Z042dEJwNHpSZmQtQ0tBMUtKQXlhZUJSdHBvVmM1dVdtMVlrX2NtbFBaT0k3RW93VjhmdWlmNktEUTQtM1N3cTZWQU1FSEE5b01mLUZMRjZpZ1ZrVnhNclREZ2JGbEp3SzFNckpvclh6ZnM0Vnl1QVdOYU1BdHdSZ0Z0Vk0yUENZVTQ0dTZEbUFvVGhqTnc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-09T05:18:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA should defy the markets and not miss opportunity to raise rates AFR"
-    },
-    {
       "id": "a6f4667241243908",
       "title": "House price corrections come and go, let’s not overreact this time - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMTRyVDJUbi11aGJ0cTh6Q0c1dV9RbkotWnMyOTBJQzJTb2ZJZ3NIYjlmcVRvci1lSUhjVGR1aDdsLWdBaVhtaGlqQm1pVFVsWlprVF9lVkF5ajhRbFBaNUtvWnRoSFR3Q0gtekY5cGtIemU2X0FnRkFuc1U1SVJOWkFlOWJaUUpqRlVnNjBiTkkxUEZUSWF6UWYwdkV4YzNWMUFGOFAzWnBNOFdHcmFVNEdBaEhkQUc0amQ1OV9CZw?oc=5",
@@ -901,6 +791,116 @@
       "category": "housing",
       "official": false,
       "description": "Record number of homeowners face loan default realestate.com.au"
+    },
+    {
+      "id": "90b8c4f21fdf48e7",
+      "title": "Big four banks expect property market to feel pain through 2027 - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXlKX1phODREMjExaFRqWENzenFNMUtrbWc0dGZpQ3Zibm9pa2czYmdpZkthQnBrOW1wR1FWbFpWZDJSUExLZkNUclJfcVpFbWZ4QnlxempEV1B4ZExQdjh4WHJ4WFBVS2RUb09ZbG0wamcwcWhxUWZSeUxOTncxeWlUblFTcUduSUhGbTBkQW1iTS03cm1QeUhnRExNRkY3S2ZORXZMeF9fNXhoWXdnTjFYVnpSSlRqdlcwVk1kWHlPQQ?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-08T19:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Big four banks expect property market to feel pain through 2027 SMH.com.au"
+    },
+    {
+      "id": "7ad88571c0d24f91",
+      "title": "House prices are falling, but first home buyers like Grace say corrections haven't helped - SBS",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXJGemFGbS1DaUdkTDVBTndvM2czc2lZOEFLWkc4bEpYYjcxNnRMR2UtSmZZdC1VVnJlUDRxVFZJVFJPV1IzVVc3MXlpLThaeDZsSmllLWVVNldpa0hKdm5iRlhHV0ZPZ3haQXFHaDE4am1VcFNXeWZTYnFqSi1jMWJxZjZKX05KSlVpYlRMTXB1WmUzOXBnNUlIU1ZIaHI0bW5yYzYxOWNJMW9CNk1qTA?oc=5",
+      "source": "SBS",
+      "publishedAt": "2026-08-08T02:52:34+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "House prices are falling, but first home buyers like Grace say corrections haven't helped SBS"
+    },
+    {
+      "id": "8aa80a8745f1baad",
+      "title": "Should you sell or wait? Seven rules for a falling market - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXBhcEpDTU9Rak91Z2RaUWJ4Tml5Wm1VTHBHRDdWRF90NXBxUFZ1TS0ySnNvajVlTlB0STE0UXhhaGRMNlNCZE1IcnU2dXVQa1ZVWlpmemd0XzVEbFZ1YXFUZXJXUzU0M19aNFFRQzBqQm5heldYYWg1ckpjZWFSLUJoVGF6T3pfUDZaX3MwTk5UTHlvSW9MUkJ2NXpPRWpxZmNvVXkwUEhfRHE0VWhJTzU1WEhUcEk?oc=5",
+      "source": "afr.com",
+      "publishedAt": "2026-08-07T19:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Should you sell or wait? Seven rules for a falling market afr.com"
+    },
+    {
+      "id": "0ff9331b4e7011b1",
+      "title": "WA and Scorchers quick Matt Kelly announces retirement - Cricinfo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUpsNVAwU1JwdEhkTHRXSTlZczh3aVBDbGlPWTIwMDlXWVdzbGZHdk9qVC1jeW9zQU5JdUs2NGQzZjlBVk1iTzh3MEFFUlBScVhsR1JzbC1xWDlNVUtHMU5MRDV4alBXX20yMmNMT2tkal9IYXNNU245eTV1NFdJUGNNcW1wQXBPUjJ1NF9rTElwUldtbTJUdXdyZGpfSjlxb2tFZ1MwTGZwNFdEeUIzMTlUcUrSAcYBQVVfeXFMT091NUVuV1BDZHNoRlRYQVRmQ3NZdzBucTNSNHlNNUNBcE5aaEtnV3N3SDByc1BXT0YtNTJRQkhOR18xaENnT094Y0RvV2JkTFlqdmNUbGJOWDBUVFRZaVZLZFZKU2s3bkxCV1VRSS0wUmYxamJKcjgtNVRrM3kxYjJVbFhIaHBFMHVuR0hDUWlNUE1hMThWRmlOWHAtWkstd3BWYkhLTjZLLUMxbWotWk93YTk5TG1lMl9aN21YMFVUN3BSTnlR?oc=5",
+      "source": "Cricinfo",
+      "publishedAt": "2026-08-07T05:58:02+00:00",
+      "category": "super",
+      "official": false,
+      "description": "WA and Scorchers quick Matt Kelly announces retirement Cricinfo"
+    },
+    {
+      "id": "388c41e3eb926969",
+      "title": "Can Australia make housing affordable while avoiding a major market crash? We may soon find out - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOERWaFRQS2RROTJabEprcUNXT3ppd0M1dS1uWTBkRklDUW9vOFFjLVo3RzEwVnVQWm5VR3NMd3VhYTRTejhnd25xVHFrOTJIb09vdWtpcThqN1FwV0tmVU5Qekw0RDJ3dnU3U28zWXBNUVk3MVd5Y1p6aHpvSS1qdlFhSTRVQlRXQnNvZHgxSUUzOG12bUx6MW1oS09qSzh2d1ZXWHd4U0VEajY5SXRyQTFPaEhBTXpkZGxqSXMzZ0NaUVZ6UVE?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-07T05:39:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Can Australia make housing affordable while avoiding a major market crash? We may soon find out The Guardian"
+    },
+    {
+      "id": "81cc7f8370bf72af",
+      "title": "The SMSF Awards return to honour excellence across Australia's self-managed super fund sector - SMSF Adviser",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ25oejlROEh6QmZnTHktdGxET3FnMF9HamFTaUdRNlBsOUZFcTh2dXR0V3ZXMzdyaGw4TVg4NWVkQlM3WkwzTHF3WmphQ0NjT21IT0tBX04zbmlSZWhLdGg0bExZS2Z2d3RKZTJSUVZlaHdzeHpvOWUteVJCX0F1RmllR3dXZ0d3dDFmUDZVNDJraGZnclRnbmFxOVhEU2JwRHRyLVV2X3RqMFpad3lTR2s5S0s0OUlHNFR6T3Vn?oc=5",
+      "source": "SMSF Adviser",
+      "publishedAt": "2026-08-06T21:55:20+00:00",
+      "category": "super",
+      "official": false,
+      "description": "The SMSF Awards return to honour excellence across Australia's self-managed super fund sector SMSF Adviser"
+    },
+    {
+      "id": "7f3a709842c11169",
+      "title": "The house slump spreading from Sydney Harbour to suburbs, in five maps - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVY5ZW5ieF9yckc0NTJtY1RyMllmT2JMa1JIRU5QZjZhcDFjaV9LOXktdWxIdERPS2Nwakl2Rm0zcURmVzkzN0tPUVRENnN2UFpXc2lDaGtVVkNUdWVYWlZFUFlVOHZsTW9vTmpNeWhLdFZzZHA1aUhfdTl4dW5wQVVIZGxybVJ1bkljRFlaTk9VSjlEMmNVc1VwQkE3VXhpTVdfNTNKSWkxUWEwNGE1YmtwTDZvbmhlVWFka19vNlMxcjQ?oc=5",
+      "source": "afr.com",
+      "publishedAt": "2026-08-06T19:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "The house slump spreading from Sydney Harbour to suburbs, in five maps afr.com"
+    },
+    {
+      "id": "09424e54b959da37",
+      "title": "Tell us: how do Australia’s falling home prices affect you? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjNkWWZSWDFJc3dEcFA2OHlrSWlMSkk0OXhPakoxMHVobTdPQnJibXh5M3JYRU9TaFVyblZvWnAtS3FEVXhCSmEzeGhFNzJvdG5udk8tcDNsb1Fya1J4aXF4UUpoRUU0MGZiMHpteGtoVi1UWUtWSmxXeERJWE5ydko5RXdySHRCTlpDcWpEdjNsbXR1eVNCcF9pbHBySEwwNGRQSW5LNVp2Q2duSUdJOA?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-06T03:57:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Tell us: how do Australia’s falling home prices affect you? The Guardian"
+    },
+    {
+      "id": "bb78527fe52e5c9d",
+      "title": "Saving for retirement outside super - superguide.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0xNd2p1UUlrd2UxMTV1LUtqQWRmb1N0QU5uWHRxMllqT2dBT2RvU1Z6bjJhZ01YTTZpalpEWHFvOGRkZVhQekdpZEk1Vk5MRkY5UUhaZHIzNHh6YW5wMVh3TGlfa3ZMNEo1bEdvc1pCY3RNRC1SRk1PdFh2NXRTV0cxS2RCR3pD?oc=5",
+      "source": "superguide.com.au",
+      "publishedAt": "2026-08-05T05:46:37+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Saving for retirement outside super superguide.com.au"
+    },
+    {
+      "id": "be78d6d801156b5e",
+      "title": "Retirement villages invisible in Australia's housing plan - The Weekly Source",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnJjb1poTnlmVjR5NkxTUjdaa1l6RkZ3U0MzZHJUTkJ4N3BrRzc3QURYUldjcmJPQ3FEUTFTV3dQcWhHcXpBeUx4Yko2TDNQbzdaeUIzNW9lRlQ2R3owby1nclJJMmNvVDFMUms1R2FWM0dqYlVXOUNKS0NsWUpSS0FUX1VxTEl1S28xNXV6eG9UbE44dW9qWjNCU2d3TWZqMUlfZEppWEgyMHFfNlE?oc=5",
+      "source": "The Weekly Source",
+      "publishedAt": "2026-08-04T00:38:29+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Retirement villages invisible in Australia's housing plan The Weekly Source"
+    },
+    {
+      "id": "2fe235bc2d03c9b5",
+      "title": "How ESUPERFUND uses technology to support SMSF administration - Accounting Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0hvbE9LRm9zLS02VGU5YmpIeVNIUnZNaTl5SW9IMllrUWRmZko4RnN3NE5TR3NoQ1dpaUM5M3RnV1FXMW9aYTY3WjhMdE8zajVMN3p2cW4wdmFDVDdlVnJXWUVuTHRHbUNIZFZWNDI5M3gzY01yRHhHcXdVVklGclRNWDhRV3YxNXB4WDhWR09pUGRhdTNwT19mellic3FTUjB1c3BETQ?oc=5",
+      "source": "Accounting Times",
+      "publishedAt": "2026-08-03T21:28:23+00:00",
+      "category": "super",
+      "official": false,
+      "description": "How ESUPERFUND uses technology to support SMSF administration Accounting Times"
     }
   ]
 }
