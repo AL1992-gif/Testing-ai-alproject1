@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:56:08.964839+00:00",
+  "generatedAt": "2026-08-14T17:00:19.218898+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -81,16 +81,6 @@
       "category": "markets",
       "official": false,
       "description": "The real housing problem, profit season so far and KPMG cooked again AFR"
-    },
-    {
-      "id": "8debdd072a254e52",
-      "title": "Helloworld Travel (ASX:HLO) Ends in Green Territory as Investors Monitor Leisure and Corporate Travel Trends - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdkNRYlFxNFFqTlVDUU9jQ19aOTRHSV9rR3M3dk50SGxLbl9jY2w1YU5Mck1zcDRscFNxZGNSa1BCYkI4aUtMN1lIUG5wMDRyOGp6TXZjdE1DWTJQSFNYV0c4SUZoTzNPdzBnQ2VYR3hvRUFoYlFsa3RSY0M0YmNvSUxBNGJXS3daenRwdUZvZW5KSUdnSU92NU9kV1M3TmNXa1p3bG0wSTJsdUQxdjdKVmllS1Q0Wkc4TTFXVldfeDJmc3h6clRsMUJ0dXRqeW1lZGVBcjVMa2hCQQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-14T08:42:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Helloworld Travel (ASX:HLO) Ends in Green Territory as Investors Monitor Leisure and Corporate Travel Trends Kalkine"
     },
     {
       "id": "974ba9a89a01933f",
@@ -183,6 +173,16 @@
       "description": "Scott Power: ASX healthcare lifts ahead of FY26 results from sector heavyweights Stockhead"
     },
     {
+      "id": "68d849ccfca9ef69",
+      "title": "Closing Bell: ASX ends week with a BHP-sized headache - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkJrVk03dmlRUlJNZk1mRTZ6bG16ZDB0WEtFLTgzdkpndDRVcWJjaVltOEh4WUp3QjhDVGdpWUtxVS1JaE1qNm4tTEk0aHA2N0FOS21TenJXaGNDYkNSaEU4N3U1MlJVRFYtVDZxTnRNakNFU21uZ3dBcmFsbXQxcTV6NkZTZHFCRHlJ?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-08-14T06:54:14+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Closing Bell: ASX ends week with a BHP-sized headache Stockhead"
+    },
+    {
       "id": "8b75785db1eba8c6",
       "title": "Bubs Australia (ASX:BUB) Expands US Infant Nutrition Growth After EBITDA Turnaround - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXR5d1lvNnRWRWFxRWZMbU50b1FCaGtaaVNDcEFDSDkzanRZRTNDWjVoaXEyNUVZWFh3aWtILVgwLXZ4LTNFVlZLeVBRTnlsWHE3Tm5ZaGtSVDcxR2xqQnlWenhKa3BuaFRDWlE5SmticWI2aXpjMjBkTks1Rmd2Q0lTMWZOZVFpejJiUTFoM2hNVlI5SVdXaUtSOF9WU0hQejY5UHhNYTd3eU9GRGJZaUx5THg0NUNL?oc=5",
@@ -233,34 +233,24 @@
       "description": "Australian Shares Fall; QBE Insurance Group H1 Adjusted Earnings, Gross Written Premium Up Yahoo Finance Australia"
     },
     {
-      "id": "d719d79fd5da52f0",
-      "title": "Baby Bunting (ASX:BBN) share price rises on 34% growth in FY26 result - raskmedia.com.au",
+      "id": "5a57d20cee936ef3",
+      "title": "Penthrox powers Medical Developments International (ASX:MVP) back to positive cash flow as paediatric approvals land - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN04xb3dVMVhlaGtDSm4wTl90LVhmQzNYY0ItWENGb2s4a242Ul9ZM2VwNW9UTzdOT3Z5ZUhfRUJiUlhqOEZWOWxtZmZfWkptLVB4elE0cXFpaUo3OG1ZRWFQWndIMjZnX0w0OEFseERDa0s1VEhnLVBYRUdla0toZDJQZE92TF9qZVItUHpXZkxBcFlEb2VhVE1UQlpwQXBuamc0Xy1MaXNJMUstRlRjSGRzZlF3T1FQTHRBS2hZZDdjMlRCVDgxNHBQdWN6UVU0ZXVyTU50LXJ4clB2dTJMT25BVUZqUXVMbVE?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-14T06:27:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Penthrox powers Medical Developments International (ASX:MVP) back to positive cash flow as paediatric approvals land Kalkine"
+    },
+    {
+      "id": "49e813abbb4ca520",
+      "title": "Baby Bunting (ASX:BBN) share price rises on 34% growth in FY26 result - Rask Media",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU1Jbk5MUzUtM0hWRmFKTU5VWllBc3BNTnRoc245d3pOeDcyTS1nQXJBQXVOb3p6cjdpZk1ZYUlqU2xaSjlsNUpDZTFROWY3TWpaYUFBaGFaQUhKV1FEcEtudFNtdzFIQmxLUFlJc3JSaEhMWE5UZTdMVUZnbWYxTlp4S0dlS1pDd0c0aGRhRElPUndzdEtuRUlyZ0JvdE8wakNZdDNuSEcxQQ?oc=5",
-      "source": "raskmedia.com.au",
+      "source": "Rask Media",
       "publishedAt": "2026-08-14T06:18:52+00:00",
       "category": "markets",
       "official": false,
-      "description": "Baby Bunting (ASX:BBN) share price rises on 34% growth in FY26 result raskmedia.com.au"
-    },
-    {
-      "id": "8c4a04657b64afe3",
-      "title": "This housing correction is on track to break records - AFR",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazNwRWlwcTZrcGd3VmpWNjRiSEZ5SDczcV85c3VGSnZxV3ZaZUx4RE5LWE42T3Q1bnlDai0zeUUzU2lCUmdhYmVFaXFwdW5NS1NKNVBaRGlWbDJhTTd0dm1qal9GUU9SRHY5Y0FuRGphSWo2Uk5zN1R6WE5Zb2VWbHdkUVRXWjYtS0JZUHBMaHlYTklGcGZOMjlxU3NvcEdlMnBsTGxkQzVET21OR2IyQw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-14T06:00:00+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "This housing correction is on track to break records AFR"
-    },
-    {
-      "id": "94922dd32a5a1f4f",
-      "title": "ASX Small Caps Weekly Form Guide - Stockhead",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOVjh3OXpmMVZMOU9Qa1dxWENLWDFoQTM1VFg3R2JUM05mQTRrYkNFdkZRWS1SdU1hVmRWYURncEI5ZklsRGp4SGNldVJVa05HeWFmSHoxZDNRVVJMYkxXbDJEbnF1UmxfNXBVdWROYk42dVI3SzYteQ?oc=5",
-      "source": "Stockhead",
-      "publishedAt": "2026-08-14T05:39:06+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Small Caps Weekly Form Guide Stockhead"
+      "description": "Baby Bunting (ASX:BBN) share price rises on 34% growth in FY26 result Rask Media"
     },
     {
       "id": "5822d766d73cf058",
@@ -403,14 +393,14 @@
       "description": "Australian Agricultural Company (ASX:AAC) Shares Slip Into Red Territory as Investors Watch Beef Market Trends Kalkine"
     },
     {
-      "id": "39b3a455141898be",
-      "title": "Industry unites to fight SMSF borrowing ban on new homes - Australian Broker",
+      "id": "24702d0b9de8080f",
+      "title": "Industry unites to fight SMSF borrowing ban on new homes - brokernews.com.au",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZiakhpR0x2NHUzcW00Q0IwNi1yQkl3RWVVVVh6akhjRWRxNnloNDdTZVdRR3JtSk9EZXV4NXlieFRMemNKbk12QnI3RkY3d2dkT042SlJQQmszSTRzbE9kdVppNEpMMXBCUjlXbTRrdXNVNEZybUVISXVOZFFkYlFyVWRCbnVuWVF3T0h1LWpzN3I1amhpZktmTzZLc2w4UGcyTG9lVkFiOUw3NlY3QXBfZWRkS1Jy?oc=5",
-      "source": "Australian Broker",
+      "source": "brokernews.com.au",
       "publishedAt": "2026-08-13T05:15:07+00:00",
       "category": "super",
       "official": false,
-      "description": "Industry unites to fight SMSF borrowing ban on new homes Australian Broker"
+      "description": "Industry unites to fight SMSF borrowing ban on new homes brokernews.com.au"
     },
     {
       "id": "3be3518b5ad835ab",
@@ -423,14 +413,14 @@
       "description": "3 Australian Mining Stocks With Strong Earnings Growth Potential simplywall.st"
     },
     {
-      "id": "101a730f9508e61c",
-      "title": "IAG (ASX:IAG) posts A$1.58bn underlying profit as FY27 guidance resets the story - Stocks Down Under",
+      "id": "9ce4fe5bf859da01",
+      "title": "IAG (ASX:IAG) posts A$1.58bn underlying profit as FY27 guidance resets the story - stocksdownunder.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NeWNPWWU2dlpWWmp4eGZYYmhqd240RWVkcXhDUEctekhUU29xd1A2eTdMOVNSaVpkRnBRS1NZbnVjSmdvNTdodFVZbWxmTFNRRjd5RFdqcFZwaWNac1RwQjFDQ3FTZ1o1NVpxd2JHNVdkLU1pR1ZjM2xsZWRsREk?oc=5",
-      "source": "Stocks Down Under",
+      "source": "stocksdownunder.com",
       "publishedAt": "2026-08-13T00:29:52+00:00",
       "category": "companies",
       "official": false,
-      "description": "IAG (ASX:IAG) posts A$1.58bn underlying profit as FY27 guidance resets the story Stocks Down Under"
+      "description": "IAG (ASX:IAG) posts A$1.58bn underlying profit as FY27 guidance resets the story stocksdownunder.com"
     },
     {
       "id": "c357ea142945137f",
@@ -463,14 +453,14 @@
       "description": "The Morning Catch-Up: ASX set for firmer start as Wall Street nears record highs on AI rally and softer US inflation proactiveinvestors.co.uk"
     },
     {
-      "id": "c4fce6b68a955d2c",
-      "title": "Ignore the doomsdayers – property investing in Australia is far from broken - The Guardian",
+      "id": "0eb766f747900e49",
+      "title": "Ignore the doomsdayers – property investing in Australia is far from broken - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXkyYUFiSWM3UmhOMmFxc3J1TE5zVE9KLVNCT3g5VEZ3SjR1cDZMbWM3YkhNMmdjZ3k4MWxLM0ZUbDE2MnVqMTJrTTcwZWtHWERiRnVFaXpnZWxValVaVU9ZY2hQU1JBMkVFSWZ3b1NwRUNmSUUyUTMzRlN3S2hZNE44UUdmREtJVWtTMjRCMDdkeV9iZ2ZMSHVabUhlX0RYX3ZZZUk2RlJKU0hpMVEwOVUzMkFDRTRiTFhfXzFHX3U?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-12T22:25:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Ignore the doomsdayers – property investing in Australia is far from broken The Guardian"
+      "description": "Ignore the doomsdayers – property investing in Australia is far from broken theguardian.com"
     },
     {
       "id": "b37415c1d9fa0cf5",
@@ -653,24 +643,24 @@
       "description": "Three big super firms managing $500b urge Labor to allow direct advice AFR"
     },
     {
-      "id": "3b1ed9df036e6eae",
-      "title": "The RBA holds rates, but leaves future hikes on the table - Australian Broker",
+      "id": "218ea8da563e8747",
+      "title": "The RBA holds rates, but leaves future hikes on the table - brokernews.com.au",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHh3bGdEMGE2Y1ZTeVZzQTZTbVVidFB1c2VKZndzOGY0NXFDeFhCV3hYNE1lRmxJZjgtZzQwb1Z3QTlSanVZMi1RUHg0Wk9MeURYTU10aE5YeGZhbHRiUjRqT01iRXlaWmdHbGpkTm90M2UxbG1ERFdRclZQYnRCVGo4b21uZjYxN09NWV9QTmhiMlI4cElfU3RPZHVTb3BCTzI4LVM3THVOMmVMTlJ6bzl3NGk4RGZ4?oc=5",
-      "source": "Australian Broker",
+      "source": "brokernews.com.au",
       "publishedAt": "2026-08-11T18:51:04+00:00",
       "category": "economy",
       "official": false,
-      "description": "The RBA holds rates, but leaves future hikes on the table Australian Broker"
+      "description": "The RBA holds rates, but leaves future hikes on the table brokernews.com.au"
     },
     {
-      "id": "c9a10d3b822260c8",
-      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - The Guardian",
+      "id": "dfc3840159b2d7e5",
+      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmtwbXBwdG5nam92b3R4Q2xxbVJnbGtkUkZ4MFJ3VE9ld2dlXzZsM0FPUVVPR1ZYZ1NkMHl4VUdKZXlhMWdvNUZsdFJpejNkaXllZmNDbktxdHNWQTU4UF9FenlUUVhkV0RuMXh3T3NHRmVGSElUNHRfVXRmNU5CM051ZWVYa05rbmhBRmNVOFF3cjRwZkRJamFzMjVGM0V4a2lZVk95Xzk2dmRTRGthUEhYWG1jbjA?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T15:00:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud The Guardian"
+      "description": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud theguardian.com"
     },
     {
       "id": "51a1271537f6ad82",
@@ -743,14 +733,14 @@
       "description": "Australia Needs More Property, but Builders Can’t Make the Numbers | Property Insiders Property Update"
     },
     {
-      "id": "da47dccea1181c37",
-      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - The Guardian",
+      "id": "eedd5ee69a35358a",
+      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaHFpTWVBMHJMUXhoalFlbmthal9WSV90b2xfRllaS2JNRUdlSy1jcWFoWFk4T3lmbUZMOFFuV1Z5Xzc4ZU44bzRXSFEwM1Nxa2JLcmJFcmgxOFNrRk0yd2loX2EwX2s2VjZBdzJVdUJpSEJfSF9NaURXZGU4alV3dFNwN244Q3MzSi1JQlJlTkdRNElzQTdwVXhhdWM0OWhWcEtiNmJfRmlDYmFvNlBPeUQ0cGxvNFRNd0dqMGJpMDZRc3hia0FpUVRSVDdGVmk0YzZxNWFEV3hJMG8?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T06:22:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why The Guardian"
+      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why theguardian.com"
     },
     {
       "id": "a625a26e83d80942",
@@ -823,14 +813,14 @@
       "description": "Statement by the Monetary Policy Board: Monetary Policy Decision | Media Releases rba.gov.au"
     },
     {
-      "id": "d19d3685a241337c",
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - The Guardian",
+      "id": "ab539457df524dc7",
+      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzB3blRNSGJad2pGdTAzYXplQmwxMm8yUU5FTXJiNnlSVWRSbkY5YXZKSm1VN0tBcEdEOGtNeGhpWnpUekVKMVBpdFF2UDNvall3bXZqNnV2ZWtJdkMtaHE2ZkRsWUNuS3VyM1hWMFVRUUtnMnNpdnptblJzNGFFUVplNTVLNGEyN3drdnNiam9vanVCQWxZSnFLUXJjWWUwOWRJU3lRN3F1dVk?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T04:30:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed The Guardian"
+      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed theguardian.com"
     },
     {
       "id": "fd6e6f76a9c81b58",
@@ -901,6 +891,16 @@
       "category": "economy",
       "official": false,
       "description": "The RBA's big challenge: How to navigate a real estate downturn ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "ea0a4545125a7444",
+      "title": "SMSF ‘ban’ is shaking up housing – and commercial property, too - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM281NkQ3bVFVWVQtWXIxYXBrVWpWMVRoVTZ6OW45TVRtMk5MZjRIaEVrdkRpTGR4eE8wam1HNlN3cndMdmRoaVFtN0NsanU2cDBGT2RFMEZyaWVnNmJ3WnR1XzhZWlA4M21SM1BwX3BTeWQwaGRXa0dCaXc4b3QyMkRSWmlmYjByVkxHY05rVV9QUFdSRTNUUUtiZmtJUDFSaTYzb25ubHFSVzIyUmJRZDByZWI?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-10T07:27:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "SMSF ‘ban’ is shaking up housing – and commercial property, too AFR"
     }
   ]
 }
