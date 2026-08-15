@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:17:51.175762+00:00",
+  "generatedAt": "2026-08-15T07:53:41.490430+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -93,16 +93,6 @@
       "description": "Plato Income Maximiser (ASX:PL8) Keeps Its Monthly Income Cycle Moving Into August Kalkine"
     },
     {
-      "id": "2ec98047ef350187",
-      "title": "Coles Group (ASX:COL) Relies on Everyday Demand, Scale and Supply-Chain Investment - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUlHb2tkMHA1STF0N1pyYXZSMFZTbWhDdTdrZEptVkpsN1BpUHJ1TW55TEczcnJFbHZvWGVlVVM2b2JvNVIxTTFDaGJhc3hMSDUtMzNvV1dEc3hXclp4VG9kclRycGVVaVpkeGlHcWVVeE0xM01FOGlpeF9LdUhvMm9XczR5R1ZwcXFBcDNmVktoSVppbWpaWUhYbzVtQmRYbXZEMnBHQjJYWWwzTjFLSElCR05pWW1wRzV3eEVDVVU?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-15T06:37:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Coles Group (ASX:COL) Relies on Everyday Demand, Scale and Supply-Chain Investment Kalkine"
-    },
-    {
       "id": "cdb141beac85394f",
       "title": "NRW Holdings (ASX:NWH) Advances 115.21% in a Year as a Broader Contract Engine Takes Shape - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGZtNDV1NlM0Mm9ULWVjT3ctcUkxdGZ0UDJ1OWVndjc5N3FvMEVXMGY4cVZkRGpxOTBrMVItTkZLcWItZ1JySlN3ZlRVTkFUOFhRM3hfa1R2c1NXX1ozQ2Y4TW9IaWtQX3VXZlJzT3Y3eU1oNHVRUFNsVGU4NjhLQjlkMlpOOWFONFhaRzJBc1VNd1l6YW81TlJFTFRCUnI5aUJhWG1GeENfbFVCYUd3bWxiUVo5ckdYRDRVMEpkbDEzb1E?oc=5",
@@ -131,6 +121,16 @@
       "category": "markets",
       "official": false,
       "description": "Codan (ASX:CDA) Rises 83.55% in a Year as Tactical Communications Becomes a Bigger Growth Engine Kalkine"
+    },
+    {
+      "id": "88a7dab01af556f6",
+      "title": "Evolution Mining (ASX:EVN) Gains 71.21% in a Year as Gold Cash Flow Funds a Bigger Copper Ambition - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPald2OHI3NzUyT0VwMllCUDFTdTZ2R3RrRE9lNV92enViSXd3N1lVTEFsN2dlTmZPZllUdWZLLXdWUmV2OHM2OUUwRXFqWnJ1amFJSDNLWnFLa2FXUnVfNkFhQTVyenlSTkt5WmZFMFg2N0prNm1Ed3dteDIyZ29DYTNKWGtITDJMUFZaZDdMa2ttS1dwNUVrZHFES3dHaExBZ1Bpd3JDOWpFU1kzTVFQeVNfMURBTFk1bS1Za3dxWWtNVFVNeTBZ?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-15T06:36:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Evolution Mining (ASX:EVN) Gains 71.21% in a Year as Gold Cash Flow Funds a Bigger Copper Ambition Kalkine"
     },
     {
       "id": "8d01d6b756544573",
@@ -273,14 +273,14 @@
       "description": "Bank of Queensland (ASX:BOQ) Earnings as Tech Rises and Miners Slide Kalkine Media"
     },
     {
-      "id": "aa138a0079218919",
-      "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says - The Guardian",
+      "id": "d20a057419783a52",
+      "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekI3YWlsOEhhRExGQi1pMXNWUmhUMC1yVExzMGowcjQteWFUR1Rvbks5bUc3eHVJN1FCUXNZYUlnTmNZNHN1YlhvQ0Z1cFhYRUtXZ1Y1SFJETDdnTVBjY0xqby11SXBJZVdCOUNaamtmM2d5Y0c5SWwtSWltbEFpZHM0UlNLY2s5RlJpZDQ2WkUtbWljTWs3ZVFmMTFuVzhfUkFpSlJWekVaV1pTdzF0V3dvUTF4SktnRFlyd3BGVUlXRmlVZ1gzZzlsOU9TMVhOOTFYc3E0NmxMSHNnNExJdnp5TWRmOTIxNFpKTTdqajltQk05b1hvd0dn?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-14T08:03:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says The Guardian"
+      "description": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says theguardian.com"
     },
     {
       "id": "a5125d9d5985b19d",
@@ -523,14 +523,14 @@
       "description": "The Morning Catch-Up: ASX set for firmer start as Wall Street nears record highs on AI rally and softer US inflation Proactive Investors"
     },
     {
-      "id": "c4fce6b68a955d2c",
-      "title": "Ignore the doomsdayers – property investing in Australia is far from broken - The Guardian",
+      "id": "0eb766f747900e49",
+      "title": "Ignore the doomsdayers – property investing in Australia is far from broken - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXkyYUFiSWM3UmhOMmFxc3J1TE5zVE9KLVNCT3g5VEZ3SjR1cDZMbWM3YkhNMmdjZ3k4MWxLM0ZUbDE2MnVqMTJrTTcwZWtHWERiRnVFaXpnZWxValVaVU9ZY2hQU1JBMkVFSWZ3b1NwRUNmSUUyUTMzRlN3S2hZNE44UUdmREtJVWtTMjRCMDdkeV9iZ2ZMSHVabUhlX0RYX3ZZZUk2RlJKU0hpMVEwOVUzMkFDRTRiTFhfXzFHX3U?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-12T22:25:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Ignore the doomsdayers – property investing in Australia is far from broken The Guardian"
+      "description": "Ignore the doomsdayers – property investing in Australia is far from broken theguardian.com"
     },
     {
       "id": "a788d37afd5fb8ea",
@@ -693,14 +693,14 @@
       "description": "The RBA holds rates, but leaves future hikes on the table Australian Broker"
     },
     {
-      "id": "c9a10d3b822260c8",
-      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - The Guardian",
+      "id": "dfc3840159b2d7e5",
+      "title": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmtwbXBwdG5nam92b3R4Q2xxbVJnbGtkUkZ4MFJ3VE9ld2dlXzZsM0FPUVVPR1ZYZ1NkMHl4VUdKZXlhMWdvNUZsdFJpejNkaXllZmNDbktxdHNWQTU4UF9FenlUUVhkV0RuMXh3T3NHRmVGSElUNHRfVXRmNU5CM051ZWVYa05rbmhBRmNVOFF3cjRwZkRJamFzMjVGM0V4a2lZVk95Xzk2dmRTRGthUEhYWG1jbjA?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T15:00:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud The Guardian"
+      "description": "The RBA likely believes it won’t need to hike rates again – but the worst thing it could do is say that out loud theguardian.com"
     },
     {
       "id": "51a1271537f6ad82",
@@ -783,14 +783,14 @@
       "description": "Australia Needs More Property, but Builders Can’t Make the Numbers | Property Insiders Property Update"
     },
     {
-      "id": "da47dccea1181c37",
-      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - The Guardian",
+      "id": "eedd5ee69a35358a",
+      "title": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaHFpTWVBMHJMUXhoalFlbmthal9WSV90b2xfRllaS2JNRUdlSy1jcWFoWFk4T3lmbUZMOFFuV1Z5Xzc4ZU44bzRXSFEwM1Nxa2JLcmJFcmgxOFNrRk0yd2loX2EwX2s2VjZBdzJVdUJpSEJfSF9NaURXZGU4alV3dFNwN244Q3MzSi1JQlJlTkdRNElzQTdwVXhhdWM0OWhWcEtiNmJfRmlDYmFvNlBPeUQ0cGxvNFRNd0dqMGJpMDZRc3hia0FpUVRSVDdGVmk0YzZxNWFEV3hJMG8?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T06:22:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why The Guardian"
+      "description": "Australia’s falling house prices have a silver lining for mortgage holders. Here’s why theguardian.com"
     },
     {
       "id": "a625a26e83d80942",
@@ -863,14 +863,14 @@
       "description": "Statement by the Monetary Policy Board: Monetary Policy Decision | Media Releases rba.gov.au"
     },
     {
-      "id": "d19d3685a241337c",
-      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - The Guardian",
+      "id": "ab539457df524dc7",
+      "title": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzB3blRNSGJad2pGdTAzYXplQmwxMm8yUU5FTXJiNnlSVWRSbkY5YXZKSm1VN0tBcEdEOGtNeGhpWnpUekVKMVBpdFF2UDNvall3bXZqNnV2ZWtJdkMtaHE2ZkRsWUNuS3VyM1hWMFVRUUtnMnNpdnptblJzNGFFUVplNTVLNGEyN3drdnNiam9vanVCQWxZSnFLUXJjWWUwOWRJU3lRN3F1dVk?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-11T04:30:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed The Guardian"
+      "description": "RBA interest rates: Reserve Bank holds cash rate at 4.35% but threatens more hikes if needed theguardian.com"
     },
     {
       "id": "fd6e6f76a9c81b58",
