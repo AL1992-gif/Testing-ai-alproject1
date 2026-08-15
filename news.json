@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:26:58.702317+00:00",
+  "generatedAt": "2026-08-15T02:35:56.199390+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -143,14 +143,14 @@
       "description": "ASX 200 Retreats Amid Materials Pressure and Tech Strength Kalkine"
     },
     {
-      "id": "3d03706b8f5560a7",
-      "title": "Morning Feed: What’s cooking on the ASX? - cairnspost.com.au",
+      "id": "711d3d649dbc5a3b",
+      "title": "Morning Feed: What’s cooking on the ASX? - The Cairns Post",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS29VbmFHendVdjM4MFA0LUczU0ZLYnJOZHFBNl9FQTNJRVdjcDU0Rk9CTkVXLVRPTk85ZWhJcXhXX1ZXQ1YwZ3NCeE1aZ3RFcThLOTh0X2t0OGlINzBLRVJZNjl6dHNqaE5kQUI4OTBRem5wZnh0UElVdVdsamR4THdXU2liMXVBSFlVc2kza0x1Q1c5Q3pxOUR0cFVvX20wV0R2bnZYRUVkenFKZkMyX0MxSnlVZC1uUmtlSEptaU9wMUJmbk9lcGhB?oc=5",
-      "source": "cairnspost.com.au",
+      "source": "The Cairns Post",
       "publishedAt": "2026-08-14T13:19:51+00:00",
       "category": "markets",
       "official": false,
-      "description": "Morning Feed: What’s cooking on the ASX? cairnspost.com.au"
+      "description": "Morning Feed: What’s cooking on the ASX? The Cairns Post"
     },
     {
       "id": "e3d2455b9487b4b3",
@@ -171,6 +171,16 @@
       "category": "official",
       "official": true,
       "description": "Media Release Number 2026-20: The Reserve Bank of Australia welcomes the announcement by the Treasurer appointing Melinda Cilento to the Monetary Policy Board."
+    },
+    {
+      "id": "aa138a0079218919",
+      "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNekI3YWlsOEhhRExGQi1pMXNWUmhUMC1yVExzMGowcjQteWFUR1Rvbks5bUc3eHVJN1FCUXNZYUlnTmNZNHN1YlhvQ0Z1cFhYRUtXZ1Y1SFJETDdnTVBjY0xqby11SXBJZVdCOUNaamtmM2d5Y0c5SWwtSWltbEFpZHM0UlNLY2s5RlJpZDQ2WkUtbWljTWs3ZVFmMTFuVzhfUkFpSlJWekVaV1pTdzF0V3dvUTF4SktnRFlyd3BGVUlXRmlVZ1gzZzlsOU9TMVhOOTFYc3E0NmxMSHNnNExJdnp5TWRmOTIxNFpKTTdqajltQk05b1hvd0dn?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-14T08:03:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says The Guardian"
     },
     {
       "id": "41f91ba457fe6cfb",
@@ -201,6 +211,16 @@
       "category": "companies",
       "official": false,
       "description": "7 ASX 200 Shares Hit With Fresh Rating Downgrades This Week Kalkine Media"
+    },
+    {
+      "id": "68d849ccfca9ef69",
+      "title": "Closing Bell: ASX ends week with a BHP-sized headache - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkJrVk03dmlRUlJNZk1mRTZ6bG16ZDB0WEtFLTgzdkpndDRVcWJjaVltOEh4WUp3QjhDVGdpWUtxVS1JaE1qNm4tTEk0aHA2N0FOS21TenJXaGNDYkNSaEU4N3U1MlJVRFYtVDZxTnRNakNFU21uZ3dBcmFsbXQxcTV6NkZTZHFCRHlJ?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-08-14T06:54:14+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Closing Bell: ASX ends week with a BHP-sized headache Stockhead"
     },
     {
       "id": "8b75785db1eba8c6",
@@ -248,7 +268,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0s0VHM2U0d3dFp0akk4cFJYTWVzeHh6VmNoQWpLTFYzSnE4U3RPNlRGVlVIVkYxUlN4SXVsVEQwcm5JX0Q3Z3hIellDbm5nUWtFU2lIQ2ZNM0NCdUpfUmhsZ3hISTljbUYyYjRBeUFhS1FRZkgybjdQX3lHbENxR1lraC1rZ2pwWDJBUm13?oc=5",
       "source": "Yahoo Finance Australia",
       "publishedAt": "2026-08-14T06:32:10+00:00",
-      "category": "markets",
+      "category": "companies",
       "official": false,
       "description": "Australian Shares Fall; QBE Insurance Group H1 Adjusted Earnings, Gross Written Premium Up Yahoo Finance Australia"
     },
@@ -261,16 +281,6 @@
       "category": "housing",
       "official": false,
       "description": "This housing correction is on track to break records AFR"
-    },
-    {
-      "id": "80898debc5407940",
-      "title": "Melinda Cilento appointed to RBA interest rate board - AFR",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGFMWXlQWFNoV3FmU1NCa29oSFQ2dWF5Q3lOQUhMV3h6NHJDMVRYdzZBXzBsWm54ZEZ4TDQ4bVAwaTFORWlxWFF1bmplV1VYUkttVXVLVG5DRkhIWVpFMnQxSXdaUXV4cEVqUnBmUkt4OFNKOTBKS1RmczFfdjFVaE9pdUJlWVdRaVhBT1E1SnhfNU53U3pyMlRvcXhTTi1uRkRBM2R3?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-14T05:58:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Melinda Cilento appointed to RBA interest rate board AFR"
     },
     {
       "id": "94922dd32a5a1f4f",
@@ -498,7 +508,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXkyYUFiSWM3UmhOMmFxc3J1TE5zVE9KLVNCT3g5VEZ3SjR1cDZMbWM3YkhNMmdjZ3k4MWxLM0ZUbDE2MnVqMTJrTTcwZWtHWERiRnVFaXpnZWxValVaVU9ZY2hQU1JBMkVFSWZ3b1NwRUNmSUUyUTMzRlN3S2hZNE44UUdmREtJVWtTMjRCMDdkeV9iZ2ZMSHVabUhlX0RYX3ZZZUk2RlJKU0hpMVEwOVUzMkFDRTRiTFhfXzFHX3U?oc=5",
       "source": "The Guardian",
       "publishedAt": "2026-08-12T22:25:00+00:00",
-      "category": "housing",
+      "category": "economy",
       "official": false,
       "description": "Ignore the doomsdayers – property investing in Australia is far from broken The Guardian"
     },
@@ -891,16 +901,6 @@
       "category": "housing",
       "official": false,
       "description": "Rate rises still on table: Bullock says even 20% house price slump wouldn’t spark crisis SMH.com.au"
-    },
-    {
-      "id": "fd59cd2a3ace6ee9",
-      "title": "‘Dangerous path’: IPA calls for super system stability - Accounting Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2tiajJTT0NjU0pWSDBZN1BVZENfSzBLT1F3V1E5WkN5VzVscm02bGhVOUVuWTNpcUR1UUhwYUNOdEpad3JQa0dRUENoQmVCMFlCYWhlejV4N3pNQU9uSktfd1NPeUQ5SVFMQ0JwYktoY1VRQXZySlJobmZuMEtnN3piOGpRbmVLaHRtMW90TWNpbGluc0lMT1VxUUpHbXZtSEM3NU53Q2Ztb2FxVDBHZ2JtTQ?oc=5",
-      "source": "Accounting Times",
-      "publishedAt": "2026-08-10T22:47:30+00:00",
-      "category": "super",
-      "official": false,
-      "description": "‘Dangerous path’: IPA calls for super system stability Accounting Times"
     }
   ]
 }
