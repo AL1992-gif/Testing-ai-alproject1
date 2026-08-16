@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-16T20:59:08.504832+00:00",
+  "generatedAt": "2026-08-16T21:29:35.212210+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "e01f2f8b64b10820",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjk4M0VJbFVxOHZLanNTbWpGRHM3UnhSRUNqTXBKaW02YWJDSlliakxOS1VWOFQ2YklNa1o1UjZwQ2t6WmNEem9XUUMteGtLc2I2M056aUJZaGtZSFB2SEMySEZmaEtEYi1kUU85ZWp6cWw1REVFeFMtX1BGQWJ6TnprU2cxcnRvWm1wYmRCVGV1Q19LUkZJMXZLZU1OSVU?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-08-16T21:00:49+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Rise and Shine: Everything you need to know before the ASX opens Stockhead"
+    },
     {
       "id": "0a0d61f60b9a115d",
       "title": "Elsight (ASX:ELS) Could Be 32% Undervalued After Q2 Earnings And Acquisition Push - simplywall.st",
@@ -53,16 +63,6 @@
       "description": "ASX developers roar back as South Africa’s prolific goldfields come calling Stockhead"
     },
     {
-      "id": "7d75fb229f3363ee",
-      "title": "This ASX industrials stock just rocketed 13% on results and is expected to keep rising - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejcyNndqcFpqcWwweUpEN18xUTNNVkMxMWlSaFQ1bjJyN1pkQ0o4MW52aVNIb1U4Rmw1YXlxSHZRRmZOZU5XM3ZEQnI3UWNYTVROajVlaFZyZDNhMUdwR1g0bjd6Y1BXMzBoSkhWNlZucjdTa0dwemY5VEhXUzlTMnN6X0hVa3JVT08zUmtleXZKM3NlYlVQcTdHLUEyb0l4RlRGWFJvY1FXeHF0RTlvek5ESGwwSjViOURHVkpB?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-08-16T19:30:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "This ASX industrials stock just rocketed 13% on results and is expected to keep rising The Motley Fool Australia"
-    },
-    {
       "id": "b48a8198a48b1c6c",
       "title": "5 things to watch on the ASX 200 on Monday 17 August 2026 - The Motley Fool Australia",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVpRTzExSDV2dmhmSGJ4ZHU1OGduaDNhVV92a2JCb1dfOGNsNjc5SmVXRFQtXzNuQUZVMjlZckN6Zm9RU2gzdXdPeTExR1F3bm5CVWprcWkyQzRCZW9tMTBLQzdGOTF2enJWek82ZWRLeEZuU3Y2a3ZST2RELUNBS1JhYldNaEtOQWpJMVMwaFZhaTVkekdYWQ?oc=5",
@@ -73,24 +73,24 @@
       "description": "5 things to watch on the ASX 200 on Monday 17 August 2026 The Motley Fool Australia"
     },
     {
-      "id": "16cdf3bdb64b4f16",
-      "title": "ASX set to slide, Wall Street slips after weak update on the US economy - smh.com.au",
+      "id": "7d75fb229f3363ee",
+      "title": "This ASX industrials stock just rocketed 13% on results and is expected to keep rising - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejcyNndqcFpqcWwweUpEN18xUTNNVkMxMWlSaFQ1bjJyN1pkQ0o4MW52aVNIb1U4Rmw1YXlxSHZRRmZOZU5XM3ZEQnI3UWNYTVROajVlaFZyZDNhMUdwR1g0bjd6Y1BXMzBoSkhWNlZucjdTa0dwemY5VEhXUzlTMnN6X0hVa3JVT08zUmtleXZKM3NlYlVQcTdHLUEyb0l4RlRGWFJvY1FXeHF0RTlvek5ESGwwSjViOURHVkpB?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-16T19:30:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "This ASX industrials stock just rocketed 13% on results and is expected to keep rising The Motley Fool Australia"
+    },
+    {
+      "id": "6de9dd8582fa003c",
+      "title": "ASX set to slide, Wall Street slips after weak update on the US economy - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXRLc1NqQl9DcVN4ZjNnRGl0UE9nb2FtcTE0anhYT3JBQkJ0eUlFM0liaFotQ3NOWDU0cG5ONExaSXk5RXRVX2VCRnVzbUQzb0tLc0NmMk0wLWJXc3dadVVhWnV3Mnh1MHctdEFDVlJxd3M0T2Y1UHh4bHEtZXhrSUx1Q1J5anFRcC13WkN0dm1YT3lZWWF3clpJcGVzdHhaOGV6N29KZ0JfWmRKbzE0Wi1udVp3M0tXcWdGVXk4Y3FxajNNWDVmNEJXMA?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-16T19:22:53+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX set to slide, Wall Street slips after weak update on the US economy smh.com.au"
-    },
-    {
-      "id": "b59c4dbdfc836a69",
-      "title": "ASX Penny Stocks To Watch In August 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEg0YnRLSDZnNFpWY2pfWnJZV1Exd1NkX0hqY3pacDctejU3WkhWWUk0NE5yY2lraEUtSmd2cnNvUUNUX3BYMkpfYVNxeExNX00wSkFSeE9RQmZWb0I5eWRJbEktME9BRFc0d19BSGRUdmxxRkJwekh1bXBma2NIQ2RJOHltOWMwZG9fUFIxNE1PQlNkYUxpSExIVGJJbURfcnVFWkhyRWpqclXSAbABQVVfeXFMTWlqVXkwMWxDMmF1MFpiS3I3SGxXUm5JWTMxQ3oya3FoaFd5dXJHS0VGSFMwSi1qaUJWYV9iaExUOXlIdF9SaTR5N3VicW1LVlMzVXJSaDlVbDlHSXRPSEN0ejYyb2V3ZmhSMldvWnhiM25jMzc2c3BXWmJMZ25ibWt0ZkRab080SzZpR3BscUFPWHpMUHZTMlVVNTdfZlBYbzJYTVJMZzhGY3lmUDBjMkQ?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-16T19:11:29+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Penny Stocks To Watch In August 2026 simplywall.st"
+      "description": "ASX set to slide, Wall Street slips after weak update on the US economy SMH.com.au"
     },
     {
       "id": "aeeea3134f8ff402",
@@ -223,6 +223,16 @@
       "description": "ALL and STO shares: 2 ASX shares to watch Rask Media"
     },
     {
+      "id": "dc0562e6a434d5e2",
+      "title": "Are ANZ shares worth considering in August? - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZllkazZSSEJwYjlnTzc1R01BNTNmTnhXc2ZaRzlvQVlMVThSbU5EV2ZqeTFSTjVLWS1YRG5aWXE3Rjc0VnZpdDBFRjFIT3B1eDN1dURtR19yZFI3eHMyZ2VwNzMzd3pSaWJjeVNob0c3cTNFM2taSHkxajFpS1ozQ1BzR1RDRU9PVF9RNW9B?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-08-16T01:43:23+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Are ANZ shares worth considering in August? Rask Media"
+    },
+    {
       "id": "b5614a0144aefcb4",
       "title": "Dividend dependent: Profit season exposes ASX’s missing animal spirits - AFR",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenZkbVpLQXdDdHhGY091ZldrNHY0Sm42SktvTlBYd3BvNGxUUmtyZTJKcHJ4c015SHgtQzF5VFJDSFdxR3ZITDF4UVp1cHZveWQtRmdISkdaTGZsVmxObFk3S1liRUxZcEpnRDVZU2FBTndmeDlhZUh6Q1ZRVmJoYU1iVzdsNUZyMHNNNDNLZ2UzRGpwUWMzcHBCVHlrSW9OcGFDT3JEdzF5ZFUxb1VhOC1pYzlvSEdW?oc=5",
@@ -341,16 +351,6 @@
       "category": "companies",
       "official": false,
       "description": "ASX reporting season calendar August 2026 The Motley Fool Australia"
-    },
-    {
-      "id": "a5125d9d5985b19d",
-      "title": "7 ASX 200 Shares Hit With Fresh Rating Downgrades This Week - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXZGUkpyX1YzZEZDM1VaUkJMX25rUHF3dmxfVWtOd3dGNHUyUFN4ZDJUVXA4OEVSS1d4Y05vWE5IVDlsSWg0aGg4UkVZazJCbXRBbGI1c2JhSmUwTi03em1XMzRRSmZQVThnS1k1WElIY0pHLUNxbmd5UGVNaGJ2V3lYYTlHNXpJTGxuLWpHMDBNUmFHTzZDQVctd0JsWmxnV3pkUHhiSHZiSDQ?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-14T07:27:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "7 ASX 200 Shares Hit With Fresh Rating Downgrades This Week Kalkine Media"
     },
     {
       "id": "496ce4e6d8af6661",
@@ -473,6 +473,26 @@
       "description": "Why Could QBE (ASX:QBE) Be in Focus as Australian Shares Slip? Kalkine Media"
     },
     {
+      "id": "6c22f3131d303663",
+      "title": "Falling house prices: the tipping point that sparks a recession - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSjRMZkJHR182VXFRR0NDSmJmc2x3MUVTUFdkeU9IdGpIM0Z3amFxX08tYTBNWGhuYzk4N0tHZGhMWTdxTlNmMmh0aVBmdnN1NkR3NDQ5MDJvWnRTT1NkdjNWQ0hRX3VMalc1WG12VjFnV1ktelVVWXp4Tkd3SUM3SXhvcEdmcGtNQzQ1QnMwbVFDR2F0SWxNUVRWaWJsOWVCZkJEU0dvZ1drUXVjQUZYb3YxeWhFQWM1LTdXTGQybXJvV3ZVd2JPMG1FRXFEX2tQWlBodzQxWE5uY2tydThEa3hWNUfSAeoBQVVfeXFMT1dWMmRtMXFzRkZvbXRJV1E3dFhTSW1ad1VVUm9lb2oxSmZITEFEd2pUcUNTODJDOHlVSmZwZ0p0SkdwQUxPdzRhVFU1cG5rWkszZXRPeFU1c2pRaEhoYzNYOHVCa2ZiTUtMNjN4MnFFaTJOR1kzRFctZTJEWDFZeUJnQWxhcS0xX0FvLWtXOWNwX0RVbExiM2hadWNsMmV1ZWdJU1c5TElQNzN2VlRWRWtPUkYxdnVoRHlfTW1yS0dUbXZTcTZDdjd3ZUZDS0s0RFNQby15SGRreDluaXlpQzV6OUxqcjdUemJ3?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-14T00:06:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Falling house prices: the tipping point that sparks a recession The Australian"
+    },
+    {
+      "id": "2395bdec937da0f2",
+      "title": "Why Are Inghams Group (ASX:ING) Shares in Focus After the Company Denied Takeover Talks? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcEU0TXY4T1Q4VTRDUjVXXzNyUHE4S3luUk4xNDI2MUtyQkNfTDM1RUd3TlVyWk9kM2I1Sm5PQndUdFpiVzhldkVodkRjazBaZUx3U2owb3oybUtvZk9KSkoxZmpKSUtuME8xUlYzbmRuMnN0Q1UtSVdnbjIxbkRvMHJGOTV3bWpYSkZlQVZFcnQ3VzFIMWdqcjJQbWRTWmRPUGlVaEVucTFDaVNqVHVRdzZESEJjVlFpWU9GcmN6LTRXTnFjek1N?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-13T23:57:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Why Are Inghams Group (ASX:ING) Shares in Focus After the Company Denied Takeover Talks? Kalkine Media"
+    },
+    {
       "id": "2160a2b498718c65",
       "title": "ASX Preview: Australian Shares to Fall as Oil Slides on Weak Demand; QBE Insurance Group H1 Adjusted Earnings, Gross Written Premium Up - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWhCSU1ZZTc4ck5yX1E4azBVZFp5T3ZwOE9rZ1JVbkJQRFJvYmY2NUVJWFUxaXhqcUd3WE5kVWxTU3k3WDRWRHd0THhYWVFyT3Z5RUVfa1ZhWmhtUVVJSUJYUGc2QXFHOXlabFNxSUlOTWRJaEVWYjNVMk55MS1laFowYkVYSlB3bS1j?oc=5",
@@ -513,16 +533,6 @@
       "description": "3 ASX Growth Stocks With High Insider Ownership And Up To 34% Earnings Growth webull.com"
     },
     {
-      "id": "0ecc69b70ac27c32",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGZpS09yT05FOUpOY3BQZ0IzbE9JM0xORHd0SWJoYzMtOEc0UUxGNDc0Y1pKUGV2N1BUc2xQdjJCaXpTcUlUQTBjb2NKVWhwTHpicGVEZ2dXY1c0OVc4ak56NWdWYlczbjItazBJakpVZVBJdlpwaU4wOG1NVk9EN0FOTE9LRnFHZjE4aDByYlFfcnV6M3BIcy1JdFRzVGc?oc=5",
-      "source": "Stockhead",
-      "publishedAt": "2026-08-13T21:26:10+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens Stockhead"
-    },
-    {
       "id": "d735071eff590a77",
       "title": "What a housing downturn would look like in your city - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnpodElHdlVDR0c2ZzJVZFQyM2lYRndUVTA3dW4yWmtKTlFtXzBpMDFBaDlxdEN2WlBFTE5OWUVkWGRCNVE2bGNIM1VGNnM3MDY2RkJMb1JRMGJWRFdvOHJPTVR5MFoyZ054TjZGWmxKei1jUG9Salktb3FFOG05QUtkYTg5dUJGSWlwRF9qMldac2UwUmJOMlA1UTRwckdTTjkxSHl6X1VoTW1xMTJoZw?oc=5",
@@ -531,16 +541,6 @@
       "category": "housing",
       "official": false,
       "description": "What a housing downturn would look like in your city ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "6c22f3131d303663",
-      "title": "Falling house prices: the tipping point that sparks a recession - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSjRMZkJHR182VXFRR0NDSmJmc2x3MUVTUFdkeU9IdGpIM0Z3amFxX08tYTBNWGhuYzk4N0tHZGhMWTdxTlNmMmh0aVBmdnN1NkR3NDQ5MDJvWnRTT1NkdjNWQ0hRX3VMalc1WG12VjFnV1ktelVVWXp4Tkd3SUM3SXhvcEdmcGtNQzQ1QnMwbVFDR2F0SWxNUVRWaWJsOWVCZkJEU0dvZ1drUXVjQUZYb3YxeWhFQWM1LTdXTGQybXJvV3ZVd2JPMG1FRXFEX2tQWlBodzQxWE5uY2tydThEa3hWNUfSAeoBQVVfeXFMT1dWMmRtMXFzRkZvbXRJV1E3dFhTSW1ad1VVUm9lb2oxSmZITEFEd2pUcUNTODJDOHlVSmZwZ0p0SkdwQUxPdzRhVFU1cG5rWkszZXRPeFU1c2pRaEhoYzNYOHVCa2ZiTUtMNjN4MnFFaTJOR1kzRFctZTJEWDFZeUJnQWxhcS0xX0FvLWtXOWNwX0RVbExiM2hadWNsMmV1ZWdJU1c5TElQNzN2VlRWRWtPUkYxdnVoRHlfTW1yS0dUbXZTcTZDdjd3ZUZDS0s0RFNQby15SGRreDluaXlpQzV6OUxqcjdUemJ3?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-13T09:33:00+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Falling house prices: the tipping point that sparks a recession The Australian"
     },
     {
       "id": "99d6da6dacab45fb",
@@ -603,14 +603,14 @@
       "description": "There's another reason to check who inherits your superannuation SBS"
     },
     {
-      "id": "0622840253239405",
-      "title": "‘Declare everything’: Why it may be harder to get a mortgage right now - smh.com.au",
+      "id": "c3a653bf508342e6",
+      "title": "‘Declare everything’: Why it may be harder to get a mortgage right now - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlpISkdKMmJpYXBvXzR2WElLVkdRZVpXNmZZOXI0M3lWeThDQUxXWDdDNXBFeU40c0dfaF9fMW5kdF9DRk5nMWNpcGkzZGpaaWJVbVYySEQ4WHR3Q25JUk1yVUlQM0JGa29HUkQybV9VNjhpQUI5RE1jak94cjNCTTNrbXFtV1ZtSk50RE5Hb2VCYzBWampZZVQ0amVFU2FnN2dEUGIwN3ZYbWJnc2lOUm0wZUdyYXNBNXFTZjNST3N4dmM?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-12T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "‘Declare everything’: Why it may be harder to get a mortgage right now smh.com.au"
+      "description": "‘Declare everything’: Why it may be harder to get a mortgage right now SMH.com.au"
     },
     {
       "id": "9666a67c3c47bce2",
@@ -643,14 +643,14 @@
       "description": "Housing industry urges Government to keep SMSF finance flowing to new homes Housing Industry Association | HIA"
     },
     {
-      "id": "e0a3c06e436775bd",
-      "title": "Households to bear the brunt of sluggish productivity - CommBank",
+      "id": "01e68f9f135636e6",
+      "title": "Households to bear the brunt of sluggish productivity - commbank.com.au",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM19IS1lucFJTQXowbExGdXlEa0c5S3B5LU9HaHNSZXhFcEF5Y1dnU1k1WDFQUTA5eTZzcWVoS2tzRjJ0Yk5uRXVKQzdxLW5RRGJuaVpsVHJhbXJ3cnBUS1cyTC15UkhENmZvN1FIZ1VGaU96ZlE3QXRMczlOS3dXM2RxQzZmYk5JSnFDSUEyS3JMRG1xV09UbThYN1ZKdTB2eERSMVFJRmZMMmE0T18xQnBR?oc=5",
-      "source": "CommBank",
+      "source": "commbank.com.au",
       "publishedAt": "2026-08-12T02:45:38+00:00",
       "category": "economy",
       "official": false,
-      "description": "Households to bear the brunt of sluggish productivity CommBank"
+      "description": "Households to bear the brunt of sluggish productivity commbank.com.au"
     },
     {
       "id": "a858cc9a7bcfda0a",
@@ -713,14 +713,14 @@
       "description": "RBA takes on another heritage office renovation AFR"
     },
     {
-      "id": "0ab01ba2708c39c3",
-      "title": "This is how much of a pay rise households needed this year to keep up in property market - smh.com.au",
+      "id": "3c424f474ef60488",
+      "title": "This is how much of a pay rise households needed this year to keep up in property market - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUk8zdmxTUmp3YjRTTmJkaXZPMS1KNWJoejJrN01zN0hIbTBaSWJrZnRmM2FEbTUxSU5EbndUWFlKcG5IMWpuRjJXeGlBZ0R5bDJKaTl5Vmxpc0tOZzFJOVBWZHdWMEhSQlNzOWRVSkFYVHBTc2ZVTDV4MUF1Mk1RRE80c2QyOE0zc3U1eWg3eUNoWjhJX0RtTl93YjdUWU1rNDJyOVBGTy1NNm00dGk1ck1mUUlKcXVPSnREZWpieGk3cVlnX0h2STJIblV6UUdaVzB0MXRoZnlOdVh6Wjgw?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-11T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "This is how much of a pay rise households needed this year to keep up in property market smh.com.au"
+      "description": "This is how much of a pay rise households needed this year to keep up in property market SMH.com.au"
     },
     {
       "id": "29fbb5a8f9e4db92",
@@ -773,14 +773,14 @@
       "description": "The RBA doesn't think it will raise rates again, but it doesn't want you to know ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "23b22dfe5b98f185",
-      "title": "RBA flags inflation fight isn't over - CommBank",
+      "id": "327c0f27f35d8cf7",
+      "title": "RBA flags inflation fight isn't over - commbank.com.au",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTQ3T1N3OXJCUFNIV21QbEhlejVsaHVpdmczS1FwdFlNRno5R0ZOQ3VvZXFmUHRxOFNUZXAwaU85akJDVjFlNWx1cnZncFE3SFoxNjYyMWZKalByS1BVOFBaWUFLMWVLeG9feS03VldMNkpsd0J0UTR5dzQxak52dzgzdkgxSWVuQWZiNFFjT21VX3NEN1NGMGEyV0t0eGdC?oc=5",
-      "source": "CommBank",
+      "source": "commbank.com.au",
       "publishedAt": "2026-08-11T08:30:32+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA flags inflation fight isn't over CommBank"
+      "description": "RBA flags inflation fight isn't over commbank.com.au"
     },
     {
       "id": "d00ffbd9ae8504fd",
