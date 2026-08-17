@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-17T11:04:30.324773+00:00",
+  "generatedAt": "2026-08-17T11:42:07.707477+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "14199eca7a77815c",
+      "title": "Do your superannuation and investments reflect your values? - William Buck Australia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzNVRmNxcXFvSlNkRTkxUkZHeWxPWXRqdGw2T0k2NDRXQkZZYWRQWEN2dUw1YVlYcnlPYkU5ZUN6Si1ETV9HOEE4a0lERmZURkxlMEg4bWYxRUE2MW44ckZyRi16MllOVllWcGtkZnh0SktEb2VjbmI1N0t2U0xmWUdiajRNNFE4Q2staUNRMDRYSHZ5Z2pPQ2FNSml3T0JF?oc=5",
+      "source": "William Buck Australia",
+      "publishedAt": "2026-08-17T10:27:08+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Do your superannuation and investments reflect your values? William Buck Australia"
+    },
     {
       "id": "8064434a0b122a5a",
       "title": "Enero Group (ASX:EGG) in Focus Ahead of 21 August Results — Is the Small-Cap Recovery Story Gaining Traction? - Kalkine",
@@ -21,6 +31,16 @@
       "category": "markets",
       "official": false,
       "description": "Dexus (ASX:DXS) Shares Slip Amid Selling Pressure Among Real Estate Stocks Kalkine"
+    },
+    {
+      "id": "edfbf857a6ad152c",
+      "title": "Region Group (ASX:RGN) Under Investor Attention With Retail Property Performance in Focus - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2J0elM4UkcwVjR0OUpSMGkxczJwYkx0eFV6QUlWNks2NUI3ZGNUSllvWW9raHk1bzV6eFV5Umc2NUk0TnpqWGk5RV9QSkxpMXpxUWhMTVdXcmJTSlpEcE5Hd2dxSVZVYkNDVWlBNUp0MWdlS0E3WEF6Y0IzMTBWUzh3Z0t0Tkgyd3BHM3U3V2xKQVVVMnVOem1iZTNJZDRrdHBrYTBSakhwTGUxNk9EUFM5SmpMQmNpUWxpejNuVjBicmZx?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-17T10:01:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Region Group (ASX:RGN) Under Investor Attention With Retail Property Performance in Focus Kalkine"
     },
     {
       "id": "3fd71aeaa6870978",
@@ -93,6 +113,16 @@
       "description": "‘Biting’: Retail, banks drag ASX down News.com.au"
     },
     {
+      "id": "f50ae31b64dca341",
+      "title": "When should you be able to access your super? Battle lines are being drawn - SBS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUZIRFFlZnVJeFhSZUVpV1dnMzQ0dFNlbG5GNmN6blN4a3dzZGgyQ2tJSTl2YUhtNDQ3Y1hJVDE0Y050MHhzN0RWYVRuM1BQbk5tTDR1VldKYkh6c0RWaUlYbURRMFVnMV9hQUphbEhQaHA0ZV8tQk9ndW1FazhuSmNsQm5wdW1icGdCT1FvMHRCUERxT0ZrbUdVLWNHQVA0aXYweE5KcVZXOGs?oc=5",
+      "source": "SBS",
+      "publishedAt": "2026-08-17T07:12:04+00:00",
+      "category": "super",
+      "official": false,
+      "description": "When should you be able to access your super? Battle lines are being drawn SBS"
+    },
+    {
       "id": "2f29a9a80b237ec9",
       "title": "Terramin Australia (ASX:TZN) Gains 9.09% as Finance Facility Keeps Project Funding in Focus - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWxWNVBjVXBoTEltNTB6TFBsRjgxQmtsYW1QcWhxZTQ5R05PR1kxZDRwNzhMNDZSSnl2V0lrYVRycjcyeFhPQ3JDSndGRXh6UTRiSW5UYkh3ZnJuVTJ1VUtES2thMmp1NFdub1RCd040UU8xdG05cVlwMEV1VEl2M2hHeTNkTU10akVhQ1IwN1htV19XeWRHOFo2MHlyT2JURXpxMk0tT1FZcVM4ZDFnb3p3SmdCSjRxdnBIVDhR?oc=5",
@@ -143,14 +173,14 @@
       "description": "The 10 most shorted ASX stocks plus the biggest risers and fallers – Week 34 Market Index"
     },
     {
-      "id": "7b76e33cf9f83be2",
-      "title": "RBA sounds alarm on states’ debt binge - AFR",
+      "id": "6df370fda54f73e0",
+      "title": "RBA sounds alarm on states’ debt binge - afr.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDB1Y0dETnVVdERrR0lvcmNlQXRMRkR4bG1HTUdyREc4c19qX3hBekM3d25obnhjbEpSME9wR2tzRTZOdzN4UkQ4S2ZMV3lnbjZrUVJqLVNaa3JjU2ZRdVpxcU1JbF94SWJRcVNpNFloR0t5MVdzbk1leTA5NnZRX242LTZaTEN5VjQ4SjZzVUFkQQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-17T06:14:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA sounds alarm on states’ debt binge AFR"
+      "description": "RBA sounds alarm on states’ debt binge afr.com"
     },
     {
       "id": "a89d2e5fe7d11d76",
@@ -161,16 +191,6 @@
       "category": "markets",
       "official": false,
       "description": "3 ASX Stocks That Gained Sharply Today: AGN, MSB and CYL in Focus Kalkine"
-    },
-    {
-      "id": "98d87dfdd5d472f8",
-      "title": "ASX Stock Market News | Australian Shares - smallcaps.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXY1bm54V2c0Qzd6VS1DVlM1YmNKWjR1cHJLbUQtMzd2OTZvempMOU42ZWFJSVVLZzhlWE95Z2JJZ0VUWkpzZC1mLVJZY0NoTnp2OUpKUkZ4V1ZxVXBEUUthbVljV0Zla01mbTN2aEYxVzJuY0prR0RoZDFCZVVYX1p2bkxLd3FNUXNZVlFxZWt6VFlqSUk2cHRn?oc=5",
-      "source": "smallcaps.com.au",
-      "publishedAt": "2026-08-17T05:41:09+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "ASX Stock Market News | Australian Shares smallcaps.com.au"
     },
     {
       "id": "a6a31c16e6e46fd6",
@@ -223,14 +243,14 @@
       "description": "SCX.ai set for Friday ASX debut The Australian"
     },
     {
-      "id": "d05bf86c883bbaaa",
-      "title": "Australian Clinical Labs (ASX:ACL): Why Watch This ASX 300 Healthcare Stock? - Kalkine Media",
+      "id": "1a52d7380afde10a",
+      "title": "Australian Clinical Labs (ASX:ACL): Why Watch This ASX 300 Healthcare Stock? - kalkinemedia.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEJodlV4NWllVUFxc0VHRDZMS1dKeXU1b2tLamtTRnBZcDJtWDgzSV8zTkhQelZJd3BWMFBqVEdoZlBrTzZuYWFmaHJjTkZrYVVRLWViSC1iUE1EcnRUNWh2ZW9FT3IyV2ZHSUtVYm1lVk9ZcEhsQTFZRFNPSVVubnFudzBJY2NPZVJobHZwQUY3TzRneWRaSmt4cjRBa1phbnFFSUxtMkIyRHBWMjNRMHMyVGN6eDFx?oc=5",
-      "source": "Kalkine Media",
+      "source": "kalkinemedia.com",
       "publishedAt": "2026-08-17T04:01:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Australian Clinical Labs (ASX:ACL): Why Watch This ASX 300 Healthcare Stock? Kalkine Media"
+      "description": "Australian Clinical Labs (ASX:ACL): Why Watch This ASX 300 Healthcare Stock? kalkinemedia.com"
     },
     {
       "id": "39884b19b4cba30d",
@@ -243,24 +263,24 @@
       "description": "3 ASX tech shares with strong growth potential The Motley Fool Australia"
     },
     {
-      "id": "e7c853f601efc25a",
-      "title": "BlueScope scraps US demerger after profit soars, flags higher payouts - AFR",
+      "id": "b7b286465743ea29",
+      "title": "BlueScope scraps US demerger after profit soars, flags higher payouts - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1llSUdnY3JKcW02TXpFZmJVM1JpOWFTbWtLNkpaUVc5eTE5TFZ1YnNyLXNwaWJyRmROS094b1Frd2FYWElKVEhMdHNLMWdxTkk3RnFiTjdveHE3Yy1TSG56UVREdTlZd3VJa3FySmxzSUZ4ZlhaOGFlY3E4WVc4NnRZeExodzlSa3pEcWRQRlQ2TUl0QkZZUW9CUXZ5d21YNl84b3o0MUhJMW9tRnJuX3lTMUM1ODJQMHc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-17T03:27:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "BlueScope scraps US demerger after profit soars, flags higher payouts AFR"
+      "description": "BlueScope scraps US demerger after profit soars, flags higher payouts afr.com"
     },
     {
-      "id": "bf13b9e4589b75b7",
-      "title": "Iress (ASX:IRE) Joins Top ASX 200 Decliners After Steep Drop - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1N1OG1JQzdTTEdfTmpzYVNNWEpIbEtVeU9hcU5MSVBKY1NGZlE5dGdsMGUyX3hxZFZaV0VxTkhDSDhKSEdwdVBKc3pRYnUtYWdfOGlmdGdZcTYxV2FnckhBUHJxTDIwZl82SzVpRHBBR1Bkdk1rUmE5UXJOLWwxWng4bHF4cEFoalZVbW91UVRpUHdQV2J1QnNRUGNJLVE?oc=5",
+      "id": "4aa190d7664108e5",
+      "title": "National Australia Bank (ASX:NAB) Falls as Business Lending Growth Meets Softer Home Loan Demand - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNmp3eXNEb0ljcUVOeHBnQlM5VTRlTHRvY3pSVUpoY1VudUZsUU1STEFkVEFGTVRuRWZSdVBiY1JGY1RnNjJ0V0tCcTdRWGhwMENfRy1maVkza2VaY0ItQUdsTm5kenEyTG5KV2NVc3lqUDZTeGhGSEs3NWJ5RHB2RXNYWE92MkFQU3hLaGcydVpGLXJVczRyX1dTMy1Bd1BmVTJpcjRlZ1V4UmRTamVERmxERlVrU2Znc0RvYzYwcmw3QWRvSGtlYW9Pdw?oc=5",
       "source": "Kalkine",
-      "publishedAt": "2026-08-17T03:06:00+00:00",
-      "category": "markets",
+      "publishedAt": "2026-08-17T03:05:00+00:00",
+      "category": "companies",
       "official": false,
-      "description": "Iress (ASX:IRE) Joins Top ASX 200 Decliners After Steep Drop Kalkine"
+      "description": "National Australia Bank (ASX:NAB) Falls as Business Lending Growth Meets Softer Home Loan Demand Kalkine"
     },
     {
       "id": "3a176c2a518373b3",
@@ -273,14 +293,14 @@
       "description": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient Kalkine"
     },
     {
-      "id": "a526908a349d051b",
-      "title": "Aurizon profit hits $362m but weak coal outlook sinks stock - AFR",
+      "id": "da80f546cb2b44f8",
+      "title": "Aurizon profit hits $362m but weak coal outlook sinks stock - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lIQjhyS1Y2ZWVRcU9OcFI4N3dIYmRoLUVSclhJeHBEX1RlTC1ZYm1MQ1NMYkxlZ0tCOE1LZ21yTFZwR3J4MDVKX2k3bEdYR1lNQ2swdGlITV9jOERoUFNLMjVRb0k4amhDVTRxbjV0QUxZZHF3RUtRS05rNHRMMjhsV2QxM1hMQnhTNHhDakZ5clNZX2dReHRfRzNGczBOUVFYaDA2d3hFTXU2Y2dIcnpQRzZWQWp1NjRZ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-17T02:41:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Aurizon profit hits $362m but weak coal outlook sinks stock AFR"
+      "description": "Aurizon profit hits $362m but weak coal outlook sinks stock afr.com"
     },
     {
       "id": "a75e941eb7f90ced",
@@ -303,14 +323,14 @@
       "description": "Higher distribution from ASX income share Morningstar Australia"
     },
     {
-      "id": "1fa8b7986d6d1d69",
-      "title": "Could Insurance Australia Group (ASX:IAG) Remain Fairly Valued After Its Latest Results? - Kalkine Media",
+      "id": "c6979feaf48e70c6",
+      "title": "Could Insurance Australia Group (ASX:IAG) Remain Fairly Valued After Its Latest Results? - kalkinemedia.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUxWVDlzME1RMVhyMXk2NU5uU3hTWWdsRGtTQ2FTckpEQkEzZDFDYUdSbEtoQlQ0RktJUm9IMzNRTEN4N3gza0hZNFdOcXNzb3FJSHZTTmt6VXg3d0lJdDIxRXpkTDJ3eEdqWkxydExMZ2FEM0Nnd1A0clRwdXpRbXp0RmE4YmlHSkxacTBFUmxOSG44X2ZhMGpBblBOdmluUXA2TFYyNzI1RUZUMldZRHpWd0dzdlFCS0ExZ0wwZFFOR2dieGI0?oc=5",
-      "source": "Kalkine Media",
+      "source": "kalkinemedia.com",
       "publishedAt": "2026-08-17T01:54:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Could Insurance Australia Group (ASX:IAG) Remain Fairly Valued After Its Latest Results? Kalkine Media"
+      "description": "Could Insurance Australia Group (ASX:IAG) Remain Fairly Valued After Its Latest Results? kalkinemedia.com"
     },
     {
       "id": "85ca2516cb9c3bbd",
@@ -353,24 +373,24 @@
       "description": "Australian Clinical Labs (ASX:ACL): Margin Expansion Supports Earnings Growth Despite Softer FY26 Revenue Kalkine"
     },
     {
-      "id": "c8b90c7a3db5b2f2",
-      "title": "Morning Feed: What’s cooking on the ASX? - stockhead.com.au",
+      "id": "eb9d166a34a97fee",
+      "title": "Morning Feed: What’s cooking on the ASX? - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVFVWZjIwYTdiLW96ek1FNGNrSThZOXY0azNtWjAyajRMWmRUaEh1S0F4cUVSSEhjVGNhZVRFS1VZVzBJZ1NfZFZqdFc1UkNyRXNENTVobHEybFUzWDR0LWVFM2NwT2FNRGVyaVVnc0pTcVV4ZTJtbVRNMA?oc=5",
-      "source": "stockhead.com.au",
+      "source": "Stockhead",
       "publishedAt": "2026-08-17T00:34:19+00:00",
       "category": "markets",
       "official": false,
-      "description": "Morning Feed: What’s cooking on the ASX? stockhead.com.au"
+      "description": "Morning Feed: What’s cooking on the ASX? Stockhead"
     },
     {
-      "id": "16ac22ede4eafb41",
-      "title": "US profit doubles to $1b for BlueScope Steel as takeover fades - AFR",
+      "id": "738a0a3d68fc36d4",
+      "title": "US profit doubles to $1b for BlueScope Steel as takeover fades - afr.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGdfd1lNQ3ZNSGdHYk1JUThqMTdyanYyMWRvVmpBS1lJSG9Bcms4Nkw3WXR0RFpoakFhOExRXzg3czI3VmVrcDNMQlZSdTFZU29vYkJENERwVnBzRGgxMDF4VjNEcVFMaWpyQU1DRmIyTXdZd1drQTk4TERXZXk3UnlqdTc3Y0JMQzNMWVEwTkloVm9PRk5RM0FHVXNHeWJwS1pBalBReFBrUlhIS0NDUW83aVBYRU9nV3BPSDNR?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-16T23:03:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "US profit doubles to $1b for BlueScope Steel as takeover fades AFR"
+      "description": "US profit doubles to $1b for BlueScope Steel as takeover fades afr.com"
     },
     {
       "id": "bc5c9883cf33d288",
@@ -393,24 +413,24 @@
       "description": "ASX Braces for RBA Hike, Earnings Season Sharecafe"
     },
     {
-      "id": "9710834764001203",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - stockhead.com.au",
+      "id": "e01f2f8b64b10820",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjk4M0VJbFVxOHZLanNTbWpGRHM3UnhSRUNqTXBKaW02YWJDSlliakxOS1VWOFQ2YklNa1o1UjZwQ2t6WmNEem9XUUMteGtLc2I2M056aUJZaGtZSFB2SEMySEZmaEtEYi1kUU85ZWp6cWw1REVFeFMtX1BGQWJ6TnprU2cxcnRvWm1wYmRCVGV1Q19LUkZJMXZLZU1OSVU?oc=5",
-      "source": "stockhead.com.au",
+      "source": "Stockhead",
       "publishedAt": "2026-08-16T21:00:49+00:00",
       "category": "markets",
       "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens stockhead.com.au"
+      "description": "Rise and Shine: Everything you need to know before the ASX opens Stockhead"
     },
     {
-      "id": "5e37c1d835777301",
-      "title": "The ASX copper juniors positioning to ride copper’s record prices into production - stockhead.com.au",
+      "id": "258bcd35aed37ed2",
+      "title": "The ASX copper juniors positioning to ride copper’s record prices into production - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFZ4dEMtbnF6SVhxLUdrMEVMN1pSZEw0b3Y4Y3JlMzRuTHhjTFFnWjhuTDZCQkZyemZfbWxzc2xpMGlaZVhXNTVrR2RRNTJnUW9XNnFEM3N0LVFnRUhRcUMyZ0FMdXZPVHNYc2JQVVR0RlBjUEpMWFRVWTRMM3E3a2xsNUF2Z2ZFWU10bnNqZFl3TWV3VzlPNEtYcmdKeGNLbnNjcVZCRXAyTXNPNTRQb2tkU2FkaWM?oc=5",
-      "source": "stockhead.com.au",
+      "source": "Stockhead",
       "publishedAt": "2026-08-16T20:20:27+00:00",
       "category": "markets",
       "official": false,
-      "description": "The ASX copper juniors positioning to ride copper’s record prices into production stockhead.com.au"
+      "description": "The ASX copper juniors positioning to ride copper’s record prices into production Stockhead"
     },
     {
       "id": "004727a6421c6b15",
@@ -443,14 +463,14 @@
       "description": "Is Insurance Australia Group (ASX:IAG) Fairly Valued Following Lower Earnings And A Higher Dividend? simplywall.st"
     },
     {
-      "id": "17d2d2dbd7c58209",
-      "title": "Election will be ‘referendum’ on super, Chalmers says in Hanson stoush - AFR",
+      "id": "0952cca8017b78e7",
+      "title": "Election will be ‘referendum’ on super, Chalmers says in Hanson stoush - afr.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNElaSld6WWZtSGEyM3dwZGlTcnZsYmh5OGNaY2xFOS1TZ2ZWZnlvOC1VQzJXbVJ5ZWFYd1NuenhzeWJMdTRQeWFSMy14MjNYX3lHZFVLMTE4STVwLVVzdlhjeGtPRWtJSm1Ed0I0UFZpVTZkeFdwZHpxWEVuZG1Vb3l3RmE0UUt4dGdSR3RIemlxQzZIMWtOMnlnQ2hZZVhzbEdzaDRDdFBUQzVkQk9ObHVCM2xaWnJCdDU5Yg?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-16T10:00:00+00:00",
       "category": "super",
       "official": false,
-      "description": "Election will be ‘referendum’ on super, Chalmers says in Hanson stoush AFR"
+      "description": "Election will be ‘referendum’ on super, Chalmers says in Hanson stoush afr.com"
     },
     {
       "id": "8c9a1dbec41c5ea5",
@@ -463,14 +483,14 @@
       "description": "Investors brace for the ASX reporting season deluge The Australian"
     },
     {
-      "id": "b5614a0144aefcb4",
-      "title": "Dividend dependent: Profit season exposes ASX’s missing animal spirits - AFR",
+      "id": "ddc1d9aa39f6447b",
+      "title": "Dividend dependent: Profit season exposes ASX’s missing animal spirits - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenZkbVpLQXdDdHhGY091ZldrNHY0Sm42SktvTlBYd3BvNGxUUmtyZTJKcHJ4c015SHgtQzF5VFJDSFdxR3ZITDF4UVp1cHZveWQtRmdISkdaTGZsVmxObFk3S1liRUxZcEpnRDVZU2FBTndmeDlhZUh6Q1ZRVmJoYU1iVzdsNUZyMHNNNDNLZ2UzRGpwUWMzcHBCVHlrSW9OcGFDT3JEdzF5ZFUxb1VhOC1pYzlvSEdW?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-15T22:34:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Dividend dependent: Profit season exposes ASX’s missing animal spirits AFR"
+      "description": "Dividend dependent: Profit season exposes ASX’s missing animal spirits afr.com"
     },
     {
       "id": "76fe34d5139758ac",
@@ -483,14 +503,14 @@
       "description": "Hobbies light up life for older people transitioning to retirement ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "806b31a28e3a51f1",
-      "title": "ASX 200: Why Is Insurance Australia Group Dividend Strength in Focus? - Kalkine Media",
+      "id": "3c533570b7b08c03",
+      "title": "ASX 200: Why Is Insurance Australia Group Dividend Strength in Focus? - kalkinemedia.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUdsNlJxU2JObkFhTFRsdEI3YjZHaFRDOEJGWjJ0QjMtdVdJYWdsQWpqYlFueUpJSDY1eldVX19DMEc1ajJsbGpNbDY0ODlvZVN2enVaUmlxZjZ4TWFSRjRZLUlqNmlJS3d4d2l0UEhUb0g4M0txdGRDMWRiTUk1UEQ3ZVAxVHdsWHA5aFptYlhfTTNENTZUVFp6R2NPWkJUdDI0NHJhZ0hNMHFSbTNNYQ?oc=5",
-      "source": "Kalkine Media",
+      "source": "kalkinemedia.com",
       "publishedAt": "2026-08-15T17:31:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "ASX 200: Why Is Insurance Australia Group Dividend Strength in Focus? Kalkine Media"
+      "description": "ASX 200: Why Is Insurance Australia Group Dividend Strength in Focus? kalkinemedia.com"
     },
     {
       "id": "fab912f861224ebe",
@@ -533,24 +553,24 @@
       "description": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says The Guardian"
     },
     {
-      "id": "8c4a04657b64afe3",
-      "title": "This housing correction is on track to break records - AFR",
+      "id": "a3414265d02443d6",
+      "title": "This housing correction is on track to break records - afr.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazNwRWlwcTZrcGd3VmpWNjRiSEZ5SDczcV85c3VGSnZxV3ZaZUx4RE5LWE42T3Q1bnlDai0zeUUzU2lCUmdhYmVFaXFwdW5NS1NKNVBaRGlWbDJhTTd0dm1qal9GUU9SRHY5Y0FuRGphSWo2Uk5zN1R6WE5Zb2VWbHdkUVRXWjYtS0JZUHBMaHlYTklGcGZOMjlxU3NvcEdlMnBsTGxkQzVET21OR2IyQw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-14T06:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "This housing correction is on track to break records AFR"
+      "description": "This housing correction is on track to break records afr.com"
     },
     {
-      "id": "80898debc5407940",
-      "title": "Melinda Cilento appointed to RBA interest rate board - AFR",
+      "id": "ae9caf5399920c16",
+      "title": "Melinda Cilento appointed to RBA interest rate board - afr.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGFMWXlQWFNoV3FmU1NCa29oSFQ2dWF5Q3lOQUhMV3h6NHJDMVRYdzZBXzBsWm54ZEZ4TDQ4bVAwaTFORWlxWFF1bmplV1VYUkttVXVLVG5DRkhIWVpFMnQxSXdaUXV4cEVqUnBmUkt4OFNKOTBKS1RmczFfdjFVaE9pdUJlWVdRaVhBT1E1SnhfNU53U3pyMlRvcXhTTi1uRkRBM2R3?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-14T05:58:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Melinda Cilento appointed to RBA interest rate board AFR"
+      "description": "Melinda Cilento appointed to RBA interest rate board afr.com"
     },
     {
       "id": "b2d1ed9e4a68ebfb",
@@ -573,14 +593,14 @@
       "description": "Falling house prices: the tipping point that sparks a recession The Australian"
     },
     {
-      "id": "8a01e3db4ec59968",
-      "title": "Property downturns rarely last. This one could be different - AFR",
+      "id": "cb219223b98cca89",
+      "title": "Property downturns rarely last. This one could be different - afr.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3FfZjJDLTVnOU1uN1pLLU5UY3laT0pWdG5BV0tDVUdtYUFHWWdYV0o4V0VtT2JXbWJRREhOdHgzeVFzUHJ5N3cyd0pzcEhldDF4X2FOcVQzd1p1RFlkSkV3UW1qYTZ1eWRvM20wMnZfUDhRbmswRUZiQmgzUmx0UjJ0dF8xemVlTGl2N3hxTHpXY285NkxnVXFXMW14OFRCYmozVDd2ZTdkc21xRFE?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-13T23:27:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Property downturns rarely last. This one could be different AFR"
+      "description": "Property downturns rarely last. This one could be different afr.com"
     },
     {
       "id": "d735071eff590a77",
@@ -603,24 +623,14 @@
       "description": "Major call to change universal superannuation for Aussie workers Yahoo Finance Australia"
     },
     {
-      "id": "39b3a455141898be",
-      "title": "Industry unites to fight SMSF borrowing ban on new homes - Australian Broker",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZiakhpR0x2NHUzcW00Q0IwNi1yQkl3RWVVVVh6akhjRWRxNnloNDdTZVdRR3JtSk9EZXV4NXlieFRMemNKbk12QnI3RkY3d2dkT042SlJQQmszSTRzbE9kdVppNEpMMXBCUjlXbTRrdXNVNEZybUVISXVOZFFkYlFyVWRCbnVuWVF3T0h1LWpzN3I1amhpZktmTzZLc2w4UGcyTG9lVkFiOUw3NlY3QXBfZWRkS1Jy?oc=5",
-      "source": "Australian Broker",
-      "publishedAt": "2026-08-13T05:15:07+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Industry unites to fight SMSF borrowing ban on new homes Australian Broker"
-    },
-    {
-      "id": "d20c1e9da0eee8c8",
-      "title": "Super funds don’t want to sell products – they’re selling retirement confidence - AFR",
+      "id": "3b1d1d89b22402e1",
+      "title": "Super funds don’t want to sell products – they’re selling retirement confidence - afr.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1JpM2hfVC02cmdGeW1KWVNHYTRHbFdobk55UXdmVjBmVEpFcWI5OXd5YjE4d0VGVUZsN211MzZDYjAyaW83U1FIOUt1OUtLU0RXckxNbGM3VWVwcWp6LUFFM1BvUS0zVTFlSUhvRlFJTVp5UDM1T1gwYkdSY2tXRVZ3T3dZcTlmb0EyZF9PRDlzRkJJS3FKMENXTHhmeDlOYlBwWkxlbVN2cUhCUDZVU01VVXZHUHpINGI2bk5oZEU5UFIyUTVXMkd4Yi1tV28?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-13T03:12:00+00:00",
       "category": "super",
       "official": false,
-      "description": "Super funds don’t want to sell products – they’re selling retirement confidence AFR"
+      "description": "Super funds don’t want to sell products – they’re selling retirement confidence afr.com"
     },
     {
       "id": "c24c488c9a0608e6",
@@ -673,24 +683,24 @@
       "description": "‘Declare everything’: Why it may be harder to get a mortgage right now SMH.com.au"
     },
     {
-      "id": "f21a8f303c92cb1e",
-      "title": "Why this housing downturn is different to the rest - AFR",
+      "id": "3a0265333c68e89e",
+      "title": "Why this housing downturn is different to the rest - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3p2YUFZY2puOTI2em1HVDNjZmN0alMzTk1tS25EVW5rb2k1aEhwMlR4bGU5QmZraU42STFfTEczS1VyTEtCQnFfWEF2U1hJYjRPOEpiSFI0VGdMbzVLbDBZbVlKM0I3NXZZeS1BS2Z3Nzl3QjdORl9ZSkRlZGViaE1DblRMM3ZDRWRNY29KcnRVVDE0S2l2c1RDLTIxdjdDaFBmWFVZV29rd0k?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-12T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Why this housing downturn is different to the rest AFR"
+      "description": "Why this housing downturn is different to the rest afr.com"
     },
     {
-      "id": "9666a67c3c47bce2",
-      "title": "Interest rates: RBA’s blunt rate rise warning didn’t sway these economists - AFR",
+      "id": "031f02d69fc055e8",
+      "title": "Interest rates: RBA’s blunt rate rise warning didn’t sway these economists - afr.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFFVUFRhdThfYl9YMlhRTUdKYk5fYjUySWhGODZzaUhrNmtaR00zaTJyREd5WjhWQU1PX1JRSy10c1VjOEgtc1d5V1h6RFpJejlKajRHOVhUejBGbFZ3ZVVKQUFjQ0FDcC1hR1pkMFBidlNuYXNSb216dGlVSFBSUTlrbkdIbHVDWm9SRV9KcjNhWjhZRng0ZFhIS3g5S01laEZfOF9iQXFGX3NwalV0QnFiVEpLZw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-12T07:00:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Interest rates: RBA’s blunt rate rise warning didn’t sway these economists AFR"
+      "description": "Interest rates: RBA’s blunt rate rise warning didn’t sway these economists afr.com"
     },
     {
       "id": "92eb52f6b24b8c12",
@@ -733,14 +743,14 @@
       "description": "Major banks reveals when home prices will start growing again realestate.com.au"
     },
     {
-      "id": "2e0b45977ec604ed",
-      "title": "Superannuation sector plans cyber incident response exercise - Australian Cyber Security Magazine",
+      "id": "0ed5204dccb7b6aa",
+      "title": "Superannuation sector plans cyber incident response exercise - australiancybersecuritymagazine.com.au",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2d2dGM0Q3B3ZG5Ec2cxODI3YlVCV29GQzRfaFQ3dmZnLS1kVEdROS1pV1JPM1l4YVhMZzNHUzBiNU9xVVRHR2lacDZXUk9ybmVQRFFHY0ZUcDVsbS1vRGNuOGhzUmZrdzRfN2JuNGF2RzFsSlMtT2dSRVNrRk51M0YxT0Z5SXV6MGVzakY4b0VjLXlPUjcxa3lJbVF3Zk9KWXdGZ3lZTHNUZy1x?oc=5",
-      "source": "Australian Cyber Security Magazine",
+      "source": "australiancybersecuritymagazine.com.au",
       "publishedAt": "2026-08-11T23:28:32+00:00",
       "category": "super",
       "official": false,
-      "description": "Superannuation sector plans cyber incident response exercise Australian Cyber Security Magazine"
+      "description": "Superannuation sector plans cyber incident response exercise australiancybersecuritymagazine.com.au"
     },
     {
       "id": "af4f97c5a692fadd",
@@ -753,14 +763,14 @@
       "description": "Will you run out of money in retirement? Firstlinks"
     },
     {
-      "id": "54950caefc321df7",
-      "title": "RBA takes on another heritage office renovation - AFR",
+      "id": "3b84b37986bbdb25",
+      "title": "RBA takes on another heritage office renovation - afr.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWV0TFlvSDdiMXdSMERma3AtVmI5UkVfbXdUTmVTRkMzN2FfLTR1SUsxQXkxNXRwU3NwOTF3UjBiY001LXhTTGVlQmd0ZWs4cU03S2dKbjNZYklBcUpYaEZqWDd5Y2xXZEYtcXh6dEIwdkxNeTlLQnFQUlkzZXQ0YUtLbk5ORFV6ckt5dm56bC12bnIyck5KVEhicw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T19:00:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA takes on another heritage office renovation AFR"
+      "description": "RBA takes on another heritage office renovation afr.com"
     },
     {
       "id": "3c424f474ef60488",
@@ -773,24 +783,24 @@
       "description": "This is how much of a pay rise households needed this year to keep up in property market SMH.com.au"
     },
     {
-      "id": "ac00ae3545fcdf88",
-      "title": "House prices in this loosely held Labor seat down $90k in three months - AFR",
+      "id": "6f6aa96353d7f323",
+      "title": "House prices in this loosely held Labor seat down $90k in three months - afr.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGttbHF4SjZRck5pVF9jQjFtZ2JtUGhQTnNWTHZCMlJLMVBjZVd3Z2JzMFZvUmVvaHk0TXZaejR5WVRnZFo3MThXSUMwbzdxeVo0V3hKRjExNW1CU1VWajljZHdHODhnd0RZRXIxM25rZEQzX0xfaERrVjgtZG8xeHZzZFZuT3RLSGhPcWhqYVdLQTV2Z09VSmlVVnRFckFUa3p3NnNrTUVPQnNYYVFudnZTZDg5RmdOUUhscg?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "House prices in this loosely held Labor seat down $90k in three months AFR"
+      "description": "House prices in this loosely held Labor seat down $90k in three months afr.com"
     },
     {
-      "id": "29fbb5a8f9e4db92",
-      "title": "Three big super firms managing $500b urge Labor to allow direct advice - AFR",
+      "id": "3127aa8e7583d014",
+      "title": "Three big super firms managing $500b urge Labor to allow direct advice - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMUJleTJtand4X2JGcDA4alQxRC1FbndLaXhvbnNhc1V3bkZhaFM3aFBPMkdUdlU3Rmp2S2FmcFBkd2lJSEhKejcyX1dXc3hMQzN6UnZYS2JDMmJ3bUFKWG52cTk5eS0xdjAwMTgyMld2anRDQ29KakRCRl9TMms3SUV2bER2c2RRbW0wcFFSR3RSc0EyT2h0amJnZWJHQzBsSHhmT3k4RlhMOWdKRkkwR19hOVh3WVZvOTB6YmQ2QkhQMFMzZE9xaQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T19:00:00+00:00",
       "category": "super",
       "official": false,
-      "description": "Three big super firms managing $500b urge Labor to allow direct advice AFR"
+      "description": "Three big super firms managing $500b urge Labor to allow direct advice afr.com"
     },
     {
       "id": "3b1ed9df036e6eae",
@@ -843,34 +853,34 @@
       "description": "RBA flags inflation fight isn't over CommBank"
     },
     {
-      "id": "d00ffbd9ae8504fd",
-      "title": "Data centre boom keeps up pressure on RBA interest rates - AFR",
+      "id": "93e879fe9ba3db49",
+      "title": "Data centre boom keeps up pressure on RBA interest rates - afr.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFNKa0RXd2dIZVFSbGwzcnBJbFlXQlFJZDhiV3BDejJmWWxPLXZrcnNLeUZ6V05hZ0pWVjNOR3ZfUDlYSEVGX2tJRXk1MW1HdTlPOEpvVFRicllJYWVqeEtnMlg1UlJJczFRck5lc0tVWmNLbm9pZHhQV1U4T2p6S1V6dWV4VjF2N0xQYUFzX1JJU2lKYWxBRXRaRm1rcDhiLTk1eWVtSG5KaU0?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T08:03:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Data centre boom keeps up pressure on RBA interest rates AFR"
+      "description": "Data centre boom keeps up pressure on RBA interest rates afr.com"
     },
     {
-      "id": "0422cc36a9d561a3",
-      "title": "RBA keeps rates on hold at August meeting - Australian Property Update",
+      "id": "7f891a4cab9cc2bd",
+      "title": "RBA keeps rates on hold at August meeting - australianpropertyupdate.com.au",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeng4UFFiTTRyTnMwVmJSMXRzOUFvQ2x0dUU1UU1JazZONUloelNKNnpNaUlaREUtc0lyXzc5bE5vXzhqSlpIb2Z5TEtQUjR5Z201RDluLUw0c0pzdXFWUFZycUFtZ1JRdXI1em5yZjhDeXpVMDR3SDM5ekxHMFVMeEtHYnNOY1lNOE9URnVR?oc=5",
-      "source": "Australian Property Update",
+      "source": "australianpropertyupdate.com.au",
       "publishedAt": "2026-08-11T08:02:18+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA keeps rates on hold at August meeting Australian Property Update"
+      "description": "RBA keeps rates on hold at August meeting australianpropertyupdate.com.au"
     },
     {
-      "id": "b3b4628ed5c48b2d",
-      "title": "Sorry, but there’s no good news in this RBA hold - AFR",
+      "id": "6218f178a252e57e",
+      "title": "Sorry, but there’s no good news in this RBA hold - afr.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd2NXY3Ayd0NfWWdqR1JBRnp5QWJxcGtLcDZyZmdneFd1X1RaMTFacXd3YmJrUjl5ZWw5cFBYNDZQUlhYTjNwSFB4YTR0ejV2S0lLdnFIVWdnNnR2aE9mZWhWY0FWY2pXOHU3bHpQdDQ3QVR0VDZDMTJEUVVLMUdqYjlSZ1drQW1hSnl5dkxOSG9LT21OYm9qdnRvbw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T07:05:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "Sorry, but there’s no good news in this RBA hold AFR"
+      "description": "Sorry, but there’s no good news in this RBA hold afr.com"
     },
     {
       "id": "f0621940f557aa72",
@@ -883,24 +893,14 @@
       "description": "‘Disastrous’: RBA urged to lift interest rate News.com.au"
     },
     {
-      "id": "7ca4322705547ea9",
-      "title": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction - propertyupdate.com.au",
+      "id": "c30f2c8bcd3c6554",
+      "title": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction - Property Update",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90RlgtODZENjZyYkoxdTcxN3JRWi04akllOG9vZ3FOaDJwZG9TbWRwM1drOGJsZVZpc3NFZ1VRRllPNGFsM285Nkt6NTluLUJMNmszVi1ZcTZVc1ZrbWttMmZ3V1EwQ2RhX3BnTV95RkNYWUtOenktNA?oc=5",
-      "source": "propertyupdate.com.au",
+      "source": "Property Update",
       "publishedAt": "2026-08-11T07:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction propertyupdate.com.au"
-    },
-    {
-      "id": "c382486ec8427fba",
-      "title": "RBA is still gazing into defective crystal ball - AFR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWhwRVk5TFVRcGRLajA4UWtVRFRXNFd4bnpOSUdMWmJqdWVGenV0OXZtWUlaNWJvdHdSR3hhX3MzbVFTRVVuc2FtOXpSTlh0UFVUbUJxWERkOV9CdzBBLTNBaFR2MlVyZGhlRzJVczJnX19vR1BTZm42MTdfQ3M5VUg2b0tNeUxocFdmQ1VrQXQwczFPa3FtNzF5dmU4b1E?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-11T06:39:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA is still gazing into defective crystal ball AFR"
+      "description": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction Property Update"
     }
   ]
 }
