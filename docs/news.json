@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-08-18T23:38:08.355841+00:00",
+  "generatedAt": "2026-08-18T23:59:20.015354+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "1c37d20ff59ebd24",
+      "title": "NextEd Group (ASX:NXD) Revenue Falls, International Education Conditions Remain Difficult - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkdtSUNpd1RraXBzZ3lnQVBWZENiSmwyamEtSURoMzFmM3lqclN5VXNnRDh5RFlDMDhseWw1a084YUNtUHFKUExvaGotc0x2SWZPeUJ6OVpROGU4LUw0Uzd4QzAza3VreGEtT3FJWW50OTU4OE1RN3hTdnQtcDU3WHpoTHhvdlBuNC15OGZjWVl2QWNLNk1ISVBoeDF3ZnBtcS11bU5sRml1SWRoUXhKdmktdXRMdk9HQWZmaGp1SQ?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-18T23:55:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "NextEd Group (ASX:NXD) Revenue Falls, International Education Conditions Remain Difficult Kalkine"
+    },
+    {
+      "id": "a3561f06c78896c8",
+      "title": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmIxR2FCcDFZeGpQWHRNREExY3VfWXhRYmllRUxaQXBGOWlzaFJwQzZFbUliZXo0dWU5eEw1M2pxNHc1X21VTWRrYndrYkFCV3hQMnMxM0RhTHNyZXNqcWdRREVLdklMbF9WVXlfU25LWXpLYlBnODBsV29OYWVReVVkalhIYnJWOTFJNGdJRjVJWmp1Sm5KYTRzYlpQYnNwZmNmeGFCYlByZDRlWlZTbVlrbw?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-08-18T23:53:01+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes FXStreet"
+    },
+    {
+      "id": "f330609a485f9b93",
+      "title": "Solvar Limited Releases 2026 Corporate Governance Statement Aligned with ASX Principles - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYWRjYmphNHFFWmUxNVRPQ2J0NXFScV9GdWpZRTM3cWpNQXZhRmdZSklvOFozV3FrTFRfZHpIZFdwcDM5UnN5cUZWdV9Xalp3aWlwdU5SUDh2US1ucnpuaUdpOUI3WFFSS2dpS3Npa3JZX3h0SlBVYkFyN2N2R2FZNWZ1eTJoOGR3NkNJLVQ4eVg3OXZpWGNhTkNXdlY2N0FoSVdNd256dmdyOUl2MHJGUGpfdVlZVWkyTVBiYkZ2VVVGSjRoMjlVTg?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-18T23:47:31+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Solvar Limited Releases 2026 Corporate Governance Statement Aligned with ASX Principles Kalkine"
+    },
+    {
+      "id": "c22e20d7a338fb24",
+      "title": "The Morning Catch-Up: ASX set to edge lower as Wall Street tech sell-off and Iran tensions weigh - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ0l6aThmWXFiOVJJV1FSeWp0ZEczUUYyVTJDTE9xUVlrMUJEWXZhZVFzcUthTWVQRUdvUXFoR2lVVS1JQ2dOa0RNQVhIb0hMbXpSOF9SS18zeUpXNmxudGQ2d3JqdXZBMlF2ZnE0QkpiR3pwMjJhcTBKZ2NjUEt5YVlEZmFybDdEUHRHTTloSVlWWk1LQUNxRXNfSFo1ZWVlVFpTbkxEU213UERITjJ6aDJScGpabEZYaVRjVDh3YzBaR3B5QTVCNENuVnBSd3NoOE9CN0xHaWg3QlRHR3JLLXp1blNQbjdGcllpV0x4a1VvOG83ekUxbmhzcUtRdw?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-08-18T23:47:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "The Morning Catch-Up: ASX set to edge lower as Wall Street tech sell-off and Iran tensions weigh Proactive financial news"
+    },
+    {
+      "id": "f600aca3773a5aef",
+      "title": "Can ASX Earnings Defy Wall Street’s AI and Bond Yield Jolt? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2xjNmptTFRBdkZhZEJyOWFONnpRakk2QXRaYXFhbXRWOTRHUVB2RWdDa056cEtuMTlhQTVrc2h6eEdwd1VDZEtKMXJ5TXRZNzNGWkZvM0NHNFgzZkZ1NlJSSG02MGRzYUNodi1YZmp2VGoxbkc5dzR3elIyVDNvT3ROOWtQRk9XZTU4c3g4VmMtMXdIM0NaQXJBaFlLdEJIdmg2c1ZSX1o?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-18T23:42:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Can ASX Earnings Defy Wall Street’s AI and Bond Yield Jolt? Kalkine Media"
+    },
     {
       "id": "9081865b5ff915e9",
       "title": "ASX 200 Eyes a Swing Low, Though Financials and Consumers Remain Fragile - cityindex.com",
@@ -43,16 +93,6 @@
       "description": "Morning Wrap: ASX 200 eyes sixth day of losses as AI selloff and bond yields hit Wall Street Market Index"
     },
     {
-      "id": "75266ae6f268121d",
-      "title": "Wall St falls as bond yields climb, ASX set to open lower - Sharecafe",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenVxWVdLb0tTLWpMVEplMEZ5c3dTa2xpUjE0RVk0Ymc2QWtTUjhaU2JWNnJqa290S1VudHNTQ2pxQmFDODFmbHVQRHFyNlhETmU5cTMxOVQzUi10ZXIySzhYcWRVdzZTQ3ozak80VENzQUo1alo4TXFiTzBYRnd5R2pKWG9OSTQ3V1ViQWVrNTJXUEktZDVkUFFaMlRkZw?oc=5",
-      "source": "Sharecafe",
-      "publishedAt": "2026-08-18T22:42:40+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Wall St falls as bond yields climb, ASX set to open lower Sharecafe"
-    },
-    {
       "id": "a66cb8a8a7321992",
       "title": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzJmb01SR3BzbnhXSEJuTklMOHlvRUdWcW1adkt3SjFmQ1MwbDFCOC1zeWx3Q015VkQxVFl2V1dUSFgyb19pVmZqdDJtT1BWN2Nhd1ZzUTMxXzloR1NDRGE1ZVhMb1ZTNVJvZ3M1OGhzaUpmX09Cdy14elIxY0Jtam9fZW1zYjZ1empDeEZqRzkzMXRONXBfdlNOTy1sZkJxeXVFalhhdVhCY0FiTUZFOUcyZU1fTGdLel9IY1V4S1dqNGFfMC1TUFB5TFZHOWNUa1NKZ2JYdw?oc=5",
@@ -73,24 +113,14 @@
       "description": "Australian shares to open lower as rising bond yields rattle Wall Street Capital Brief"
     },
     {
-      "id": "5cfe6381c73dcb07",
-      "title": "Could this ASX 200 share be one of the best long-term buys? - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXM0dlpWeFpReG40cWptSmR1Z0NTX3BRX1RXbjJZWXNrZlVudXFhemdZLUU3X1Fod3BONXFVUF9zNHE2VEtnLWRCQ0RES1l3WUoxNXdCN28xdmhiNWg0RmFWd2dCX2Y0QUc0NUhveUlQVHdEeWgtSjlPcElfamYzYkNycEN3ZkQwVXdidTk1aDVQNWFMOW1RNFpR?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-08-18T21:45:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Could this ASX 200 share be one of the best long-term buys? The Motley Fool Australia"
-    },
-    {
-      "id": "000a7b18ca092593",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - themercury.com.au",
+      "id": "9d3327060f045050",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - The Mercury",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQUZ2dXFZV1dKb2p6S29yZjZxZC1tdG5hWVpLQlVCU043azhRXzA1NllHR3lJMnBSS3FYanlkZjZ6OTNZaHpFTzgxbjlYd3FNRUtYU3JCczVybm1sSnRfS1VmcDFvUTdMbm5lVWhteE1MMEN1ZFlJVzVfc0NDWVZtX296c3l5cjI3c3FoQjU2SjVnWDBYQkJ1S3hodm1PZzN4N2NzVDJJbkNMWHZiN1lCZnBKMzJyMllCbjlldFhPNWRxV3JxNDV0dHQ3VU93cGpGV1VzeURHU2xwdC1udTdUMUwyQUlRQmlqWWhzaA?oc=5",
-      "source": "themercury.com.au",
+      "source": "The Mercury",
       "publishedAt": "2026-08-18T21:27:59+00:00",
       "category": "markets",
       "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens themercury.com.au"
+      "description": "Rise and Shine: Everything you need to know before the ASX opens The Mercury"
     },
     {
       "id": "ed81608f058bd418",
@@ -213,16 +243,6 @@
       "description": "Markets today: Wall Street slumps as AI stocks fall, ASX set to dip WAtoday"
     },
     {
-      "id": "3653c7ba7d795656",
-      "title": "ASX Stocks Estimated To Be Trading Below Fair Value In August 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGotVkZOczMyNWE2Z1FJSVRpLUFhTEVkSXFFSC1JbWZUcDJZY2N0MTJmeVVXdXpkNVhPdm9rdVpISzg4SVhrdnlZckhZQVl1d1RWZUVvQWRZa1FBSFk3V1RWdkMzTjRvZVB6WTh6a3E2SEdPWV82eEl0eFRubW5HenU0T1RZZFVhWi0xcTB3NXhGT0s5SzB1eFhIR2N1Y1BoaTlQTW5vckU3Y2ktZkxEMnZtSEhOY3VkNGJ3N0Vfb3FiS1pJc2lsRXkzcW3SAdIBQVVfeXFMUHMxN3diZGpmMU9lSG8wM2R2OEVUQmI4T0x3QXZsQUJmcHlpeWtxb2k0bEFKN1Q2YkxmQnQ5Szl2NkYxNnBMSzltZWhaOWR6Vm4tM2hEVFN2WWV1ajEyYzZqYjBSWWM3a1VEOXllQTVDNU5CM0pWMTVqWUFVRGFkMXdUbU54bjZvdFJydHcxYVk1LXIwcnJNY0w4NUlOa3YwbGFrb0ZWcHNzODRHaHFIc0ZwbXdHR3FRbHQteXNWRDBqWi1sRzFXaURiR01kZUhVMXNB?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-18T19:08:56+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Stocks Estimated To Be Trading Below Fair Value In August 2026 simplywall.st"
-    },
-    {
       "id": "443fa74b682de94f",
       "title": "Australian Clinical Labs Leads Our ASX Penny Stock Picks - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEh2ZHh6UXN2UjdRQVc2aHFYZ3FsVTROenhIQWlOY0lzNkh0MmZJczNvZW8wN2l1TkYzak9TZk5FY1lEU095RWdFVHRxel9zTTVFeDVkdnJkb08zQ0ZUUnU2Sy1YaGdMMUNZS2VpeVZCMHc5X0w1bkZfNWtxMWtyWUNXVHlwUW8tNEtwTlE1RVZ4VU9YSjBzX3Y3bk5vOWkxM2xqbmxDS1c4RzhNQk9XbDluNUJPYmNoY1RvZlYyUVBzN0tFOWJJZWRUZk1FUjR2ZnJNQWJqbVFqR2Vt0gHiAUFVX3lxTE5zNmJmeXY1R0REVmg2Y0dkWFFMNjYxaWt0TFBmd3RZRWJuOFZYdnA1bFhlaWthWEZNaklKY1BZWGxxNVp0SHRjWHVUVFhLVDNYZkxIM0ZHLThSbDh5Q3lFYnhEeVF2ZjlzZC1vV2M3S3Q3V21iaFF3ZUQ2SVF5U3d5VW9DZnN1azNKaGJ6VUFRZlpqSVpiaHJHejFVTFB3RFU5V3poV29kNk5COTF3NmtDUFJZc2JqanMtbDM2dXgxdEZQRGU3c21PMWoyNFlPb3lKYmxGTFFfM3F2Z2ZzY1JyYWc?oc=5",
@@ -231,16 +251,6 @@
       "category": "companies",
       "official": false,
       "description": "Australian Clinical Labs Leads Our ASX Penny Stock Picks simplywall.st"
-    },
-    {
-      "id": "ef7f2eab489362b6",
-      "title": "The Commodities Feed: Oil near $90 on escalating Middle East risks - ING THINK economic and financial analysis | ING THINK",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1dlU3RPNF9scy1rQW9QdWJFSF9IQk91MXkzQkxFMFViWmdMaXFkWWhzbm5EMkFNLXBDVVdmZE54T0RlUG9rSlJKbFRCXzkxNmdyQl9Lby14V2c5eHdLN2ctQ2JLMUF5NDJBbUI1VnJVUEc1Mk1aNXo2UkdpeUpMMHMzZDZ3VERWT25Bd3FDdC1WeFdfYmI1MnJpQjA?oc=5",
-      "source": "ING THINK economic and financial analysis | ING THINK",
-      "publishedAt": "2026-08-18T17:11:13+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "The Commodities Feed: Oil near $90 on escalating Middle East risks ING THINK economic and financial analysis | ING THINK"
     },
     {
       "id": "aa28716d715b60f1",
@@ -383,24 +393,14 @@
       "description": "Australia rates rise likely this year, economist says CFOtech Australia"
     },
     {
-      "id": "cbbbef4ff223ad66",
-      "title": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 - bnpparibas-am.com",
+      "id": "ea83e83de7b28027",
+      "title": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 - BNP Paribas Asset Management",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjhBYzVuLVMwOThzN1NmTFA0ZGdoeC1aQlJ6dE5jcHlxZ0dqeGsxQTFIY2t2VmJlYlczX0JzUURjUGRpOTJrVWJUZndFckQ0YTZvQmt0TXRidTAxSWt5cjczZmlMVUJPeGd4NWk1ck1UajN0VU81dzMzYmJJc2dPck9IV0FPLWFON3piZGIxckxkU2lUbzhUMUlDN3FiWTVCNjBmMmZqTEFLU1dLeEplcGFDbFdvYXhlcDJsQXlndWVQNHZsYTFIMldfUmw?oc=5",
-      "source": "bnpparibas-am.com",
+      "source": "BNP Paribas Asset Management",
       "publishedAt": "2026-08-18T02:08:09+00:00",
       "category": "economy",
       "official": false,
-      "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 bnpparibas-am.com"
-    },
-    {
-      "id": "64742fa8d82870b9",
-      "title": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0cxNlFsZkNOaXdDaW9YUG5ob1pubS04VzlEMGFfR0pfZEdDRUd6ZlBzcXNwaFFBUS02TTZIeUFCTm9FSjM3bUN0YS01dHRHUjFfbS1VS0ZXbHlvUHhPWklGS2dLMERRa3VYUmJCXzBheEF0WC1MWWlTcWw5Mk1IRDhNNDA3aFA5Tm9UbkdhNjVZUEdLOGp5aF9UWUloQmlyZlVvZ0ZB?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-18T01:22:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) Kalkine Media"
+      "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 BNP Paribas Asset Management"
     },
     {
       "id": "ea526586ce3c39c4",
@@ -663,14 +663,14 @@
       "description": "Election will be ‘referendum’ on super, Chalmers says in Hanson stoush AFR"
     },
     {
-      "id": "6a539a124ce10f02",
-      "title": "Australian housing market update | August 2026 - Property Update",
+      "id": "551623fd7b989780",
+      "title": "Australian housing market update | August 2026 - propertyupdate.com.au",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sTFBuenZVZDB3OUhCY29BV2ZoaE0xY3piVHZHdEt1Q3dqWHFjVzJOMVl6eTFqSnBrNW92UU5OQjJVeEpaX0VvRVVsYmpWemdZamxjR2NXM1Q4Sk1JblJNVFJ3TGR1Zjg1SWpiUEQ2cEk2bXlEUkR0OURLQQ?oc=5",
-      "source": "Property Update",
+      "source": "propertyupdate.com.au",
       "publishedAt": "2026-08-16T07:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Australian housing market update | August 2026 Property Update"
+      "description": "Australian housing market update | August 2026 propertyupdate.com.au"
     },
     {
       "id": "8c9a1dbec41c5ea5",
@@ -833,14 +833,14 @@
       "description": "Is Australia's housing market crashing or correcting? Experts explain the difference Domain"
     },
     {
-      "id": "2c9333f921486968",
-      "title": "Australian economic and financial markets update | RBA Chart Pack August 2026 - Property Update",
+      "id": "e658871c68d09c20",
+      "title": "Australian economic and financial markets update | RBA Chart Pack August 2026 - propertyupdate.com.au",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHhaTTZNY1JGR0ZYMG13c2pEZDZzbG5PM05zSFpMQjZGTE5Ma3ZJUF9uSENJcDBkQ3g5elhkS2hjNVlHVWRaeDRaa2tLQXZwZC1HM3NodTdtSEJlTUo4TDNzSE81UkRRMjJjS2tVekw3SWY2QlV2eUd3TjFDZkhuVEM4NEoxS0pDZGVrVWx4bUZiS3BSMjBDbEhFaGNBc2hCUFBKeVFXNXpOZw?oc=5",
-      "source": "Property Update",
+      "source": "propertyupdate.com.au",
       "publishedAt": "2026-08-13T09:33:23+00:00",
       "category": "economy",
       "official": false,
-      "description": "Australian economic and financial markets update | RBA Chart Pack August 2026 Property Update"
+      "description": "Australian economic and financial markets update | RBA Chart Pack August 2026 propertyupdate.com.au"
     },
     {
       "id": "99d6da6dacab45fb",
