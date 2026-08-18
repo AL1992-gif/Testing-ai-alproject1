@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-18T05:13:45.927482+00:00",
+  "generatedAt": "2026-08-18T05:48:37.728115+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "657be8a07fefa499",
+      "title": "Judo restores investor faith with loan book clarity, growth momentum - AFR",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZThCaXRBQVhWY1lJb1hGUHdxWmZZaDBjTHlTemtiSzRMNWF1OXZwRFBqdzFfbXk2TUtvbmZ3RjhNUUFWUFk3YXNDb2czTjh1ZXNKTTZDSzVicmw3eHd6Ty1hQUNKbFhZTTctMDN1UzJkcUozWnhINHVSd3p3S3JTdVY5d1Z0Q3VVUl9YVUY5NFp3MmVnY1JWMkM1U1VzY2NaRmRYZmVmMkx1dm1PWVktR0Fobk1veE9sTnA2dWxtcXFaTHhWWGdBNjBhRnI?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-18T05:37:30+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Judo restores investor faith with loan book clarity, growth momentum AFR"
+    },
     {
       "id": "6d377a0863d4570b",
       "title": "3 ASX All Ord Stocks That Dropped Today: SKS Technologies, Brazilian Rare Earths and Altair Minerals - Kalkine",
@@ -11,6 +21,16 @@
       "category": "markets",
       "official": false,
       "description": "3 ASX All Ord Stocks That Dropped Today: SKS Technologies, Brazilian Rare Earths and Altair Minerals Kalkine"
+    },
+    {
+      "id": "3207088e43877786",
+      "title": "Ausgold (ASX:AUC) Jumps 23.94% as OceanaGold Agrees AUD 776m Acquisition - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT21leGNtSGttQndKTTdGMmlldUgxdHZfdXkwYnc3Z0wxRWhzR3UtRE1JbTFkUUlST2RfQ0dab0daLW9JbjZSVVpFa1l2Z0ZnLVNoUkE0Rkl1Q3RFSHBxUkFEVUN6QlVfdTNCWWtKbk1fcmxrdHFRRWd6Nk9Vd09GODJobGlJZHNXNDg4YXgwMlpDSHJJdmVHR3FGM1d2c1oyMFdKeHltaVJ2N1N4d24teEhR?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-18T04:23:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Ausgold (ASX:AUC) Jumps 23.94% as OceanaGold Agrees AUD 776m Acquisition Kalkine"
     },
     {
       "id": "c2261029c74cc8b6",
@@ -133,21 +153,31 @@
       "description": "2 ASX 200 Stocks That Soared Over 15% Today: RWC and CSL Lead the Gains Kalkine"
     },
     {
-      "id": "ea83e83de7b28027",
-      "title": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 - BNP Paribas Asset Management",
+      "id": "7b6b9d7642436ce2",
+      "title": "3 ASX shares I'd buy if I could only check my portfolio once a year - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktjWW1NLWZQX0JicmY0Vkl3bWMwRDlWdUZ3Z0tabzFxLUF0NUlrUkZpQkFnUUJUZGYxNmYwWFR2UUJ5Wi1ReURKSlpzdGVWcHplSnZIbkpLTVpVZ0J0ZnF3dFkwMmFnT205OC04R0I2YTd5Yy1nX3N5TDFlUkVjazBQa2YxZ3o1YU1HaHdxcU5UUExGV3NINUhYbUlRakg1UDJ5VQ?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-18T02:09:31+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "3 ASX shares I'd buy if I could only check my portfolio once a year The Motley Fool Australia"
+    },
+    {
+      "id": "cbbbef4ff223ad66",
+      "title": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 - bnpparibas-am.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORjhBYzVuLVMwOThzN1NmTFA0ZGdoeC1aQlJ6dE5jcHlxZ0dqeGsxQTFIY2t2VmJlYlczX0JzUURjUGRpOTJrVWJUZndFckQ0YTZvQmt0TXRidTAxSWt5cjczZmlMVUJPeGd4NWk1ck1UajN0VU81dzMzYmJJc2dPck9IV0FPLWFON3piZGIxckxkU2lUbzhUMUlDN3FiWTVCNjBmMmZqTEFLU1dLeEplcGFDbFdvYXhlcDJsQXlndWVQNHZsYTFIMldfUmw?oc=5",
-      "source": "BNP Paribas Asset Management",
+      "source": "bnpparibas-am.com",
       "publishedAt": "2026-08-18T02:08:09+00:00",
       "category": "economy",
       "official": false,
-      "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 BNP Paribas Asset Management"
+      "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 bnpparibas-am.com"
     },
     {
       "id": "06d232311dfca49b",
       "title": "CSL (ASX:CSL) share price soars 17% despite $2.6 billion loss - Rask Media",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0xnVUVncm1BMFdJV0tJQS1tZW1wMlYxSElyc2dScGRYMXlXZ2V6Ui1mVWZRdFN6NUxBWjRJZHZsdmF3WFBBRHljeTVsbm1QQi02QnFOUUE4aFRHbXlVVHVVTTdPX2dWcWk0Y3RQMDRQRUtyZC1YcWhRaUNleHNEQ1VXUHFnS0kybFU1S3RvZkR6blE1RFpiTkk3TmVTdw?oc=5",
       "source": "Rask Media",
-      "publishedAt": "2026-08-18T01:30:00+00:00",
+      "publishedAt": "2026-08-18T01:34:12+00:00",
       "category": "markets",
       "official": false,
       "description": "CSL (ASX:CSL) share price soars 17% despite $2.6 billion loss Rask Media"
@@ -173,24 +203,14 @@
       "description": "Carbonxt (ASX:CG1) Kentucky Kiln Nears Completion as NewCarbon Investment Reaches US$9.75 Million Kalkine"
     },
     {
-      "id": "df9f51e5030893de",
-      "title": "ASX mixed in early trade as BHP, CSL rally, big four banks decline - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXgyZXlFMURJWUwxOUQtOTYxa3ExSUhnbzJuN1BmUGh4cXFxSTMtVThnUW9CSmVNNi05QXc5TnVFd2RMSlctNG41UUVjeXlFN1dhVzI2VzR0SElJcmZKQVI2QmhZekQ3R21Dc2tIUUNzenk5ZFBQNWJvbTRtT2tZQkRfN3RZV3RIaGJnQXFWcXFZUVdfdzM2cmFIenRvRmZtRHFEWlZJZTFLMk9QdlBrcklDSzBvSEVCWTB0YUJCQ09fWTd5dXc1T0Y5VGd4alRhLXBZMUwyZw?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-18T01:08:23+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX mixed in early trade as BHP, CSL rally, big four banks decline SMH.com.au"
-    },
-    {
-      "id": "aa7202ee2f215f9e",
-      "title": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query - theglobeandmail.com",
+      "id": "81890aa09eb90163",
+      "title": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOERDakxvTWFuaHBLeV9oZjFZSEI1dXcxU2dfY1dOT0RLVVIwOVFrUkZXWm9ZNDJaODBad0pKS1BHblNmREpOTFVqZTd4OFhuVkZia3JRLXJ2NFZqQXVSSjJ5cWFuRHN1UC1ZTllWb0JaeVNKT1ZZazF6TmUyQ0JneE4zb0hmc2VBUW9faF9JR2o0Szlid2lsbEdWMlJJSGNMdzdSVlFNLWlDX0ZtcUt3QlQ3QzhBSU94QktRd0stUHd1TE1kZS1qR1BrZUtuV0RwemlxMWFBblVaQ3N4WFE?oc=5",
-      "source": "theglobeandmail.com",
+      "source": "The Globe and Mail",
       "publishedAt": "2026-08-18T00:52:06+00:00",
       "category": "companies",
       "official": false,
-      "description": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query theglobeandmail.com"
+      "description": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query The Globe and Mail"
     },
     {
       "id": "d138965a69a11cd4",
@@ -203,14 +223,14 @@
       "description": "CSL profits drop $3.7b as weak US vaccine rates hamper recovery AFR"
     },
     {
-      "id": "d7d326f5e916e1e6",
-      "title": "Morning Feed: What’s cooking on the ASX? - Stockhead",
+      "id": "73b508037ab5acbf",
+      "title": "Morning Feed: What’s cooking on the ASX? - stockhead.com.au",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pOHVvOENHa2hJWFlValBUSk5oTlp6V1lRdmI1Nlg1REw2ZFF3VFNWNEZaRWdpNmFKbGtpM3VfbDU4MDJHb3B3M1dqRmNrRkdEei11aEFKc0FDNGZ4RnB6MnRkV05pYjdBVldOLUlVUDVubTlvSXhSMkNsZw?oc=5",
-      "source": "Stockhead",
+      "source": "stockhead.com.au",
       "publishedAt": "2026-08-18T00:40:57+00:00",
       "category": "markets",
       "official": false,
-      "description": "Morning Feed: What’s cooking on the ASX? Stockhead"
+      "description": "Morning Feed: What’s cooking on the ASX? stockhead.com.au"
     },
     {
       "id": "451dcd0b470f0ff3",
@@ -221,16 +241,6 @@
       "category": "markets",
       "official": false,
       "description": "4 ASX Stocks Likely to Be in Focus Today Following FY26 Results Kalkine"
-    },
-    {
-      "id": "895fcf46d0fe38ca",
-      "title": "ChartWatch ASX Scans: Evolution Mining, Capricorn Metals, Core Lithium, Metals X, Midas Minerals, Vault Minerals - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEVBQ2pNbmNnWm1QS3NSLUQweWF2MGdCaHR2MHlhdHk4OGctWF9DbGItVW9SNjBBaThxb1M5bnd6ZzVHV18yMkRRWHowejIwNE1hWDhza1p3cnBWN3ozOFZKZ3EyM2U4TU9RYzNocWlBelJZckh6YS05ZGNGeFZTMkVScmxnVTlqa0lTU2tZTmxkdVBrdC1YUS1QSTBEazB6TEItb3BtWHQyWWNjSHMwbmpXY1hHZ0NaQ2VZaDdaVlE4SWs4ZjVIVEpNM0I0ZE44eUNGb0lvaHFFdw?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-17T23:04:27+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ChartWatch ASX Scans: Evolution Mining, Capricorn Metals, Core Lithium, Metals X, Midas Minerals, Vault Minerals Market Index"
     },
     {
       "id": "1b49a9d44549bc16",
@@ -253,24 +263,14 @@
       "description": "2 top ASX shares to buy and hold for the next decade The Motley Fool Australia"
     },
     {
-      "id": "e0a0b8e1391420f4",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
+      "id": "0761fb619ec44924",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - stockhead.com.au",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmVyUk1LWEQ1R281alo1SGhGOVpRNUhQbUdqOC1IZngtSnlubkVWSTBYcnAzRWNuQm1laDdBYUV6TTRfUU85VF82blFsdFpZdWMyUU5tUmZVYzBxemlTRmlvdS1PU2Qxd2EwcTNsQURWalBzbzRlQ1BxTF9QZ2NFcl9GdGhDOGtPbDhWQ1I5Nm1QLUI4b3ZnYUxRaXV2YU0?oc=5",
-      "source": "Stockhead",
+      "source": "stockhead.com.au",
       "publishedAt": "2026-08-17T21:06:13+00:00",
       "category": "markets",
       "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens Stockhead"
-    },
-    {
-      "id": "2125b60af5ee7d9b",
-      "title": "5 things to watch on the ASX 200 on Tuesday 18 August 2026 - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmZ2UUdBRHRlNHNYLW03ejNzbFFNcTlWdEpLczF3NW5Id1JWWEliSEptX2ZtOEVCMUVUU0RQSlRQZXNWUU1lZHIxU3Z3cndvZ2MwdnB6RFJuREc5bFpQQ0N1SURoTjFfa3NPN1dma056bFAwYjBLX1JCS1pRN1pqYWw4QzhwWlpjX3hBX21qRU56cm96SXJYYjJR?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-08-17T19:03:30+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "5 things to watch on the ASX 200 on Tuesday 18 August 2026 The Motley Fool Australia"
+      "description": "Rise and Shine: Everything you need to know before the ASX opens stockhead.com.au"
     },
     {
       "id": "6b2a0b05870d74af",
@@ -343,16 +343,6 @@
       "description": "Downward Pressure for Virgin Australia Holdings Ltd (ASX:VGN) — Key Considerations Kalkine"
     },
     {
-      "id": "dc18c246dce29554",
-      "title": "Biome Australia (ASX:BIO) Shares Fall as FY26 Growth Slows in Second Half - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczFmNTMwZlQyRS1Sa2FPSFBlWUJGczM2YXFtMElsTDVWU204YVNHYlVRSk5aRUd4bHpwUklrY2xnWGw0YkIwRTkxTC0ybVZ2d2Q5cjlTQ3QzYzFmVDBHM0J1bFJDalctYXlKTWxYYWc2Mlo4ZEp3aFVneFg4d1hMT0RDNjM0cC1WWnI4cXRYdXIyTFlXdnc2V3VCemFFSlNJdVpiV3VXMi1DVjQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-17T08:14:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Biome Australia (ASX:BIO) Shares Fall as FY26 Growth Slows in Second Half Kalkine"
-    },
-    {
       "id": "f50ae31b64dca341",
       "title": "When should you be able to access your super? Battle lines are being drawn - SBS",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUZIRFFlZnVJeFhSZUVpV1dnMzQ0dFNlbG5GNmN6blN4a3dzZGgyQ2tJSTl2YUhtNDQ3Y1hJVDE0Y050MHhzN0RWYVRuM1BQbk5tTDR1VldKYkh6c0RWaUlYbURRMFVnMV9hQUphbEhQaHA0ZV8tQk9ndW1FazhuSmNsQm5wdW1icGdCT1FvMHRCUERxT0ZrbUdVLWNHQVA0aXYweE5KcVZXOGs?oc=5",
@@ -401,6 +391,16 @@
       "category": "companies",
       "official": false,
       "description": "BlueScope scraps US demerger after profit soars, flags higher payouts AFR"
+    },
+    {
+      "id": "4aa190d7664108e5",
+      "title": "National Australia Bank (ASX:NAB) Falls as Business Lending Growth Meets Softer Home Loan Demand - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNmp3eXNEb0ljcUVOeHBnQlM5VTRlTHRvY3pSVUpoY1VudUZsUU1STEFkVEFGTVRuRWZSdVBiY1JGY1RnNjJ0V0tCcTdRWGhwMENfRy1maVkza2VaY0ItQUdsTm5kenEyTG5KV2NVc3lqUDZTeGhGSEs3NWJ5RHB2RXNYWE92MkFQU3hLaGcydVpGLXJVczRyX1dTMy1Bd1BmVTJpcjRlZ1V4UmRTamVERmxERlVrU2Znc0RvYzYwcmw3QWRvSGtlYW9Pdw?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-17T03:05:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "National Australia Bank (ASX:NAB) Falls as Business Lending Growth Meets Softer Home Loan Demand Kalkine"
     },
     {
       "id": "3a176c2a518373b3",
@@ -453,16 +453,6 @@
       "description": "Super stoush sees sector becomes election focus SMSF Adviser"
     },
     {
-      "id": "d96d537b339d6608",
-      "title": "Australian Clinical Labs (ASX:ACL) Lifts Margins as FY26 Buybacks Support EPS Growth, Shares up 13% - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGJWR3VJbXIzSmlfWHM2SHRJWWtsdkdRTHdoTm5ZUU0zck1sZzdVVGxxRWJMN08zeFZRQjJXSDRQNkRjSUNUTktUdGxkX2tPTnNMYnVzaWR4V1NoU25wXzB1b2wwXzh1UVo5MFdxWmZSX3RKYUV5QWktZjhKWW8tVW9zaVNXSkVUdjYzQ3FVZEItOE9hbENRWWhDRUI1NmxIM2pfc2hxVUJBM3FlTkVyVXRYc3ZIb09TMF9KVy1mVHFvdkVaRE1oT0RzbHlYdw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-17T02:04:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Clinical Labs (ASX:ACL) Lifts Margins as FY26 Buybacks Support EPS Growth, Shares up 13% Kalkine"
-    },
-    {
       "id": "1fa8b7986d6d1d69",
       "title": "Could Insurance Australia Group (ASX:IAG) Remain Fairly Valued After Its Latest Results? - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUxWVDlzME1RMVhyMXk2NU5uU3hTWWdsRGtTQ2FTckpEQkEzZDFDYUdSbEtoQlQ0RktJUm9IMzNRTEN4N3gza0hZNFdOcXNzb3FJSHZTTmt6VXg3d0lJdDIxRXpkTDJ3eEdqWkxydExMZ2FEM0Nnd1A0clRwdXpRbXp0RmE4YmlHSkxacTBFUmxOSG44X2ZhMGpBblBOdmluUXA2TFYyNzI1RUZUMldZRHpWd0dzdlFCS0ExZ0wwZFFOR2dieGI0?oc=5",
@@ -481,16 +471,6 @@
       "category": "companies",
       "official": false,
       "description": "Lindsay Australia (ASX:LAU) FY26 Results to Test Transport Margin Recovery Kalkine"
-    },
-    {
-      "id": "e5a5f9397fa061be",
-      "title": "Chalmers warns of Hanson threat to super after One Nation leader calls system ‘broken’ - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXVIM1ZqdkVYUW16TUotRmVNbUstdW55cU1OSWs4dWpDMnFLT2xyNmlyZlZxNExZM2ZjemdKcTl2ZmlPaTZNbHVEVVRIU01KRTlVX2lzUkgzMmh6SldHSERqZUE4QUFYS19fS3hvVGJuM05VMmF6UlFDU1kwSDR3YjFYenVSdi1xLXVmRFNLNUs5Smt1U1J4TURYWmY4ckhrT2NXMmVOcFVta1E3RVVsU0JPSUNiVDdHeFRqX1hxblpkeGl3NmxnT0tBX3U0Umg1T0VXT1FDaEV3NzduNkE?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-17T01:19:08+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Chalmers warns of Hanson threat to super after One Nation leader calls system ‘broken’ SMH.com.au"
     },
     {
       "id": "d5d0bb82e151911b",
@@ -658,7 +638,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazNwRWlwcTZrcGd3VmpWNjRiSEZ5SDczcV85c3VGSnZxV3ZaZUx4RE5LWE42T3Q1bnlDai0zeUUzU2lCUmdhYmVFaXFwdW5NS1NKNVBaRGlWbDJhTTd0dm1qal9GUU9SRHY5Y0FuRGphSWo2Uk5zN1R6WE5Zb2VWbHdkUVRXWjYtS0JZUHBMaHlYTklGcGZOMjlxU3NvcEdlMnBsTGxkQzVET21OR2IyQw?oc=5",
       "source": "AFR",
       "publishedAt": "2026-08-14T06:00:00+00:00",
-      "category": "housing",
+      "category": "economy",
       "official": false,
       "description": "This housing correction is on track to break records AFR"
     },
@@ -793,14 +773,14 @@
       "description": "Super funds don’t want to sell products – they’re selling retirement confidence AFR"
     },
     {
-      "id": "6e6a116dc1f66f5f",
-      "title": "House prices forecast to record biggest decline in at least 40 years - macrobusiness.com.au",
+      "id": "2b7abf55d2b9d811",
+      "title": "House prices forecast to record biggest decline in at least 40 years - MacroBusiness",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON003WUN1TW9BaWppUDBBd2JhbjNpNmtKTlZ6NzZDVjVTVXlrNmlMUUZ0NHRuZ0l5ZDFXTGFYemgzTHNRUFJrZWo1NFM1clVkcXNEMS1jTkdMYkFxYXdRU2J3THV3WGp1bG5neWlnVXRyRFVFa2h4d0s5MUQxcFJWWEhaZThpeXBSVE1GUWNaRGZpU2Jpd3FpSjRxX3kyRTNGTjhNeFVETHczMHJjVGY4?oc=5",
-      "source": "macrobusiness.com.au",
+      "source": "MacroBusiness",
       "publishedAt": "2026-08-13T03:05:28+00:00",
       "category": "housing",
       "official": false,
-      "description": "House prices forecast to record biggest decline in at least 40 years macrobusiness.com.au"
+      "description": "House prices forecast to record biggest decline in at least 40 years MacroBusiness"
     },
     {
       "id": "6bdb849f78b4e642",
@@ -901,6 +881,26 @@
       "category": "super",
       "official": false,
       "description": "Housing industry urges Government to keep SMSF finance flowing to new homes Housing Industry Association | HIA"
+    },
+    {
+      "id": "e0a3c06e436775bd",
+      "title": "Households to bear the brunt of sluggish productivity - CommBank",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM19IS1lucFJTQXowbExGdXlEa0c5S3B5LU9HaHNSZXhFcEF5Y1dnU1k1WDFQUTA5eTZzcWVoS2tzRjJ0Yk5uRXVKQzdxLW5RRGJuaVpsVHJhbXJ3cnBUS1cyTC15UkhENmZvN1FIZ1VGaU96ZlE3QXRMczlOS3dXM2RxQzZmYk5JSnFDSUEyS3JMRG1xV09UbThYN1ZKdTB2eERSMVFJRmZMMmE0T18xQnBR?oc=5",
+      "source": "CommBank",
+      "publishedAt": "2026-08-12T02:45:38+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Households to bear the brunt of sluggish productivity CommBank"
+    },
+    {
+      "id": "a858cc9a7bcfda0a",
+      "title": "Major banks reveals when home prices will start growing again - realestate.com.au",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXFxa05hRk0yM25JX2JUSlpiU3ltU21MNFF5Z3FoeTJKVEREelZNVnpLMGNWUzBOdkpaaVhMS09fYjNhUGh4dHZjcFptMlJOdFBybTMxTDZELV9UYmtGSC1IZ3JwNW1kekNEX1UxMWZ1Y2NESEFwbVBRVVpUMkhiQXAzQkJKUmFNb0pmQk5PX0QxYWg0amNBTEh0ZXJNdw?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-08-12T00:07:47+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Major banks reveals when home prices will start growing again realestate.com.au"
     }
   ]
 }
