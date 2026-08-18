@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-18T12:03:20.768603+00:00",
+  "generatedAt": "2026-08-18T13:09:16.329327+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "b6fc1a6cd53a60d4",
+      "title": "Orora Stock And 2 ASX Exporters Worth A Closer Look - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU1kaVNBZ05DQ0ExSmVYRWl6d1hETXFUVzB2S0J0T1lUOTcxSEtKRWJzM2RhYUhzYUFmRzdHR2RPVWg1bl9OTHJPa3NvUzNlZG9NNXJvME0xVGdsNHYzSnFZY1ljS1VoS0V5dF9kUTNWSGFzMzRYc2U0ZG5BZno2QTAxTEhYNF81bm55bndYWERLSGNJOE9tVjJpbGh0RHhpOVJxYjNEVHpVOGJHUG9lN0lBMjVGVk9sZFZr0gHAAUFVX3lxTFBUNTJqVGVLZnc1a0ZYdkliVjEzN1lPYmlNcm5PUWc3dXJtTElxUFdyZUZUSVFzUER5RFVkbGJ6MVp3MjdnczE1ZkFBSGx3d21LTG5KaTdzY2VocDI1UjFvZ2o3anRwT2JPNDBGZGo4RVNXVjgtMnNheENmaFhpekMtZjBwN1Z4T0V0QXgyYlBLM3RrQzBRNFRSVUFaVGdPazU2eFktM2VPejNqejdfQTJja2ZKQUk0MU5LQjBPamM4OA?oc=5",
+      "source": "simplywall.st",
+      "publishedAt": "2026-08-18T12:27:19+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Orora Stock And 2 ASX Exporters Worth A Closer Look simplywall.st"
+    },
     {
       "id": "44c79661491bcd91",
       "title": "Monvia (ASX:MNV): From ASX Listing to Building a Scalable Insurance Technology Platform - Kalkine",
@@ -11,16 +21,6 @@
       "category": "markets",
       "official": false,
       "description": "Monvia (ASX:MNV): From ASX Listing to Building a Scalable Insurance Technology Platform Kalkine"
-    },
-    {
-      "id": "a15d6f1377eddf6a",
-      "title": "Etherstack (ASX:ESK) Shares in Focus as Investors Assess Record Revenue Growth and Contract Pipeline - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1llOWI1QWJzRFd2WE5jUnVSZEJiTHRmbkRTZkQxWkwtU25NRFFUUlFENkMxQll1b09URWZ2THlLMGM5YVNVWmxlUlRSdGYyRVZ3ZGI3Q0lzeFE5NXA4Yi1WY2pPajBjQ3dtclRFUzg4XzRVQzBmM0RfZURJenZKYWxTTm9LY3F2ZE10bGZfZzM4ZTVlUWh4MWZmNWxmVmI1UllsbXI3RllyeVhUTkNVY2pXeDZuWC1lT3ZGdlZxYjA0OC12eHNOVGw2ZFA2RDZMT2c?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-18T11:41:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Etherstack (ASX:ESK) Shares in Focus as Investors Assess Record Revenue Growth and Contract Pipeline Kalkine"
     },
     {
       "id": "741d4fb08c2d0d75",
@@ -193,14 +193,14 @@
       "description": "Beyond Market Cycles: How Netwealth (ASX:NWL) Is Expanding Australia’s Wealth Platform Landscape? Kalkine"
     },
     {
-      "id": "3f5d9fcd16090923",
-      "title": "ASX slips despite shock sectors soaring - Yahoo Finance Australia",
+      "id": "4d0e8c5580fd4c8c",
+      "title": "ASX slips despite shock sectors soaring - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2xqbDgxZ2ZKX1lVYVpWaEJiSWI3UU9GUFNUQUZuY0s4UHZEODhTLWdaSFF3THh5T3gtUHJ6TTZMU2VZQTAxRzBVRnNhVWpWMjBSUjlkS2pnQlFwVWlSZXc1TUEwTGNjVHltRFQtYzB5TzZfS3RCeWQ5My1CSTNQNnlpWGZtN0U?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-18T08:02:24+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX slips despite shock sectors soaring Yahoo Finance Australia"
+      "description": "ASX slips despite shock sectors soaring au.finance.yahoo.com"
     },
     {
       "id": "9f54a09dce3f2da4",
@@ -243,6 +243,16 @@
       "description": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances The Guardian"
     },
     {
+      "id": "657be8a07fefa499",
+      "title": "Judo restores investor faith with loan book clarity, growth momentum - AFR",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZThCaXRBQVhWY1lJb1hGUHdxWmZZaDBjTHlTemtiSzRMNWF1OXZwRFBqdzFfbXk2TUtvbmZ3RjhNUUFWUFk3YXNDb2czTjh1ZXNKTTZDSzVicmw3eHd6Ty1hQUNKbFhZTTctMDN1UzJkcUozWnhINHVSd3p3S3JTdVY5d1Z0Q3VVUl9YVUY5NFp3MmVnY1JWMkM1U1VzY2NaRmRYZmVmMkx1dm1PWVktR0Fobk1veE9sTnA2dWxtcXFaTHhWWGdBNjBhRnI?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-18T06:48:53+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Judo restores investor faith with loan book clarity, growth momentum AFR"
+    },
+    {
       "id": "612f7065ec4c28e2",
       "title": "Aussie dollar peak is ‘in the rear-view mirror’, analysts warn - AFR",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRi1SNlM3aGRqR2V6WGhfU212cGhKbWdnVFUyR21DME9CWmdMUy15akdjeTN3QkhBM0dkUmc2clktbGFVTHlOR2FOeGpOTzlJbXBsNTU4cjc3ZGxYbUtwbjE1YVZ6SlBMTTFxbF9rb0JvQnUzenZINWVPeV8wM29aS3FSdXFGNldYbHo3TFhWWGV4TXRMVVgxOHhnZGRUcXVKekx0d1puckJHNFl2NzBCMkhRd3MwZ3FT?oc=5",
@@ -263,24 +273,14 @@
       "description": "ASX 200 afternoon report: 18 August 2026 ig.com"
     },
     {
-      "id": "bb862b347c398b28",
-      "title": "Australian Shares Flat; CSL Fiscal 2026 Underlying NPATA Earnings Per Share Down, Revenue Up - Yahoo Finance Australia",
+      "id": "700d08f6fdcf433f",
+      "title": "Australian Shares Flat; CSL Fiscal 2026 Underlying NPATA Earnings Per Share Down, Revenue Up - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYW5TNFczNzNWdW51VGlZZzV4Z0hJQXBHdENNalpJSDkzeC1hTEpPOFc5TWZGUFk4TWcwOEZkVnd3d1JuVUxPOTlrdHZFQ0NuSnRmcmlpanl3bVdnQUNnSzY0a3pBMDVZSGJITWlXZlRlZlNkV1Z1SGxGbjFFTGFiUDYzMW16Z0pjeEE?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-18T06:30:47+00:00",
       "category": "markets",
       "official": false,
-      "description": "Australian Shares Flat; CSL Fiscal 2026 Underlying NPATA Earnings Per Share Down, Revenue Up Yahoo Finance Australia"
-    },
-    {
-      "id": "657be8a07fefa499",
-      "title": "Judo restores investor faith with loan book clarity, growth momentum - AFR",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZThCaXRBQVhWY1lJb1hGUHdxWmZZaDBjTHlTemtiSzRMNWF1OXZwRFBqdzFfbXk2TUtvbmZ3RjhNUUFWUFk3YXNDb2czTjh1ZXNKTTZDSzVicmw3eHd6Ty1hQUNKbFhZTTctMDN1UzJkcUozWnhINHVSd3p3S3JTdVY5d1Z0Q3VVUl9YVUY5NFp3MmVnY1JWMkM1U1VzY2NaRmRYZmVmMkx1dm1PWVktR0Fobk1veE9sTnA2dWxtcXFaTHhWWGdBNjBhRnI?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-18T06:29:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Judo restores investor faith with loan book clarity, growth momentum AFR"
+      "description": "Australian Shares Flat; CSL Fiscal 2026 Underlying NPATA Earnings Per Share Down, Revenue Up au.finance.yahoo.com"
     },
     {
       "id": "df030ff05e742e47",
@@ -293,14 +293,14 @@
       "description": "CGT change will increase business investment costs: RBA analysis AFR"
     },
     {
-      "id": "922032a79b7cd522",
-      "title": "Major super fund rolls out pension bonus as sector prepares for retirement 'inflection point' to hit Australia - Yahoo Finance Australia",
+      "id": "167b82b22c8a0e39",
+      "title": "Major super fund rolls out pension bonus as sector prepares for retirement 'inflection point' to hit Australia - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa2Q4bzZFYm9WeDhZZDJOUnZldEJPUjVLQVpvWTJiX2xpVGZwN3o2UEJSZjZjeXRDUGpybzBoZE0ySFFuOG1IeUtodDJSaVNtOGFUMDVTNE9WOVNVN3lTYm0xampMN0VheTItWFVCWHRhUGlnTlBTR1BZZldLWnk3RHdFdFRzSVlub2hKQnFpNHRYTHhhaHpPN1ZtcUYwMnRBbnMtdkxINHhqTjJpTzZpRDZaRjJvanU2Wks3VHFEVWFqWk5EYWUtUkZROXd4LTluSUJKT3ZZWlRxaU4tdGl4MEtsTC1yTVJ6b05VRnln?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-18T04:53:22+00:00",
       "category": "super",
       "official": false,
-      "description": "Major super fund rolls out pension bonus as sector prepares for retirement 'inflection point' to hit Australia Yahoo Finance Australia"
+      "description": "Major super fund rolls out pension bonus as sector prepares for retirement 'inflection point' to hit Australia au.finance.yahoo.com"
     },
     {
       "id": "ea83e83de7b28027",
@@ -331,6 +331,16 @@
       "category": "companies",
       "official": false,
       "description": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) Kalkine Media"
+    },
+    {
+      "id": "81890aa09eb90163",
+      "title": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOERDakxvTWFuaHBLeV9oZjFZSEI1dXcxU2dfY1dOT0RLVVIwOVFrUkZXWm9ZNDJaODBad0pKS1BHblNmREpOTFVqZTd4OFhuVkZia3JRLXJ2NFZqQXVSSjJ5cWFuRHN1UC1ZTllWb0JaeVNKT1ZZazF6TmUyQ0JneE4zb0hmc2VBUW9faF9JR2o0Szlid2lsbEdWMlJJSGNMdzdSVlFNLWlDX0ZtcUt3QlQ3QzhBSU94QktRd0stUHd1TE1kZS1qR1BrZUtuV0RwemlxMWFBblVaQ3N4WFE?oc=5",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-08-18T00:52:06+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Accent Resources Seeks Voluntary Suspension Amid ASX Price Query The Globe and Mail"
     },
     {
       "id": "d138965a69a11cd4",
@@ -423,14 +433,14 @@
       "description": "When should you be able to access your super? Battle lines are being drawn SBS"
     },
     {
-      "id": "85ee4ee819ffb71c",
-      "title": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up - Yahoo Finance Australia",
+      "id": "1832fa5347820bb9",
+      "title": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXpFcVIxWl9zSmZYTmVWUFZQRGlwSXhVejFmaGVyZXROY0d0V0RGZk9lSTd5UUh2SnoxOTNqWlpfUjRLMEJPNnA3elJ2X3VKRkVrT1o0cXdGTDgzR1FXSXdKUW5VYjV2T0JSQlVFaDJBbDNQbGVudDIxeFBxVmh1TmdMN1dreDRaS3dycGJhaVl6aTE2?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-17T06:31:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up Yahoo Finance Australia"
+      "description": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up au.finance.yahoo.com"
     },
     {
       "id": "7b76e33cf9f83be2",
@@ -443,14 +453,14 @@
       "description": "RBA sounds alarm on states’ debt binge AFR"
     },
     {
-      "id": "0c83ef77659fce35",
-      "title": "Super stoush sees sector becomes election focus - smsfadviser.com",
+      "id": "371db4b69ff0b432",
+      "title": "Super stoush sees sector becomes election focus - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmZPQnFnRHZSR0Z6ZTY2cTJFVENETzUzdXRuN1FlZ1RJbHNFTEVral9KbDVoYzNUdThaVl85S1NqT3E1OWV4WmF6OTMxcUxCV2N5clppbVVVTnJLR2VEemJONUMyeEhFczFEeDd0Q2pfY0N5LWRjdXhRUjJ1b1k2OXRB?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-08-17T04:52:26+00:00",
       "category": "super",
       "official": false,
-      "description": "Super stoush sees sector becomes election focus smsfadviser.com"
+      "description": "Super stoush sees sector becomes election focus SMSF Adviser"
     },
     {
       "id": "e7c853f601efc25a",
@@ -481,16 +491,6 @@
       "category": "companies",
       "official": false,
       "description": "Growthpoint Properties Australia (ASX:GOZ) Returns to Profit as Occupancy and Leasing Stay Resilient Kalkine"
-    },
-    {
-      "id": "a526908a349d051b",
-      "title": "Aurizon profit hits $362m but weak coal outlook sinks stock - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lIQjhyS1Y2ZWVRcU9OcFI4N3dIYmRoLUVSclhJeHBEX1RlTC1ZYm1MQ1NMYkxlZ0tCOE1LZ21yTFZwR3J4MDVKX2k3bEdYR1lNQ2swdGlITV9jOERoUFNLMjVRb0k4amhDVTRxbjV0QUxZZHF3RUtRS05rNHRMMjhsV2QxM1hMQnhTNHhDakZ5clNZX2dReHRfRzNGczBOUVFYaDA2d3hFTXU2Y2dIcnpQRzZWQWp1NjRZ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-17T02:41:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Aurizon profit hits $362m but weak coal outlook sinks stock AFR"
     },
     {
       "id": "dfa2a4c0d3487b6b",
@@ -563,14 +563,14 @@
       "description": "SCX.ai set for Friday ASX debut The Australian"
     },
     {
-      "id": "bc5c9883cf33d288",
-      "title": "Idea to unwind Australia's $4.5 trillion super system to give workers more money - Yahoo Finance Australia",
+      "id": "9922e7b302e661c4",
+      "title": "Idea to unwind Australia's $4.5 trillion super system to give workers more money - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNG4xck5zdDhjOVlQamtwMzUwWXNXdTlORlhCR09UMVlqOGIzZExobkZBSjVIVFdiU0s0SHZla0ZTR0s0NjFMU2tfWEJqZ3BXM1FYUmZQa2dyMW9mdWo4VU5xR1pmSVg5ejczRVdZY1draHYzWms0cDgzNWFIaFpORU13a2J2M005M1NZUTVVU21UOXdhLURnczQtZ1RHQjg2UFlXcUZkaE13ODRwMmU5UjBqUFBwc3dWTUU0bmpqaVdydw?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-16T22:31:29+00:00",
       "category": "super",
       "official": false,
-      "description": "Idea to unwind Australia's $4.5 trillion super system to give workers more money Yahoo Finance Australia"
+      "description": "Idea to unwind Australia's $4.5 trillion super system to give workers more money au.finance.yahoo.com"
     },
     {
       "id": "9332671228a07f5e",
@@ -663,14 +663,14 @@
       "description": "Could you save money on your mortgage? As house prices cool and lender rivalry heats up, experts say Australians should ask The Guardian"
     },
     {
-      "id": "715c0a3c383a2dd9",
-      "title": "Australian house prices could have a long way to fall: 'This time is different' - Yahoo Finance Australia",
+      "id": "64813532b5f774a0",
+      "title": "Australian house prices could have a long way to fall: 'This time is different' - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlExZlo4N3NldlE5TmhGMmphRTdFTUxEX05LMXAzYlBvN1ZqaXlBODlveGtCNFlPWVo1ekRUWTVWS3dtNWxib2ZhdktDWTRSY2hhdzdDMHFld0J5WTkxNFY2MHp0SWN4b3hyYXFXWDFkQWFoR1NzaC0tWjdEUmQ5Wm5IQi1qcUNyREY5X0RnV0hzYU45cXZSZlNxejBBRHV1amp0ZmxDam1ZY25rZkJMVXRrdzRXcmU4el9pX2pPZFpZcVE?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-15T19:00:00+00:00",
       "category": "housing",
       "official": false,
-      "description": "Australian house prices could have a long way to fall: 'This time is different' Yahoo Finance Australia"
+      "description": "Australian house prices could have a long way to fall: 'This time is different' au.finance.yahoo.com"
     },
     {
       "id": "a7593602e1271e60",
@@ -783,14 +783,14 @@
       "description": "Is Australia's housing market crashing or correcting? Experts explain the difference Domain"
     },
     {
-      "id": "99d6da6dacab45fb",
-      "title": "Major call to change universal superannuation for Aussie workers - Yahoo Finance Australia",
+      "id": "5891eba8cbd407c1",
+      "title": "Major call to change universal superannuation for Aussie workers - au.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTlQMlN3dG03dXZaeHFuV0UyMVZmV196V3FvQXFVUS1mdW9QZHRqZ25rajZELTJ1U05tVXRXZGthN1djNUFjRV95MW5Nb3R2RlljQ0UydFRNbWZpY0RjMU0yQ0UzQnRlSm1CcE9ONDlIRzViOEF2YWZacmtVOWRGYjFnQjZmNWx0SVdMTzFNX2UtVlFWT1N1TVk4TVZxRFNtV0lWLVlYcDZUOEdlQllRelZYZw?oc=5",
-      "source": "Yahoo Finance Australia",
+      "source": "au.finance.yahoo.com",
       "publishedAt": "2026-08-13T07:25:56+00:00",
       "category": "super",
       "official": false,
-      "description": "Major call to change universal superannuation for Aussie workers Yahoo Finance Australia"
+      "description": "Major call to change universal superannuation for Aussie workers au.finance.yahoo.com"
     },
     {
       "id": "5a94b34d7a5e6f0a",
