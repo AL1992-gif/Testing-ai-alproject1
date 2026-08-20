@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:39:19.059411+00:00",
+  "generatedAt": "2026-08-20T16:13:00.662797+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -253,6 +253,16 @@
       "description": "ASX finishes higher after jobs data, led by gold miners and tech stocks SMH.com.au"
     },
     {
+      "id": "66ff7edc3e1ad6df",
+      "title": "ASX closes higher; Zip, Super Retail, Codan rip following full-year earnings - Capital Brief",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZTREckx3bkxwYVZVTXZBd2FfZlRQY1U3Y1ZfUmhvYi1IbGlkX04xVHRYOVc2S1NfV0xiSmRuXy00NHd4Q2ZoSkpfOFpBcENIb2VoSUVHejc4LThod3FsQzNueElNV3c2U2NIejZjTGxmUUhPejF6TG9ZakZScVZnUE5mWWtFcXJ2T1FiNDV0QW9hRFlKV29lMFIzRFBaa3Y1VFFMZ1FLZ2VNM3ZIVjR0b2t6bFk2eW5nMUtfNUt2ckJtdmVqX1RCTUx2MXhEUXdlX1B6MWNjTGFvaG1kTUE?oc=5",
+      "source": "Capital Brief",
+      "publishedAt": "2026-08-20T06:44:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "ASX closes higher; Zip, Super Retail, Codan rip following full-year earnings Capital Brief"
+    },
+    {
       "id": "b2a9855e89715835",
       "title": "Why United Overseas Australia’s (ASX:UOS) Diversified Real Estate Platform Remains Under Review? - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUNlU2tKcFd0dDVLTHpfWWJpckRhVDRUajlZaGtLdU54Qk1ZWkVWX3BqSHl4WGowRTdIaFN2ZnBwZGRpbEpHQ1F6aVktUEdYMTN2S3JvOFVhVjBsd0VTa0lLTG5yNl9BUlpsWXBqU29iNHZqQThVN3locV9vRlFHUGxpRnBpeVJzV1pBM19EZ2JWNDhQYlgwZXhLbjVVQTM5TnBEVTNnalFvcXpST2kwS0x1WXc2VnJ3dDFuM3lTUHFiclhMM2lxYjJnbw?oc=5",
@@ -261,16 +271,6 @@
       "category": "companies",
       "official": false,
       "description": "Why United Overseas Australia’s (ASX:UOS) Diversified Real Estate Platform Remains Under Review? Kalkine"
-    },
-    {
-      "id": "cc4deee7615492ea",
-      "title": "Rate rise still in play despite unexpected spike in unemployment - AFR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1MzVjV4R1RUREt0cWRPdm1jV2puSFQtR2Uwa19QV09LeGdoaUllUEF2TjEza1kwSXlYR2Mwdzh0bmFFaFlOTDZ6WDBWZ3NmYW9tTTRrUmIyTWZGNDlLQWpISW44ZTZpeTUtS1NpSWVwWmZQYlExVUk0TFJ1Q2dmQ1BmQkUydXk1TFBYSFhHQUxjYjB4Rnc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-20T05:52:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
     },
     {
       "id": "c898e69b8b8f583a",
@@ -293,16 +293,6 @@
       "description": "7 ASX 200 shares with reaffirmed buy ratings this week The Motley Fool Australia"
     },
     {
-      "id": "9a1a5f191aa60e4a",
-      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T03:38:33+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
       "id": "50e97cba6b302472",
       "title": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent - Glam Adelaide",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVFRWVBENW1YbHdzMTZaSnltSjRvS2dId0NES1YybncwOUo4RVZEMURGcDFSWk9DUWdQZ3pFUHVHcGQ0bXltaGVIWXZpQk5ReXZ2bWhwRnAwd0RLSHktRk5KVXFEbUhmMzZKSUJiNHRDVXlsd0ZKZWxVRkpMcTVLMFh4Q3JZY0NuMW9xNF82NkVLTjlIWjk2bW52bkhkRlJ1RGVINTAzZkRSekxvQnlfQm8xV1NlZw?oc=5",
@@ -313,16 +303,6 @@
       "description": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent Glam Adelaide"
     },
     {
-      "id": "b5946849171450bd",
-      "title": "Australia's Unemployment Rate Counters Expectations With Rise to 4.5% in July - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFBUFI3UHFuSXlDR09VQ1RSTlBPb3E1bXhCVk9JcXg5bzNua2lJQlJyend0aktTOFQ0dXZ4U1pMUS1LLVQ3T0FNcElfQVlrT0I4eHBRdm5IeEFyUDYybGZzamdUNFZ2czd3RkVPbnhiUS13TDBWUTktMTRJT1hjQWFrZ0hXRE9TallxMmt1T0gzT1lp?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-20T02:48:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Australia's Unemployment Rate Counters Expectations With Rise to 4.5% in July Yahoo Finance Australia"
-    },
-    {
       "id": "71d3facff8018e69",
       "title": "Can you access your super savings early? Are there consequences of doing so? - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGF3N1N6Tm5ZOThLa0YwYkMzMm8xb2U5OVpGb3hUSHFHUXNnckFUQXZZX0xTLXV3WEowY2JhZksxeU5GS0dBbktYZWFBaVlnaDNoQVh4YmRnZHhscWotbzk4MGowU2VYVmgxTkhvVGtURnVCbFpZcU5HdDZTT0FjRTZJc3k1QmJIVkMyYlZnRjZNUnZXSFV0MjhYMlJoTUFzcElXemhBMA?oc=5",
@@ -331,6 +311,16 @@
       "category": "super",
       "official": false,
       "description": "Can you access your super savings early? Are there consequences of doing so? ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "9a1a5f191aa60e4a",
+      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-20T02:28:30+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
       "id": "7f7ca85ab35a8e26",
@@ -511,6 +501,16 @@
       "category": "companies",
       "official": false,
       "description": "Commonwealth Bank (ASX:CBA) Earnings Spotlight: What Investors Are Watching on 19 August Kalkine Media"
+    },
+    {
+      "id": "e78ba73a6d4f46c1",
+      "title": "Inflation hits Burnham’s cost of living pledge - The Spectator Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0JGQXpmc1VJTEg5bnlTZmI3LW4tSXQxZ3V3SXBGSUZQLXlubHZ0Tjk3UXVIMUhobGdtNWVMUDhWZTI3Z1d4V2d3blNxaDd6cHVHR2R5S21aUVRMVWdLaUtmc2FkME5DSGQya1l4SnlkbWMweU50c1ZEd3Ezc09WMUg5ZWtQMkNRdERF?oc=5",
+      "source": "The Spectator Australia",
+      "publishedAt": "2026-08-19T09:45:26+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Inflation hits Burnham’s cost of living pledge The Spectator Australia"
     },
     {
       "id": "f669397dc605641b",
@@ -823,16 +823,6 @@
       "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 BNP Paribas Asset Management"
     },
     {
-      "id": "64742fa8d82870b9",
-      "title": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0cxNlFsZkNOaXdDaW9YUG5ob1pubS04VzlEMGFfR0pfZEdDRUd6ZlBzcXNwaFFBUS02TTZIeUFCTm9FSjM3bUN0YS01dHRHUjFfbS1VS0ZXbHlvUHhPWklGS2dLMERRa3VYUmJCXzBheEF0WC1MWWlTcWw5Mk1IRDhNNDA3aFA5Tm9UbkdhNjVZUEdLOGp5aF9UWUloQmlyZlVvZ0ZB?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-18T01:22:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) Kalkine Media"
-    },
-    {
       "id": "5b1f3cf55b52b4fb",
       "title": "Do the big parties want more affordable housing or not? • Peter Mares - insidestory.org.au",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1BOTFVIc09TUFNNRXN3STd0aDh6SGpMWnhhUXlaeDZLT3Rma2p0Q3VGY1hhOTQtRWc1Sk1UYmFMbFlJbGI1YVJaV2RzdU1tTWJQblJDcWV5NXktRWxEbng0X3BMa2gzanEwSVdUX3ZhNWNLUXFSOU5DUDZrV1NNZ1dMWmsxMkxHdnc?oc=5",
@@ -848,7 +838,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenhEU05GN0loTmoxTWUxQ0lnMUVDYW5FTEwzQ3hSV0dQdDJYNDRJVGc1dlNDOXhPTkpUTXNJdXhYdzl2WEpPVmp6enR0QnBWQmZ2YUJ3MjhtcmVGeEl4SmplcHJJbndGUEZKTzIyOG5EYUplbkpuaTdpTi03X3NjazhVcVJPamthUE51czdmajJ2SXZ0WkN1c0xUWEFBMGxuVTEyVmgySVBzbVlsdm45Zw?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-17T18:41:44+00:00",
-      "category": "housing",
+      "category": "economy",
       "official": false,
       "description": "What happens if property prices drop 20pc? Ask New Zealand or Canada ABC News & Headlines – Australian Broadcasting Corporation"
     },
@@ -901,6 +891,16 @@
       "category": "housing",
       "official": false,
       "description": "Latest Property Price Forecasts. Australian Property Market Outlook 2026-2027: Navigating a Market Correction Property Update"
+    },
+    {
+      "id": "72bbfe16666c12d0",
+      "title": "This week’s Australian Property Market Update – Latest Data, State by State August 18th 2026 - Property Update",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84MFhXelJEYlV6a1FBY0lUVHZHRWlWY3VpV0paOVRGTkxBYllNY0wwenI1WEpRRjlISG16bWoySkdiblVsb3YzMVVLX2VFa2QwalJEc2FJaWUzYXVfNFZjUTUwdTd0SzNI?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-08-17T07:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "This week’s Australian Property Market Update – Latest Data, State by State August 18th 2026 Property Update"
     }
   ]
 }
