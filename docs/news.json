@@ -1,106 +1,96 @@
 {
-  "generatedAt": "2026-08-20T06:03:47.959614+00:00",
+  "generatedAt": "2026-08-20T07:07:23.535754+00:00",
   "sourceCount": 7,
   "articles": [
     {
-      "id": "c898e69b8b8f583a",
-      "title": "Rise in unemployment shows jobs market softening slowly - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUnBxZ2h4Z1NJdjdCWXJqSEZwU0VWaTl2MXktNFVoa0wtM3FSWDc0dXJqZXVMZDhkM1BWelNOSkdzRkpTeEF6ckJGMmxWWGZVSXJCZjVJaGNEeFMyUWlYeFh6Smxya090Xy1jT2pkbzY3R1F0eDJkTzAzWVMxNUxNQWpNbnBGVnFVUkE?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-20T05:05:00+00:00",
+      "id": "b9bb1c76eecaf9f1",
+      "title": "Here are the top 10 ASX 200 shares today - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjg4US1vTmlPaGhTRmU5QXV4T1l4eEdmOGRTNFpyRDkzVFBXRjduUVFCMGFTU09mYlJwNEFMVjlxdE9aVl96MDBJODQ4aktwenhUSVBFRGhReWFyR1VPZHBSNlFLYmVwSzZlTnRmUy0wTWxndGV6Um93VlktWWlEUldfLVBPRTdiejl6di1hSWRRQVkzVGc?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-20T06:58:03+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Here are the top 10 ASX 200 shares today The Motley Fool Australia"
+    },
+    {
+      "id": "e5aabea9592fa804",
+      "title": "Why United Overseas Australia’s (ASX:UOS) Diversified Real Estate Platform Remains Under Review? - kalkine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUNlU2tKcFd0dDVLTHpfWWJpckRhVDRUajlZaGtLdU54Qk1ZWkVWX3BqSHl4WGowRTdIaFN2ZnBwZGRpbEpHQ1F6aVktUEdYMTN2S3JvOFVhVjBsd0VTa0lLTG5yNl9BUlpsWXBqU29iNHZqQThVN3locV9vRlFHUGxpRnBpeVJzV1pBM19EZ2JWNDhQYlgwZXhLbjVVQTM5TnBEVTNnalFvcXpST2kwS0x1WXc2VnJ3dDFuM3lTUHFiclhMM2lxYjJnbw?oc=5",
+      "source": "kalkine.com.au",
+      "publishedAt": "2026-08-20T06:44:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Why United Overseas Australia’s (ASX:UOS) Diversified Real Estate Platform Remains Under Review? kalkine.com.au"
+    },
+    {
+      "id": "cd3ed3f44da4b098",
+      "title": "Finbar Group (ASX:FRI) Shares Jump as Investors Assess Record FY26 Sales and Profit Growth - kalkine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlpiTkdqNWFoZllOY190NEdkaF9VQ2NuY3MyVzBJVG9YZEhsbmJxRUhzTWU1ZEFONkFjNXJOcFZZcHhaaC1KMlY3UWJhbmJZc3FrTjFGaHFnTkFCUlBLdkZxRGJfWDBDYWc2alRzdDRRQTZYRVp3eEMxRTIweVh4dHVyWUU5YU9EYVJtd2xVMFdyLXUzNS1zSXQ5LXZCLUtySEZhWXBLX0l4ODluMHBFQzRLRGlnd1dKaWlUMm5UWHZFTTRmNHc?oc=5",
+      "source": "kalkine.com.au",
+      "publishedAt": "2026-08-20T06:44:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Finbar Group (ASX:FRI) Shares Jump as Investors Assess Record FY26 Sales and Profit Growth kalkine.com.au"
+    },
+    {
+      "id": "b27d5b90f651bd84",
+      "title": "Winton Land (ASX:WTN) Shares Remain Unchanged as Investors Await FY26 Results Update - kalkine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFNQTk9ZNVA4cU9HWWpsU0pwY0trR1VEVjdFOEx4LV9iend0SE8yczRuM0RfVHBFdzM2SFg0WHZxaEEtdVExWjdnTEJKMFZYNGZpUmVLdEtORmI4SjAzSXNDM09vTk15Y1o4OGRuMllqeDVTR0NXSnhtNndERUdyYlRYWkN3dDBzd0Q1eVZxR0JNaEZvSHY4bVR2Qy1fckFPZzQ2TUhhVFZKT2FjQ2JwTjZra1FKQUFvSUVHTVJ3?oc=5",
+      "source": "kalkine.com.au",
+      "publishedAt": "2026-08-20T06:44:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Winton Land (ASX:WTN) Shares Remain Unchanged as Investors Await FY26 Results Update kalkine.com.au"
+    },
+    {
+      "id": "d58f1e432f1b4c42",
+      "title": "Sietel (ASX:SSL): Diversified Asset Portfolio Remains Central to Long-Term Investor Focus - kalkine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONGtnREJ1VlFPcUtlZTc3N3F2dE92N0VoSUhQTkx5T0N5WWk1VndrYnVrMUJ2Z245cHE1eVFfM1dabGprWnhSUHNBZTlJV3N3bEVSTmNnYWtINzlhUXF0cWJZVmVnQk5KaVNfYm15M2RHamlfMmQxWllYVVZEaVZTUHpFcGhPd2Y3dUtNdnRXa3hHV0x1c3pqY1lIS0J6WjA0RGlPNmFEekM1Nm5iOGFLNnR1UWhhOTJKZGd3RkNWNEg1elk?oc=5",
+      "source": "kalkine.com.au",
+      "publishedAt": "2026-08-20T06:44:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Sietel (ASX:SSL): Diversified Asset Portfolio Remains Central to Long-Term Investor Focus kalkine.com.au"
+    },
+    {
+      "id": "a1d93a0af3cd62e8",
+      "title": "REH and Rea Group Ltd: 2 ASX shares to dig into - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWJvWk84LUt4bE9DcU8zcVlsWGNjVElUUHJ4VnpwNUpVRGNTbWp2RVFSdUZYNVFQZDlBU2tQV1laUDdnZ2J4a0hGM0pkX0dveUNib0YzUk10X2pMc1pmdVZaOWVtMGZlVWJ1aDRCcy12a2hkSWVQR0RobEVQbFpDLUR5UWdZQXRCQUlYTDl6My0wZ3M?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-08-20T06:43:16+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "REH and Rea Group Ltd: 2 ASX shares to dig into Rask Media"
+    },
+    {
+      "id": "f55476a4bbf040ef",
+      "title": "Lendlease Group (ASX:LLC) in Focus After Positive Trading Session for Property Stock - kalkine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGoyLUNmT1FsVlNYTkVacWlXVW5mdWYtTG5NNlREdF94RTNkaUItbjNCS1VuTE9QSlo2eGc2V3RFV0NzMFN2dFczTXZ4MURycnVPdEhiYkZRY3FnODJ6dzlpRUl6ZTJSOGtrZ21vRldNV0haN25od214eDdzU3R3c0FfS1ktZTFRVU56UlZnMzR5UndOSWdKZzh5TzNyblgwT0t3UVhKMUxzRmhRN285aXRxR2EwRUIwdldrcU5R?oc=5",
+      "source": "kalkine.com.au",
+      "publishedAt": "2026-08-20T06:43:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Lendlease Group (ASX:LLC) in Focus After Positive Trading Session for Property Stock kalkine.com.au"
+    },
+    {
+      "id": "9a1a5f191aa60e4a",
+      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-20T03:38:33+00:00",
       "category": "economy",
       "official": false,
-      "description": "Rise in unemployment shows jobs market softening slowly Yahoo Finance Australia"
+      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "3ae2b32917897e32",
-      "title": "Super Retail (ASX:SUL) share price soars 16% on FY26 result, trading update - Rask Media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFVxM0FGX0JSMmJkVnVwaDlhSm1DZjZtZm9WeVhhLUNFeHk5Y3JLR0FId2dLY3ZjUkUwMWx3QmJ4NENYRUhCcHlvd1VVYkU4LURWOWVqanZXV3RDbTl1ZDZJdXhhaTl1dW5GLXgxUE1EbGUwbmlfSWg4YXdqTzFoamV4UXdfUTJrQkNualBWUkwtNUZraThYVkU2N3dGa1R6VVBvOThqc2xMYy1GaWFFTg?oc=5",
-      "source": "Rask Media",
-      "publishedAt": "2026-08-20T05:03:45+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Super Retail (ASX:SUL) share price soars 16% on FY26 result, trading update Rask Media"
-    },
-    {
-      "id": "4460ae9a8a804d71",
-      "title": "Corporate Travel strikes repayment deal with UK government - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTVpQUVsVmRmc3p3eTNiRmhTM21mOGRTUXkzWUdkcW9IT0VKdE55NVpXSEU0T21KN1VWX3hDNm9DMF9DUWFMNUhEVnBSdUFCLUpoUnpVdTJGVjFGbS1hcEItTi13QnlLWUtTS0Uybk45YjVHdjV6a2F0eWtKMHpFSlF5OTgyRXV0LXB0R2hDdlVNVW0zZTU2VjAwbjc5QU9sTTVLcU1fNUMweHc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-20T04:36:30+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Corporate Travel strikes repayment deal with UK government AFR"
-    },
-    {
-      "id": "0f8852b5fcad7249",
-      "title": "Noumi (ASX:NOU) FY26 Revenue Rises 8.8%, Dairy Earnings Nearly Double - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE54WHd3cm9GZ29FbEJESHlGeWtxVW9JejVKa3dKV2FGUzFNeWZlYXFTRzBwNFc0OXkybTdURGg1c1dVU3VaWjRrdF90THRZLWFpanRwZWRuUTBqc0tqVXdEUXZXblJjejgta3ZPeFp0QVhjWlR3N1hFSmItTnpkdjlTXy1IV2NZeXFwTWlQcjJFa3BCeXM2ZFN2dmFxa0cxOGc?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T04:22:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Noumi (ASX:NOU) FY26 Revenue Rises 8.8%, Dairy Earnings Nearly Double Kalkine"
-    },
-    {
-      "id": "d0635636eb52a22e",
-      "title": "Universal Store Holdings (ASX:UNI) Statutory NPAT Falls Nearly 21% Despite FY26 Sales Growth - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjZxNkFndzkwcDFTYzV5QXlrZXNydnh2SzcwNUh5VHNRcXRSMk9nb1k4Slp1SVBHYVd6WWZUMFZUdDJ2N1dIeDBjbGY4MnhZQ0ZScFFwcmtYZFR0aXhYWjFiVGUxOHV3cEdsbzl1Rjl5U0xIeUJVMDBqZnVQV3J6QTU2VURyUDFvQzZnamZ0cmMwME5VTmdvM2dCa2RwbEFLeWN2WVI0VncwM2RKNzJ5eWhnQ3FFaVp4WTZzRzdWZlgtQjg?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T04:22:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Universal Store Holdings (ASX:UNI) Statutory NPAT Falls Nearly 21% Despite FY26 Sales Growth Kalkine"
-    },
-    {
-      "id": "7fffe76fdabf21e6",
-      "title": "Codan (ASX:CDA) FY26 Profit Jumps 69%, Revenue Climbs 30% and Dividend Rises 70% - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTZWcWlKUUd5Q1NJMU1qWWpuV2lkVlVXRDVId0ZQMFJ6ZUpYQXVwSWFMczRhS2loUW82dzdiaXhfWXo2VDg5UW5EcW5aaVlmQS1JX1JxNlF1NHhuVlFNam11Nk42bldfSmJqbWR4SE1GeHdEV0I3SjhzQUJTU0NaMVNRTDJrM1FFeVRtU0JjZkF5M180U1FXNGlpT0ZROE5zWENGM291bkFxeHNTSmJkenF3?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T04:21:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Codan (ASX:CDA) FY26 Profit Jumps 69%, Revenue Climbs 30% and Dividend Rises 70% Kalkine"
-    },
-    {
-      "id": "592dd0c6ab52241e",
-      "title": "10 ASX 200 shares downgraded by analysts this week - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVE5WU2lDbGNQbk1sWnZSWWFRS1piQkd1aWZ4bmoxaWRNbFhaZHdRcllBVThpcVZKaUdDV094SWF3em5tbnpkT1NzMVZxMUl3SWdyaE9tdkpaSWtFVXRCbXpoLVJkSHJTdll1MHhXTURnWVVaRVB2RloxNFdCZDVRYnNUa095RU9OOWx6ejVKQQ?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-08-20T03:58:52+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "10 ASX 200 shares downgraded by analysts this week The Motley Fool Australia"
-    },
-    {
-      "id": "07541ecd50b9a1e8",
-      "title": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? - Kalkine",
+      "id": "698b138129ce51c7",
+      "title": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTVPUlRlVzhSalZrd05aOHhRNGpJLUtxTGk1R0x0UU9ZMVEzUzRfdEVGQTdrTzdzd042NHFjcHJYcmh4bkVEZ2dDN0piNElTOFhibVZYTDJLM1BRWkthamg5R0tOYnRsZzVvQmNpMnNRMWZXckxpa3BacF9VdTcxMU5xLTZiRDc0cmtkc19icXVsUVh1azgtcGxUM1NmZHRk?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-20T03:17:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? Kalkine"
-    },
-    {
-      "id": "4100a4feee39991c",
-      "title": "Sonic Healthcare (ASX:SHL) Reports Higher Earnings as Healthcare Diagnostics Strategy Continues - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeENLNjBDQTlRVVA0ZE9SQkNZUXBmZ01vMFBaeTZiLXBKZHIwOUJNd2MxR1J1a3dsczlrRFFUNmFueE9SYVM2Z2NLMlVKUl9sM0ozaFNBQnVlYUNmYVZjdUZhVW5QWkVRdk13MjlsUFZCYmltUC1HNnU0RjNlY2k3bGRTWmlsNlN1TTFnQ3dKSlZabElwbHFOaUttOWt1bEZfOTNEekdJUnp1WE05c1o4RV9aYW1mMWgwblgySDlmMlZVY3hVdUNvSlhDSQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T03:17:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Sonic Healthcare (ASX:SHL) Reports Higher Earnings as Healthcare Diagnostics Strategy Continues Kalkine"
-    },
-    {
-      "id": "84fc1a716c7c3132",
-      "title": "Motio (ASX:MXO) Jumps After FY26 Results Show Revenue and EBITDA Growth - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVW9sZ0JYYnBfX1pFTmh5a09nYWs2b1hhQzh5bmlDUUtNLUtRVVY1ZkU4aXROU1F5TkJmNlM1am5xQnVRNnh1U3BoVnZySy1MUUNSN3AtdDBpenRtSGRNWkZEOC1hc0lyeEY3WTZ3TFV1aDNveVlzamRhTDFIXzg4b0hNNE9MalZ4N3dpeFlDVXVCNU9KRy1mRDV1UUFaMHVYbXJrTEo2M2g?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T03:17:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Motio (ASX:MXO) Jumps After FY26 Results Show Revenue and EBITDA Growth Kalkine"
+      "description": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? kalkine.com.au"
     },
     {
       "id": "6b17fb14586f6f98",
@@ -123,26 +113,6 @@
       "description": "Can you access your super savings early? And are there consequences? ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "f7e07d77d2eae331",
-      "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY - tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkFVU05jZFBVZkVPWEs4dlVJUmlqSjZUVzhnWkMwcEVfUUdtYktNeWFXQWJURm9DX0VxUktWdmxNd0E5NzdnYm1sZG1mRGJMR09MLV9JMEhFVDhmZFZDMldFcTVzR3hab2dDcUNRUmRLdTN2RFJRbHlpNlBZMDhPSE90NGo4MUlieldWbWhWMVY2SGhWcTc1OXd1SnNPZkRnckZRbUtodV9oVkZsNjJ2VVpKYXlQZGdEV0QwbWtfRHQ0OXRaOExsLUJHb0ktQWVRTlR6S3pnbGxsTDNVR3Y0WjI5aFlJNmFnRXc?oc=5",
-      "source": "tmgm.com",
-      "publishedAt": "2026-08-20T02:38:49+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY tmgm.com"
-    },
-    {
-      "id": "9a1a5f191aa60e4a",
-      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T02:28:30+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
       "id": "1132d2dad436589c",
       "title": "Unemployment rises slightly - Australian Broker News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGpxLTBaWUkxeEpMTEdob25oalpMQ2hFTWxjM2NUOVRZWlNpOVh0OXVEUWtqSWpLQzdmVldqeC05X251R0tEN2gyVE8zdWgzaHZQYndzVHBXN3RnSUVoU2JnbS1YZElSZHpaeWY1dTlLNTZqcE0tdThpeUYyeTFPLVVGQ21UY2JFenhkTWRHcWlIdw?oc=5",
@@ -153,34 +123,34 @@
       "description": "Unemployment rises slightly Australian Broker News"
     },
     {
-      "id": "7f7ca85ab35a8e26",
-      "title": "IDT Australia (ASX:IDT) Under Spotlight After FY2026 Results Reveal Turnaround Strategy - Kalkine",
+      "id": "aad4c9ceb7ebc7ae",
+      "title": "IDT Australia (ASX:IDT) Under Spotlight After FY2026 Results Reveal Turnaround Strategy - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDF1dGZ3cGJDYVUwVzdmaXE3X1d3UVliRzBFZzNZQWxZNEMzdnpTTkNLSEVPWENvWVJCTWltUDdKNUNqWUhJOUMtdFdYQnIxcTVtTExySWxzUkFiRXhwQXRPUVF2ekVkWHdQZ3p5eVhZNWhqcGd4RnhHLVgzZld1QnAzQU5EV2ZyUEVmNnl5dzNOemR2ZjluTGFQUDdlVm44MkRIVGhGWktnYXQ4VmM2R21iQ0I3dmJ5bzQ2Q1AzNHU?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-20T02:13:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "IDT Australia (ASX:IDT) Under Spotlight After FY2026 Results Reveal Turnaround Strategy Kalkine"
+      "description": "IDT Australia (ASX:IDT) Under Spotlight After FY2026 Results Reveal Turnaround Strategy kalkine.com.au"
     },
     {
-      "id": "6e0cddcb4d3f59e4",
-      "title": "Australian United Investment (ASX:AUI) Reports $220.4m FY26 Profit as Merger Expands Portfolio - Kalkine",
+      "id": "eb83dec43aae4de6",
+      "title": "Australian United Investment (ASX:AUI) Reports $220.4m FY26 Profit as Merger Expands Portfolio - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajdKMVJoWEFSWGRTRWVpQXEyU1M3TmlmUWtrM3JXWkJWeEIya2RVaDUwQk1sbzVsczQ4Q3hQT1h5SENVOHh5a0RlNXBCeWdhT0hSX2paTEdJeC1TTWhSUVVLV091VDJYMWhXNmJhZHR0a1FTeFpuNUI0clRjV0ZfeW45azRPM2FvNU5CdFhMTTU4TDIwcXBJczFNWndZdjBiX081aUkzNEdZc0h4Z2Jrdi1aQk1ialhjMjhFd0FReVBQRG9qV1E?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-20T02:03:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Australian United Investment (ASX:AUI) Reports $220.4m FY26 Profit as Merger Expands Portfolio Kalkine"
+      "description": "Australian United Investment (ASX:AUI) Reports $220.4m FY26 Profit as Merger Expands Portfolio kalkine.com.au"
     },
     {
-      "id": "3271f9adf0d13504",
-      "title": "Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected - FXStreet",
+      "id": "2a027384d4370f3a",
+      "title": "Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected - fxstreet.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmZZd1NNWnRRcFNEMzhQcjhla0Q3WnFERHd4NDVWVno1cF9YOGx1eTZIMmRuTTJyLXZ2VDA4QmV6aHJWbXJvU2J5dmNPcUhDcndLOVg5b0hTNER0X1ZXWkJxeHA1RUZZYTlPclZtWUgtOW16c2x6QnhidTQwaGY5d2hsQ0NIQmdCaGVuX0UxNFFpME9NT2tPdEJUY0dZRzRfT1pz?oc=5",
-      "source": "FXStreet",
+      "source": "fxstreet.com",
       "publishedAt": "2026-08-20T02:00:20+00:00",
       "category": "economy",
       "official": false,
-      "description": "Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected FXStreet"
+      "description": "Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected fxstreet.com"
     },
     {
       "id": "b047e8b12b8e8bd3",
@@ -191,16 +161,6 @@
       "category": "economy",
       "official": false,
       "description": "Unemployment climbs as labour market weakens in July investordaily.com.au"
-    },
-    {
-      "id": "019e3882b932670b",
-      "title": "Australian Dollar declines following weak labor data - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcExNdnRlbGRqMlVYd0M3aXg4UFBRX3B1MWxMLWk4b2Y3Y05OVVFNVzE2M1JrTGI4MWstakVaNkF0TU1lRk1sbFFQNlVOU3FiUTNyV2ZWdDBKRDhpSldaYWRQN3UzY3RFcXd4LXV0NjRyeXk5S2toVlNleVFOajVmUjBYZDFiaWJEUjNITW5TSVZmei1YcXI3ZXNINA?oc=5",
-      "source": "FXStreet",
-      "publishedAt": "2026-08-20T01:55:24+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Australian Dollar declines following weak labor data FXStreet"
     },
     {
       "id": "08f13298790cdbd6",
@@ -243,24 +203,24 @@
       "description": "Which Australian Mining Stocks Are Showing Earnings Momentum and Balance Sheet Strength: Alkane Resources (ASX:ALK), Westgold Resources (ASX:WGX) and Lynas Rare Earths (ASX:LYC)? Kalkine Media"
     },
     {
-      "id": "e0db386a07a803ad",
-      "title": "Three ASX Stocks on Investors’ Radar After FY26 Results: NWH, BGA and RDX - Kalkine",
+      "id": "026fb95744daa48a",
+      "title": "Three ASX Stocks on Investors’ Radar After FY26 Results: NWH, BGA and RDX - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHRLeTFLMGNBREtLY2Vibjc3MzFSMUNjdEEwdnVXLWp0eGdNMURVMUYxQ0tWOFpKbmNMUm9OTllZUE1wWi11SFp6bUhTY29XQklLT1JZbzRwZm9tel80c3JtTjUzQlJPSFBGWEFxOHhHS3cwcmgzRm13eWZqWW0tMjRMSHdxcFhHc1dLTFphWjJDUXhIb2F4Tzc1dnBHcmhXcUxsTEowaGw1N211czVMcg?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-20T00:59:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Three ASX Stocks on Investors’ Radar After FY26 Results: NWH, BGA and RDX Kalkine"
+      "description": "Three ASX Stocks on Investors’ Radar After FY26 Results: NWH, BGA and RDX kalkine.com.au"
     },
     {
-      "id": "deb1f8da5f06addc",
-      "title": "APA, FRI, DSK: Three ASX Stocks on Investors’ Radar Following FY26 Results - Kalkine",
+      "id": "59b8e655dc3066ea",
+      "title": "APA, FRI, DSK: Three ASX Stocks on Investors’ Radar Following FY26 Results - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjY3VUtGOVhmZnA3czlIOHVOcDd6QlRTX2c4LTNFSDJqcWQ4cjNIc1hrUTh1X1NSUUNYckxTcWxzM1BUTHhIcFc4T2VSUmVnZjc5NnRmSVdiYUU0Q04xOEk5TmxEQ1BtTHdvMHVmeklpTVdaNXFGblphMHRpVjlwc3EwVWZuaDJzUEthUlAxTEJzN3MyX243VllqVmVOR3F4YXhGMGRpMjFLN0tuUi03Qw?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-20T00:59:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "APA, FRI, DSK: Three ASX Stocks on Investors’ Radar Following FY26 Results Kalkine"
+      "description": "APA, FRI, DSK: Three ASX Stocks on Investors’ Radar Following FY26 Results kalkine.com.au"
     },
     {
       "id": "90af4f70c18011e1",
@@ -271,6 +231,16 @@
       "category": "economy",
       "official": false,
       "description": "Rate hike relief as jobs market cools The Australian"
+    },
+    {
+      "id": "1c4b2a07ca0d5638",
+      "title": "Morning Feed: What’s cooking on the ASX? - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Eak9IUXpCLXRiN3RYNDBWUWdqQXNOUXlhaTFfcTBQRFlRQ29nX0FBVjNCeDdfU1h0R1RwR01fZ29xT0F2TGlrUmhXRkVHRlEtTFllTDNHTWF5Y1lmU0JVUDRjMzlJNlg1OVMwenF4elRWYW51My1MckJrdw?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-08-20T00:45:37+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Morning Feed: What’s cooking on the ASX? Stockhead"
     },
     {
       "id": "d642f834b63ebbcc",
@@ -293,14 +263,14 @@
       "description": "KIT:ASX Announcement - Weekly Estimate NTA for 17.08.2026 - 19 Aug 2026 Market Index"
     },
     {
-      "id": "7ec95c5d7c6f00f4",
-      "title": "Yancoal Australia (ASX:YAL) Reports 90% Profit After Tax Drop Despite Higher Revenue and Coal Production - Kalkine",
+      "id": "ea99390e8095dcbd",
+      "title": "Yancoal Australia (ASX:YAL) Reports 90% Profit After Tax Drop Despite Higher Revenue and Coal Production - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGtOUF91VkdITlJLaHpUc183QVBVcnVzcThIM0doYk0tOUtQVjI4OGM2LWNrOFRkV1c0Z0JYRDBodXRGbFcyazNHRGV2VWdFWERZOXV0VU5SZVVlSjhRdzgyZGFOX1lMOVF4bC1tTzNxX0tJR2M2aHlMR19RblZ2dTI3LVZGMUI2SFptdVUzeXphZElRMFFCYktra1hXSjFXeFRhMXY2QkxnY2Rrbm9aT3J5VmY1Wklhazd3OG1nSmhFYkEtQzJlMGdwRnpEZnU2?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-19T23:53:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Yancoal Australia (ASX:YAL) Reports 90% Profit After Tax Drop Despite Higher Revenue and Coal Production Kalkine"
+      "description": "Yancoal Australia (ASX:YAL) Reports 90% Profit After Tax Drop Despite Higher Revenue and Coal Production kalkine.com.au"
     },
     {
       "id": "f029f2682672910b",
@@ -311,6 +281,16 @@
       "category": "markets",
       "official": false,
       "description": "The Morning Catch-Up: ASX set to open higher as Wall Street tech sell-off weighs on global markets Proactive financial news"
+    },
+    {
+      "id": "9d3bf8130116123b",
+      "title": "QML:ASX Announcement - Ceasing to be a substantial holder - 19 Aug 2026 - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2pOZlNZeEJER0x4UFducnNFSVRHZ0I2QVo1ZDJ6eGRkUmhuT2ZuZTRWRkRMd1E2Tl9HN2M4Q3FvMVAyY0x3OXBoYXRlUTluVl9ra1k4c1ZZN2QyN1hqYjF2ellsOU9SaURCR2tNTGxDRS1URDBnSVh5TjBXVEgtTFJmaXdwcl9VRlRlQldLbFhzZFBmeTlxMGZvRnJYQQ?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-19T23:29:29+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "QML:ASX Announcement - Ceasing to be a substantial holder - 19 Aug 2026 Market Index"
     },
     {
       "id": "2a9b721a19747b4f",
@@ -333,6 +313,16 @@
       "description": "Perspective key on changing housing market: CommBank CFO Alan Docherty CommBank"
     },
     {
+      "id": "c715ec26c1b55244",
+      "title": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmoyVDlLUTlaVzF1TmFsd2R6X2hHcERLUnVDXzBoX18wQmx6by1hYUdheTR3YzhGMEh5MVMzSVU5STBuTThGTk8wbkhfWWVCcnllMHFRQXpjbXpEWThsSGU1dEo5MW54X0Q2eXlkT1FIQVRMb2ZjSlA2MHlyMG16RTNwWHBDS1BjOUxfcFAzOUd4blFfS1lUY01aOXZEYVY0NkxiSFZWTTd4NngwNS1sUzdTazd6V0JWdHBGQ1pUYjN0Mmhm?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-19T23:08:10+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium Market Index"
+    },
+    {
       "id": "487ba83b1d60cc69",
       "title": "ChartWatch ASX Scans: CSL, Life360, Iperionx, Temple & Webster, Perseus Mining, Fletcher Building, Weebit Nano - Market Index",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWFhiMUk2N2duTUM4T0w3ZmtMZFhaQktlRl9PYVZvTkpHV1FVWjR5bk9sZFNsY3JWZS1pVU5zb0VHVlhvX0ZfZXh1NTRONk85ajIzMHQ3N2RFaV9fLTh5aDA4eTFrZWV6S0ZySHNjR3dFcjF0SmlLZ0tMbEJ1TjdCN0hpQTdLOE82bkV2U3R2d0dCWXM1aHg3WHpxdGw5aVJwZExFSlVSbkY2VmFQOS1KQW5LMmpUUmkzZHozS0U4NkFyV1dLWXFmMHhJc0VCVXJaRE5rMm1sVnc?oc=5",
@@ -343,14 +333,14 @@
       "description": "ChartWatch ASX Scans: CSL, Life360, Iperionx, Temple & Webster, Perseus Mining, Fletcher Building, Weebit Nano Market Index"
     },
     {
-      "id": "c715ec26c1b55244",
-      "title": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmoyVDlLUTlaVzF1TmFsd2R6X2hHcERLUnVDXzBoX18wQmx6by1hYUdheTR3YzhGMEh5MVMzSVU5STBuTThGTk8wbkhfWWVCcnllMHFRQXpjbXpEWThsSGU1dEo5MW54X0Q2eXlkT1FIQVRMb2ZjSlA2MHlyMG16RTNwWHBDS1BjOUxfcFAzOUd4blFfS1lUY01aOXZEYVY0NkxiSFZWTTd4NngwNS1sUzdTazd6V0JWdHBGQ1pUYjN0Mmhm?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-19T23:08:10+00:00",
+      "id": "4460ae9a8a804d71",
+      "title": "Corporate Travel strikes repayment deal with UK government - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTVpQUVsVmRmc3p3eTNiRmhTM21mOGRTUXkzWUdkcW9IT0VKdE55NVpXSEU0T21KN1VWX3hDNm9DMF9DUWFMNUhEVnBSdUFCLUpoUnpVdTJGVjFGbS1hcEItTi13QnlLWUtTS0Uybk45YjVHdjV6a2F0eWtKMHpFSlF5OTgyRXV0LXB0R2hDdlVNVW0zZTU2VjAwbjc5QU9sTTVLcU1fNUMweHc?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-19T23:07:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium Market Index"
+      "description": "Corporate Travel strikes repayment deal with UK government AFR"
     },
     {
       "id": "e090cbe804473d10",
@@ -451,6 +441,16 @@
       "category": "companies",
       "official": false,
       "description": "Commonwealth Bank (ASX:CBA) Earnings Spotlight: What Investors Are Watching on 19 August Kalkine Media"
+    },
+    {
+      "id": "e78ba73a6d4f46c1",
+      "title": "Inflation hits Burnham’s cost of living pledge - The Spectator Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0JGQXpmc1VJTEg5bnlTZmI3LW4tSXQxZ3V3SXBGSUZQLXlubHZ0Tjk3UXVIMUhobGdtNWVMUDhWZTI3Z1d4V2d3blNxaDd6cHVHR2R5S21aUVRMVWdLaUtmc2FkME5DSGQya1l4SnlkbWMweU50c1ZEd3Ezc09WMUg5ZWtQMkNRdERF?oc=5",
+      "source": "The Spectator Australia",
+      "publishedAt": "2026-08-19T09:45:26+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Inflation hits Burnham’s cost of living pledge The Spectator Australia"
     },
     {
       "id": "12a24a2c168bf973",
@@ -583,14 +583,14 @@
       "description": "Mulino announces sweeping superannuation reform package superreview.com.au"
     },
     {
-      "id": "f5c0e6ca9a558966",
-      "title": "RBA's Hauser warns of higher rates if inflation risks crystallise - Reuters",
+      "id": "15140eaa145bf749",
+      "title": "RBA's Hauser warns of higher rates if inflation risks crystallise - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckVVaEJuN0M1Tkd6LUF5Zmx6MXVQeG1wZWV1Z0d2ak5hT3V0aEZvYVpYRnNsVWRNeTdveENXZTVfRE85X0J5eU9OOTd3dUhfQlBuLWJSeDNfMkwzcTlrQ2xVcFJJMUMxbUFjRElwdV92TkFYanVib1p3VFNaeTBqLXM1VUNNZTFwTnFibEJLbi03TmlCNW1zbjA2YXB4dG0yQ2Rmc3ItY0JpZl9NS0sxbHQ4dw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "publishedAt": "2026-08-19T02:56:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "RBA's Hauser warns of higher rates if inflation risks crystallise Reuters"
+      "description": "RBA's Hauser warns of higher rates if inflation risks crystallise reuters.com"
     },
     {
       "id": "f600aca3773a5aef",
@@ -663,44 +663,44 @@
       "description": "Australian Clinical Labs (ASX:ACL) Shares Face Thin Dividend Cover Despite Solid Margins simplywall.st"
     },
     {
-      "id": "59c8d8a36fedb5ed",
-      "title": "Australian Foundation Investment Company (ASX:AFI) Shares in Focus as Market Conditions Evolve - Kalkine",
+      "id": "91b3f04e389146ed",
+      "title": "Australian Foundation Investment Company (ASX:AFI) Shares in Focus as Market Conditions Evolve - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXBkdE1XOWR5elpaUTFGeG9GMFJFZkdFRUlXaUxnbWhkcjYwM1ZoNi1NclRlcU1iV2ZnRl9OVHFXeENZdVBJN0o2dGRtXzUwUGFhaDdvOUFZZ2FRakFmRlRkSVprREZxeDNYUG9lVVd2Tm1MUjA4S1RMaFAtaHpwUS02U092TmJhUFAxQ0hJV3l4enFYeU5oNkhXN3ZpNDhYU1Zndkt5bFdjb1ZOZnNLaElyZVhTbDdQZmRPUGhtTlF6YUVBTzZrYw?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-18T08:04:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Australian Foundation Investment Company (ASX:AFI) Shares in Focus as Market Conditions Evolve Kalkine"
+      "description": "Australian Foundation Investment Company (ASX:AFI) Shares in Focus as Market Conditions Evolve kalkine.com.au"
     },
     {
-      "id": "39edb797c8f00670",
-      "title": "Beyond Market Cycles: How Netwealth (ASX:NWL) Is Expanding Australia’s Wealth Platform Landscape? - Kalkine",
+      "id": "e88dec177aa16285",
+      "title": "Beyond Market Cycles: How Netwealth (ASX:NWL) Is Expanding Australia’s Wealth Platform Landscape? - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0NoLTlEbFBFUFZzeXJ4Sm9XNFJPZ3h1ay1qNGtCeWdwNVRXMDY0dlBWMWZfQmNpdEY5dXd5RGJUVEdYVWwyb0RMM2ZVYkQ4Z2ZVRmNIZ1Bqb1c5TGUwZF9Wa3owNThwSjllbGN6THJiUDBPUGNibThnNkNadTZMZzFOSV8zRkRzSEN5UjIySndjQ2lKRlUyUkJyUF9BUG04b1pvb05fYTB3UXMwR1U0Sk1qZVlVa082VzNtYnFTbVJSV2Vua2kyLQ?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-18T08:04:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Beyond Market Cycles: How Netwealth (ASX:NWL) Is Expanding Australia’s Wealth Platform Landscape? Kalkine"
+      "description": "Beyond Market Cycles: How Netwealth (ASX:NWL) Is Expanding Australia’s Wealth Platform Landscape? kalkine.com.au"
     },
     {
-      "id": "9f54a09dce3f2da4",
-      "title": "Australian Finance Group (ASX:AFG) Tests Whether Earnings Growth Can Close the Valuation Gap - Kalkine",
+      "id": "0b64255b13969f7e",
+      "title": "Australian Finance Group (ASX:AFG) Tests Whether Earnings Growth Can Close the Valuation Gap - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNalVFeE1vdkpERVZYY0JUTjE0eWJsMjNfbW44cExNNHBJVVBnQ3ZTLXl0b2NMQTRleTlhOFVFYWtWTGJ4MExHd3FoX0VRdmtRM3BBRWpBWWdxUXdhT192c2stSzRfR0RnaGUyYzVia3YzWXh0MnNJSHRoOVZHWlFpaG5QR2ZrMGM4aUNwbnJMX0Ztbi02UW1HTlI4ZG11MG9OSGY2RkxQcjZSZzhqaHBhNnlyZUxUSE5GNGQtZXdXc2JnWkdielE?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-18T07:58:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Australian Finance Group (ASX:AFG) Tests Whether Earnings Growth Can Close the Valuation Gap Kalkine"
+      "description": "Australian Finance Group (ASX:AFG) Tests Whether Earnings Growth Can Close the Valuation Gap kalkine.com.au"
     },
     {
-      "id": "490933462e52e556",
-      "title": "Alfabs Australia (ASX:AAL) Faces a Key Test as Profitability and Balance Sheet Take Focus - Kalkine",
+      "id": "aeda2e662e4f6f96",
+      "title": "Alfabs Australia (ASX:AAL) Faces a Key Test as Profitability and Balance Sheet Take Focus - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTIyWWN6cVQzR2RpaEdWOW5hYklFZzEwb3JVZ1VtUHRjUUtrWXlYYU9hQk5VQjd0cjE4MlNLdGk5OWxuZ0hJWFFwR2thZTZCaGkwTWJxandNdmNVMXhtZHBxQ3NUcmZJU3B0YzZOSkFkN2s0dFRCM1VUNUFwV1pQNE9GcGd0UkZNaEMzZDNqaUwySl85Wk1VdGRMRVVDWldjNHFiWlRGWUw2RDdXX1hOZDRZd2o4ZmNkdllqR193ZmFidmps?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-18T07:56:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Alfabs Australia (ASX:AAL) Faces a Key Test as Profitability and Balance Sheet Take Focus Kalkine"
+      "description": "Alfabs Australia (ASX:AAL) Faces a Key Test as Profitability and Balance Sheet Take Focus kalkine.com.au"
     },
     {
       "id": "eeafd1668d422fef",
@@ -753,6 +753,16 @@
       "description": "Take Two: US inflation slows; Eurozone economy edges ahead in Q2 BNP Paribas Asset Management"
     },
     {
+      "id": "64742fa8d82870b9",
+      "title": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0cxNlFsZkNOaXdDaW9YUG5ob1pubS04VzlEMGFfR0pfZEdDRUd6ZlBzcXNwaFFBUS02TTZIeUFCTm9FSjM3bUN0YS01dHRHUjFfbS1VS0ZXbHlvUHhPWklGS2dLMERRa3VYUmJCXzBheEF0WC1MWWlTcWw5Mk1IRDhNNDA3aFA5Tm9UbkdhNjVZUEdLOGp5aF9UWUloQmlyZlVvZ0ZB?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-18T01:22:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "National Australia Bank Profit Rises Despite Charge (ASX:NAB) Kalkine Media"
+    },
+    {
       "id": "5b1f3cf55b52b4fb",
       "title": "Do the big parties want more affordable housing or not? • Peter Mares - insidestory.org.au",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1BOTFVIc09TUFNNRXN3STd0aDh6SGpMWnhhUXlaeDZLT3Rma2p0Q3VGY1hhOTQtRWc1Sk1UYmFMbFlJbGI1YVJaV2RzdU1tTWJQblJDcWV5NXktRWxEbng0X3BMa2gzanEwSVdUX3ZhNWNLUXFSOU5DUDZrV1NNZ1dMWmsxMkxHdnc?oc=5",
@@ -768,7 +778,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenhEU05GN0loTmoxTWUxQ0lnMUVDYW5FTEwzQ3hSV0dQdDJYNDRJVGc1dlNDOXhPTkpUTXNJdXhYdzl2WEpPVmp6enR0QnBWQmZ2YUJ3MjhtcmVGeEl4SmplcHJJbndGUEZKTzIyOG5EYUplbkpuaTdpTi03X3NjazhVcVJPamthUE51czdmajJ2SXZ0WkN1c0xUWEFBMGxuVTEyVmgySVBzbVlsdm45Zw?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-17T18:41:44+00:00",
-      "category": "housing",
+      "category": "economy",
       "official": false,
       "description": "What happens if property prices drop 20pc? Ask New Zealand or Canada ABC News & Headlines – Australian Broadcasting Corporation"
     },
@@ -793,14 +803,14 @@
       "description": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO simplywall.st"
     },
     {
-      "id": "3fd71aeaa6870978",
-      "title": "Downward Pressure for Virgin Australia Holdings Ltd (ASX:VGN) — Key Considerations - Kalkine",
+      "id": "75db19c332279ba7",
+      "title": "Downward Pressure for Virgin Australia Holdings Ltd (ASX:VGN) — Key Considerations - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlB5RFprSzFYbmxkNGZ4S1J1OVF5OE50UFFqTHk1NWdSeldVdUhBQVYwaHhfUlIyTnU5aHJfcWNOd3FodmlRbkRjSkpfSUY0Z2Qxb1ZCbkJGQ2poRThVZUpIb0hJZzVjeHQ0Z1U2YUtabzhOelpJeDROb1d3X09QNTlyelFMQm5wdVNRX0NkRXU0SHM1cHdhOFNYb194UGZETkhTLW5XSUxKSGhNVUhyd1IzWFVWMFVX?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-17T09:18:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "Downward Pressure for Virgin Australia Holdings Ltd (ASX:VGN) — Key Considerations Kalkine"
+      "description": "Downward Pressure for Virgin Australia Holdings Ltd (ASX:VGN) — Key Considerations kalkine.com.au"
     },
     {
       "id": "b5fc7a6fce0241aa",
@@ -813,14 +823,14 @@
       "description": "Migration or superannuation, the spectre of Hanson hangs heavy AFR"
     },
     {
-      "id": "33c17f23311f4207",
-      "title": "National Australia Bank(ASX:NAB) Shares Fall as Home Loan Demand Slumps 15% - Kalkine",
+      "id": "ca9dbbe15ad5a442",
+      "title": "National Australia Bank(ASX:NAB) Shares Fall as Home Loan Demand Slumps 15% - kalkine.com.au",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0hDeFFIRXVfZkpHMEtRN05nMXNRNmE3dUFwcFZWYV95QWFYdHZkalVtbEg5SUUyNGYzUzNnRWREc0FVVVRlNjB1XzlfS1R0RDM1Q1paMThZVG5xQi1oQVNRa1QyM3oyZkNiOG1Ha1dLVDVlbkp5N2J6NW05a0REVTl2MWlxMDIxemVfQ2tVYUdmSkhSNXU2X0JadU54NFNOczNNTVNIeEFGREZ0U3c?oc=5",
-      "source": "Kalkine",
+      "source": "kalkine.com.au",
       "publishedAt": "2026-08-17T08:14:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "National Australia Bank(ASX:NAB) Shares Fall as Home Loan Demand Slumps 15% Kalkine"
+      "description": "National Australia Bank(ASX:NAB) Shares Fall as Home Loan Demand Slumps 15% kalkine.com.au"
     },
     {
       "id": "f50ae31b64dca341",
@@ -851,16 +861,6 @@
       "category": "housing",
       "official": false,
       "description": "What’s ahead for Brisbane’s property market? Property Update"
-    },
-    {
-      "id": "85ee4ee819ffb71c",
-      "title": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXpFcVIxWl9zSmZYTmVWUFZQRGlwSXhVejFmaGVyZXROY0d0V0RGZk9lSTd5UUh2SnoxOTNqWlpfUjRLMEJPNnA3elJ2X3VKRkVrT1o0cXdGTDgzR1FXSXdKUW5VYjV2T0JSQlVFaDJBbDNQbGVudDIxeFBxVmh1TmdMN1dreDRaS3dycGJhaVl6aTE2?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-17T06:31:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Shares Fall; National Australia Bank Fiscal Q3 Cash Earnings, Net Operating Income Up Yahoo Finance Australia"
     },
     {
       "id": "7b76e33cf9f83be2",
