@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-20T17:33:23.409296+00:00",
+  "generatedAt": "2026-08-20T18:04:08.097969+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "a0d285fe00cb55f7",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT0EzaWJUdFE1REVtZDI0QXN3dGR1elpibUJvTWVOQ1JVU2NINWc3YmhTMHJHa1V4ZFZGYThTS2RCbkNDM21zbkc3SFZXSXRFcDBwaWtLOFduOF9seVNyMWpWLS12dGt1MzQtM040YWMtYzNVVkZmSFVPbk1rN2RLZTdJdTM0M0hxWHZDTVhoZ0dfWThsYlFfTlp2Z3NkS0ZScm40ZkR0MVg2LXdQTS1ITVFsbnZxZHppREVqZ2tlMEJlQWw0djI0ekJGcDIwVzNuTFBWdHBPcEI4azBGekJ6QkNhNVNJTHN4SXh3?oc=5",
+      "source": "Herald Sun",
+      "publishedAt": "2026-08-20T14:05:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Rise and Shine: Everything you need to know before the ASX opens Herald Sun"
+    },
     {
       "id": "4cbd18e6ef26e345",
       "title": "Charter Hall Group (ASX:CHC) Examining Its Listed Real Estate Market Profile and Trading Activity - Kalkine",
@@ -53,16 +63,6 @@
       "description": "Carindale Property Trust (ASX:CDP) Examining Its Listed Real Estate Market Profile and Trading Activity Kalkine"
     },
     {
-      "id": "6b0beb6a954dfd4d",
-      "title": "Abacus Group (ASX:ABG) Examining Its Position in the Australian REIT Landscape - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnVDWS14Vm5FNGdCUFk3UTJ0TU41NDRlc0VqX2wzNXFoMlpLZjVsc1gtS08zeGhaNnNodzUxLXYwZEpuVzZNeFA3c1BYZVYyVU1BcHpfb3Q3UFNSMjVqbGFXQ3oxZkd2Sld2WGw3Zm5EYU9BeHNVT0hjZ3J0QkxuM0JmWVBTRjJfcHMxR2hDbTFYYjZCazEyYTljZkt1SW5jM0VGSWNxYXJaWEtPT0tmMkI4QXUwQQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T12:55:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Abacus Group (ASX:ABG) Examining Its Position in the Australian REIT Landscape Kalkine"
-    },
-    {
       "id": "f22853cc6738064a",
       "title": "Alcidion Group Ltd (ASX: ALC) Share Price Rises on the ASX Health Care Sector – 20 August 2026 Update - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTBoeTZLa2tYWDBEbDUzaVVNcE1ObUx3ZjNDbWRtdUhtMEpEakpCSkEtTWFIMG1pck42SDkyLU1scGE1Y1RnZ0NBVE9JRUVRdEhFdW9CSmVSVHRDTmctTi1hb1RmTWQwVElJdTZBTDhza0t0ZzZnWVp4YTNFazFlTUxwcnBfcjhjTy12MjJMSU9Xd3RDVU1adUhxZkRVM3g4NTJGZnZVZkhSN05VSFp5YzVmbldFZWZsUEdxLTVaalJZQnotTGptTWhYdFRRaVdJ?oc=5",
@@ -91,16 +91,6 @@
       "category": "markets",
       "official": false,
       "description": "Adherium Ltd (ASX: ADR) Share Price Steady on the ASX Health Care Sector – 20 August 2026 Update Kalkine"
-    },
-    {
-      "id": "be71ab0583c8b7e5",
-      "title": "ASX (ASX:ASX) Following Full Year Results And Final Dividend, Is It Fully Valued - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWJRdDdWbm56WEt2eEZKdkRYLUFpV3g5ZnNRS2M5VDQxcWVydGJvS0dSQkgxd25Bc2o3Z0k4M04tUEdfOEw4QnBFWGxPYzlvNWllNVduX0ppbXk0dXQzSURMOXFfV01VSC1SNkV0M2tmQmtxM0FlVXNSMVhFdVNFQzMwY3hrMWtSWENOZU00X3VuQUlHUzFDVHJzRXdEMXBfZko2X3RKZVMyby1ibkFfTlVBdV9zRjk0QWtkM2hNd0d2aGxpeXdVdy1xcUVtM0NqM0JlRGJ30gHbAUFVX3lxTE5PemdEcXF4QWp0M1dWa3YtN1doNEp2SFVWZWVEbEx3ekpIbkJ6Vm5UT2QzRDVkRnpZUExHNllDbUVFOVNYVjVBVXZOT3JDYzQzYjNaOUN3ajJienlkbWVjWDk1Nl9nTkZZLVhRZHJBRkxFdVh5ZGlpVktZQndxb1UzdlFDZXRaRHMyTlpvOVp3MGh0Ry1yQjNTUnpTZkJDdU8yX1Z4Zy0yZmVMa1NNcTFrWWdBaW5INVhuSGtETllrS1hNN09HbUJZVnAwX18tR2R1WEl0cEMyUnVYWQ?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-20T12:36:58+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX (ASX:ASX) Following Full Year Results And Final Dividend, Is It Fully Valued simplywall.st"
     },
     {
       "id": "c11280df37e002fe",
@@ -161,6 +151,16 @@
       "category": "markets",
       "official": false,
       "description": "European Equities and Income: What iShares Europe ETF (ASX:IEU) Distribution Reveals? Kalkine"
+    },
+    {
+      "id": "c5b0946d0ba65089",
+      "title": "CITIWARRANTS 2.7451 SFR 15-JUL-32 INSTAL MINI (ASX:SFRJOB) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0YxU1N6R0ZLckYxT2JBVjdOVU1LVW92NnBPVmUyNlNXenlHdUIzMEtEeEhBWTYtaWhiaml2MVlEb2hXZllOb05lV21LN2cwTVpYemlfcG5YckJZTk9MTTkyVmc4YUphYkoteWlfZVJqWmp4WHRhWmllX05OUGpWdDJ5MGxfc0lKNUtBUlF0R2hINW84dVVaUVJPSWdIanlfYm04?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-20T12:07:07+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "CITIWARRANTS 2.7451 SFR 15-JUL-32 INSTAL MINI (ASX:SFRJOB) intelligentinvestor.com.au"
     },
     {
       "id": "2964c3d9eea74f5c",
@@ -307,7 +307,7 @@
       "title": "Can you access your super savings early? Are there consequences of doing so? - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGF3N1N6Tm5ZOThLa0YwYkMzMm8xb2U5OVpGb3hUSHFHUXNnckFUQXZZX0xTLXV3WEowY2JhZksxeU5GS0dBbktYZWFBaVlnaDNoQVh4YmRnZHhscWotbzk4MGowU2VYVmgxTkhvVGtURnVCbFpZcU5HdDZTT0FjRTZJc3k1QmJIVkMyYlZnRjZNUnZXSFV0MjhYMlJoTUFzcElXemhBMA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T02:45:44+00:00",
+      "publishedAt": "2026-08-20T02:44:03+00:00",
       "category": "super",
       "official": false,
       "description": "Can you access your super savings early? Are there consequences of doing so? ABC News & Headlines – Australian Broadcasting Corporation"
@@ -583,6 +583,16 @@
       "description": "Australian Foundation Investment (ASX:AFI), What Is Behind The Fresh Attention? simplywall.st"
     },
     {
+      "id": "708b25392f5f8d3d",
+      "title": "How Breville is using AI to get coffee machines to market faster - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1UySzM3c0Vfb3E0RUU2UWpNd1R0Z1UyQzRua00wUDA0dWFKdWtpSkZyVEtzUXVGWmdNNHhLbzJQNlZJUE84NnZyZnFhS0pjUFJ0WTZ1a3Y1SnQ3THJBV0JfNzRjbFVfdFZmZGdzNURsOHQ4bVJpd0xXSXFVM1dQY2lHSm5EMEJROG0yVlpyTGcwVi1Qckd5N3dNN2lnRnJkd0drOFdieGVJVlMtQWFFQjlla3loWUxOUTMzcHZNNWw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-19T06:06:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "How Breville is using AI to get coffee machines to market faster AFR"
+    },
+    {
       "id": "329859bde6e7c785",
       "title": "Five charts that explain what’s really happening with housing - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY29JXzhLTVc4RHQ2Q3lsdVItaGd2cElaS05vdEk3dGNGc1dJYURhQlVWSThLQVBmcnVfYVdINzVWNFBlSDVaaVZZbDgwaUhmbEZfdEhHd3B6eDVXa21PSkpBYkZWdnNLNkhUUDdxZzY1SE5nYldCeERHMW1SQm5Db3UydW5PM2NFSnpHWmVmLVVYb2NSYlg2LWlBTUtXZXdaUzhYTHR5ZUU2QXNUTVBPemN4Y1NkSEZLXzJPR2NFdEdTQlA1dnZBUk80YWFad1k?oc=5",
@@ -803,6 +813,16 @@
       "description": "CGT change will increase business investment costs: RBA analysis AFR"
     },
     {
+      "id": "59ef6335b571c6d4",
+      "title": "Big four bank faces weaker credit conditions ahead - Morningstar Australia",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnRnOXd1dHhMc2pSY1RfdmFMSnFEV0pmRFZEUGVDNmZrNTQwbzhUNU4xNkx6RzltcFkwLTY1bzBUbUY4RmlMVlltUDAwLXNBalpVU1paSm9TVjVVU3lDTGRPc3lzdVRPZEVfdTZoZmZPLTNOZExTQlBZaTNaRTd0OFIzUkVEa0lKVmNidXljMmNqQQ?oc=5",
+      "source": "Morningstar Australia",
+      "publishedAt": "2026-08-18T04:47:16+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Big four bank faces weaker credit conditions ahead Morningstar Australia"
+    },
+    {
       "id": "a995ab32868e0c4d",
       "title": "Brookfield lobs $4.1b bid for plumbing giant Reliance Worldwide - AFR",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmU4dU8zQVFHUWEwbG9wN0dCNnlZUFlNcWpLdWdjU1c4R3IzWk16ejAwbzE3Vk9hS3F0M2t3YXphSFN1bUQ2Z2syMjc4VWY5Z212MWJYNmJ3QUtYSzBzUV9LcVVDVXpYdkpidXVtT3hvS0Q3aDNuOUxXQ0ltS1lSMFU3YUpRaFZKRFo1MGh5TnVvXzJCa2VKTlhILURjTlJVRWZESkhjOEY1akhWRjBDa1ZBdTI5QVpCN2ZuOUtjTGY0Z285NXc?oc=5",
@@ -841,26 +861,6 @@
       "category": "economy",
       "official": false,
       "description": "What happens if property prices drop 20pc? Ask New Zealand or Canada ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "8437497c5be20958",
-      "title": "3 Australian Mining Stocks With Strong Earnings Growth And Healthy Balance Sheets - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWnF1TW1rQm5rbjRFZG9NOEtpSzJXZkRUWmNKSFNPVWRYdDZnWHVzeTIxZ1JQN1F0THhFVk1ieERBWVk2ZUI3bGtnSjBrRXh1dHhEdWpoTksxZVhtX3RjMDRrRDVTQlUxVkhsdmhlMTlZYnYxTzBQalk3a0xjdDA0aFEwUkVnT05QVHA4QkdrLXAwWm9MU2kyR2p0dmVHc0Fwd0J1SXV4emdSUmFlNXUzY09USk5SYVh0bUV5OGpBSzFNUlUzc25CaDcyTUpLUk15X1h3NnRYMDDSAd4BQVVfeXFMT3duQkxaVTQyc2FDa1pOY2hJZ3VsX2NGSWxRNzNqVE5KVWI1NV9YaXBaa25FQmFYdEtIYS1HNUVuLXlacm4zMExxNmxLNEs3bVNlcUtpbXZZd3BpMWNrdk93Mlp2bk5fZ0ZMTTByRnR1dXY3N3p2WkEzVWRKT2M0SUlqN1AwOV92UjFOX3pucHNTNFBpWGN4MmQtNFdBbm9FNmwwUHFaTVQ4ZXpHU1daV29icmNCZ3p1V1ZCclpadkdwRE9KRFNNS1p2bjU1NkFSZ1MxRGpIaFNXTUt3bGp3?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-17T17:46:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "3 Australian Mining Stocks With Strong Earnings Growth And Healthy Balance Sheets simplywall.st"
-    },
-    {
-      "id": "24a29ed3696205e7",
-      "title": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0lOeUNtTU5nQ08yOFUxOXpWR0JXdlFLNC1QLUQ3TS1yS2JrQjA5dzJhakFTWHptTzBDMWxTUUhzQTZxSmJlLVB4YnlOeUtMZUIzbzVGSU9sT0FyTEhpQ093T3J1cVNjZ2ZUdnR3bjFsRUx1cWhNSWRuS3AwNkxXMnJzVjF0NzhUYlFHVi05cHBmeUN0ZHhnSEFEVGJtWloybENidVdmWFVQeTdZLWt0MFhHUHU3LVV3dFFNQUZVTEFuSFdLT3ZzX0JWMmJuR0FVVExHaldpdTc3cjRwbFFNQU16V1ZYZ3RQWmwzZ21n0gHzAUFVX3lxTFB4TmUzUWRFR0tqMXZ0SHM3ai1oaW5MUkI3LVp2VXMtbXo3QVhRUU1sNmUzeWpibHdpc3lrVGV5bVI1VEtYa2RqWUEyTnNGM3pYVl9zbmFJakw3WEdHS1l2el96cXRwYVJjb014ZkZoSkVIdlZoZ1hNczlrNVNDVFBpTnlqa3U0SnNUdEtsN2R1M2NKSFphWDVSRGtpTVlpRU5YbkdBSXVmMUQ1TXg0ZTNWcHhrY2NDT0ZRbHA3eThYYl9wVzk1NlREeXZaYnBQc3ZIMVkwYUtvcFVPZ0FWM2tXejJNaExWYms0LXZfakdGbzFFdw?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-17T17:45:59+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Growthpoint Properties Australia (ASX:GOZ) Shares Face Incentive Pressure Despite Steady FFO simplywall.st"
     },
     {
       "id": "b5fc7a6fce0241aa",
