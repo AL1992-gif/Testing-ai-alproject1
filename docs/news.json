@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-20T05:35:06.228286+00:00",
+  "generatedAt": "2026-08-20T06:03:47.959614+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "c898e69b8b8f583a",
+      "title": "Rise in unemployment shows jobs market softening slowly - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUnBxZ2h4Z1NJdjdCWXJqSEZwU0VWaTl2MXktNFVoa0wtM3FSWDc0dXJqZXVMZDhkM1BWelNOSkdzRkpTeEF6ckJGMmxWWGZVSXJCZjVJaGNEeFMyUWlYeFh6Smxya090Xy1jT2pkbzY3R1F0eDJkTzAzWVMxNUxNQWpNbnBGVnFVUkE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-08-20T05:05:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Rise in unemployment shows jobs market softening slowly Yahoo Finance Australia"
+    },
     {
       "id": "3ae2b32917897e32",
       "title": "Super Retail (ASX:SUL) share price soars 16% on FY26 result, trading update - Rask Media",
@@ -21,16 +31,6 @@
       "category": "markets",
       "official": false,
       "description": "Corporate Travel strikes repayment deal with UK government AFR"
-    },
-    {
-      "id": "e4bc6e40edb5a63a",
-      "title": "Pivotal Metals (ASX:PVT) Expands Belleterre Copper-Nickel-PGM Footprint With Bambino Acquisition - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHBtNXBsNlpMcmx4YndxZ1pXc1NlczBqX0VwaHc3YTZBMHlxZGJuTm14UGlpMDJHZUlvTklQd05vWnd2MldjN2dTVzZsVG0yMXFDZE1EMGowYlpxbmNYbWZ6SWlrMDRGd2RFaGVIU2NHU3dYN180VG4zbE9QQlczR0JvbGdnLUdEMFg5cWZFVDdIQWJVSHdyNGYtYmdHclJoNXQ1MEtQT1V1Y0RGYVVNdGlWNGVIcjVRU3ZoTWNWWEJ4dW5HYktF?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T04:22:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Pivotal Metals (ASX:PVT) Expands Belleterre Copper-Nickel-PGM Footprint With Bambino Acquisition Kalkine"
     },
     {
       "id": "0f8852b5fcad7249",
@@ -73,14 +73,14 @@
       "description": "10 ASX 200 shares downgraded by analysts this week The Motley Fool Australia"
     },
     {
-      "id": "9a1a5f191aa60e4a",
-      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T03:38:33+00:00",
-      "category": "economy",
+      "id": "07541ecd50b9a1e8",
+      "title": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTVPUlRlVzhSalZrd05aOHhRNGpJLUtxTGk1R0x0UU9ZMVEzUzRfdEVGQTdrTzdzd042NHFjcHJYcmh4bkVEZ2dDN0piNElTOFhibVZYTDJLM1BRWkthamg5R0tOYnRsZzVvQmNpMnNRMWZXckxpa3BacF9VdTcxMU5xLTZiRDc0cmtkc19icXVsUVh1azgtcGxUM1NmZHRk?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T03:17:00+00:00",
+      "category": "markets",
       "official": false,
-      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
+      "description": "Why MA Financial Group (ASX:MAF) Shares Are Trading Higher Today? Kalkine"
     },
     {
       "id": "4100a4feee39991c",
@@ -117,20 +117,30 @@
       "title": "Can you access your super savings early? And are there consequences? - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGF3N1N6Tm5ZOThLa0YwYkMzMm8xb2U5OVpGb3hUSHFHUXNnckFUQXZZX0xTLXV3WEowY2JhZksxeU5GS0dBbktYZWFBaVlnaDNoQVh4YmRnZHhscWotbzk4MGowU2VYVmgxTkhvVGtURnVCbFpZcU5HdDZTT0FjRTZJc3k1QmJIVkMyYlZnRjZNUnZXSFV0MjhYMlJoTUFzcElXemhBMA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T02:44:03+00:00",
+      "publishedAt": "2026-08-20T02:45:44+00:00",
       "category": "super",
       "official": false,
       "description": "Can you access your super savings early? And are there consequences? ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "7557ea78386c2ec8",
-      "title": "ASX holds gains after jobs data, led by gold miners and tech stocks - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2pyV1dNNWxXU2hXSlU5b183eldBVjRIZHh2V0hCd1ZWelZFSTRZSW1zcWpBaW0xT1FSMkpWVV9GN0N1V2Z3Y0dSYnZpN0FNMnlMSTZiNFJXVTRhS1dSbHJWMnVZb3pyNlgybzhSLVUtRjN1aVZCcUVuLUYzRFNxczVXNEt1THlkNHhHb0Q1ZzJLSlhqcG03LVAwb2Z6MGtUc0ZDZkhHc01hMC0wTVBDOW9XcWFRZGJJOHJEUm96b18?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-20T02:22:09+00:00",
+      "id": "f7e07d77d2eae331",
+      "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY - tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkFVU05jZFBVZkVPWEs4dlVJUmlqSjZUVzhnWkMwcEVfUUdtYktNeWFXQWJURm9DX0VxUktWdmxNd0E5NzdnYm1sZG1mRGJMR09MLV9JMEhFVDhmZFZDMldFcTVzR3hab2dDcUNRUmRLdTN2RFJRbHlpNlBZMDhPSE90NGo4MUlieldWbWhWMVY2SGhWcTc1OXd1SnNPZkRnckZRbUtodV9oVkZsNjJ2VVpKYXlQZGdEV0QwbWtfRHQ0OXRaOExsLUJHb0ktQWVRTlR6S3pnbGxsTDNVR3Y0WjI5aFlJNmFnRXc?oc=5",
+      "source": "tmgm.com",
+      "publishedAt": "2026-08-20T02:38:49+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX holds gains after jobs data, led by gold miners and tech stocks SMH.com.au"
+      "description": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY tmgm.com"
+    },
+    {
+      "id": "9a1a5f191aa60e4a",
+      "title": "Unemployment rate hits 4.5pc, the highest level in post-COVID era - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2h0R2hnbkE3b2M0YnpNZ0V2S2pybzZ1QzlHM3l1LXcwamg3Y3BtaURkYzhMaDc5T0V1aVF6UkpVSWtyS1hzSW9YSTY5VmkxdWp0S3haLTdJUjVCZGdzTGM3REFIMUFSeExBZ1RjS0xBT1hQWGhVRWQ5WjhBVURtRy0xTUkxUlZRWFZXOFlmRzlqNGkwVzhDUzNmdW9VMVJPa3hVakNjYw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-20T02:28:30+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
       "id": "1132d2dad436589c",
@@ -443,14 +453,14 @@
       "description": "Commonwealth Bank (ASX:CBA) Earnings Spotlight: What Investors Are Watching on 19 August Kalkine Media"
     },
     {
-      "id": "e78ba73a6d4f46c1",
-      "title": "Inflation hits Burnham’s cost of living pledge - The Spectator Australia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0JGQXpmc1VJTEg5bnlTZmI3LW4tSXQxZ3V3SXBGSUZQLXlubHZ0Tjk3UXVIMUhobGdtNWVMUDhWZTI3Z1d4V2d3blNxaDd6cHVHR2R5S21aUVRMVWdLaUtmc2FkME5DSGQya1l4SnlkbWMweU50c1ZEd3Ezc09WMUg5ZWtQMkNRdERF?oc=5",
-      "source": "The Spectator Australia",
-      "publishedAt": "2026-08-19T09:45:26+00:00",
-      "category": "economy",
+      "id": "12a24a2c168bf973",
+      "title": "Tenants caught in crosshairs of angry rent-hike debate - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzNLZ242TWpqMEtnbFJRYThKTlZzejZjQ282b1U4am0wZ3JkeWt6RXB1bjlXZzBXQzdCV0NXSVgwa2hlakFTVXdmWVZxLW9fOU9BU2laSDJRa3BpQ29ad2FISnJ3U2RGX2dRR1VrSGM3Rms5dW5MXzJKb0ZFdXZUVFdnWUxtUGZVdTJNcW40X0hLc0VqQVRCMTJEcU1XdkZfVEZsRl9lbkpPeEpSSU1LZFRmYV9JZw?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-19T09:45:00+00:00",
+      "category": "housing",
       "official": false,
-      "description": "Inflation hits Burnham’s cost of living pledge The Spectator Australia"
+      "description": "Tenants caught in crosshairs of angry rent-hike debate SMH.com.au"
     },
     {
       "id": "f669397dc605641b",
@@ -553,14 +563,14 @@
       "description": "Why Is National Australia Bank (ASX:NAB) in Market Focus? Kalkine Media"
     },
     {
-      "id": "317f562e66ed3242",
-      "title": "WiseTech raided by competition watchdog, smashing shares - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHBTSDhoeDZxeTZkYnZmVkdpRmZFU0oyNU1fM20yVlkwdXNlX2ZPMUZtd0VOWmtzWHNRSm5GWlc5MWdhbHlYeENvMHIxQjZzeHVXZE05bkt5cVhEVGRILWF1akVaY3NyNnhkT3N2cmEyR2lZbU1JTXVCc3dCX1pmYnoyU0tpb3JfYklpM3FlZ1VPWEt1RXVQUllJb1hZRlNTNzZOS1R6OGZBbzQ5OUVj?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-19T03:50:44+00:00",
+      "id": "6b4ae02eb1c626d0",
+      "title": "Why Is Vanguard Australian Shares Index ETF (ASX:VAS) in Market Focus? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGVva0F6ZmpaVFRtOW00TXRybklFaTBoak8xT2taNk1JbG92MVJ0RDYyTW85M0Vqc203T3Fsa3ZuUVZZYnlmdjBNZ1VmdDhCWC1vV1VoNUFpM3g5Z3M4dktWYmI0U2xyWk51dGlpZUVHMmJyWkxWbGh2aVJYYktiNmNaWWxhVXBnRFM4WWRDSHhuNFhZTEozMGtsRjE4SnJPRzEwUklyWjE?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-19T03:53:00+00:00",
       "category": "companies",
       "official": false,
-      "description": "WiseTech raided by competition watchdog, smashing shares SMH.com.au"
+      "description": "Why Is Vanguard Australian Shares Index ETF (ASX:VAS) in Market Focus? Kalkine Media"
     },
     {
       "id": "cde0f436b9721f88",
@@ -701,6 +711,16 @@
       "category": "super",
       "official": false,
       "description": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances The Guardian"
+    },
+    {
+      "id": "612f7065ec4c28e2",
+      "title": "Aussie dollar peak is ‘in the rear-view mirror’, analysts warn - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRi1SNlM3aGRqR2V6WGhfU212cGhKbWdnVFUyR21DME9CWmdMUy15akdjeTN3QkhBM0dkUmc2clktbGFVTHlOR2FOeGpOTzlJbXBsNTU4cjc3ZGxYbUtwbjE1YVZ6SlBMTTFxbF9rb0JvQnUzenZINWVPeV8wM29aS3FSdXFGNldYbHo3TFhWWGV4TXRMVVgxOHhnZGRUcXVKekx0d1puckJHNFl2NzBCMkhRd3MwZ3FT?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-18T06:47:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Aussie dollar peak is ‘in the rear-view mirror’, analysts warn AFR"
     },
     {
       "id": "df030ff05e742e47",
@@ -881,26 +901,6 @@
       "category": "housing",
       "official": false,
       "description": "Housing downturn hurts the whole economy The Australian"
-    },
-    {
-      "id": "383369a3e02f8af8",
-      "title": "Bouris vs Joye: Is Australia really facing its biggest ever fall in property prices? - Switzer Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaldlVVEzN1F3b3RxRFNzanB4cEVLcVlIVi1CMnZMbU10RFh6YW1NZ213S1VoZ2FHZ1IyMlh2SFlDd1dZSDkyMTdGT09pNVJwRG9maFVWTG1DVXpzWk1OeGJ1ZU1QMmRZaDBzaER2VlJUYVEwVnVxSElEcVZRRXozWkxSSS0wcXZaUWxhV2xhZlVMT0g4Y1FxOVl2TnhYT0F1TFRBS1R1VEtQUQ?oc=5",
-      "source": "Switzer Daily",
-      "publishedAt": "2026-08-16T22:46:10+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Bouris vs Joye: Is Australia really facing its biggest ever fall in property prices? Switzer Daily"
-    },
-    {
-      "id": "bc5c9883cf33d288",
-      "title": "Idea to unwind Australia's $4.5 trillion super system to give workers more money - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNG4xck5zdDhjOVlQamtwMzUwWXNXdTlORlhCR09UMVlqOGIzZExobkZBSjVIVFdiU0s0SHZla0ZTR0s0NjFMU2tfWEJqZ3BXM1FYUmZQa2dyMW9mdWo4VU5xR1pmSVg5ejczRVdZY1draHYzWms0cDgzNWFIaFpORU13a2J2M005M1NZUTVVU21UOXdhLURnczQtZ1RHQjg2UFlXcUZkaE13ODRwMmU5UjBqUFBwc3dWTUU0bmpqaVdydw?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-08-16T22:31:29+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Idea to unwind Australia's $4.5 trillion super system to give workers more money Yahoo Finance Australia"
     }
   ]
 }
