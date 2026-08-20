@@ -1,13 +1,53 @@
 {
-  "generatedAt": "2026-08-20T10:12:17.184414+00:00",
+  "generatedAt": "2026-08-20T10:50:04.235949+00:00",
   "sourceCount": 7,
   "articles": [
     {
-      "id": "ff6a243200ede565",
+      "id": "64f25713d912a4ba",
+      "title": "Mayne Pharma (ASX:MYX): Share Price Movement, Women’s Health Expansion and Business Strategy Explained - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZRYWVESTV6SkF1S1RReU9lN1p2ZUtmWi12S3RGODVOdEJZTElyWVkyRGwtZkotOUExYkU4V09vS1l1eGkxekFJQmwxMjgzQXMxYzdkekcxd3BfY1JidXBmMEhENGdOT2JEV0Rxb1ZzMzVsS1pNYTVpRkhkOUtFNm55MXNyVXlRalVuXzBFZHBkUjRPRFcwbGNxWDhaOEdaaE5HaG5nOTRCVHhsbUNoUmZXQUR3aWw3NGJUOGV4SUtSaVgwNF9paXBOb1JOY0Nf?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T10:25:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Mayne Pharma (ASX:MYX): Share Price Movement, Women’s Health Expansion and Business Strategy Explained Kalkine"
+    },
+    {
+      "id": "355a323309b82efd",
+      "title": "AFT Pharmaceuticals (ASX:AFP): Revenue Growth, Licensing Momentum and R&D Investment in Focus - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZy1JZnF4YWt0aEdSMzFoakJhcnNKekMxY3AxcjRuVGM4Q2J4WUp3Z3NHbzE5UmJaVkJMOUw4Njl5TTNpTDFTZ3g4c2FUWFhmRGhFNUJMeEZjWndiaVZLNXA3T3VEdkhGNjVuSzU2Tmx6TDhFNlRxWmU3YlIya3dra2lJb3dPbElIYjBVMGhNX3BMR2hRQW5DbWE1R096bGNFTFdqMmtDU2FjcllMTDI5WXpxczZFd0FLZEFuSEkwajZBbTNJ?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T10:24:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "AFT Pharmaceuticals (ASX:AFP): Revenue Growth, Licensing Momentum and R&D Investment in Focus Kalkine"
+    },
+    {
+      "id": "ddc101cd64e8bfbf",
+      "title": "Starpharma (ASX:SPL) Gains Momentum as Investors Track Clinical Preparation and Partnerships - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFN0WGRRLTU3MHVaR1M4Qk5uX2xaZWJZSERtYkFabWxGN1E1ZHRzeGp1SjgwTGhxUE00ZHFVU0swaU9aR29jUG5HSWZ1SWk0cmZ2X0NudlZFQ3RNRzhWUVVmQzBwdXhHdW5LaVptMHctZklVMWNZcVpGSmdXNzVqQzJTeVJMd0tjQklYMGV6aE1HWV80T2RzZ3o1RUZEMmFSMFpZM3hHTVhsb3ZILWZMUmF4TWRDYkw3ZURuTGp1MGVURDhURTVv?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T10:24:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Starpharma (ASX:SPL) Gains Momentum as Investors Track Clinical Preparation and Partnerships Kalkine"
+    },
+    {
+      "id": "9061513f4f7f547e",
+      "title": "Oceania Healthcare (ASX:OCA) Under Spotlight as Investors Assess Record Sales and Debt Reduction - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlmY25hb09BTUV0aTRhR0tOdU5IR0FJbnl0OXd0WkZHV3UxeU5nTTdHZFFMM0VmYW9NUkdQbTFlbHFlVUtDV0tFT0VzMEpKSk50dUpXc3VwM0pfdmV5UW9aUmdqSDlBM3hVTld6SDBnQWVqOGtfeXpsd2FXUU16NVFrX2ItYXZIb1RRYkNNMHJPXzhnNm1Tb2hHczhQQy1PVERIY1JMbzM3U2JfTzhrNkJjRkpfSUFZVHZXZ1J5TkVDZ1ZLZXB3WWdkMFM?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T10:24:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Oceania Healthcare (ASX:OCA) Under Spotlight as Investors Assess Record Sales and Debt Reduction Kalkine"
+    },
+    {
+      "id": "01a4b34d603a44ed",
       "title": "Australian Dollar Outlook: Jobs Cool, AUD/JPY and AUD/NZD in Focus - FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHhMZS1xVWVyUVYzLWkwUGdyV1lqdFhmVUlJY2JYQi1lb3FwLVRid1hvTF95dENsWnItc3haUGo4cVZ0aU5LNEpjRkx6R2NjY1JONHVmYm0xR1NqUkFBLTBrWjVWVTVRTHBHRE9RbEVSd1pNQ1A4X09DLUhEc1AzWFUtejVNVTFPQkF5aUE5MzZvZjRIdDBCWmsxSl9HMkZlZnpuNjAxaGVfa0xKWllzUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1g2ZXh3eS1sUW9pdEx0N05GSzNhd0VpaHF4eFVpQTU2RDVTUTdWSEdRQTlveGtJTXlPN1hpTEJuQW5qa2dpMDVJVmQzSnFKc3p4d0FFRnAyRlNTLWlzaEViQndJOVV5bU0ydVpGUUh4LWprZFEtd0hGSXgybFBFclJTU09HOU9aQl90LVN0VHoxSG5sTFhXVkp6VXF0Yzh6TXZmcUJGYy1Wa0dqMVFRVnYyLUNvVjBMSWQ2SNIBvAFBVV95cUxOc1g2ZXh3eS1sUW9pdEx0N05GSzNhd0VpaHF4eFVpQTU2RDVTUTdWSEdRQTlveGtJTXlPN1hpTEJuQW5qa2dpMDVJVmQzSnFKc3p4d0FFRnAyRlNTLWlzaEViQndJOVV5bU0ydVpGUUh4LWprZFEtd0hGSXgybFBFclJTU09HOU9aQl90LVN0VHoxSG5sTFhXVkp6VXF0Yzh6TXZmcUJGYy1Wa0dqMVFRVnYyLUNvVjBMSWQ2SA?oc=5",
       "source": "FOREX.com",
-      "publishedAt": "2026-08-20T09:38:48+00:00",
+      "publishedAt": "2026-08-20T09:15:51+00:00",
       "category": "markets",
       "official": false,
       "description": "Australian Dollar Outlook: Jobs Cool, AUD/JPY and AUD/NZD in Focus FOREX.com"
@@ -71,26 +111,6 @@
       "category": "markets",
       "official": false,
       "description": "Airtasker (ASX:ART): Digital Marketplace Expansion and Revenue Momentum Under Review Kalkine"
-    },
-    {
-      "id": "1b899543d6b8954f",
-      "title": "ARN Media (ASX:A1N) in Focus as Market Watches Transformation Strategy and Earnings Outlook - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVNycnUyeFdJeUZxUVZHQ1RrRHJ1aUw4QThuc1dObXB2MFh4d1ViTXNkaTdsRlFIM3pYaXZpRDhpdVZFRXNONVpzUUtkOENPVU5RaWg1YzBGazlHR1U3M2YyY2FSQ2xkTHE1UHJFdndRV0JVRjdiOF9SdVA4bWM0VDA3MnMwdnBvR3JCSkZkLXAwb0JjVnlvR0hqZDlVeTBaYVIzZmRyd0JINXBCRk4xRnNGb01fcWpfR3FMMGthSjdFZjg?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T08:07:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ARN Media (ASX:A1N) in Focus as Market Watches Transformation Strategy and Earnings Outlook Kalkine"
-    },
-    {
-      "id": "c9ffb4e8e120708a",
-      "title": "SUL:ASX Announcement - Dividend/Distribution - SUL - 20 Aug 2026 - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2ljRmNNdnhhY21HNm8wRElobzN4WEd2Rm5lTHpfcVo2WndodVd5VHJTQUtxZzdUbzA0Z0JCT0JudllKVVVaZHlVM05RejhfT2YtalhTWkZ4blFac0c1czE2UHFUNUxNT05SSnFublltQzBKMmdpMW5wdFgyWUtMX2ZEUWFWT1BLV2tuZUlRVWk?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-20T08:06:57+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "SUL:ASX Announcement - Dividend/Distribution - SUL - 20 Aug 2026 Market Index"
     },
     {
       "id": "c2b64006b10b4213",
@@ -163,6 +183,16 @@
       "description": "Australian Shares Flat; Megaport Fiscal 2026 Loss Widens; Revenue Up Yahoo Finance Australia"
     },
     {
+      "id": "7c43087259322e8e",
+      "title": "Jobs data divides experts on future rate hikes - News.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX0tOVHhEekxqTTJpckF1XzByZlNaSGh2VWxkVVdVV3ZGMHVyaHo0elFpdlRTWUd4ZGJpSUpjd3Q1Tm9qX200WXowbmMwdEpHenRncUZlMVI3b21OUXcyYXFpRkNYUUNnX0h0VjRzMjMtVkNVb3VTVTRad1hwQWQ2Q3pMd0ZtSE02bmJuLTFacXRwYWt4cWxkeVJEYjlUMWJjVzVRempTX2tyQXVQTlpvTkFybWtGcHFzSUo2OFNNcUZUMW1LN2tiejFkQVg3Q3JyOGE1Z3RWbGJKeU5EamJkNGdPNjg3aGNFd1hjUmVJaGMzTmFwVHRHTFRKSWNMbUVUVUJDTUJhQjjSAY4CQVVfeXFMTUtvMWtsSVQ0T3VoTDZkZVBBb1g5bk9SOGZqZnpCcW1pX203dWNIWU5GMjQ5c2JMYkxaSThrelpJY3dHNFMwTElxNTNYMW1Qa0FZb1BmV0pnQVVxU0xmRnBrMHdIOFFEX1VHa1Z5VFM5bzFZN0NXQjRpeHZCMDZXZEZmbjNxQWd5M3FjdnFHMjRQd3FQRmFieW91SkhWR21rcG91X0w3bDZvWXNpNUNyWTJQUU5xcVV2VHZ1R0pZSWtzemt1TWdPemhrZlRPRWFMVEpVeHZIY3BzdWRoU2hFZHhwbG8wU29KRlhBOGM1SkRkbHY4cFpCWGpYUHRDbi1qUUxIYVN1NUlkZzl5UFd3?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-08-20T06:13:14+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Jobs data divides experts on future rate hikes News.com.au"
+    },
+    {
       "id": "cc4deee7615492ea",
       "title": "Rate rise still in play despite unexpected spike in unemployment - AFR",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1MzVjV4R1RUREt0cWRPdm1jV2puSFQtR2Uwa19QV09LeGdoaUllUEF2TjEza1kwSXlYR2Mwdzh0bmFFaFlOTDZ6WDBWZ3NmYW9tTTRrUmIyTWZGNDlLQWpISW44ZTZpeTUtS1NpSWVwWmZQYlExVUk0TFJ1Q2dmQ1BmQkUydXk1TFBYSFhHQUxjYjB4Rnc?oc=5",
@@ -173,14 +203,24 @@
       "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
     },
     {
-      "id": "d6a3857bae148fb4",
-      "title": "Australian Finance Group posts $49M annual profit - grafa.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1VKRVFXUGRLanZCVkwxdWxHZjdzRHlMTVRkckVEeThIT3JxUHJLbVhxZ25uZVE1RzB1R3dydldIZDVJeGJBTXYtUU80am9aLUk1TWY5cVlURWMweGJGYWFmUFpZRm9YVjRNbXdUU0c3em1NdFVBR1ctaXprbUtVR0k1Nm9qN2NDdWYxbQ?oc=5",
-      "source": "grafa.com",
-      "publishedAt": "2026-08-20T04:16:00+00:00",
-      "category": "companies",
+      "id": "b15ea3a58578bbb5",
+      "title": "MRQ:ASX Announcement - Share Purchase Plan Despatched Today - 20 Aug 2026 - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMWRHSHphUlA5V2VQQzJwQ3VyODZ3SUdURDl5c19DeHJQLVRfdDhwZWE0V3o2Y2FCSEtJZXdIaUZOdkpPUGhVZXB3bHBYLW8yRVFjZGt2cnJ2eHJnYUNjV0Fpc20zMjNwN21tZzZtaEFEWG82NkhGa1JOd3VON2cyaE5Md19FN3VMdnotdmx2NzhTS3o2ckpjbVM2QWd4YWs?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-20T05:30:59+00:00",
+      "category": "markets",
       "official": false,
-      "description": "Australian Finance Group posts $49M annual profit grafa.com"
+      "description": "MRQ:ASX Announcement - Share Purchase Plan Despatched Today - 20 Aug 2026 Market Index"
+    },
+    {
+      "id": "8a12c4d80405be94",
+      "title": "7 ASX 200 shares with reaffirmed buy ratings this week - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1E3X1I1ZzZXaDFCUXdaQVNOUXZrWWdoY2FYdVk5YU5VaXFobXJ6OUxWVUVZNzI0Q0g5UG8zcFVuU2ZRaGViTE9zaVNTZWtYUDlmaXVScnliUnJMeHQxMjZXR3VuZHFXNHNiZ3ROald3NC1NcGFmZEtWYUtOaDRzZDkwTjVrMTNmOUhtVUxidktVUnJK?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-20T04:49:45+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "7 ASX 200 shares with reaffirmed buy ratings this week The Motley Fool Australia"
     },
     {
       "id": "50e97cba6b302472",
@@ -191,16 +231,6 @@
       "category": "economy",
       "official": false,
       "description": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent Glam Adelaide"
-    },
-    {
-      "id": "6b17fb14586f6f98",
-      "title": "Jobs shock as unemployment climbs to 4.5 per cent - The Nightly",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWIxbFI2R01zM1dQU0U1T0JFU0NCWkhhQmIxNzdyd1NNMkNHd2NBcGpIdWxzVkJCUXFsdkFzU1g4NFQ2d3lEUm9qblRMMXNQVWlzSG1XQTdNR2JROWMwbS14MUJ2cVNlZlNhbm1lTGZXUHVjaU1IN0RZRDVORm13NXFfaHEwSV9XWmwxMENfaGRUdkdfTWZyWUR0Q2pSU01JWURGR1FpeDhJVHNEMzYtQWZxQkloaHE3S3Y3ang4Q21INklWVVp5c2pTZ0N2aXNLdVBhZVJuZUxodGVFd3NUVDJ1MXk0UQ?oc=5",
-      "source": "The Nightly",
-      "publishedAt": "2026-08-20T03:05:16+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Jobs shock as unemployment climbs to 4.5 per cent The Nightly"
     },
     {
       "id": "5e6370c46322e532",
@@ -303,16 +333,6 @@
       "description": "Phil retired overseas and took his super with him. You could, too AFR"
     },
     {
-      "id": "90af4f70c18011e1",
-      "title": "Rate hike relief as jobs market cools - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORU9QX2RfckdkaWFDd29CT1hjQllCYWp3MEtCaDVFbExhMVlmVDNLbzNaZk1hSlJNQTV4Yl85bU5WVjlMb2IzR0t3NU4zZHJNbUZkSnkzQldpaW1qVGFVUHZWS1JROTV4aDBGemYxc1loX3B3aEZzdmw4MHAwWGYyd092N2NELXZvMkxIXzJ5M0ZfLWs3UGVydnB6ckprMTd0bmlhREZxZXJPRVlZSkV2cmtSWlgycFBxMVIxS1VtYk1kTUF5eXZYVUFQdVJPRV8xeXhqM0pKWldBQVpvSzZkYjVtMWpTT3R6Nlk3Ym1aenJiVHMtYlpsaUxkUTHSAYICQVVfeXFMTWpNeU1JOFFjU28tbjZfZXhydzlBSHphdEZ1eDVJUktsRHR6TTBhbDc0RDVjeTZ4Nm85VkNBMmFWaEtWdWxHNm8ybUphakJjQWt0WjBRTENQMEItQnl1OFZGOXF5YVdUak9aMUlZeXlmQjBpLVU5OXBwUDlIQndRcDlmQ2doVHo1a0FBVnFxQVNQMGtkVUt3amk5bGdRdDZWNUZ2N3lKN3JvM3p5anRuczVCX21fOWFRN1R1TlRIdEdCRUgwdzlRcmUwbzhzLWpCXzNtVnRIYjgyV3ZPYkxxRUJ6MGlfU1NGY0JHMkNZYWhPa3loYlFGNlVCTFBTZ0Njd1Bn?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-20T00:48:07+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Rate hike relief as jobs market cools The Australian"
-    },
-    {
       "id": "1c4b2a07ca0d5638",
       "title": "Morning Feed: What’s cooking on the ASX? - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Eak9IUXpCLXRiN3RYNDBWUWdqQXNOUXlhaTFfcTBQRFlRQ29nX0FBVjNCeDdfU1h0R1RwR01fZ29xT0F2TGlrUmhXRkVHRlEtTFllTDNHTWF5Y1lmU0JVUDRjMzlJNlg1OVMwenF4elRWYW51My1MckJrdw?oc=5",
@@ -321,6 +341,16 @@
       "category": "markets",
       "official": false,
       "description": "Morning Feed: What’s cooking on the ASX? Stockhead"
+    },
+    {
+      "id": "9ab468bbe8f4d71e",
+      "title": "Australia’s drop in real wages is a disaster. But the profits of major corporations are doing just fine | Grogonomics - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUTIyUGdoVXZUUWlPdE1PU2dSUnNVUmlnUFNWZUNxVXptM1B3cjIxR1BvMkRZNl9Ebk5iVE50ZkVkdThPZE11VEF2UXRHanFpbkExd2JtRU1JS2x5UG9SekVCOUNRUWt3RjA3Xy1XV2tjRGUtaHZod09tdWRyNEhDX181Q0RoNlBMaXFfQnlXSG5sRjRBdXZMckpIMnc5aG1iaXMwVm1DMzJHNVFMMmhMb0pzQUtVVGE2YUUyUDRQUU1uT21aN2NRNDJhbWVZV1RUNzZFOUZfYTFvWVBfS3gza3g1UlZiY1c2bzA3NWpiUFdUeU1Q?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-20T00:44:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Australia’s drop in real wages is a disaster. But the profits of major corporations are doing just fine | Grogonomics The Guardian"
     },
     {
       "id": "d642f834b63ebbcc",
@@ -343,16 +373,6 @@
       "description": "Yancoal Australia (ASX:YAL) Reports 90% Profit After Tax Drop Despite Higher Revenue and Coal Production Kalkine"
     },
     {
-      "id": "f029f2682672910b",
-      "title": "The Morning Catch-Up: ASX set to open higher as Wall Street tech sell-off weighs on global markets - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWHZsTmUtek5yYXBTQV83cTlYeXhjcnp6c2xNR3FUaktVMy1sU2s0ZTBrWjFHU3lXb0tYWFZDbktUSjhQOE95bWkzSk1oZDJTYnpZckZSUVpGNFVYTjhISkJORks5YndXODE4M2pUUk9kSWM1ZFFxQTFrazNQQmY2M3pXdDZkSFpTZ3RmMTlOckpINnhXdFVGRDRoOFkybGRyOGVoOUxwM2NUNmN6aUFwT2s3RkRWa1VuRU1TekVSc29BVDY2Nk44enBUSy1DV3ljV2M5bFRxR05YYUJaX3lQblMzejU0Mk1PYUp6djNIYS04RzNyNjc4cFd3ODZDNW5k?oc=5",
-      "source": "Proactive financial news",
-      "publishedAt": "2026-08-19T23:51:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "The Morning Catch-Up: ASX set to open higher as Wall Street tech sell-off weighs on global markets Proactive financial news"
-    },
-    {
       "id": "2a9b721a19747b4f",
       "title": "APA delivers strong FY26 results and exceeds cost-out target, with further momentum on growth strategy - APA Group",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbnhuYXRTanVIRkROMEhIYVBRdlhBTjVYa2pWTVQ0R3hjSmlNWGtaLVN6ZnZST1F5OFVpbFZyREpXLVM2ODg5cnhyc2VkMk0zVm1uNEdtWkRMeXhGU2dhNldOZWdEcU9wQV93MmZYc0tQSnV3eDFKdTc3UmxMUk43RDhSdThyakYycUI5ZzZmTUc2RmMxS3NkTDktS2NUUUFTT0IxYzZlUHlJSDJGdDlxbjE1T0c3bTZTWDJFdlBFa1lCalBJLWN6dWRoT1VXUUhySGxwRHZKVW52Z1hpcHAxSlllSTN1UjN0Rl9xdW5xSl8?oc=5",
@@ -373,34 +393,14 @@
       "description": "Perspective key on changing housing market: CommBank CFO Alan Docherty CommBank"
     },
     {
-      "id": "c715ec26c1b55244",
-      "title": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmoyVDlLUTlaVzF1TmFsd2R6X2hHcERLUnVDXzBoX18wQmx6by1hYUdheTR3YzhGMEh5MVMzSVU5STBuTThGTk8wbkhfWWVCcnllMHFRQXpjbXpEWThsSGU1dEo5MW54X0Q2eXlkT1FIQVRMb2ZjSlA2MHlyMG16RTNwWHBDS1BjOUxfcFAzOUd4blFfS1lUY01aOXZEYVY0NkxiSFZWTTd4NngwNS1sUzdTazd6V0JWdHBGQ1pUYjN0Mmhm?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-19T23:08:10+00:00",
-      "category": "markets",
+      "id": "6a46cf0fa896ceaf",
+      "title": "Weekly earnings wrap: BHP, CSL, NAB and more - Morningstar Australia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHBlZThLTy03N1JoM0oyYm4zN3VOSmp5RDdwZE9VeTdLVENUUGstRXVFTkJPWTJTTzAxMlUxbUVQWnAwcGJfZGxpNUtFdzRjXzFpRDI1S19sNTNDTDY4akVWOF93eV9nYmJFcmtkUnN3RWU4b1NXS3NmSmJGNGpoTg?oc=5",
+      "source": "Morningstar Australia",
+      "publishedAt": "2026-08-19T23:02:07+00:00",
+      "category": "companies",
       "official": false,
-      "description": "Best ASX blue chip shares to buy? Expert analysis of CSL, COH, BHP, WDS, STO, copper & lithium Market Index"
-    },
-    {
-      "id": "4460ae9a8a804d71",
-      "title": "Corporate Travel strikes repayment deal with UK government - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTVpQUVsVmRmc3p3eTNiRmhTM21mOGRTUXkzWUdkcW9IT0VKdE55NVpXSEU0T21KN1VWX3hDNm9DMF9DUWFMNUhEVnBSdUFCLUpoUnpVdTJGVjFGbS1hcEItTi13QnlLWUtTS0Uybk45YjVHdjV6a2F0eWtKMHpFSlF5OTgyRXV0LXB0R2hDdlVNVW0zZTU2VjAwbjc5QU9sTTVLcU1fNUMweHc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-19T23:07:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Corporate Travel strikes repayment deal with UK government AFR"
-    },
-    {
-      "id": "1cb1a59e7e76a81a",
-      "title": "Morning Wrap: ASX 200 to snap six-day losing streak, S&P 500 higher as long-dated yields tumble - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVV2OVZrNDVlLVlGcWkzVGwydGJxRlJwa0Q4bnRwd210clptZUh3WjZzY0FhWFlUWXRaZW5vLTUwLW14bmxCcXg1eGtJS0pTN0tnNnlBLTNJMklTYUg2YllYY2I1bE1HajhCTTE4LXZmZEVXelQ2aXFsNWk3MHNUMXIxMWFDUjA4NWg3d05uSFg1M1kwMk4xUmNrV3hkbnV5M2Z0MWprOUZJY3U1?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-19T22:48:09+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Morning Wrap: ASX 200 to snap six-day losing streak, S&P 500 higher as long-dated yields tumble Market Index"
+      "description": "Weekly earnings wrap: BHP, CSL, NAB and more Morningstar Australia"
     },
     {
       "id": "8ea351b372e9d92b",
