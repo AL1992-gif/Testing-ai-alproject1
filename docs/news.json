@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-21T02:49:13.260292+00:00",
+  "generatedAt": "2026-08-21T03:53:16.490871+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "a746d3f57d474397",
+      "title": "ASX dips as GYG goes red, Regis strikes gold - Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXB4RWU5ZG1PX1BXUDlxbXR6MVVaelhnS3J5bXA5SU54aDNtUWJHTzR1dWF1Z0ZHT0RiVTdMUzktekxUalZrWUgwRFFvY18tWXo1S1RnVGEweEdWNnVOZHlnSHFIVXJfZ1JRTkR6QTIzWHFiMTkzcmhGOFBMbGJ5VFMtSWg4T1hIQ3NKTndOX3pMUWp0RFR4S18wMURveTgyWjRJemZkRFR3VnNVTmdSUDZVaXo5S21yLThZVmZQcXF3TV9tbW1LZmFETTc4NzZBU19UdGllbU1xdkd6b2NDS25KZFFzQzg?oc=5",
+      "source": "Herald Sun",
+      "publishedAt": "2026-08-21T03:51:33+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX dips as GYG goes red, Regis strikes gold Herald Sun"
+    },
+    {
+      "id": "0b7e505d4f963c2f",
+      "title": "Iress (ASX:IRE) Shares Jump as Investors Assess Higher-Quality Earnings Growth - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHRiYm9zRnB1eDVxU1dXVmpzemtmaERrQVpaVmRIZlhyNER3em5kV18yTXJCeC1ySVZ1OWZfLWJfamtwWTBqTE9QT2RRYmpoUGxWZ2VlTjhGUy1EVy00Qm9ud3NOamtvTkdKMHdOOWtjLS04MlJOZkc1ZEdtTlZZenNkT25aVF9OVVVGTjg0Mnl2aUtfc0xkU2Z0Zk9pQmN2bFVlVkVYNExEZWpTMHI2MWJLMWk?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-21T03:11:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Iress (ASX:IRE) Shares Jump as Investors Assess Higher-Quality Earnings Growth Kalkine"
+    },
+    {
+      "id": "d5d149256d3871fa",
+      "title": "DigiCo Infrastructure REIT (ASX:DGT) Brings Forward SYD1 Expansion as FY26 Results Exceed Guidance - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFINkZ3TjZXclE0aThlRXhYRlpxUlJKb01vSWQyZE1iclh6X1RmR1BlcEE3eEFDWmw3ZmxPdmJtdzZrTkpoZnk4V19tN2VmdHU2ZlVGQ09EbkVLMGRMZF9xWnlqVTVLSE9PQVdUUEJHbF9ldnJUZ1lWY01CS0VydEptaURiU2tGUzF0N3NBMWVlLU5WcG0zNzZUeHhKd2pIaTRaS25sSGZwMWlTOE03WWRpVW5UUzU1c0J6UzktZU10RV8xa2lnSUNKLVRiZzZN?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-21T02:48:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "DigiCo Infrastructure REIT (ASX:DGT) Brings Forward SYD1 Expansion as FY26 Results Exceed Guidance Kalkine"
+    },
     {
       "id": "de8a294e78043667",
       "title": "Morning Feed: What’s cooking on the ASX? - Herald Sun",
@@ -13,6 +43,16 @@
       "description": "Morning Feed: What’s cooking on the ASX? Herald Sun"
     },
     {
+      "id": "34b374ff2c193841",
+      "title": "Global Lithium (ASX:GL1) Secures Key Manna Approvals - mining-journal.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmY4TnRDdmFobF83ME8wc2oxdnE0aUVVVmV0Q0dfTkQxMXRVVGN1R2JPbTFoNktKU1RDdzh2Q2RFNlE5aW9zZTFiNDZBQkNuUmd2OElwbWhRLUJRWGJKeEM5WTRKdkJ5VzE5SVpyREhfZWtnbllFbEVQWERPVU1UNjJqZGVRUGt1Q05iOFdOdFZRaENydjBKOXhRUDhVc1Z2RDZtZHRhb3h6cXFxRmk1WG51ZVQtelRxQ1RxOHZKTXdfQzZpNkxF?oc=5",
+      "source": "mining-journal.com",
+      "publishedAt": "2026-08-21T02:15:56+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Global Lithium (ASX:GL1) Secures Key Manna Approvals mining-journal.com"
+    },
+    {
       "id": "a204574714cac356",
       "title": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0M1ZUlfUnBTa0VkVmhpQ2xtRmhib1BRQTc1UnZGS3dqYzR0U0MwMHgtZVFDTHloNlNxcWZ3WmZFdDVOT2hYZGptSmtvSUZGWHA2U3hjcWdocW50c2dRZEs3UXJNRVZ3dDF4TVFBODZJOHlfT0ZROEhaaGIzTzAtZ2tCdlVGcTh4SURkZFM3VlZWd2tLVUR2TURGSUpIVk9GYmFzaGtOSVdLS0RpQkV1RXJnWHhQNzgtc0Mtd3FJdHdZc0FT?oc=5",
@@ -21,6 +61,16 @@
       "category": "markets",
       "official": false,
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
+    },
+    {
+      "id": "818136dbbce8927b",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
+      "source": "thepost.co.nz",
+      "publishedAt": "2026-08-21T01:56:46+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
     },
     {
       "id": "097b8917bd211412",
@@ -41,26 +91,6 @@
       "category": "markets",
       "official": false,
       "description": "James Hardie (ASX:JHX) Shares Edge Up Today – Here’s Why Kalkine"
-    },
-    {
-      "id": "488458a37865ab74",
-      "title": "Peter Warren Automotive (ASX:PWR) Shares Slide Nearly 6% Today – Here’s Why - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0pjUXpLMjF1SE1KcFU3R0dOWkV0SXhUUEF0VXd2QWdKb3FOelVTVGRpWnNESG1UWG9CWVVnOXVBbVBaQW1JV3dOWlBJR3RUR1J3TXdxdkpmVGdPYXJIcHk5Q0szMkdXbXZaR1N4QmVHZzFtU09qVHNoNVV0bnZfYU5sdGs1blFrQmhvLXZmcnNFSk5fOEphdUtPUjdDZzBKcWJsRWQ4aGU?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-21T01:56:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Peter Warren Automotive (ASX:PWR) Shares Slide Nearly 6% Today – Here’s Why Kalkine"
-    },
-    {
-      "id": "105254330be6d85b",
-      "title": "Investors Turn Attention to Javelin Minerals (ASX:JAV) as Coogee Exploration Enters Next Phase - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMkZVaTFJcTJrelZmR3FoLWpPbzBQRTZnT2o1Q2RDV3hxay1ZZ21QUkFiN2I2WXI1eVlhNGVudHV2NkhDbkxuVE9iQmR4ekEzNmN0U2dJVW02R1ZWWk5VVklHY3Z5V2R2eExpWGFXa2FnV3g3WHlQS1VCVU1ieGR6WDBTYXU3MFktSXpyb3pWajg5SFVNZHNvT3BHT09QWTRCdVdjMHZwN1RZX2U2d2JWWW5EdWgyby1rcElTVGRkaElVeG1B?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-21T01:56:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Investors Turn Attention to Javelin Minerals (ASX:JAV) as Coogee Exploration Enters Next Phase Kalkine"
     },
     {
       "id": "38cc98b36d310707",
@@ -113,6 +143,16 @@
       "description": "ASX share’s growth story intact despite supply constraints Morningstar Australia"
     },
     {
+      "id": "d61962bfb9727727",
+      "title": "SCX.ai begins ASX trading after AUD $40 million IPO - CFOtech Australia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVF9sMmRoalU0MWFrUHlvdE9uZ19YcWNfVFdUQ09LUEdmMzB4eWpYM2lRcERoazQyMkpZc2VobEo1UWRwbUpmLWtWTHoxRG1Mbm1YY25rUG5sd3lNYW1PbFpnTnpSNTZ5bk5pV3FoRW5DbGJBM3lDMWcwNmt2NV8zZDdXSHFyZw?oc=5",
+      "source": "CFOtech Australia",
+      "publishedAt": "2026-08-21T01:33:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "SCX.ai begins ASX trading after AUD $40 million IPO CFOtech Australia"
+    },
+    {
       "id": "ba46576f12299ef6",
       "title": "ASX Movers Today: Commonwealth Bank of Australia (ASX:CBA) in focus as volatility after earnings reshapes Dividend Stocks - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaEVDOU5Ob3Rpcm9lWENvWDFrTnlCdm4xTlpaU25xRVJzZ20yelNhaUZzeVRNLUxlZk5pVUNQWEJDX2d4N2tLRWxTTXhIU3Q3XzgyRlhmLXJzcUQ5SzBvTF9YWDlBamg0dE5ybjU5M05zRURUczJ6Ql9KWmUwTlBVX19wUG1CSmtYcnhmaTgtOC1tR3RoRVRZZlBZV3dwTWh1WFFJNHVyUlc5TGhpMU5JV1h4RW5CZEJERDIzdGxxMHhiTFotMmtWNHlxUE5DSDFpeTNBcWN0ZU4wMzU1QVA5Y0k1R1FwYWxBQVRuei14ZW9iN0U?oc=5",
@@ -121,16 +161,6 @@
       "category": "companies",
       "official": false,
       "description": "ASX Movers Today: Commonwealth Bank of Australia (ASX:CBA) in focus as volatility after earnings reshapes Dividend Stocks Kalkine Media"
-    },
-    {
-      "id": "cbcabc9222149820",
-      "title": "American Tungsten (ASX:AT4) fires up Del Sol as US$18m DoE talks begin - Stocks Down Under",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLVFVpNnBuTjNibjRqNUx2ZWdJLVN0dW9xdFdYMnpOOUxpOENTb3psZm53WVA3dlRvX2MtVnFVcHR0bHNlNk9aZVNaUk9XeC1DNk0zeEJjaVNlTTI3amwzOWJ6UjBIY2hIS0poZGRxdFAwdnpPdHpTTnF3?oc=5",
-      "source": "Stocks Down Under",
-      "publishedAt": "2026-08-21T01:18:18+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "American Tungsten (ASX:AT4) fires up Del Sol as US$18m DoE talks begin Stocks Down Under"
     },
     {
       "id": "1276d9d38d2666e6",
@@ -173,16 +203,6 @@
       "description": "Guzman y Gomez (ASX:GYG) Posts Statutory Loss for FY26 After Completing US Exit Kalkine"
     },
     {
-      "id": "c3ffb7a72ca62c27",
-      "title": "ASX Sector Performance Analysis: Materials and Resources Lead as Financials and Consumer Staples Retreat - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ3hGNjMxM1lvNUsyRHk0TFg1eVNuVlEzRThEUndGUEV0YnowQ01MbDJPQXFxNGUxMlVIc2pTZUxHbFRWbm5Zd1ZNQ3ZhaFpMbDJZcnBVa0NzSjhkNHBBWHJTOUQ3R0pnSXZIOEF1RVRnSC1DWjBxSFlfZ19Oa2NoU2RZemlMZ3BrZnc2TTVQTXR1ekNKbjFLUkpmcmE3XzRSTlFYRE5aQ3Z1SDFKb0ljLVpPZ2pEZEtaWUdJaENWMVo4a2VHaXAyOEpLZmdEektjbVFwZUxMbzI?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-20T23:44:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Sector Performance Analysis: Materials and Resources Lead as Financials and Consumer Staples Retreat Kalkine"
-    },
-    {
       "id": "39cc7b94efb3a59f",
       "title": "The Morning Catch-Up: ASX set to open lower as Wall Street sell-off and rising bond yields weigh - Proactive financial news",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcjV2Vm9lLVdJXy1WMWNPUWdHVGhVajBZSWpnT2NGNElxM1JSWEV6WU9mUUZTcm55a0JtX3VpZVZjZ1AyMXhKd2s2LWdWMkZxd1VidjR4QTZ5X3hGQ0dWTE9HLXpUQUtYQjFsb0xEN3hTR0pTZzI5clpqMGI0RXp1LXNjbTh0QjNlcFN1dGNDUlpGdDRrVmowN2ZDeVI5RFZKTGVyaVZBQ0RnZGkxTWdxMjhPVEFaS3lnMC1YS0VWaG4za3VxU0dOWFpmeU5vUjFBc0h3Z0FzVlcyNVJIWUZIY1RVNUJEZHIxYXRiNzhhSXZnVWhMTm1lUTRESFZiQQ?oc=5",
@@ -213,6 +233,16 @@
       "description": "ChartWatch ASX Scans: BHP, Newmont, Evolution Mining, Regis Resources, DPM Metals, James Hardie, JB HI-FI Market Index"
     },
     {
+      "id": "818c146af67de48d",
+      "title": "CITIWARRANTS 11.8538 360 MINI LONG (ASX:360KOE) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUxiclFzdy1BNVNPRzhsM1VpVEwtUUpxRFV1ZUJfZ3dvR09MNXM4Rzh1MmF3WWMycU8xZ1JzZHlkU3hqNmtLRkljNVdYbHJXSVNfUkZvOGp2ekVqUlNROFktQ1R6Um1BODhmWWNUWHJzTlhnZkNrNzBZUkdNaGF5d2NHeU1FcmZfaFY3cHBHWGJXaTN5?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-20T22:56:08+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "CITIWARRANTS 11.8538 360 MINI LONG (ASX:360KOE) intelligentinvestor.com.au"
+    },
+    {
       "id": "c2043ef24a116705",
       "title": "Morning Wrap: ASX 200 to fall, S&P 500 and Dow dip as bond yields rebound, Oil prices hit US$93 - Market Index",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUVMTjNETmdfeE1aUkR6dkZuejY0RVE3UzdqeXljWm5sMEZERVF4VGhOZkh5anpMTndSdmd1clVncjR3RDR3UF9sbG00VUhCN3FOZlc3ZVVfRkszd29HWEdtbnhKVENUNE5yUjhQY1ZHLVphQTVnX0RiWmlqaE5HdEc1MHpCWjJmano2N0xDVC1QdFlxTXFSR1l1SkI4amlJSmJTd3dIRmNBWi0zM0xzcA?oc=5",
@@ -233,24 +263,14 @@
       "description": "Australia's unemployment rate climbs to 4.5% mpamag.com"
     },
     {
-      "id": "f841fc117766bbb8",
-      "title": "CITIWARRANTS 2.1938 GNC MINI LONG (ASX:GNCKOG) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT015SWVDdUhIdUQxZ0Fvb1NXNldNaUpVaWVVYnFPbjlha2JfSEg5bFVMWjMwTkt3RUxlb0RhWXladkFQd0k3X2pSalpWbTFKZkxmckRwM3lzNGdkWmJQcmI1ejVLNkpDSnBhV3VUekJyWTRVaW5YSE9QREVkZi0tUjk1bU5ISFR6SmFCN1BtMERBeVE?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-20T22:08:53+00:00",
-      "category": "markets",
+      "id": "98b01f28f353d8ac",
+      "title": "Australia Stock Market Today 08.21.2026 - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZ3gzR2J4NGFhMU5ManE3OTBWazF6RmcxSUVxRERTR2UtU2RXWGVkVjM1dDJxVk1odlhTcFU1Mm5lV1M2NkRiaFhRd3ZsUG1BYWI4WHVFVExoZHdxOENqRTFZZw?oc=5",
+      "source": "TechStock²",
+      "publishedAt": "2026-08-20T21:44:06+00:00",
+      "category": "companies",
       "official": false,
-      "description": "CITIWARRANTS 2.1938 GNC MINI LONG (ASX:GNCKOG) intelligentinvestor.com.au"
-    },
-    {
-      "id": "b4ebd4b09409d883",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - Herald Sun",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS0I1cXJRd0ZUM1JsZnBqN29nMC1ib0tKTFRobU81MWZxakdQTzduSS15QjdrZEZHMTJaRXoweVVQaXV1UGZTS3NRSjJpaVlTNzBlRU1yLWdSWXdGOS1YY2ZkdnRodXAwM3NhSEVKeXFhOTdMQ3FaX19UN3NaYTgxa1ZfbkZFS2tDd1BXelUzUGFadlpjMWxmclBTWUVXR0JLdF91akhQUWF6V3JLMVVLeE5mbnQ1R1Uxb2l2Vkl4Mk5QSkRiWHByN1NQemJoanp2SlhWOXlWeHM3TzczZGV3X2NrRGh2R2pic0dj?oc=5",
-      "source": "Herald Sun",
-      "publishedAt": "2026-08-20T21:36:05+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens Herald Sun"
+      "description": "Australia Stock Market Today 08.21.2026 TechStock²"
     },
     {
       "id": "1dec036253521037",
@@ -371,16 +391,6 @@
       "category": "economy",
       "official": false,
       "description": "Softer jobs data makes RBA’s next more unclear investordaily.com.au"
-    },
-    {
-      "id": "66ff7edc3e1ad6df",
-      "title": "ASX closes higher; Zip, Super Retail, Codan rip following full-year earnings - Capital Brief",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZTREckx3bkxwYVZVTXZBd2FfZlRQY1U3Y1ZfUmhvYi1IbGlkX04xVHRYOVc2S1NfV0xiSmRuXy00NHd4Q2ZoSkpfOFpBcENIb2VoSUVHejc4LThod3FsQzNueElNV3c2U2NIejZjTGxmUUhPejF6TG9ZakZScVZnUE5mWWtFcXJ2T1FiNDV0QW9hRFlKV29lMFIzRFBaa3Y1VFFMZ1FLZ2VNM3ZIVjR0b2t6bFk2eW5nMUtfNUt2ckJtdmVqX1RCTUx2MXhEUXdlX1B6MWNjTGFvaG1kTUE?oc=5",
-      "source": "Capital Brief",
-      "publishedAt": "2026-08-20T06:44:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "ASX closes higher; Zip, Super Retail, Codan rip following full-year earnings Capital Brief"
     },
     {
       "id": "c898e69b8b8f583a",
@@ -881,16 +891,6 @@
       "category": "economy",
       "official": false,
       "description": "CGT change will increase business investment costs: RBA analysis AFR"
-    },
-    {
-      "id": "a995ab32868e0c4d",
-      "title": "Brookfield lobs $4.1b bid for plumbing giant Reliance Worldwide - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmU4dU8zQVFHUWEwbG9wN0dCNnlZUFlNcWpLdWdjU1c4R3IzWk16ejAwbzE3Vk9hS3F0M2t3YXphSFN1bUQ2Z2syMjc4VWY5Z212MWJYNmJ3QUtYSzBzUV9LcVVDVXpYdkpidXVtT3hvS0Q3aDNuOUxXQ0ltS1lSMFU3YUpRaFZKRFo1MGh5TnVvXzJCa2VKTlhILURjTlJVRWZESkhjOEY1akhWRjBDa1ZBdTI5QVpCN2ZuOUtjTGY0Z285NXc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-18T03:52:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Brookfield lobs $4.1b bid for plumbing giant Reliance Worldwide AFR"
     },
     {
       "id": "5b1f3cf55b52b4fb",
