@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-21T08:52:07.625999+00:00",
+  "generatedAt": "2026-08-21T09:41:02.016284+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "42e9b74d51feeb3e",
+      "title": "Will the ASX chase Nasdaq’s 23-hr trading day? - investordaily.com.au",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1ljeXRaMV9jaG1pRndCazlnRmpmM1RuNGIxY0NkMXMzXzA0Q2p4bEkxMUNJT0J4MWdGbGVSMEctbngyMVVyM0ZqZGc2V25hU240NXdJa0YycWJVbk42aVZhQk0zRC00Rl9oU01VM2FqUFFxMkhaTlFGZm1PRnljbHBJSzc?oc=5",
+      "source": "investordaily.com.au",
+      "publishedAt": "2026-08-21T09:15:14+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Will the ASX chase Nasdaq’s 23-hr trading day? investordaily.com.au"
+    },
     {
       "id": "d01920a8f3e6c12f",
       "title": "BetaShares S&P/ASX Australian Technology ETF (ASX:ATEC) Distribution Rises Sharply as Fund Size Tops $646 Million - Kalkine",
@@ -31,6 +41,16 @@
       "category": "markets",
       "official": false,
       "description": "Alurion Resources (ASX:ALU) Starts Its ASX Journey With Brazilian Gallium in Focus Kalkine"
+    },
+    {
+      "id": "9bd416aa2f4f4f1a",
+      "title": "IPH (ASX:IPH) Faces a FY26 Test as Global IP Services Growth Meets Filing Pressure - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGI5aHNMOGpTN3VNUW1nNUVCelJRUmtlWUZRaFU1VFlmXzJrNHo4cV81VzdIRUV6RkJHbEd2c2FHUGJHWXZfbWdDOXAtenNKS2RaLUdpQkU3aHRvWXR6cG9pdUV1SHpiQWhhOURzU0d6aElrZS1NZkQ3OUo4QlE3YTNialVQQ3g4NzNPbS1TTm1qV2F4T1ZwRFVDZlFXaURZaXRwd2JQWFJRT3lzQTVRWmQ4NU5OUWIxdjlWdmM2YUk?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-21T08:07:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "IPH (ASX:IPH) Faces a FY26 Test as Global IP Services Growth Meets Filing Pressure Kalkine"
     },
     {
       "id": "9c7db8b2fe7c19bf",
@@ -153,14 +173,14 @@
       "description": "ASX Runners of the Week: Genesis, Triton, Pure One & DXN SMH.com.au"
     },
     {
-      "id": "2ff3ec2ca80b3f4c",
-      "title": "6.51 CALL OPTION EXPIRING 20-AUG-2026 (ASX:SDFBQ8) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazU4dnpGek53bmlCU2Z2d09Jbk9hcG9IRTQ1SWpQenhHeVJQTGN4Z1NPMmRzbG43Nkg3VEFwNE9VQ1pIUl9YNkpUT0t3dGNqelhuMi1jWFlTNkVjSm91OHZZS013TW1TNWJvck9uSm5MY0ZVSVhxM1pCRVNZWTA5cjd0cU0xVVhrVXlCY2d4MUFIUXRVbGN2bw?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-21T05:11:28+00:00",
+      "id": "bbb95429199fc1bd",
+      "title": "The secret behind GYG’s 80pc comeback isn’t a secret at all - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzdmTVdVY25YRC1SeDczeHlpamR5c1hlVjNHMDFhLTd0V0w4ZDlReXJVZWxwUE5RQXBKRVMwYXYyWjg2WWpuWGtMdEIzcWxIUXBGTGFERWlKbUFjOXhhN2RzcFd4NWpsaDR0d1ptQjk4Z3ptSm5xbjlDNWJGUngyVDk4MVhkQU9HVUc4Mzh0Y1Z0WGVIcER6Ukh0bWxMT3loeFJER2FTSERWSkE?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-21T05:28:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "6.51 CALL OPTION EXPIRING 20-AUG-2026 (ASX:SDFBQ8) intelligentinvestor.com.au"
+      "description": "The secret behind GYG’s 80pc comeback isn’t a secret at all AFR"
     },
     {
       "id": "63eaa29638c2eecf",
@@ -181,16 +201,6 @@
       "category": "markets",
       "official": false,
       "description": "US bond market turmoil is hitting stocks: What ASX investors need to know Market Index"
-    },
-    {
-      "id": "973c34be34a69ad4",
-      "title": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTh1YTRWdEw1NkJiOVdxUTZtMTVkbmota2g3dWNWLVZsTFBGZUlJcnhZT0R5bWEtZTZsVUZYc1NRTzRzeVZwb29FWU5zdE84N2Z3VGcwM0JqTGZZOE5OMFQyLTdLbTZhLTl0V3pBYllCRm5vS2xGVWZkSTkzeHBmSlJEMFlqSHItbmRKWFRTNVA2TFh1S2dnSFVxT0dEVHMxZ2xEdDBFUjZOdkdpMGx2MkhJQTNwNEdH?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-21T04:05:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch AFR"
     },
     {
       "id": "d0b050f835bcd595",
@@ -233,14 +243,14 @@
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
     },
     {
-      "id": "818136dbbce8927b",
-      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
-      "source": "thepost.co.nz",
+      "id": "7e3e50e06d0627da",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - The Press",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVBremhId1N0djNZZVZlbHk3WjlONWVoR0Y3WUE3UFMtNVRwZjhvekctSU91NmNFbEJiUlRxVUxIQXFSbHVsd01kQkJkQW9mMkVwRUowMmJJU0htaW95MFVqVlJsMm9Jd1VyRS1FamYzMHMyUGlZMS1rYlN3Vzl6dEllQmZFUW0xTVhSUDlmclVIenVOZ21INDFya0o3R0xlLVlaUXN0MXJNTXBJQVl2ckZMemJSbzNMLWltY012VTliUnl4?oc=5",
+      "source": "The Press",
       "publishedAt": "2026-08-21T01:56:46+00:00",
       "category": "companies",
       "official": false,
-      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors The Press"
     },
     {
       "id": "097b8917bd211412",
@@ -361,16 +371,6 @@
       "category": "companies",
       "official": false,
       "description": "Yancoal Australia (ASX:YAL) Shares Reflect Strong Output And Thin Profit simplywall.st"
-    },
-    {
-      "id": "a139379bddf21477",
-      "title": "3 ASX winners and 3 losers, according to brokers - Livewire Markets",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTFValZMTzl4Z3pENHo3VGFWbHVWTjExaXVMRG1lcTAxQW52R21hdEExRXlfSzNxc19leGdsbTFLdU1Tdzl3QzZIR1FycTV0bTgxR1M4UXgzRjI1cFNUdnBMRnJibXVPQ2tMMGFyZ1BxbE95aUItQkpsSTNlX0l0b3pySzRjRm11SXRncUpn?oc=5",
-      "source": "Livewire Markets",
-      "publishedAt": "2026-08-20T20:00:21+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "3 ASX winners and 3 losers, according to brokers Livewire Markets"
     },
     {
       "id": "b01645c0f6daf943",
