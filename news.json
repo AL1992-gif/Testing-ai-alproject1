@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:02:50.241837+00:00",
+  "generatedAt": "2026-08-21T13:11:50.374269+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -123,16 +123,6 @@
       "description": "IPH (ASX:IPH) Faces a FY26 Test as Global IP Services Growth Meets Filing Pressure Kalkine"
     },
     {
-      "id": "5d8b8f8c7ab8948d",
-      "title": "TVL:ASX Announcement - Change of Director's Interest Notice - Michael Jefferies - 21 Aug 2026 - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNak1rUUJvczR6OTlKS1N0el8tTkNTXzVjc2J6LWk4MzRtbThIUXNxZEJzQlRWc1dWSFN1RzcxbGZub1J6NVQ4YUd2eW5IZkZ4NWNFd0UzbzBGdGxwa3VmMG9maE9LVnpGb3RuTTV5Z0FKTGlpWjROUjA5eHlrNWlWQ3VCTDlRN2o2enE2T2lCclJBbnFsN0d6TEhNeUNRZHh2cDdnTWJkUklDckMtQ3h6RXJVZ19RZw?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-21T07:44:43+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "TVL:ASX Announcement - Change of Director's Interest Notice - Michael Jefferies - 21 Aug 2026 Market Index"
-    },
-    {
       "id": "9c7db8b2fe7c19bf",
       "title": "ASX slides as oil prices, mixed earnings bite - News.com.au",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORG0yNUJWcHJMNVMxWVZvOUVtWkFmNVNCRW5VeVZHZFJ3QV9aUW1zOVdab0xXRnlFN0M4RGdHMzlSc3dJLTdsaFQ4aGctaVoxRjBBb0FXeXd0VjI0cDdZTE1LSzh4NTlqcHJUS1k1cjltd2FUS292NHpralM0OGVrTWJ4WE42V1RUbmNZalkwdlY0VGF4alRscHpFX0ZYSlk5RUllblpoMDN1eVdpT0I3b2dWRzFuaWxqUkdhWDl2OWpneG5MSEpBYUhOeTQ0TU1ZTGxUbXFWSExjdEVuS0Z3OFJjLVotRlRZTlZBa3hyLTQxZkwydzdKdE03TTYzUmdCZHZVTXdQWUQ5dmxtZDRwSjJEOExlb3FJWnpocnZ4NUZ6MEVvOXZfMTlTaEc0QdIBswJBVV95cUxNVnVMbkloSmx4eGR6ajBZRzZFV0xGZVZKajNKbGI5ZzFpdWN2R25JMVg1bkxPNHpxRURlUEJYYnZSd1NZVnZQOUhBVVNDaWNGNER2LTZEWHJQZkczdXJoeEdDbFliLXVRYmRMbkF3MS1pdk5INS1QWTF4UWxhWXNra1A0RVlGaDlVRzUybDd6OVo0YmlidmltWXJkWWlOeExRam1fak9PeFZWRkhCeGJVRE1Ka3RQWGtiQWRES3l3bGpYdlI0Y1VOLW9Wek9FVDAyckFWNWdOQ0xDUVlVMGg4dV9XZUIyb04zV1JPWHJaaHp2WHg3LW5BbHBlRUZ0Z1VNOVhucjBLWWpGcVJTelhmejdzNl9aXy1hWVd0RGdNNHJ3SmZQMklTdzNxTmN4Z1JGTjFB?oc=5",
@@ -141,6 +131,16 @@
       "category": "markets",
       "official": false,
       "description": "ASX slides as oil prices, mixed earnings bite News.com.au"
+    },
+    {
+      "id": "187cf41f61232790",
+      "title": "Scott Power: ASX healthcare sector soars as big players show strength - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmo0SFdGWWVxTmxIWXNxaXgtdF9Lc3VZV0YzVlQ1Wk1UY1lLcDZmbFVObFg1RzFaNExrSWdzMEZKU09uVEs3QXpfUUVxSUVXSEltTEtTdDNPT3Z1d2xtRjRleUpIVEhJaWR3WjJGcktkSWJiN0tQLUxrZTJVQ1dfVEdEZ1BqVEx1XzRFZlg0WVZWeUhCVHZiVWVLSC1LbnRnMVU0?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-08-21T07:38:34+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Scott Power: ASX healthcare sector soars as big players show strength Stockhead"
     },
     {
       "id": "713eb0da220d604d",
@@ -273,14 +273,14 @@
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
     },
     {
-      "id": "818136dbbce8927b",
-      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
-      "source": "thepost.co.nz",
+      "id": "7e3e50e06d0627da",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - The Press",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVBremhId1N0djNZZVZlbHk3WjlONWVoR0Y3WUE3UFMtNVRwZjhvekctSU91NmNFbEJiUlRxVUxIQXFSbHVsd01kQkJkQW9mMkVwRUowMmJJU0htaW95MFVqVlJsMm9Jd1VyRS1FamYzMHMyUGlZMS1rYlN3Vzl6dEllQmZFUW0xTVhSUDlmclVIenVOZ21INDFya0o3R0xlLVlaUXN0MXJNTXBJQVl2ckZMemJSbzNMLWltY012VTliUnl4?oc=5",
+      "source": "The Press",
       "publishedAt": "2026-08-21T01:56:46+00:00",
       "category": "companies",
       "official": false,
-      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors The Press"
     },
     {
       "id": "097b8917bd211412",
@@ -451,6 +451,16 @@
       "category": "economy",
       "official": false,
       "description": "Unemployment rises slightly Australian Broker News"
+    },
+    {
+      "id": "e9546b838d29e33b",
+      "title": "Gumtree Australia Markets (ASX:GUM) Gains as Investors Track Digital Marketplace Progress - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1haT1R3cER4cThRanYyRXZaem00SklNMFZpZnBxeEtaRktvWVBRNUhyTlhXVFFBT1lCdUVRLUMwS2tLMzhGdzZHVnFzV19vcWZpSGFYdFdFaDhDUnJVRFExckxCaE5CcExoaGZ2T01yMlJpRmRTMUdvWnBReUsxREJIcWVPLWlsVUQxYm5rNnF2NFFybFF4UWR0ZUd3cDhQb2czeW1mMGlNS0h1TFVqZy1jbUZ4X280b0lpSkV0NEs?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-20T08:08:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Gumtree Australia Markets (ASX:GUM) Gains as Investors Track Digital Marketplace Progress Kalkine"
     },
     {
       "id": "bd863a43b7b7666f",
@@ -751,16 +761,6 @@
       "category": "super",
       "official": false,
       "description": "New pathways to retirement as govt green-lights new class of adviser for super funds Investment Magazine"
-    },
-    {
-      "id": "281688aec656964a",
-      "title": "Australian Foundation Investment (ASX:AFI), What Is Behind The Fresh Attention? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQmpmWFNoSjJUV0IyZ3pVS3ByanFQSmV4M3E3NDM0UVdxeURMOTQ3SGRBTHlLa1lVMXRKVExFM1Q1ZURYQzVMSmgyRDFfamlId0tucVR0WG5yZDdsNXJncUNDRnZrLTNCZXhkQ1A3dE1qa25PVG1OVjFiY2E5OHBpUmYxaHhxeDgzeUNRcUpTdWxYaThCb2JraG5QTDVxOW5ZcFc4QlRlQ29UejZJaVQyTndSckdDZ0FQWEY5Y0V2YWtMb3U5U1BkdWpxNjV1SHVkS3J5bDYzOVpsLUl6ci0xNV94SWhTWE5Rd0RzcU45RDRCekxZYmpINC1oOFHSAYICQVVfeXFMUHRyV2VtV2tTYkpzUHNiTUpfMkw5UDRMeVl2NElwOW9GSG13MW01SXc0REVLa1lhaFRjblRDc25PNVRUN0hvVXNNbnVwTzBDQVR1VVdoVC11ekNWdWp3bmJiS0tQcUpSSjNES2JIVXk5SWppT3NRdlB5ajJtQnhobWlPUXJhbFZvX09sMkRjbldBX19mU3RQa0F4TGpXNVc5UmpHQ3R6YS1qMGZETGs2cmFpZDFVcVk0dFF1ZEtOTV9vMDYtUTlPZnFGWE9qWmI2X3l2dFU3ZTFBNkRsMnlKeW92VkRlVjZyNE9wbTNTUW9KSUZtMkZwOTNNOTNRbm1NeUNR?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-19T06:28:11+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Foundation Investment (ASX:AFI), What Is Behind The Fresh Attention? simplywall.st"
     },
     {
       "id": "329859bde6e7c785",
