@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-21T05:17:18.326061+00:00",
+  "generatedAt": "2026-08-21T05:58:56.369381+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "de8a294e78043667",
+      "title": "Morning Feed: What’s cooking on the ASX? - Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGg5N3Y5MDZGdXlLcFJvTlVXUU9lbDhLZDRDdXlPOFR3WHQ3Mms1X0JBU21rSGI3VXBxV0Y0S1VvU3BlMGZibXlTaWNqZDQ5SzNuVDlVLWUwOWtHNjNXcjcxZS0yelZyS1FMLUxDSlN0LXVScE9feUFjR0F5WUFtRHlETnlfbDNZckt5Q0ZyNGF0Nkk5aG5BNXUxZmJtZElkSmttNEVQN3Ayc1l2Z0lkZ0FzTFdjYnBLb09ueGk1bGpOQjR2VXBYRg?oc=5",
+      "source": "Herald Sun",
+      "publishedAt": "2026-08-21T05:44:58+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Morning Feed: What’s cooking on the ASX? Herald Sun"
+    },
+    {
+      "id": "63eaa29638c2eecf",
+      "title": "What Could Put National Australia Bank (ASX:NAB) on the ASX 20 Radar? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1JaOWNwREZ0WUNGdWFQa3VKMnM3RWJXc1ZvVUZUc21zcWJ6ajdMc2VRUWg2azBaWlM4UG84U2lUVkdHSm84cDRxYS1zaUZFdERVdWpickc2VjYyWjU4UGtDNDlGRXExd1hYSmxQbV8yOGZ0RWZuQUNMLVlLQV9uTkpQLWlPYkF1UVR4ZmpmUmIxT2Iwd19HUTY1c3pMbzV1bC1wems5eVExWjdWT1NB?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-21T05:04:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "What Could Put National Australia Bank (ASX:NAB) on the ASX 20 Radar? Kalkine Media"
+    },
     {
       "id": "7815c5a3a8901de7",
       "title": "FFI Holdings (ASX:FFI) Rises 9% as FY26 Revenue and Underlying Profit Improve - Kalkine",
@@ -13,14 +33,14 @@
       "description": "FFI Holdings (ASX:FFI) Rises 9% as FY26 Revenue and Underlying Profit Improve Kalkine"
     },
     {
-      "id": "8253a2543dd3bcec",
-      "title": "Touch Ventures (ASX:TVL) Rises 9% as Portfolio Value and Capital Allocation Stay in Focus - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWjR5aDlST3JWSk1XSl9TYkRVc1JJejZDUEI2ZXVFR2JuazUtTUtsZUo2STJZdkk1SzRLeHUySXN3NGIxSWJhcHV0bm9pc2VSdU9LLXdpWTlEOXdJaFI2aTBiblNJV0tRRjdXR09RODlVeW9fUGxWVXdTb3R6MVhYNW4ydjgxOEVISDhGc2ZJVU9mTU93X0tBN0YyVXd3VXZOeDhhVFJhN0xnYk9ITkxqM01Va1U3czZBd3Z2WGxIalVFOTFWV1dhVXlB?oc=5",
+      "id": "0116332294209c50",
+      "title": "QuickFee (ASX:QFE) Extends 67% One-Year Gain as Australian Finance Book Expands - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmRURlJtT0hKTnlYX0FMUTRsS0htSjZhck5NS1ltNURTMk1kNUwtZnlSemJKOWoxbnA5TGVaVGZVZ3hsYjdOWWJoUExYemtGZjVWd05ZX2RlZmpIRWxsLVhNTHk0UWo2bU11eHVvUFB0a1lmSUNNajBGZ1pxd1JSMzRRZ3N5bEgzakZlNlVjRFpKY0l5UHVVdUxWQ3JzSlo4NkZaTFZxeWp1VkF2UDZfSFQ0NnI5UHFm?oc=5",
       "source": "Kalkine",
       "publishedAt": "2026-08-21T04:46:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "Touch Ventures (ASX:TVL) Rises 9% as Portfolio Value and Capital Allocation Stay in Focus Kalkine"
+      "description": "QuickFee (ASX:QFE) Extends 67% One-Year Gain as Australian Finance Book Expands Kalkine"
     },
     {
       "id": "2fe2869b9edf479a",
@@ -43,16 +63,6 @@
       "description": "GQG’s Rajiv Jain stuns market by capitulating on anti-tech bet AFR"
     },
     {
-      "id": "de8a294e78043667",
-      "title": "Morning Feed: What’s cooking on the ASX? - Herald Sun",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGg5N3Y5MDZGdXlLcFJvTlVXUU9lbDhLZDRDdXlPOFR3WHQ3Mms1X0JBU21rSGI3VXBxV0Y0S1VvU3BlMGZibXlTaWNqZDQ5SzNuVDlVLWUwOWtHNjNXcjcxZS0yelZyS1FMLUxDSlN0LXVScE9feUFjR0F5WUFtRHlETnlfbDNZckt5Q0ZyNGF0Nkk5aG5BNXUxZmJtZElkSmttNEVQN3Ayc1l2Z0lkZ0FzTFdjYnBLb09ueGk1bGpOQjR2VXBYRg?oc=5",
-      "source": "Herald Sun",
-      "publishedAt": "2026-08-21T04:14:57+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Morning Feed: What’s cooking on the ASX? Herald Sun"
-    },
-    {
       "id": "577e953273b1522c",
       "title": "One Click Group (ASX:1CG) Gains 10% as User Base Passes 265,000 - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFZMbWtWVXZrM0l3am5KUTI1Zm5aeEdlQjY5YTFubjk3Tm9lNXNwZzJqODlCQWFtTUN0emNUQklFalgwVEd4MDR2dlczc1VIMXJPZXJjNVpqTERpT2NRZFRXQUFkU0xsU2VaZzFTOHhsWmY1WGJFVnlaMnViRTVQcElPNW9IbXNWOGNMX0pzWjBJWkc5OXR5N2d6N1V6U2dP?oc=5",
@@ -73,6 +83,16 @@
       "description": "Arrow Minerals (ASX:AMD) Rises 10% as Yarraloola and Niagara Rebuild the Portfolio Kalkine"
     },
     {
+      "id": "d342485b9c94b979",
+      "title": "BlackWall (ASX:BWF) Rebounds 11% as Dividend Profile Faces a Portfolio Reset - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0dRWEJBLUNZYmxSSHZ0X3VKcUloR1Y0bnlWZTVwZERhMG9xNmhNeThCbzVzcXhWMlpfSFkyai1lMUpiSllZVTludFgwSGxGbVN5SXVyT0NkTFFuNW5CMnpzTVlQR1JrMVBtN0F5aGZNZHd4V1lWVHgwS3B0d29OWWxwMGphY29mSk5oNmNTWXRla1VxMXhGdjdSRG50bWFxYk5mRExmaHVyZUMwUVV3TnQ3Zmd0TE0?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-21T03:52:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "BlackWall (ASX:BWF) Rebounds 11% as Dividend Profile Faces a Portfolio Reset Kalkine"
+    },
+    {
       "id": "670b8d8eebcc494e",
       "title": "PWR Holdings (ASX:PWH) Extends 45% One-Year Gain as Earnings Recovery Builds - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjg2SFp6eU5mLTV1QmVRZ2Y2LWsxUTJiRldWV1RZMDVYalUzeHg3d1VPaDNPc1gyUE0tSnBrdXpGeUVyNFhBQ2dxZ0FXbWRxNHNtQVNpNU5yNThuM3JnWlJxT2VBa1Jra2ZwSkprdGlTQl9TN0daTHhTbnNTbmloMWxSRGJ1R1dhQ0RmLURydWJlQkpwdHlxVmRCUWczUFkwVUM0aVBKYzZXTnozaFRYa01oWHgtQzQ?oc=5",
@@ -83,24 +103,14 @@
       "description": "PWR Holdings (ASX:PWH) Extends 45% One-Year Gain as Earnings Recovery Builds Kalkine"
     },
     {
-      "id": "0c4e65473950f9e0",
-      "title": "Neometals (ASX:NMT) Rebounds 13% as Project Portfolio Faces a Commercialisation Test - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWXFFejVMNmd1YXQ1RTNueldvSEZLTVhsa1ZPMkZUV0NsdTdpMGRhSXV0cWdWVS1qbEIybzRiQk1xTnRoQ01CTkRvMnlodThEcGxFVGdfbnNkcFdlWFJNei1UU3M1VWFIQmk1bVduNU1acG9OejBLVFVjSHNTNXRDQVY2ak1sQlRteDFGRlgtZmNjSmRBNUhhclUxdVg0ZHdjblVfUnJsRmNZcjJkTkZnX2d1WmhQYWZ6ZVRKOVVR?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-21T03:52:00+00:00",
+      "id": "faef85551e1912a5",
+      "title": "SCX.ai lands on ASX with growth - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOXE3b0pibjFhY2xhM3F5RlAtS0pxNk9TdHQtbXVQRmpnOTNPZ1QwUDZ1cHFWNkZvMU5mSjVZbDZMQ2diYVpnNVVpVEhONFd6d252NGN0LXNJeFAxME5sdjhiN1dCbS1LSTVoWFdWZ29rSjVWQVhDWlZqX0s3OFZWYlpNeE9GMUFHeUZTdGJnN1poS3F0THp1dXM2RFUwMFpXRTNDVnhabFFvQVFlZmktemhEWXAxaXFIY0xSTE1CNmN5R3llX1RFVEhLVnB4VjRRazhrQkFWUVVybW53TVpzREM1NGlNX0JTOTA2WlVGaEZyeTBiU0l5OUVn0gH_AUFVX3lxTE81VkhHeWRPUG1QSXJwTnR4Qmx6RWRZNUE5bTlpNWEwYWFNNmRscEV2SFhqQUVpRHpmeTdpTkEzekZiR2xDQ3FkYm9iUEpSSTk2MEx6MDkyMU5UMTM0bmtQREN3WFVZWU1PWDN2VG9lRThYZ3MxR1hEakdxM0pyZEgxV0ROUUl2NUR4YWdXUlRpbFBVc2V4YjRfV3d0R3VIT25hY3ktS1ZPMm5WT0tBZW5FN1hISEZEb2hHQ0ZyYlV6eF9WYklScmV6d2lTbTd3SFNjTEZBUzRUSG1hbmp2NGw4dUM5X1p3czFUcnhEZDNqek5SdFBsMU5RZ2RySGp4cw?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-21T03:51:14+00:00",
       "category": "markets",
       "official": false,
-      "description": "Neometals (ASX:NMT) Rebounds 13% as Project Portfolio Faces a Commercialisation Test Kalkine"
-    },
-    {
-      "id": "a746d3f57d474397",
-      "title": "ASX dips as GYG goes red, Regis strikes gold - Herald Sun",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXB4RWU5ZG1PX1BXUDlxbXR6MVVaelhnS3J5bXA5SU54aDNtUWJHTzR1dWF1Z0ZHT0RiVTdMUzktekxUalZrWUgwRFFvY18tWXo1S1RnVGEweEdWNnVOZHlnSHFIVXJfZ1JRTkR6QTIzWHFiMTkzcmhGOFBMbGJ5VFMtSWg4T1hIQ3NKTndOX3pMUWp0RFR4S18wMURveTgyWjRJemZkRFR3VnNVTmdSUDZVaXo5S21yLThZVmZQcXF3TV9tbW1LZmFETTc4NzZBU19UdGllbU1xdkd6b2NDS25KZFFzQzg?oc=5",
-      "source": "Herald Sun",
-      "publishedAt": "2026-08-21T03:51:33+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX dips as GYG goes red, Regis strikes gold Herald Sun"
+      "description": "SCX.ai lands on ASX with growth The Australian"
     },
     {
       "id": "6d8548c6019babd8",
@@ -111,6 +121,16 @@
       "category": "markets",
       "official": false,
       "description": "The investment trends emerging from ASX reporting season moneymag.com.au"
+    },
+    {
+      "id": "6c80c4f83c58a9c1",
+      "title": "ASX dips as GYG goes red, Regis strikes gold - Gold Coast Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFFieHRWR3NjTUJWOU9iOUViVVpvZkJfM2FlWGdEUnhDaDc2YUJ5TkRFT1hKSTNmaG1HYmh2b0FYbFlfZ2tiRzEwTFNUX01hdlo4SUd0RmNoQXkzZkRqdGhNRGpUWjBHNk1nOGh6MDZWbGt5ZWhvWjhfenJtb0NjRC1sZEFoa1c5aGp6TGwxZEtJQmFYWFpybFdvTVpYdllGNmo3NHFxSWhjNHdQbkMyV0xrLU1MUFI5NXd6RTJna1cwZVVmbTd1UDBROHJmT0hhVDdGNXRnN2hNQ25PQ0VSamQzZVZ4S1lNWHJLajE5YWVaQQ?oc=5",
+      "source": "Gold Coast Bulletin",
+      "publishedAt": "2026-08-21T03:36:55+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX dips as GYG goes red, Regis strikes gold Gold Coast Bulletin"
     },
     {
       "id": "d0b050f835bcd595",
@@ -133,6 +153,16 @@
       "description": "Global Lithium (ASX:GL1) Secures Key Manna Approvals Mining News Net"
     },
     {
+      "id": "ef401ffb5f116413",
+      "title": "Jobless rate rise points to softer labour market - CommBank",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlRTZE5mWGpET0RhMFZoRlA2WjFHOHYyaXBwY1JPVlVsTTBjLUFDVFVqcy1BTVR6dlYtWnlWUFpReW1hd2ZDWWgyNkJWcE5VYWRUa081TVgzU2pBeTRPRjE5bVdCU3pxMGJVN1pvTjF2SHk4WWl6dW5zckY3cVJmOXczb3JqMEp6TmdlZkZhdDhWdWNsbjBkQnBjM2FOTERtbWow?oc=5",
+      "source": "CommBank",
+      "publishedAt": "2026-08-21T02:04:46+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Jobless rate rise points to softer labour market CommBank"
+    },
+    {
       "id": "a204574714cac356",
       "title": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0M1ZUlfUnBTa0VkVmhpQ2xtRmhib1BRQTc1UnZGS3dqYzR0U0MwMHgtZVFDTHloNlNxcWZ3WmZFdDVOT2hYZGptSmtvSUZGWHA2U3hjcWdocW50c2dRZEs3UXJNRVZ3dDF4TVFBODZJOHlfT0ZROEhaaGIzTzAtZ2tCdlVGcTh4SURkZFM3VlZWd2tLVUR2TURGSUpIVk9GYmFzaGtOSVdLS0RpQkV1RXJnWHhQNzgtc0Mtd3FJdHdZc0FT?oc=5",
@@ -143,14 +173,14 @@
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
     },
     {
-      "id": "818136dbbce8927b",
-      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
-      "source": "thepost.co.nz",
+      "id": "7e3e50e06d0627da",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - The Press",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVBremhId1N0djNZZVZlbHk3WjlONWVoR0Y3WUE3UFMtNVRwZjhvekctSU91NmNFbEJiUlRxVUxIQXFSbHVsd01kQkJkQW9mMkVwRUowMmJJU0htaW95MFVqVlJsMm9Jd1VyRS1FamYzMHMyUGlZMS1rYlN3Vzl6dEllQmZFUW0xTVhSUDlmclVIenVOZ21INDFya0o3R0xlLVlaUXN0MXJNTXBJQVl2ckZMemJSbzNMLWltY012VTliUnl4?oc=5",
+      "source": "The Press",
       "publishedAt": "2026-08-21T01:56:46+00:00",
       "category": "companies",
       "official": false,
-      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors The Press"
     },
     {
       "id": "097b8917bd211412",
@@ -181,16 +211,6 @@
       "category": "markets",
       "official": false,
       "description": "Latitude, Inghams & Ramelius: 3 ASX Stocks Making Headlines Today Kalkine"
-    },
-    {
-      "id": "82ffa529aece871b",
-      "title": "3 ASX Stocks on Radar Amid Financial Results: ARN Media, NAOS Small Cap Opportunities and Alkane Resources - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWRQZjNsS2htWnhUZmFaTk45YTUtRVZXem1ObDN5LUVSUXdnWXRwRzdJOFZiSW5FU2NTV3cxUWVxQ1NWbDJzUU04OFVSMnRhVlNwUE1nZ3RNMms3a3R4YUNUeGFOTkRFSEJOb19FbkNsTHVYcUZDTWxRMlhJTjZEcWgzWVIzU2dRei0xSWc5Um9SZkk4eWdHUmJGd2hMSzYwQng4Q211RGJ5U2hEY1NoV3VQUUlFTTlsRGkxcVIzWTN5ZzBMNGdFLXZyajJaSW45STJMdS15d1FVdmNVb1E?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-21T01:55:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "3 ASX Stocks on Radar Amid Financial Results: ARN Media, NAOS Small Cap Opportunities and Alkane Resources Kalkine"
     },
     {
       "id": "ba366850a2700e18",
@@ -231,16 +251,6 @@
       "category": "markets",
       "official": false,
       "description": "ASX slides lower on oil, inflation worries; Guzman y Gomez jumps SMH.com.au"
-    },
-    {
-      "id": "ef401ffb5f116413",
-      "title": "Jobless rate rise points to softer labour market - CommBank",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlRTZE5mWGpET0RhMFZoRlA2WjFHOHYyaXBwY1JPVlVsTTBjLUFDVFVqcy1BTVR6dlYtWnlWUFpReW1hd2ZDWWgyNkJWcE5VYWRUa081TVgzU2pBeTRPRjE5bVdCU3pxMGJVN1pvTjF2SHk4WWl6dW5zckY3cVJmOXczb3JqMEp6TmdlZkZhdDhWdWNsbjBkQnBjM2FOTERtbWow?oc=5",
-      "source": "CommBank",
-      "publishedAt": "2026-08-21T00:59:50+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Jobless rate rise points to softer labour market CommBank"
     },
     {
       "id": "39cc7b94efb3a59f",
@@ -301,6 +311,16 @@
       "category": "economy",
       "official": false,
       "description": "Australia's unemployment rate climbs to 4.5% mpamag.com"
+    },
+    {
+      "id": "98b01f28f353d8ac",
+      "title": "Australia Stock Market Today 08.21.2026 - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tZ3gzR2J4NGFhMU5ManE3OTBWazF6RmcxSUVxRERTR2UtU2RXWGVkVjM1dDJxVk1odlhTcFU1Mm5lV1M2NkRiaFhRd3ZsUG1BYWI4WHVFVExoZHdxOENqRTFZZw?oc=5",
+      "source": "TechStock²",
+      "publishedAt": "2026-08-20T21:44:06+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Australia Stock Market Today 08.21.2026 TechStock²"
     },
     {
       "id": "1dec036253521037",
@@ -431,16 +451,6 @@
       "category": "economy",
       "official": false,
       "description": "Rise in unemployment shows jobs market softening slowly Yahoo Finance Australia"
-    },
-    {
-      "id": "d6a3857bae148fb4",
-      "title": "Australian Finance Group posts $49M annual profit - grafa.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1VKRVFXUGRLanZCVkwxdWxHZjdzRHlMTVRkckVEeThIT3JxUHJLbVhxZ25uZVE1RzB1R3dydldIZDVJeGJBTXYtUU80am9aLUk1TWY5cVlURWMweGJGYWFmUFpZRm9YVjRNbXdUU0c3em1NdFVBR1ctaXprbUtVR0k1Nm9qN2NDdWYxbQ?oc=5",
-      "source": "grafa.com",
-      "publishedAt": "2026-08-20T04:16:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Finance Group posts $49M annual profit grafa.com"
     },
     {
       "id": "50e97cba6b302472",
@@ -643,16 +653,6 @@
       "description": "Economists say wage growth is fine. CEOs see a margin squeeze AFR"
     },
     {
-      "id": "45a8fb03faec833e",
-      "title": "Not all animals are equal under Labor’s financial advice shake-up - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcko4ODBWSDRKYi1tWjFPZjUySEdKandIZmRHM2FScy1jZE4wWklfY2Vma3hEU2xobWJzMjhKczJzakFrZXNZN3ZRdXp6X0lnMDgxUEV2eW5zdXJCMU1BN1Q0Mk9IeWhTSHJRNmxzaUhmNDQ0UkEzMHFhZXlsVGwyby1YNTd2OTRSXzlxVl9YNjZpdEVTOGc2ajk0TWx3UzF0dmRLWHJnM3Y3dU1qYWFVMFo3ZGFwT1pCUnNWSlk1Zw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-19T08:10:00+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Not all animals are equal under Labor’s financial advice shake-up AFR"
-    },
-    {
       "id": "aa62f668e754598b",
       "title": "Earnings wrap: ASX heavyweights deliver beats and bombs - The West Australian",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck5mWElLWkl3TDhSamx6cThqSzUwbGY1UE5pZ2dSaUpNMGQ1Uk9vWmFVb042YW4zT3dGd1ktamFMUmxRSlBzSGNLQWR6cG9yaHNyN2didVZuUm14eWhneGlDaUllSzFRclhtYUxReUswc2ZPZUNvbmF5WFE1RVlnNEQtZ3BBcTVNRTdEX1lLclNGSWFIQVFOc3k3SkM1clJlc1l5SHI0TnN2eS1DUkcxeWJBb20?oc=5",
@@ -731,16 +731,6 @@
       "category": "super",
       "official": false,
       "description": "New rules to apply to SMSFs as Mulino overhauls finance sector SMSF Adviser"
-    },
-    {
-      "id": "317f562e66ed3242",
-      "title": "WiseTech raided by competition watchdog, smashing shares - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHBTSDhoeDZxeTZkYnZmVkdpRmZFU0oyNU1fM20yVlkwdXNlX2ZPMUZtd0VOWmtzWHNRSm5GWlc5MWdhbHlYeENvMHIxQjZzeHVXZE05bkt5cVhEVGRILWF1akVaY3NyNnhkT3N2cmEyR2lZbU1JTXVCc3dCX1pmYnoyU0tpb3JfYklpM3FlZ1VPWEt1RXVQUllJb1hZRlNTNzZOS1R6OGZBbzQ5OUVj?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-19T03:50:44+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "WiseTech raided by competition watchdog, smashing shares SMH.com.au"
     },
     {
       "id": "cde0f436b9721f88",
@@ -823,16 +813,6 @@
       "description": "National Australia Bank (ASX:NAB) Shares Reflect Stable EPS And Margin Pressure simplywall.st"
     },
     {
-      "id": "50b82d1037b4aabc",
-      "title": "Australian Clinical Labs (ASX:ACL) Shares Face Thin Dividend Cover Despite Solid Margins - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVEyVU1oSFlUYWFRdWJXZGF4MFVmSmxzRWx6WkY5QTZTdTRueld0dXFCejg5aXl5QW82VXhfajBfY0ZlYk1kQU8zaGllSlJucF9naTZ2QVhkeEFJS0R0TG8zbGN5dHluS2g2RldpcUtXN0c5dFNOUXNJUlR5ZXlrQ0hRWWhMSEZDOS1ENzBNVzNtc3BST25PTkZ2VGF4TmR0SEItMTNKYjZuNHV3NnhpWlg3Nkdfb1lKMEhaNzVWRG45ZWZieXgyWHZZUVA3a3dSVnprNy1xei1mUVZNXzlxOUJB0gHnAUFVX3lxTE5LM091MjNTSWJkYmE5N3VSaEJ3YVJjeDNlNnBKTDBuV3VCeGdQY2R2c2V2VXZnRHdYdDZaOG9FOWpsM1ZOUGV5TTV4WjN4Ukt2bkl4T0QyUmVmTWVtdU11bWxXSVV4LVVTNUI0SEc0eUM0Zk9Sc2VGYzQ2SUFEbEZGUjUzVUt4cVZTMkgwRmwzT0FJYW03aTBxQXlKMkFmNlpoTlFpZU5iZ1JtN3dmWk1XUklLU1g1c1VRNGxCWjA5RnYwbnBCek1QNktfS0JIRTlUdjNFY3NsbUY4SWM5UEQ0eXBNLWZGQQ?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-18T09:49:37+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Clinical Labs (ASX:ACL) Shares Face Thin Dividend Cover Despite Solid Margins simplywall.st"
-    },
-    {
       "id": "59c8d8a36fedb5ed",
       "title": "Australian Foundation Investment Company (ASX:AFI) Shares in Focus as Market Conditions Evolve - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXBkdE1XOWR5elpaUTFGeG9GMFJFZkdFRUlXaUxnbWhkcjYwM1ZoNi1NclRlcU1iV2ZnRl9OVHFXeENZdVBJN0o2dGRtXzUwUGFhaDdvOUFZZ2FRakFmRlRkSVprREZxeDNYUG9lVVd2Tm1MUjA4S1RMaFAtaHpwUS02U092TmJhUFAxQ0hJV3l4enFYeU5oNkhXN3ZpNDhYU1Zndkt5bFdjb1ZOZnNLaElyZVhTbDdQZmRPUGhtTlF6YUVBTzZrYw?oc=5",
@@ -901,6 +881,26 @@
       "category": "housing",
       "official": false,
       "description": "Do the big parties want more affordable housing or not? • Peter Mares insidestory.org.au"
+    },
+    {
+      "id": "6b2a0b05870d74af",
+      "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenhEU05GN0loTmoxTWUxQ0lnMUVDYW5FTEwzQ3hSV0dQdDJYNDRJVGc1dlNDOXhPTkpUTXNJdXhYdzl2WEpPVmp6enR0QnBWQmZ2YUJ3MjhtcmVGeEl4SmplcHJJbndGUEZKTzIyOG5EYUplbkpuaTdpTi03X3NjazhVcVJPamthUE51czdmajJ2SXZ0WkN1c0xUWEFBMGxuVTEyVmgySVBzbVlsdm45Zw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-17T18:41:44+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "What happens if property prices drop 20pc? Ask New Zealand or Canada ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "b5fc7a6fce0241aa",
+      "title": "Migration or superannuation, the spectre of Hanson hangs heavy - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQm5MSWRTTmFOZ2ZHMk9LS1JBbmQtSUcwQ2FsT2xNTUZNY1pGSG9ZMVY0NlNkV1FMalR1ZlZ4bTBBOEhlelR4MlBvVjB4d3FGeTA0T2p6MjI0bWloT1psZG1NZmVqdXowU2lNeFdPazF5c3lfQlA2TC1VT1lGWmk4Nk5JMTJDOUMtc2FVZ0tLaWg0eDZ4ZjhCLXc2LXJocGRtSFExTWFtRFlheGhTeVRObmFGNUQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-17T08:21:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Migration or superannuation, the spectre of Hanson hangs heavy AFR"
     }
   ]
 }
