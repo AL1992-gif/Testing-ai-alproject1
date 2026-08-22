@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:31:26.507389+00:00",
+  "generatedAt": "2026-08-22T14:59:26.277110+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -91,16 +91,6 @@
       "category": "markets",
       "official": false,
       "description": "TCL and TLS shares: 2 ASX shares to watch Rask Media"
-    },
-    {
-      "id": "959d23dc91597be2",
-      "title": "Fortescue (ASX:FMG) Looks Fully Valued After Earnings Dividend And Green Energy Update - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTlmQ2xTWFNZUE9ZTTRCWXBsUHhFbHMyZVNNTGdDVW5IUDR1ZWdBNVlOQmlYWTZZbHVPVFRzaWJQVEdpRFVWVGM0TTlxNGFwU1l0cDFQM1gyaFlQYm9nOXpGSTJTUHVubHk5UjRteFJibVg5d010UC1FQXhlVlVndlpua052cllvWUNsVF9TS1hwSjVJX2M5M3FB?oc=5",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-08-22T02:12:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Fortescue (ASX:FMG) Looks Fully Valued After Earnings Dividend And Green Energy Update Yahoo Finance"
     },
     {
       "id": "042b55793ee2ab45",
@@ -533,6 +523,16 @@
       "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
     },
     {
+      "id": "8a12c4d80405be94",
+      "title": "7 ASX 200 shares with reaffirmed buy ratings this week - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1E3X1I1ZzZXaDFCUXdaQVNOUXZrWWdoY2FYdVk5YU5VaXFobXJ6OUxWVUVZNzI0Q0g5UG8zcFVuU2ZRaGViTE9zaVNTZWtYUDlmaXVScnliUnJMeHQxMjZXR3VuZHFXNHNiZ3ROald3NC1NcGFmZEtWYUtOaDRzZDkwTjVrMTNmOUhtVUxidktVUnJK?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-20T04:49:45+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "7 ASX 200 shares with reaffirmed buy ratings this week The Motley Fool Australia"
+    },
+    {
       "id": "6fa6e5c96da8d985",
       "title": "IDP Education profit plunges as international student caps bite - AFR",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEVnUlhLWlRNbFlxNEVMOG9kYVJkSmdBRmNtX052aEdBbk1JWEE4Tm5meGhJTmpBYV8yZ3A5eGJLeG9BWEF5eFBCdGxNZmQtb3hwazFrZXhhX0RBZHZyUlhoTXE0bnZ3UGNaejZ0bnZKSGZ2dTJfbE1PLXR3ZzFzMkwxMzhFcXFhN2hCVjc3dTRnZXFUbEFMb3ZUYW13V0tPQjU2ZC14UUdWQk1fQ1Zha2xOb2ZMT0ZpanB2ckFFX0FpbXNO?oc=5",
@@ -713,6 +713,16 @@
       "description": "SHAPE Australia (ASX:SHA) Shares Catch Up To A Stronger Margin Story simplywall.st"
     },
     {
+      "id": "a3f4aafe114af7f2",
+      "title": "Inflation keeps proving the RBA wrong: Here’s how to protect yourself - The Courier Mail",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOazVRZExQaFpZVjlCeWpWM05Ddldfd2MyS0dCLVZBZzNnRmQ3Z2hsR2FubnF1OVhVN1lNUkJ3UFQ1UUFYd2V6ZENZc1RuNTktNWozd3Y4ZVRYdUM0c29VQXhOeVpsdTJ1d1FfcHVyQjhTNXJWWG1FR2xQSVJBN2gtcTJGZVRCcGxUc2lZS196c3hLWXJPZnlZeGFNUDZ4bnVQTmtPckdIb09SY3c0bmRJWVhVVUJ0Vl9EVDNrQmVtQkZidVduQzZlb2l6ODZ0T19NUzZEaF81Sk1ZaVcyaXRfSjJvamtHRjJEU0s4MjBnUVlnQjNyZnRXN3NuUXBSd3JfaUlMVmVaanNTaXVNQUxjTVhn?oc=5",
+      "source": "The Courier Mail",
+      "publishedAt": "2026-08-19T19:04:18+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Inflation keeps proving the RBA wrong: Here’s how to protect yourself The Courier Mail"
+    },
+    {
       "id": "91c44460146f5616",
       "title": "Renewal of Bilateral Local Currency Swap Agreement With the People's Bank of China",
       "link": "https://www.rba.gov.au/media-releases/2026/mr-26-21.html",
@@ -891,16 +901,6 @@
       "category": "housing",
       "official": false,
       "description": "Housing market crash spreads to the regions news24.com.au"
-    },
-    {
-      "id": "a66cb8a8a7321992",
-      "title": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzJmb01SR3BzbnhXSEJuTklMOHlvRUdWcW1adkt3SjFmQ1MwbDFCOC1zeWx3Q015VkQxVFl2V1dUSFgyb19pVmZqdDJtT1BWN2Nhd1ZzUTMxXzloR1NDRGE1ZVhMb1ZTNVJvZ3M1OGhzaUpmX09Cdy14elIxY0Jtam9fZW1zYjZ1empDeEZqRzkzMXRONXBfdlNOTy1sZkJxeXVFalhhdVhCY0FiTUZFOUcyZU1fTGdLel9IY1V4S1dqNGFfMC1TUFB5TFZHOWNUa1NKZ2JYdw?oc=5",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T15:00:00+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? The Guardian"
     }
   ]
 }
