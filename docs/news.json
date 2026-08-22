@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:03:06.851977+00:00",
+  "generatedAt": "2026-08-22T07:00:47.154093+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -113,14 +113,24 @@
       "description": "Australian Dollar Short-term Outlook: AUD/USD Breakout Extends to 10-Week Highs FOREX.com"
     },
     {
-      "id": "4307ee32705d02f7",
-      "title": "18.50 CALL OPTION EXPIRING 17-SEP-2026 (ASX:EVNXL7) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1BpTHQzTTBWdWctUnpFN3RzZm1keUZGZ2hmR1M4dDRHanNLNTAtZkdUQUNJM1J0Y080enNyWVQzX2RuVk5KanhuUnUyRnlFenZaSjNQdWFwUFRfYTV6cXVoQzVyR19SdzliTWxGTnRBVkpvdlNrcGJyT1hFcnpYMFU4TDJyMzM5RDkyWE9Nc1lIWDVJQWR5RFdn?oc=5",
+      "id": "8fb9486cec273d2f",
+      "title": "CITIWARRANTS 56.4352 VAS SELF FUND INSTAL (S/L) 06 (ASX:VASSO2) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDNmRFVsVDUtM0JVVDhhWVY2TThaZF9LcFRDV2kxU2NtNE5aM1V6VTJEVk9CMzh5RFM3WnF2Q0g2czd6U2RlbWxRa0QtZ2lQU2ZaZ0p3bWZhRWxFY3A3YXNoSUxzQWZFbjlYYzFiRk1LNUF1WnM2eXU4UDdXcWZOS2x6Qnh6TTRDNHltZ2pfWlljZ2JrdTJ4T0JVblFyRjRxVUxPSS0yZw?oc=5",
       "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-21T17:22:18+00:00",
+      "publishedAt": "2026-08-21T19:01:13+00:00",
       "category": "markets",
       "official": false,
-      "description": "18.50 CALL OPTION EXPIRING 17-SEP-2026 (ASX:EVNXL7) intelligentinvestor.com.au"
+      "description": "CITIWARRANTS 56.4352 VAS SELF FUND INSTAL (S/L) 06 (ASX:VASSO2) intelligentinvestor.com.au"
+    },
+    {
+      "id": "41b13d8cb45e2f62",
+      "title": "1.96 PUT OPTION EXPIRING 18-FEB-2027 (ASX:MGR4H9) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFNVTElvSHRKcU1fQVBjQ3VucmlpWTlvVVRoQ2hYVF9HWkd6RUZhT1ZMX1c5REVvaWI0cEl3OHd2bTFpLVN5U09YNW0xUUdGVEoyT1J1QWJvemZad0dUY3hWZk44Vlo3Q3VxOXNSSG5LejFGVm1rdmwybEdoTlk4UHNmUXgtb0VRQUdTcEp1VktJbVVkbVZN?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-21T18:03:58+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "1.96 PUT OPTION EXPIRING 18-FEB-2027 (ASX:MGR4H9) intelligentinvestor.com.au"
     },
     {
       "id": "1776e6dc98800069",
@@ -143,16 +153,6 @@
       "description": "CITIWARRANTS 4.7409 SCG MINI SHORT (ASX:SCGKOQ) intelligentinvestor.com.au"
     },
     {
-      "id": "bf508eba2ac5de52",
-      "title": "19.50 CALL OPTION EXPIRING 27-AUG-2026 (ASX:EVNBP8) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjFDUkxBUnV5V3JvVXhjQTBWU01mNllYY045dHNxS29UVTQzOG9ubGEzQ00xcVFscHJvZ01vMVhKZGQ4dmtqN0J6LTNFQnpvS0o1MXk1VElNR1R6Ym82WkYzOHBQOUVNZmNUTnVTeFdRTF80SC1tci16N2xOaGRLb1c2em1BQXJRQ1lHakZtQml4RmFyWDBWMEVB?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-21T16:34:50+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "19.50 CALL OPTION EXPIRING 27-AUG-2026 (ASX:EVNBP8) intelligentinvestor.com.au"
-    },
-    {
       "id": "b90ddced391ab62c",
       "title": "Ausbil Active Dividend Income Fund (ASX:DIVI): Portfolio Composition, Returns and Income Profile - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDBEMURFUGgwSEJ2TW5jY203XzRMOE0yTGlPcmlKeXVYeWVHRm5TSy1fdEstUFRFY0d5X25nWXBHdElvcm1MejN5WjNSeDdMSUV5RTdxdkdrRXZFZkVUclh3UW95UjFyMk1GcVhYbEZiam10VXRmTk9ueGs4cElwcG5uSzMxQ1NadGRKUXI1dmZhVTdBSkFaMGEzU3pWVm9aeHZVUTdHa2hvT0g1ZjlDT0V2Q2Y0SEs4VU5DdENhQ3FnaWRmaDRocWNJUnZQbEJP?oc=5",
@@ -171,6 +171,16 @@
       "category": "markets",
       "official": false,
       "description": "Australian Dollar Short-term Outlook: AUD/USD Breakout Extends to 10-Week Highs City Index UK"
+    },
+    {
+      "id": "dff733a56a8d9cd0",
+      "title": "28.50 CALL OPTION EXPIRING 27-AUG-2026 (ASX:NSTDI8) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU1HUThzSXBGNzlqdUFLZ1RkX0NSbUxDRExpODhqWGctRmJLdTVvc3ZzOHRkNi1VZW1aSHJtT0hnUkh4c0ZOYnBWMGFzU2t4NFp1MlNZdlpZSDRIOTc2QkQ0ZmJaXzNtRE1SeElJVDlKUjUycUJWU0JZdU5ickpieVBQNk9hZE40bzZ4Yjhfc1VmM0lUZzdKYjZ3?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-21T15:33:37+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "28.50 CALL OPTION EXPIRING 27-AUG-2026 (ASX:NSTDI8) intelligentinvestor.com.au"
     },
     {
       "id": "f14e4bf07c499279",
@@ -263,16 +273,6 @@
       "description": "Australian Finance Group (ASX:AFG) Shares Recast By 23% ROE And Stronger Margins simplywall.st"
     },
     {
-      "id": "42e9b74d51feeb3e",
-      "title": "Will the ASX chase Nasdaq’s 23-hr trading day? - investordaily.com.au",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1ljeXRaMV9jaG1pRndCazlnRmpmM1RuNGIxY0NkMXMzXzA0Q2p4bEkxMUNJT0J4MWdGbGVSMEctbngyMVVyM0ZqZGc2V25hU240NXdJa0YycWJVbk42aVZhQk0zRC00Rl9oU01VM2FqUFFxMkhaTlFGZm1PRnljbHBJSzc?oc=5",
-      "source": "investordaily.com.au",
-      "publishedAt": "2026-08-21T09:15:14+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Will the ASX chase Nasdaq’s 23-hr trading day? investordaily.com.au"
-    },
-    {
       "id": "faef85551e1912a5",
       "title": "SCX.ai lands on ASX with growth - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOXE3b0pibjFhY2xhM3F5RlAtS0pxNk9TdHQtbXVQRmpnOTNPZ1QwUDZ1cHFWNkZvMU5mSjVZbDZMQ2diYVpnNVVpVEhONFd6d252NGN0LXNJeFAxME5sdjhiN1dCbS1LSTVoWFdWZ29rSjVWQVhDWlZqX0s3OFZWYlpNeE9GMUFHeUZTdGJnN1poS3F0THp1dXM2RFUwMFpXRTNDVnhabFFvQVFlZmktemhEWXAxaXFIY0xSTE1CNmN5R3llX1RFVEhLVnB4VjRRazhrQkFWUVVybW53TVpzREM1NGlNX0JTOTA2WlVGaEZyeTBiU0l5OUVn0gH_AUFVX3lxTE81VkhHeWRPUG1QSXJwTnR4Qmx6RWRZNUE5bTlpNWEwYWFNNmRscEV2SFhqQUVpRHpmeTdpTkEzekZiR2xDQ3FkYm9iUEpSSTk2MEx6MDkyMU5UMTM0bmtQREN3WFVZWU1PWDN2VG9lRThYZ3MxR1hEakdxM0pyZEgxV0ROUUl2NUR4YWdXUlRpbFBVc2V4YjRfV3d0R3VIT25hY3ktS1ZPMm5WT0tBZW5FN1hISEZEb2hHQ0ZyYlV6eF9WYklScmV6d2lTbTd3SFNjTEZBUzRUSG1hbmp2NGw4dUM5X1p3czFUcnhEZDNqek5SdFBsMU5RZ2RySGp4cw?oc=5",
@@ -303,16 +303,6 @@
       "description": "ASX slides as oil prices, mixed earnings bite News.com.au"
     },
     {
-      "id": "e101be0ccde1e8bf",
-      "title": "ASX Small Caps Weekly Form Guide - Stockhead",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56RW9CMHZ1dlFjdWttU3p0QUFOTTMwVUZsYWs4LXdUbk9qY19fZkVvMXl3b2hHaC1mZ0ZYaW1zc1REbEI5RkNhalVaTlBuak5QZGFBU2VzZlJKSzRJLTZXc2lXWktVV2owQTRWVV9sVlFzQ3BGT3Awcg?oc=5",
-      "source": "Stockhead",
-      "publishedAt": "2026-08-21T07:21:08+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Small Caps Weekly Form Guide Stockhead"
-    },
-    {
       "id": "945f6c011b794b3d",
       "title": "Australian Shares Close Down; Guzman y Gomez Fiscal 2026 Underlying Earnings, Revenue Up - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhBRjhKaENMMUVTSkY2YzEyRFpJcUpNYmZzei1mU05iM0NzOGs0cC1qblFtb0w4YmVFSlJWdDRjWFNYUThaRmdGM04yM0NPbGFDdHZNNHVxYWNRRGlYUHNQNkZpWE16WlQ0aWx4OEcwZ1BoeXJWU3YxZ1A4UnhzREZQU01YdG5sMWt2bQ?oc=5",
@@ -321,6 +311,26 @@
       "category": "companies",
       "official": false,
       "description": "Australian Shares Close Down; Guzman y Gomez Fiscal 2026 Underlying Earnings, Revenue Up Yahoo Finance Australia"
+    },
+    {
+      "id": "1b0f3b3a26f85e26",
+      "title": "SCX.ai Lists On ASX As Australia’s First Pure-Play AI Infrastructure Company Following $40 Million IPO - SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVrd2NISG9HOGZjZE15UXBOalVPQjYzazIwR2Nxa2h6UDk1d29mZDVwUldUbGQzZ2E2UFNHTlRGV04ybHJaQllHdXpHcUt4Si1Ka1F3aDV1S3czNDVObUlHbWNGV2N3Yi1rMXFmRlByNGtJa2VEQ0N1cVBGMUg4X3N6R1FGdEtZMGdfOHk3TnlvVUpsRGxEQ0R4OTlnUGtGVGFqUDZ2bVBsVWN1TUNNelpIQlEzb29nYjMwN2o3RWhXRTA?oc=5",
+      "source": "SMBtech",
+      "publishedAt": "2026-08-21T06:08:59+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "SCX.ai Lists On ASX As Australia’s First Pure-Play AI Infrastructure Company Following $40 Million IPO SMBtech"
+    },
+    {
+      "id": "973c34be34a69ad4",
+      "title": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTh1YTRWdEw1NkJiOVdxUTZtMTVkbmota2g3dWNWLVZsTFBGZUlJcnhZT0R5bWEtZTZsVUZYc1NRTzRzeVZwb29FWU5zdE84N2Z3VGcwM0JqTGZZOE5OMFQyLTdLbTZhLTl0V3pBYllCRm5vS2xGVWZkSTkzeHBmSlJEMFlqSHItbmRKWFRTNVA2TFh1S2dnSFVxT0dEVHMxZ2xEdDBFUjZOdkdpMGx2MkhJQTNwNEdH?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-21T04:05:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch AFR"
     },
     {
       "id": "ef401ffb5f116413",
@@ -401,16 +411,6 @@
       "category": "housing",
       "official": false,
       "description": "'Impact across the board': Australia's housing downturn enters a new phase SBS"
-    },
-    {
-      "id": "782191c7818095e1",
-      "title": "3 ASX Stocks That May Be Undervalued In August 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2lJNkNWdHVTaVN6dkc1N2haNlVSTG5RUGxBVHJBWExHZTQzRzF2ZHU0ODN6a0EwMlRwZk91b1BrNzZ0MG94R19zR3JxcE1TdzBJazE0ei1ldVo3YlBudERvTVZFNzVvV2ZhZVVKTnJDYnY1YWl4YjFMT2FXSjBmQ2F6Q2pocC1wWHJVZk5vdXZObm81d1JNT2xhSXpZejVYdmRKTkpNbmlYZ0M2LXhLM1U4MFN0dk52NlBNVVVXMXBjcTVXUTd2TUVmM05Dd9IB0wFBVV95cUxNeGdmeksyNHlaa3FqQTEwWllYWVJYU3JxZUJtdWxEdXNaaTd4N0hjUnRmZTZFZFBRdWs1Y252M2JKN290aDJuV09Ccm1NMGFOVkZ6ay1PNGQxMmEwOUE5eHBHSUFpaWtjTjVUeVFYbFI2V2pURW9OSEhLX29vdGhXeGktaWcyakNVLXp5U3hHNl90bnRtSE8xY3VDOENzQ1N1ckh1WFVQdDVRSE5IajZjNDF3NTl0N2d3Y095Mnh2VlU1Y2JCcURhREJpU2xiQ3g0NVM0?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-20T19:23:17+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "3 ASX Stocks That May Be Undervalued In August 2026 simplywall.st"
     },
     {
       "id": "0696ec2b19803ffa",
