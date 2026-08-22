@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-22T21:37:01.323469+00:00",
+  "generatedAt": "2026-08-22T21:58:25.617086+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "dcf585a15d0c6f10",
+      "title": "Lifestyle Communities (ASX:LIC) Outlook: Sales Recovery and Debt Reduction Set Up a Measured FY27 - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGZNWlVtMlhDbDJvZTdwQ2ppSTNYTmxlY0dkbERrdjMxRndhdFVycjFhdUpMRldlLUFISTlpVDRVejl2eUJDcmtOaFpheFJEUnN5QkRwbUJJamZrRHNsQVlrZHotem9Zc0lmbFFlcWpqOWZQN2puX1hRWWp1MVRqRTNHM3hycEZPRlV5S3ZFYzQ2SXFWeWhkODl2X2RHR0RKM0kydWNiMzVKQ0tDelB3b05MYWtaSE9fcXVDUWVLRDQ0d3NGdXVKOTdFWjVPdw?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-22T21:40:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Lifestyle Communities (ASX:LIC) Outlook: Sales Recovery and Debt Reduction Set Up a Measured FY27 Kalkine"
+    },
     {
       "id": "1dabb2d7ec9e3aac",
       "title": "Top brokers name 3 ASX shares to buy next week 23 August 2026 - The Motley Fool Australia",
@@ -173,24 +183,14 @@
       "description": "Racura Oncology (ASX:RAC): How Much Clinical Progress Is Reflected in the Valuation? Kalkine"
     },
     {
-      "id": "fcdea9644d7f6189",
-      "title": "6.75 CALL OPTION EXPIRING 10-SEP-2026 (ASX:RRL9O8) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHlhaE05SWVpRHVMR3REZ010LU1NaWlUX2l1bHZoQUxUVlljZTVXdVdtQW9yNEcxdVRQcWdFem9QVEJ1ZVNuZ2RtS3RvWDJWSW13U2N4SUpaZG1oOWlaNkxjZ3poSm9JTmt2ZDdYMnNtTzVxZ0E2OUFha1djc1dSaklVdjRnS2FhUFRNbDNoZlhIZDh1ZHZ1eA?oc=5",
+      "id": "6958149c5c48868d",
+      "title": "9.50 PUT OPTION EXPIRING 18-FEB-2027 (ASX:RRL8D8) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb2NkOWo1S25Ya2hvOXE1d2d0VkVtQ1VxeE1BRGR4alRmaVlKMmFvOE44UFptWTdVMW1tU1M0eHZwblpEdWl0VFR2TWhhcUZSUjFwVjdrNkRzRzEtdmU1VFYxUnJjeE13WUdTSHlxdk5mVDhTZmJ1Ykl2VjhLMGlQVDRmeG9QSEVHd1VsQ2FLLWNDQW95MElr?oc=5",
       "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-22T10:34:58+00:00",
+      "publishedAt": "2026-08-22T09:40:22+00:00",
       "category": "markets",
       "official": false,
-      "description": "6.75 CALL OPTION EXPIRING 10-SEP-2026 (ASX:RRL9O8) intelligentinvestor.com.au"
-    },
-    {
-      "id": "fbaf018a558bca97",
-      "title": "9.26 PUT OPTION EXPIRING 27-AUG-2026 (ASX:RRL998) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0ltcnRjLXF5ck1DNzU5ZG5pT2cxWUt3Y1dPbkNGR0RKN0Jod0NoXzV6TU15d21KdG1ld1dfQUN0bEJwcEN5aHo2SWJtd0RQN3duWkt1ZS1EQ3BUdUpwRlVmaWc0NWhnYXl2NlVLR1VRRk5jbUlTT1ZzcFlrRVBKQWZJdnNzYklNOGl3ci1INnZOLTg2cmt3?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-22T10:27:15+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "9.26 PUT OPTION EXPIRING 27-AUG-2026 (ASX:RRL998) intelligentinvestor.com.au"
+      "description": "9.50 PUT OPTION EXPIRING 18-FEB-2027 (ASX:RRL8D8) intelligentinvestor.com.au"
     },
     {
       "id": "9f84c2711db6a5bb",
@@ -653,6 +653,16 @@
       "description": "Australia’s Unemployment Rate jumps to 4.5% in July, vs 4.4% expected FXStreet"
     },
     {
+      "id": "20fd0fe3ee744543",
+      "title": "Phil retired overseas and took his super with him. You could, too - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDRPOFpjX3U0ZHhENUdGTHZRbncxS2VQNE5JYkRwdFlGQ3BXcmFPSkNQb3RxZFFqelp5LXFwdGw5WW5aWWhvS18yV3dzcWFkQWx6RWVKZ19FQUJxSDR4cmpOazF2SDYzZVpURThwTDdLLXR2a1pMZFZqa0tBZEpNS1dBYlQzLURzN2xwSWJMNGNwV1V3UmxOZXhHb3pRc1dhUEF2MU9zYmZrQmxMV0VyazhwajhfRUR3eDlMSi1B?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-20T01:11:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Phil retired overseas and took his super with him. You could, too AFR"
+    },
+    {
       "id": "90af4f70c18011e1",
       "title": "Rate hike relief as jobs market cools - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORU9QX2RfckdkaWFDd29CT1hjQllCYWp3MEtCaDVFbExhMVlmVDNLbzNaZk1hSlJNQTV4Yl85bU5WVjlMb2IzR0t3NU4zZHJNbUZkSnkzQldpaW1qVGFVUHZWS1JROTV4aDBGemYxc1loX3B3aEZzdmw4MHAwWGYyd092N2NELXZvMkxIXzJ5M0ZfLWs3UGVydnB6ckprMTd0bmlhREZxZXJPRVlZSkV2cmtSWlgycFBxMVIxS1VtYk1kTUF5eXZYVUFQdVJPRV8xeXhqM0pKWldBQVpvSzZkYjVtMWpTT3R6Nlk3Ym1aenJiVHMtYlpsaUxkUTHSAYICQVVfeXFMTWpNeU1JOFFjU28tbjZfZXhydzlBSHphdEZ1eDVJUktsRHR6TTBhbDc0RDVjeTZ4Nm85VkNBMmFWaEtWdWxHNm8ybUphakJjQWt0WjBRTENQMEItQnl1OFZGOXF5YVdUak9aMUlZeXlmQjBpLVU5OXBwUDlIQndRcDlmQ2doVHo1a0FBVnFxQVNQMGtkVUt3amk5bGdRdDZWNUZ2N3lKN3JvM3p5anRuczVCX21fOWFRN1R1TlRIdEdCRUgwdzlRcmUwbzhzLWpCXzNtVnRIYjgyV3ZPYkxxRUJ6MGlfU1NGY0JHMkNZYWhPa3loYlFGNlVCTFBTZ0Njd1Bn?oc=5",
@@ -721,16 +731,6 @@
       "category": "housing",
       "official": false,
       "description": "Critics of Labor’s tax changes claim rents could climb by up to 30%. Here’s why they probably won’t The Guardian"
-    },
-    {
-      "id": "55b0a4fc497d5c46",
-      "title": "Can you access your super early? Australia's rules and exceptions explained - SBS",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjhZR0pCWUxwVVNBZVMxWnFWY3RjWlppWVVRa2NBUjhsZlR2V1Bsdmx3VmlEV0xxUVFNay1VcjBpelNpenpacGFrcEFfQzhJanVra3FyVUl4OU5kTmV4bnVkV1JhMUZEdWJjd2pTbVFqTlhtcHJkdFhDYm1jajI5VHJ4ZlhWZ3Y1MDBqUW5yRXAtUzlDUklXMl9zNUxHWDUxZ1AtWFNFZ3ZjZk5fYWJlZmNR?oc=5",
-      "source": "SBS",
-      "publishedAt": "2026-08-19T20:32:12+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Can you access your super early? Australia's rules and exceptions explained SBS"
     },
     {
       "id": "91c44460146f5616",
