@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:42:17.280409+00:00",
+  "generatedAt": "2026-08-23T11:02:36.215377+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -8,7 +8,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYjRkZTlJRDk3ZFdMMlo0YkRERUpURmVTUkM4b3gyWHVrXzNPRlJaMnZ1c0pBd1dXYTBKdXZ5a21GUmFTY0dCZkp4NFRkZjNPOUx2MTQzZVhpN3RvRzBxcnB5bkpKVmgtaGVON3lKQXo1LXZPTVhCMlI1eWxhdGRUTmlyUF9oSEZyWlQtemxLQnpWMGdhRGJUVC0wbjQ2X09pdWUtamUzZWNKUzY1aHpELXR4eHhoUlJ5VlRwOVktc1k3VWYxLVhyQ0V4ZFpmSHFjSVI4cHItZkNpd21iZW5OUlptc1ViR01keVVkdDVobE1LSVB4UWxv0gH8AUFVX3lxTE1VM09PUElJNzFybXpDYTkwOVphb2ljM3JNVUM3Skg3bURVSHltdl83R3VDLS1KMk9jWkRDb0hZYlFwc3JnWTVUNEdINTUtaE4tM1VYQmVqaWRqMFBsamRUSURUQXlEVC1qUE0zdjZBc2RybDhieDA5ekNSQ09XSnZZR0pxS1BLTnVTekVZa0I0akhNSmNBSGYxQ0hHc2hHS2FkT1BjZmUxZHJ6Rl85Z1R6RDBMVDhwdjlVWmtmd1JDVUI4Nm5DWUg0NnFpVW5qZEptc2xOcEZiQ3ZpcEh3YklzblZ1OHN6NjhQYzFUMDVoZnh0SnRSdmJrYjZ6Mw?oc=5",
       "source": "simplywall.st",
       "publishedAt": "2026-08-23T10:25:07+00:00",
-      "category": "companies",
+      "category": "markets",
       "official": false,
       "description": "Australian United Investment (ASX:AUI) Looks Cheap As FY2026 Earnings Put Valuation Back In Focus simplywall.st"
     },
@@ -201,16 +201,6 @@
       "category": "markets",
       "official": false,
       "description": "Universal Store Holdings (ASX:UNI) Outlook: Perfect Stranger Expansion Leads FY27 Growth Plans Kalkine"
-    },
-    {
-      "id": "dcf585a15d0c6f10",
-      "title": "Lifestyle Communities (ASX:LIC) Outlook: Sales Recovery and Debt Reduction Set Up a Measured FY27 - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGZNWlVtMlhDbDJvZTdwQ2ppSTNYTmxlY0dkbERrdjMxRndhdFVycjFhdUpMRldlLUFISTlpVDRVejl2eUJDcmtOaFpheFJEUnN5QkRwbUJJamZrRHNsQVlrZHotem9Zc0lmbFFlcWpqOWZQN2puX1hRWWp1MVRqRTNHM3hycEZPRlV5S3ZFYzQ2SXFWeWhkODl2X2RHR0RKM0kydWNiMzVKQ0tDelB3b05MYWtaSE9fcXVDUWVLRDQ0d3NGdXVKOTdFWjVPdw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-22T21:40:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Lifestyle Communities (ASX:LIC) Outlook: Sales Recovery and Debt Reduction Set Up a Measured FY27 Kalkine"
     },
     {
       "id": "83ad3cfad0ae537a",
@@ -453,14 +443,14 @@
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
     },
     {
-      "id": "818136dbbce8927b",
-      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
+      "id": "80df75354efd4054",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - The Dominion Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
-      "source": "thepost.co.nz",
+      "source": "The Dominion Post",
       "publishedAt": "2026-08-21T01:56:46+00:00",
       "category": "companies",
       "official": false,
-      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors The Dominion Post"
     },
     {
       "id": "d61962bfb9727727",
@@ -613,14 +603,14 @@
       "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
     },
     {
-      "id": "50e97cba6b302472",
-      "title": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent - Glam Adelaide",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVFRWVBENW1YbHdzMTZaSnltSjRvS2dId0NES1YybncwOUo4RVZEMURGcDFSWk9DUWdQZ3pFUHVHcGQ0bXltaGVIWXZpQk5ReXZ2bWhwRnAwd0RLSHktRk5KVXFEbUhmMzZKSUJiNHRDVXlsd0ZKZWxVRkpMcTVLMFh4Q3JZY0NuMW9xNF82NkVLTjlIWjk2bW52bkhkRlJ1RGVINTAzZkRSekxvQnlfQm8xV1NlZw?oc=5",
-      "source": "Glam Adelaide",
-      "publishedAt": "2026-08-20T03:36:26+00:00",
+      "id": "c898e69b8b8f583a",
+      "title": "Rise in unemployment shows jobs market softening slowly - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUnBxZ2h4Z1NJdjdCWXJqSEZwU0VWaTl2MXktNFVoa0wtM3FSWDc0dXJqZXVMZDhkM1BWelNOSkdzRkpTeEF6ckJGMmxWWGZVSXJCZjVJaGNEeFMyUWlYeFh6Smxya090Xy1jT2pkbzY3R1F0eDJkTzAzWVMxNUxNQWpNbnBGVnFVUkE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-08-20T05:05:00+00:00",
       "category": "economy",
       "official": false,
-      "description": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent Glam Adelaide"
+      "description": "Rise in unemployment shows jobs market softening slowly Yahoo Finance Australia"
     },
     {
       "id": "b5946849171450bd",
@@ -651,16 +641,6 @@
       "category": "economy",
       "official": false,
       "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "97a49f480b8e0749",
-      "title": "Rate hike relief as jobs market cools - Toowoomba Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeFVDem0zamJqX21wd2Y1cm56MHRLWktyaERXNDVEVVJsbW0zQV9wYlhkUEYyazZyMkpudFdXZmF4VHhwanNXNlM2dm43REdWdTduckxZbjhEUE5DVWtjYTVvcGdqdHFTd0F4WFlCVEdTSEJfU0N2eFhrRHJ4NTRlRW1pVVViTWg0TmhQVEVtSnFMYVNWT25iMjlqVG1SdGZMMWM0cEhzc3dSdWd6VVBhVkVBVVVyVVk3VEVmdXMyckJqOVFHYUxyUVlZX1Y0UVJCa0J3ZUNXOF9NLVJLdmFkTXdCWUF3QmNudmRldm9xRm5CZ1lMVVVNRHllV29DWW9PWWx30gGIAkFVX3lxTFA0cjBhUm1iMENHQWZQb3g5ZTRpY2RmTnRtcHE1S3lxeVoySlVENUdUbGI1NTlBd2Z6amZGZXRubjdHdVhrVFpiYmVkemNsd3NqNUlKZTh1b1dwUlNsY2ZMRjFNTHdXSENiZnphcGhtSUZkYkFyR0tjbTBJNVJJUjNlbXhJUGxQSmtMX21iZ1JQdWpZNVR5cndUQTdOYXAzSXRsZVUyZFNvMkpTVUtCRlZEd0xMSzdfSFZhTlVXSWIyS05ZUlhlV2F1V0VQUldlc3RnXzhwNkNmRS12SHZsTFVZSHhLZ2VWSDRTRGo1VjJlTHNwbHVlcHo0cjhhRzlDb19qZUZxdjR6YQ?oc=5",
-      "source": "Toowoomba Chronicle",
-      "publishedAt": "2026-08-20T01:37:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Rate hike relief as jobs market cools Toowoomba Chronicle"
     },
     {
       "id": "9ab468bbe8f4d71e",
@@ -901,6 +881,26 @@
       "category": "housing",
       "official": false,
       "description": "Housing market crash spreads to the regions news24.com.au"
+    },
+    {
+      "id": "a66cb8a8a7321992",
+      "title": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzJmb01SR3BzbnhXSEJuTklMOHlvRUdWcW1adkt3SjFmQ1MwbDFCOC1zeWx3Q015VkQxVFl2V1dUSFgyb19pVmZqdDJtT1BWN2Nhd1ZzUTMxXzloR1NDRGE1ZVhMb1ZTNVJvZ3M1OGhzaUpmX09Cdy14elIxY0Jtam9fZW1zYjZ1empDeEZqRzkzMXRONXBfdlNOTy1sZkJxeXVFalhhdVhCY0FiTUZFOUcyZU1fTGdLel9IY1V4S1dqNGFfMC1TUFB5TFZHOWNUa1NKZ2JYdw?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-18T15:00:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? The Guardian"
+    },
+    {
+      "id": "1368fcf683519917",
+      "title": "'It was devastating': Superannuation lost to dodgy switching schemes - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTRjbFZWOFpaMU9ldWxqMUVWUC1oRFh3ek9xVmdBRkNLeEdtMkwwaVQwV2lrMDg4NDl4ZEpWdGJBY1pPdEFRdEJHS3VFQXB2T3p6OW0wR0FBdHBjcGR5bEY5Zk54UzlIblZrY3VPYmJsa1pKSURXWkEwVnpCY3V1VEl3NDdXSXY3U0tNWF9aT3VrLUlVZDFycUFMTHk5Q2t6UUtCSjRPbXlDdF9oWWJCUlNyOA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-18T14:18:41+00:00",
+      "category": "super",
+      "official": false,
+      "description": "'It was devastating': Superannuation lost to dodgy switching schemes ABC News & Headlines – Australian Broadcasting Corporation"
     }
   ]
 }
