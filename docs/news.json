@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-23T18:40:48.241460+00:00",
+  "generatedAt": "2026-08-23T19:05:30.864894+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "1e80b58f1a7a000d",
+      "title": "ACTU fights the Reserve Bank and laws of economics again - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVp3ZHU2dWV2TnZPY1ZLNG5TTVM4a1ZOeURWc0JTWExsOFlSMmlkc0hXbXFXOW5NMG5wSlNNMGp6THc4dlNYQjI2RnZsZnhPS1paSWpVajh5bXozdUtxankzcURoVHBoZXpwcXNfZzlPZWw4YXVHc1VueFg5Smh3Q01QRHE2Mmt1YlpjM3hQc3NheGxIRVBHWEs1QUVrZUxlbnZmekd6V2NUTTQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-23T19:00:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "ACTU fights the Reserve Bank and laws of economics again AFR"
+    },
     {
       "id": "41a89f65593ab52a",
       "title": "Genesis Minerals (ASX:GMD) Shares Climbed, What Is Driving Attention Now? - simplywall.st",
@@ -188,7 +198,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHdzaFBhRGNJWlM3dDVua1NvLTZwS1NTZUFYSTZiTTU0cFY1QmFOalhTbVJ3X1Q2bE9fY1BIaFNfNnVNR3Bnbmc4d2JSQ2k3MXA4bl9MdkdoQnZ5SDNDVDVXZHMyM2lBdTR3MVpoaHRTTU9WSHVuYkdXWENlLTNXZVk1RFZlSm8zNnUwbGdUMkVVeUFtb21xSEZVUkZNS2I5dGdaUEI5a2tydFNqU1hXaU82T2Y1Zl9aSlJwRTJWR1J3dkVWVHJZNWlmU1F5QUtHSHcwTmdxTUV1cHlkVEVOTmtWWdIB6AFBVV95cUxNeGkzcnhxYWJjM3BtaEpXUFJ4a2RaMF9uTDJSU3Flam5GTzVKUklueXpPYVRZSW50S3Z4R0otUExacWhXblBVTmdRellIb3hjeG92YVhIaHN6ZVJIc19SREZkMjl6Z2pZME9ZeEdzR1RGYV9VaHFuNWgxMjUtR3lqZGhXaHlQMTdTa0dSZ1BjQWpWYjNLT2Jna183UVpwemlwM2tsRGhaQzdrVjlFS3RHeE81VTFSWjJ1VnFjYnFQMHk4RHd5ZmMxWkhkQXY2dlFBQ1VvMDl1SUYxSU5hX2JVX3BWejROLU1W?oc=5",
       "source": "simplywall.st",
       "publishedAt": "2026-08-23T04:39:37+00:00",
-      "category": "markets",
+      "category": "companies",
       "official": false,
       "description": "Energy Resources Of Australia (ASX:ERA) Shares Confront Deepening Losses And Negative Equity simplywall.st"
     },
@@ -243,9 +253,9 @@
       "description": "Super Retail Group (ASX:SUL) Outlook: FY27 Trading Momentum Builds as Project Ignite Continues Kalkine"
     },
     {
-      "id": "da5e9efba1d11292",
+      "id": "d9bf083d16db804f",
       "title": "‘Resilience’: Economy avoids dip despite threats - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPblRBaFhFWGJxR0psbHI0czlBYmdHWGZ0R2M5TWg1dHlYdDY3cjVpakhiNFNRdzVjSl92RmtKbnZkNE9vcjlfLUdnUkV5M3ZvRVBMS3NscFRJc3EwRHNJWGpodDFuNmZzSjVPeV9RTFlYcTNpbjdhVE8wUndOODJxdGJXRnpIMThEQXhwUk43NVdCUVVCcURqUkh5RS02ZEdmbVlic2V2YkYyc1p5YzU3YXZHMEFnVi14eVZOSDBTX0xONjF2b1hpczdnNlZKV1ZjMXAwQlZmdkJYb2I1UVdLdkluX3lJNmRVcXF3eS1fcTYwdXhkUUlRN2N5Q2pkMlhFNE5NOWtreldVUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPblRBaFhFWGJxR0psbHI0czlBYmdHWGZ0R2M5TWg1dHlYdDY3cjVpakhiNFNRdzVjSl92RmtKbnZkNE9vcjlfLUdnUkV5M3ZvRVBMS3NscFRJc3EwRHNJWGpodDFuNmZzSjVPeV9RTFlYcTNpbjdhVE8wUndOODJxdGJXRnpIMThEQXhwUk43NVdCUVVCcURqUkh5RS02ZEdmbVlic2V2YkYyc1p5YzU3YXZHMEFnVi14eVZOSDBTX0xONjF2b1hpczdnNlZKV1ZjMXAwQlZmdkJYb2I1UVdLdkluX3lJNmRVcXF3eS1fcTYwdXhkUUlRN2N5Q2pkMlhFNE5NOWtreldVUdIBjwJBVV95cUxOcWVlRmZSXzEwTmhIUGxPRU94TGlIb0tnRWxQXy1NNmM5dDl6N1JucEJULXpqVDhSVnF0cjZjUFIxeDlyeVlpOWRUODJNYXIyVDUxZV9pbi1LaWU3QUhwWUZHZm1mS3hRZndjbDY1cm5WRXg4ODZWYXlaSk9DZjlmbzV2Qkg1VFAzTmVCUWRRUXJkMTFXMGc4R3laQWNnMmVGb0hVSTBSR0lhWmItRmlOdTdVOEJyVHJLMTdrZHh5QlJrbHhQSlF5WUZGZGNqd3FiMTZ6LUR0djZoQzlySGY0LVFyekk3N1VZT2szYkd1S3ZqZ1l6enA4ODNmVFlGUWhkTC1jVTNRcERORGllVmUw?oc=5",
       "source": "News.com.au",
       "publishedAt": "2026-08-23T00:10:23+00:00",
       "category": "economy",
@@ -413,6 +423,16 @@
       "description": "SCX.ai Lists On ASX As Australia’s First Pure-Play AI Infrastructure Company Following $40 Million IPO SMBtech"
     },
     {
+      "id": "973c34be34a69ad4",
+      "title": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTh1YTRWdEw1NkJiOVdxUTZtMTVkbmota2g3dWNWLVZsTFBGZUlJcnhZT0R5bWEtZTZsVUZYc1NRTzRzeVZwb29FWU5zdE84N2Z3VGcwM0JqTGZZOE5OMFQyLTdLbTZhLTl0V3pBYllCRm5vS2xGVWZkSTkzeHBmSlJEMFlqSHItbmRKWFRTNVA2TFh1S2dnSFVxT0dEVHMxZ2xEdDBFUjZOdkdpMGx2MkhJQTNwNEdH?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-21T04:05:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "AI upstart SCX drops 30pc on ASX debut despite energy efficiency pitch AFR"
+    },
+    {
       "id": "393327c9fd4a0ceb",
       "title": "Poultry-geist! Inghams says $130m in costs will push up chicken prices - AFR",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJaNENwSmRTcXltZlFlTDhyM1hmOHB3WkFxWlR1a0FHQklxeTMwcDRkemtUVVNKM0hkNUptOURDN1JCTE5CX3dPVkh1TVVpVy1XOEM4NzQtQXliLWlGNjE4UnprTXhEYnFiVzZJU3lnX3locS16T0g0NnBnaTNGa1FJRkJYYUlJZHRsMUV2MmdDWGhHWWdlRTIybmlzMkptOVE2Z2dPSjBLWFAxM1pMVnV3TFY0VWJLQV94eXc5UTM4Rks3?oc=5",
@@ -471,16 +491,6 @@
       "category": "companies",
       "official": false,
       "description": "SCX.ai begins ASX trading after AUD $40 million IPO CFOtech Australia"
-    },
-    {
-      "id": "6d84c8e1cc1cd247",
-      "title": "What Aussies are happy to pay for - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORGU5RjJzd2ZOWFd3Q2dKYXRyczZXY1NBb21PVDlibnVWZGkwcDk4T0k2Um5qeUYxT3k1X1dKQnJORGtwN05MTmMxWXpZa1p5ZFBCc1ZKN3hXQ2dHVEJFM3NUcENXc21aUlc5VUw5OVc1aW93RHAyNWQ5ZEJJaG9jNkVNMVJ2MWY2RVRBNUtvSnd2NXkyWGt1SzNfaDlaVGJ6TGg4NlhxVzRpX3Zzc2tJamdTbm01am1BcHZqT05IbWR3VHJTd3R1YlYtUlJFc290b0ZtMEg1MVFnQ1Fxakc1S0JnYVlDMF9iQi1RVUVKbFJoazhpWWVJNNIB_gFBVV95cUxPbWxyblJ6eUJWS0l5Vm5OejNHdW9MTFh4QnlNUWwyd2pUdGIzQlRJZUZWUFpLVXhDV3FTcmxRNjYzdy1IU3dNX0NHRHJBcEVhYUhDY3BWMUx2Q09tbWRoeGZZVHBsaGR1QjF4R0hEMEhNM1Vqd0dQdWhtaUtyQWVadk44N3ZJOVNFbzJsYlJEaFdEN2g2V21qOU8zc1JXTXk5c2ZyS0hQOTNLTExkeHRPMHYyR1VuRXkzQlVwZkZWNVg0ZkdhbmFsbVVJS0pRbi1LSVRra2Z1OTM5bEY0ZjdiOHJTZjZzS2N3SjVEekFVZ19hcm5xcVZLT2tPZ0FHUQ?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-08-20T23:33:27+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "What Aussies are happy to pay for News.com.au"
     },
     {
       "id": "9bfaace50fc8f882",
@@ -793,6 +803,16 @@
       "description": "New pathways to retirement as govt green-lights new class of adviser for super funds Investment Magazine"
     },
     {
+      "id": "760905f2475ecf90",
+      "title": "Super members to get more advice in financial shake-up - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3ZHdmhoNDQ5NG93Q0xJZ1FYN1pFM0lMakRxNnpFY0FvS2N2R0N2SWh5VDJfUkUtVmZiTkc2d05yYWJkV3U2X09qRVB6dlVfRzU5Q195b0hEeE9TWnZYdDBuZU9DQzc0aUo4STVtaEp6eXVUa1Q5U1BHczVMY21ZaTBzbWJVZVBCa0l1eFlHaWpfWVI5R3M4RmpqdkNTQ0hEOWc?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-08-19T06:16:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Super members to get more advice in financial shake-up Yahoo Finance Australia"
+    },
+    {
       "id": "329859bde6e7c785",
       "title": "Five charts that explain what’s really happening with housing - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY29JXzhLTVc4RHQ2Q3lsdVItaGd2cElaS05vdEk3dGNGc1dJYURhQlVWSThLQVBmcnVfYVdINzVWNFBlSDVaaVZZbDgwaUhmbEZfdEhHd3B6eDVXa21PSkpBYkZWdnNLNkhUUDdxZzY1SE5nYldCeERHMW1SQm5Db3UydW5PM2NFSnpHWmVmLVVYb2NSYlg2LWlBTUtXZXdaUzhYTHR5ZUU2QXNUTVBPemN4Y1NkSEZLXzJPR2NFdEdTQlA1dnZBUk80YWFad1k?oc=5",
@@ -881,26 +901,6 @@
       "category": "super",
       "official": false,
       "description": "Government announces super crackdown News.com.au"
-    },
-    {
-      "id": "47c9eebf2605d987",
-      "title": "Housing market crash spreads to the regions - news24.com.au",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUEFDQlBoZnYwQnF0ekdjcDJvVE5IX3p4YTJCVXZvOGZ6aWU5ZVY4S2IyNGZua0JVTWwyN19GRXNtbTFMMXgxS1F1ZXJDYTlPaDRuTVItR2s1ck1HQmwwN3Z1eVFMV2o1bDN2RWgxWUlKLW1GWUtVNnFVRzhIT1B1MllzWnhlLXRQcGlIOGNLVWNTeWhST052aGNZVlhvMGpsb3pqelZpdmZoWnl1QnNjSXR4ZXpsRURDUGFjd3BHdXFqNE5sMWRwLWtsMDBlTEhFa1l0NGhHQ2haNUVMOHNrM2xZdDJpbVFvdmthLXgtbjhKOGk0UFZyUVNCWWtsOHFzdV95UVMxWktJbkY4V2FfbjNKUnV4WEtrckJKVjB1N0RLMGI3cGFwTUx2dmJGbkHSAbQCQVVfeXFMTnEzQmxtZWNHU21SWV9hR1VlQkNCd2w1cHFTWGRCVkgxY1ZTZElLUVFYd3VCc0FQY3VfcEtfZFo5RUgtN2hfQmxNQUV4djhXdnprUGhJZTI0WF9MQl9ZMlphRUROQWZhXzljUzZQNWRPclVnbEIzVVFheUhtN3lia2gycGZCVDczcWtIV04ybHdnN0h3aUEwNWJNN0tqdXRSTlJ1Y3hwRm1TdGtUR0pMTlNaaFBlVnlDMEItWnVRZWFVeW1RaERyaXpQS056QmZHbWs3VDRvS0NFUVJQN1d6R04zUW1LTzlXRURQNzFWMWx6eTUxaTc3eXZscFpNaXZ2NXNnbGIzUHVjNUlaWVB6WTRTc19LeXVzWXBiT1gtNmdOSWZXLTYyZW9JWWtIcHoxRmtveHA?oc=5",
-      "source": "news24.com.au",
-      "publishedAt": "2026-08-18T19:07:46+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Housing market crash spreads to the regions news24.com.au"
-    },
-    {
-      "id": "a66cb8a8a7321992",
-      "title": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzJmb01SR3BzbnhXSEJuTklMOHlvRUdWcW1adkt3SjFmQ1MwbDFCOC1zeWx3Q015VkQxVFl2V1dUSFgyb19pVmZqdDJtT1BWN2Nhd1ZzUTMxXzloR1NDRGE1ZVhMb1ZTNVJvZ3M1OGhzaUpmX09Cdy14elIxY0Jtam9fZW1zYjZ1empDeEZqRzkzMXRONXBfdlNOTy1sZkJxeXVFalhhdVhCY0FiTUZFOUcyZU1fTGdLel9IY1V4S1dqNGFfMC1TUFB5TFZHOWNUa1NKZ2JYdw?oc=5",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T15:00:00+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? The Guardian"
     }
   ]
 }
