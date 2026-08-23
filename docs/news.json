@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T11:36:12.584081+00:00",
+  "generatedAt": "2026-08-23T11:58:50.751886+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -373,16 +373,6 @@
       "description": "ASX slides as oil prices, mixed earnings bite News.com.au"
     },
     {
-      "id": "275b878cae3fd359",
-      "title": "Yancoal Australia (ASX:YAL): Strong Output, Thin Profit – What’s Driving the Earnings Story? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0g0MkNmc3Nyc0Z6VHRxcmpkaVJ2eHRYd2xVRnJnQzNWbnBqUXhPRnhPVzFWSjkyWjJENDJxUjV6SEMtV0RQTFZmWlB0UEpidFF1UjFZb0VKcGo0bzdYbTR1bHdCanhuTTk5WnB4b2dqeG02YkZGUXNDNDZkWFBTdTBoS3hXbEFETWlvZ1dmaFlPUDRzSmVvd2hzNTBKQlEtWFlKQW9TR0h0T0c0MVlDcXJBa1FkMTFCWVNxSURyUV9VZ20xajFKWWYxbWsxWjNv?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-21T07:00:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Yancoal Australia (ASX:YAL): Strong Output, Thin Profit – What’s Driving the Earnings Story? Kalkine Media"
-    },
-    {
       "id": "945f6c011b794b3d",
       "title": "Australian Shares Close Down; Guzman y Gomez Fiscal 2026 Underlying Earnings, Revenue Up - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhBRjhKaENMMUVTSkY2YzEyRFpJcUpNYmZzei1mU05iM0NzOGs0cC1qblFtb0w4YmVFSlJWdDRjWFNYUThaRmdGM04yM0NPbGFDdHZNNHVxYWNRRGlYUHNQNkZpWE16WlQ0aWx4OEcwZ1BoeXJWU3YxZ1A4UnhzREZQU01YdG5sMWt2bQ?oc=5",
@@ -443,14 +433,14 @@
       "description": "TradeWindow (ASX:TWL) Strengthens Australian Presence With New Directors and Listing Plans Kalkine"
     },
     {
-      "id": "818136dbbce8927b",
-      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - thepost.co.nz",
+      "id": "80df75354efd4054",
+      "title": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors - The Dominion Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSldQNjlmU1NBaXJ1cUlwRDlFdmd3NUdvR2k1WGdoOVQzcGNHWk1fYTJvSGFvQzFYU2tITlJxdF9IVU04dXJva3gwZ3l6Vjg2clJLUm8yQmxtc1BjaGUwUDZjTXJHaXBINWFwbE54YVBkNGMzX0oteEl2eXUzNUVFTU1lVGJ4b3g3SXRpYXpmcmhoQ0hCbjRWMllqRnc0aUJDYWxPenp0bHpPSHNsNWFaSjM0WklFSzFiS2J3UHJKb1dqaXc?oc=5",
-      "source": "thepost.co.nz",
+      "source": "The Dominion Post",
       "publishedAt": "2026-08-21T01:56:46+00:00",
       "category": "companies",
       "official": false,
-      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors thepost.co.nz"
+      "description": "Why TradeWindow moved to upgrade its ASX listing and added two Australian directors The Dominion Post"
     },
     {
       "id": "d61962bfb9727727",
@@ -461,6 +451,16 @@
       "category": "companies",
       "official": false,
       "description": "SCX.ai begins ASX trading after AUD $40 million IPO CFOtech Australia"
+    },
+    {
+      "id": "ba46576f12299ef6",
+      "title": "ASX Movers Today: Commonwealth Bank of Australia (ASX:CBA) in focus as volatility after earnings reshapes Dividend Stocks - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaEVDOU5Ob3Rpcm9lWENvWDFrTnlCdm4xTlpaU25xRVJzZ20yelNhaUZzeVRNLUxlZk5pVUNQWEJDX2d4N2tLRWxTTXhIU3Q3XzgyRlhmLXJzcUQ5SzBvTF9YWDlBamg0dE5ybjU5M05zRURUczJ6Ql9KWmUwTlBVX19wUG1CSmtYcnhmaTgtOC1tR3RoRVRZZlBZV3dwTWh1WFFJNHVyUlc5TGhpMU5JV1h4RW5CZEJERDIzdGxxMHhiTFotMmtWNHlxUE5DSDFpeTNBcWN0ZU4wMzU1QVA5Y0k1R1FwYWxBQVRuei14ZW9iN0U?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-21T01:26:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "ASX Movers Today: Commonwealth Bank of Australia (ASX:CBA) in focus as volatility after earnings reshapes Dividend Stocks Kalkine Media"
     },
     {
       "id": "9bfaace50fc8f882",
@@ -601,6 +601,26 @@
       "category": "economy",
       "official": false,
       "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
+    },
+    {
+      "id": "c898e69b8b8f583a",
+      "title": "Rise in unemployment shows jobs market softening slowly - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUnBxZ2h4Z1NJdjdCWXJqSEZwU0VWaTl2MXktNFVoa0wtM3FSWDc0dXJqZXVMZDhkM1BWelNOSkdzRkpTeEF6ckJGMmxWWGZVSXJCZjVJaGNEeFMyUWlYeFh6Smxya090Xy1jT2pkbzY3R1F0eDJkTzAzWVMxNUxNQWpNbnBGVnFVUkE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-08-20T05:05:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Rise in unemployment shows jobs market softening slowly Yahoo Finance Australia"
+    },
+    {
+      "id": "50e97cba6b302472",
+      "title": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent - Glam Adelaide",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVFRWVBENW1YbHdzMTZaSnltSjRvS2dId0NES1YybncwOUo4RVZEMURGcDFSWk9DUWdQZ3pFUHVHcGQ0bXltaGVIWXZpQk5ReXZ2bWhwRnAwd0RLSHktRk5KVXFEbUhmMzZKSUJiNHRDVXlsd0ZKZWxVRkpMcTVLMFh4Q3JZY0NuMW9xNF82NkVLTjlIWjk2bW52bkhkRlJ1RGVINTAzZkRSekxvQnlfQm8xV1NlZw?oc=5",
+      "source": "Glam Adelaide",
+      "publishedAt": "2026-08-20T03:36:26+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "SA records lowest unemployment rate in Australia as jobless rate falls to 4.1 per cent Glam Adelaide"
     },
     {
       "id": "b5946849171450bd",
@@ -881,26 +901,6 @@
       "category": "super",
       "official": false,
       "description": "Pauline Hanson is targeting superannuation. Should it be easier to access your savings? The Guardian"
-    },
-    {
-      "id": "1368fcf683519917",
-      "title": "'It was devastating': Superannuation lost to dodgy switching schemes - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTRjbFZWOFpaMU9ldWxqMUVWUC1oRFh3ek9xVmdBRkNLeEdtMkwwaVQwV2lrMDg4NDl4ZEpWdGJBY1pPdEFRdEJHS3VFQXB2T3p6OW0wR0FBdHBjcGR5bEY5Zk54UzlIblZrY3VPYmJsa1pKSURXWkEwVnpCY3V1VEl3NDdXSXY3U0tNWF9aT3VrLUlVZDFycUFMTHk5Q2t6UUtCSjRPbXlDdF9oWWJCUlNyOA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-18T14:18:41+00:00",
-      "category": "super",
-      "official": false,
-      "description": "'It was devastating': Superannuation lost to dodgy switching schemes ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "eeafd1668d422fef",
-      "title": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZk81d1dpWWpnY0thZHVMVExkdVpMUzFyRWtrTkFQZmJTZndtMVBrOENFcUhMS1NZVEZXTk85VUZfSmdYNGhhd0xYOEhMQWtmbTdVa1U2N1F2Z1ExN2psU2xHZ1hkR1pzNHNadXVtRXdoQklVMWlZRkg2b01FMFY0Wkc2OV9sa2tEQUEwWFhPZktLYkNfV2VvSEJjZE82cFJCQm1Yb1ItdUt4U0ViWkVEdUxVS25Ha044ZVIzMTRmLTNJcXQwMTJWMklGMA?oc=5",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T07:26:00+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances The Guardian"
     }
   ]
 }
