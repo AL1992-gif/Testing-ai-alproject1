@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:39:08.402473+00:00",
+  "generatedAt": "2026-08-25T20:02:44.412852+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -13,14 +13,14 @@
       "description": "3 ASX Growth Companies With Up To 32% Insider Ownership simplywall.st"
     },
     {
-      "id": "5311e495c599c013",
-      "title": "Markets today: Wall Street boosted by falling oil prices; Canada hits back at US with tariffs, ASX set to rise - SMH.com.au",
+      "id": "cb7653ce6b05816e",
+      "title": "ASX set to rise, Wall Street boosted by falling oil prices; Canada hits back at US with tariffs - SMH.com.au",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjRPNjlFUzA0TDROeXpKMVg3ekgxMmhqMGtmeEtBaDRXRTZXUGRDWWtIN3hjYU55YnQzUW5YVW44dTdCSjBoY29iNXJfU2J1UUZZcGRPNnpEZi1HeVNGQnE4U2pKeURKRGg5NWV1dG1nb2lEa0RuZmhSVmhBYWVEVWQzZkU2UVJRekZxQWNlVlI5c3Vfc1Zrd3RaV2JrRnJXS2pwMUd4b1ZDSGNZV0ItZnNkWnE4MlZ1UVRtNUdZOEhfY2ZpakVtQlF6MW9hTzRBbTJ5QkxkcmxRbHNlQkUweEh4TnBmTWExRHc?oc=5",
       "source": "SMH.com.au",
       "publishedAt": "2026-08-25T19:24:01+00:00",
       "category": "markets",
       "official": false,
-      "description": "Markets today: Wall Street boosted by falling oil prices; Canada hits back at US with tariffs, ASX set to rise SMH.com.au"
+      "description": "ASX set to rise, Wall Street boosted by falling oil prices; Canada hits back at US with tariffs SMH.com.au"
     },
     {
       "id": "83c145ef640d300b",
@@ -51,16 +51,6 @@
       "category": "markets",
       "official": false,
       "description": "Australian Dollar Price Forecast: Investors and the RBA now look at inflation FXStreet"
-    },
-    {
-      "id": "9c8e59832c066ddc",
-      "title": "DBI:ASX Announcement - 2026 Half Year Financial Results - 25 Aug 2026 - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjFYellmRjFndWd3RjMzOElqN2ZBa3FfakFweGNOVmJXVXBsQ1ZhQW9nRTV4NWhDVW9oMDFSNW5LNFF3VGYydlBGZWRIdFhBRFVhZ2owdU41cl9hdHVnbmFnbEZFLWFiSmpRb3JicUR1bHJWdXZKeHNnZC1WVy1fb2FGa0c2M1B1R0c1dnQzNVllaHl6NFBLeDE2OA?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-25T13:51:48+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "DBI:ASX Announcement - 2026 Half Year Financial Results - 25 Aug 2026 Market Index"
     },
     {
       "id": "18b38492aa27d464",
@@ -151,6 +141,16 @@
       "category": "markets",
       "official": false,
       "description": "CITIWARRANTS 2.8009 VAU 28-FEB-36 INSTAL MINI (ASX:VAUJOD) intelligentinvestor.com.au"
+    },
+    {
+      "id": "3deab6f96fb50083",
+      "title": "CITIWARRANTS 90739.7273 NI2 FUTURES INDEX MINI S (ASX:NI2KOV) - intelligentinvestor.com.au",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDdoVWZwdnRjSV9HNWNZTDJMRTR1bzJsT1JZMUJsQnJ3ZXQ1M0lkYTl1U0N1S0dyTFJKaVdyZ2hEMGczcDNmTXVYQU43TTJrclVhbmZMZzFaRjJ5RG8xTEU1eTAwSlFaR2NNWVJmTWRLUHlsS2tPNXIwendOWXphZzVIVk9fRnkxSG9aQmUyUlp6SnFzMmh3S0RsTjhtaEZ3MDcwaThqSQ?oc=5",
+      "source": "intelligentinvestor.com.au",
+      "publishedAt": "2026-08-25T12:13:48+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "CITIWARRANTS 90739.7273 NI2 FUTURES INDEX MINI S (ASX:NI2KOV) intelligentinvestor.com.au"
     },
     {
       "id": "13e83f7a2db1e937",
@@ -313,6 +313,16 @@
       "description": "Here’s how El Niño could impact interest rates and ASX stocks AFR"
     },
     {
+      "id": "427d9c1f4d4c6c1f",
+      "title": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajhLMVo5WUtoMjlzUXRIUEkycmNKSlFxM09BTTlzNkRtQTJUTlJUeXFZX0M2Xy1TcG1OUUZXWFloX3NqTEFDVGlqdjBnWWgwVXR1RTBEUHB0ZVBpdklEblhJSEhWajkyTGlpWEFuOGc2bUZqSmRYbFMySzQ2V0daVUIxSnZJN09vVUFQNnh5NnRMYW82TnpKRmt5YmtIeU1qOTZ5cURnVXo4QXVhYnJpRkZ0TnZWa0gtZk9reXc0ZU41VVNTcHlxUThWZC1hbzQ?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-25T05:55:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? Kalkine Media"
+    },
+    {
       "id": "0629d6c1744196b9",
       "title": "Several RBA board members eye another rate rise - AFR",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVQzUEVFREhFMW5YckRIZ3hXYTJpeUFIZmFuVHd5OGJheVZWS2J5ck5keVphLXdjRjZqbnlZRDA5aTg2bjg3YXBWVnNtVExQRVZ1SC1mZVZkeTZFUnQ0eDd0SWhhSUl4akVYNUxHZkJRZFc4bjNfbm9HNEROOVdMZlRHVkJMNVl4X2czdXdCMkxKVVplWW5qWUpEZ3o3cDg?oc=5",
@@ -433,16 +443,6 @@
       "description": "Australian Ethical (ASX:AEF) Reports Record FY26 Earnings as Net Profit Climbs 29% Kalkine"
     },
     {
-      "id": "120056e1b6052175",
-      "title": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmN2Mkhzdk9RNWcyLXo0akRKR25FalJ5Qm54bXlqRGNDelhCQXhFQ3dpR3FZb0p2QlFuNGg3dmduQnJOWVkxOWJySGp2NzZFeEdSX1VpMDhjTk1GcnEtWXlGeWNrazdVSHFWZkdVSHA0R0dRUUtYYm96RElfU2tMTDdJSFlxc1dNczNHVFVpOElfLXVDUnNWSWxaeDV4N3E5aFBYUXVqalA4X293NE5POWlpWlhtV2NwaUMzRGFJZnZrSlFGM2xPX0RrdXZLT0NOOVhaLWdadmRpLVgxZHBpWUFoemthSzBmeC16X01DZDRvUnVTbFA5bTlNVHlFQ1ZDTUtvUV9vMGNiLWtfbjNPeA?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-08-24T23:42:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud TradingView"
-    },
-    {
       "id": "896ec0d9f23d49df",
       "title": "Australia’s economic slowdown shows inflation strategy is working - Independent Australia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODd4WENvV3FRc3ZiY2s1WlZqTm44QW42NTFvZzFiMXNZVEMxWkd3M25MT0lrdDdzeEdPaDF0WF8tY0NXZzBJWldmUU1TSXJFbjhsSllFNFFub05ucGhxOUFNSmFnSjRqMFpHMmY2QmZKZG44cG43WGhFV1BXNi1Pa3A1ZHVQcWxWYXAyNXd0OC11RFlkYkpmaFNRUFFUTkgtaHdwMkQ0ZkZiYTB4LTdTNWprOW8taU1YbUo3TjZjUWJiVUw1Y3NEOA?oc=5",
@@ -451,16 +451,6 @@
       "category": "economy",
       "official": false,
       "description": "Australia’s economic slowdown shows inflation strategy is working Independent Australia"
-    },
-    {
-      "id": "316f525ef62b85b8",
-      "title": "RBA appoints Melinda Cilento to interest rate board - Accounting Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUpHNkRHTk9VZ1Nyem1YZE9BbXZfdWRpaVJQQnJLRU5BenZjWnFXOUNJNHBWeWxyaThxQU1IbGNjUzFBblJSYTZyOVBtc2UzQVo1czhUQXZabVNwNERqMDFvM2p1d2VUaFhFNVI5WUFBZW1oYlJXLXlIRUxqbWtKU3pFajlHNnA4NVNVdVhVeVFYd29iZXVrVmJVLXN6QQ?oc=5",
-      "source": "Accounting Times",
-      "publishedAt": "2026-08-24T21:01:47+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA appoints Melinda Cilento to interest rate board Accounting Times"
     },
     {
       "id": "448badf3b70a0dbf",
@@ -901,6 +891,16 @@
       "category": "housing",
       "official": false,
       "description": "Critics of Labor’s tax changes claim rents could climb by up to 30%. Here’s why they probably won’t The Guardian"
+    },
+    {
+      "id": "12a24a2c168bf973",
+      "title": "Tenants caught in crosshairs of angry rent-hike debate - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzNLZ242TWpqMEtnbFJRYThKTlZzejZjQ282b1U4am0wZ3JkeWt6RXB1bjlXZzBXQzdCV0NXSVgwa2hlakFTVXdmWVZxLW9fOU9BU2laSDJRa3BpQ29ad2FISnJ3U2RGX2dRR1VrSGM3Rms5dW5MXzJKb0ZFdXZUVFdnWUxtUGZVdTJNcW40X0hLc0VqQVRCMTJEcU1XdkZfVEZsRl9lbkpPeEpSSU1LZFRmYV9JZw?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-19T09:45:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Tenants caught in crosshairs of angry rent-hike debate SMH.com.au"
     }
   ]
 }
