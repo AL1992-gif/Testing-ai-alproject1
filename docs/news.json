@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:56:58.368254+00:00",
+  "generatedAt": "2026-08-25T17:38:12.229203+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -68,7 +68,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODltSU9JaVJQa3U0bnhqMkR6dnZDaE5ic0xsU2Y4eGF6Ml9fLUxfRzlObHFQNl9zZm96M3Q0a0NZZVJzZlN3X181NUs0YUFlWENjTlUwSUprM0Fxb2dyb1FSNWllYXRQZTEwSHZqREo2UHhUS0NmclpYYzd2LURpaS11UUo3LXNsSG9GTEdCaUYtdlQxVUYyaGdxVGJSLTZ0RU13Wi1ndDFOQU9oWjg3b3N2X3l0SHB5WTdnWFM2eWx0MDZZS1UyWE1OdmdVSGlpUzJJWDZjbXZja3d1UG5qQlpxZw?oc=5",
       "source": "Kalkine",
       "publishedAt": "2026-08-25T12:34:00+00:00",
-      "category": "companies",
+      "category": "markets",
       "official": false,
       "description": "Ariadne Australia Limited (ASX:ARA) Continues Investment Strategy Across Property and Financial Services Markets Kalkine"
     },
@@ -81,16 +81,6 @@
       "category": "markets",
       "official": false,
       "description": "CITIWARRANTS 2.8009 VAU 28-FEB-36 INSTAL MINI (ASX:VAUJOD) intelligentinvestor.com.au"
-    },
-    {
-      "id": "ba5099d9e04def92",
-      "title": "CITIWARRANTS 1.2861 IEL MINI LONG (ASX:IELKOB) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmJIb1dZQVVlRUlTUUNfYndJZmJpMlVWSDBWbDZ6NGNwTS1qaXRJdXU3MlE4YlVfX3N2eXBpaXJUUWpHb0N0SDJUN2dkVlNJUk04cGRMRkttUV8zOWJucXVTN3JLeUpZZEtvc1d3X2dla1Etd2xPcnEwWjhGNVd1Z3AxT29PMk1EbThjb3lpLWZzZjQ?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-08-25T12:13:22+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "CITIWARRANTS 1.2861 IEL MINI LONG (ASX:IELKOB) intelligentinvestor.com.au"
     },
     {
       "id": "13e83f7a2db1e937",
@@ -113,16 +103,6 @@
       "description": "Praemium (ASX:PPS) Faces Short-Term Pressure While Wealth Platform Growth Story Remains in Focus Kalkine"
     },
     {
-      "id": "fdedf48b605588a1",
-      "title": "Audinate (ASX:AD8) Draws Investor Attention After Revenue Growth and Expanding Connected AV Ecosystem - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzRlM2V2VVo4SG5wcnUyMDZGMXBSaDh2OWdjejJWc3EyNkszWHVBcGhyMlJNaUpLR3JzVTF4aGROVjFqbnZGLXhzMjNvOTNHMldTT1EweXlndlE3UV9pRklTTlZ0QmlMa1lRRm45M3B0UHhVS3JVbTNNZlNXOURQSmRzemRtSTdxSjdES0tUSWdxMnFJM19uQmFmeDhLSHBzM0w5Y1dOZzZjV3RfQ0pMSVZRdkJ4VWR0X090TkUzcjc3cHNmQ3hYaTlxWUdKemh3ODZV?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-25T11:16:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Audinate (ASX:AD8) Draws Investor Attention After Revenue Growth and Expanding Connected AV Ecosystem Kalkine"
-    },
-    {
       "id": "d26d02267e69e0e0",
       "title": "ReadyTech (ASX:RDY) Edges Higher as Investors Track Vertical SaaS Growth and Digital Transformation Opportunities - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaHhqVVdtVkh4ckJYay1ZYzNDa1R3eHIzdGMtNm5kUGVZaklxX19MWmxmVDNkUTBrcGVUT1pwOVdNejdoWkRvdDBIUkJqSXdsNDBPZzNTeTR2UHZHYU1ISlZBM2dYQWprZDE2MHBUYkZsWGxTQzhDNUZMa2loRTNLdi00MGktYTZ6bEN1amlBZ1RhZWYyX2xyQ213M19YLUVhVF91UU01TlZBMW12em9ranFmWTZzQTN2V3lPRU5sSGUwWDN5d1BKd25MWXh1dm55MkQzS09ta0l2RTlwdVQ4NG03aw?oc=5",
@@ -131,6 +111,16 @@
       "category": "markets",
       "official": false,
       "description": "ReadyTech (ASX:RDY) Edges Higher as Investors Track Vertical SaaS Growth and Digital Transformation Opportunities Kalkine"
+    },
+    {
+      "id": "fdedf48b605588a1",
+      "title": "Audinate (ASX:AD8) Draws Investor Attention After Revenue Growth and Expanding Connected AV Ecosystem - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzRlM2V2VVo4SG5wcnUyMDZGMXBSaDh2OWdjejJWc3EyNkszWHVBcGhyMlJNaUpLR3JzVTF4aGROVjFqbnZGLXhzMjNvOTNHMldTT1EweXlndlE3UV9pRklTTlZ0QmlMa1lRRm45M3B0UHhVS3JVbTNNZlNXOURQSmRzemRtSTdxSjdES0tUSWdxMnFJM19uQmFmeDhLSHBzM0w5Y1dOZzZjV3RfQ0pMSVZRdkJ4VWR0X090TkUzcjc3cHNmQ3hYaTlxWUdKemh3ODZV?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-25T11:16:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Audinate (ASX:AD8) Draws Investor Attention After Revenue Growth and Expanding Connected AV Ecosystem Kalkine"
     },
     {
       "id": "d0b36b00fc88f752",
@@ -303,16 +293,6 @@
       "description": "Here’s how El Niño could impact interest rates and ASX stocks AFR"
     },
     {
-      "id": "427d9c1f4d4c6c1f",
-      "title": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajhLMVo5WUtoMjlzUXRIUEkycmNKSlFxM09BTTlzNkRtQTJUTlJUeXFZX0M2Xy1TcG1OUUZXWFloX3NqTEFDVGlqdjBnWWgwVXR1RTBEUHB0ZVBpdklEblhJSEhWajkyTGlpWEFuOGc2bUZqSmRYbFMySzQ2V0daVUIxSnZJN09vVUFQNnh5NnRMYW82TnpKRmt5YmtIeU1qOTZ5cURnVXo4QXVhYnJpRkZ0TnZWa0gtZk9reXc0ZU41VVNTcHlxUThWZC1hbzQ?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-25T05:55:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? Kalkine Media"
-    },
-    {
       "id": "0629d6c1744196b9",
       "title": "Several RBA board members eye another rate rise - AFR",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVQzUEVFREhFMW5YckRIZ3hXYTJpeUFIZmFuVHd5OGJheVZWS2J5ck5keVphLXdjRjZqbnlZRDA5aTg2bjg3YXBWVnNtVExQRVZ1SC1mZVZkeTZFUnQ0eDd0SWhhSUl4akVYNUxHZkJRZFc4bjNfbm9HNEROOVdMZlRHVkJMNVl4X2czdXdCMkxKVVplWW5qWUpEZ3o3cDg?oc=5",
@@ -383,16 +363,6 @@
       "description": "Fair value upgrade for ASX listed fast food chain Morningstar Australia"
     },
     {
-      "id": "608638de82e118de",
-      "title": "From rubbish to rail: Global firms feast on undervalued ASX companies - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUF9wMGRLa1U0RHk4MEZGYWJDaDFsaWpoLTZGd3hnSDFoLU9GR0cwM2NKQlQxcUgyYXZ3NnhRc3NNRXIzWktqcFRqWmxwQ0xZNWRFNl9JMjM4MUlNaFRldDNUZGIwSm1pcFljMllEcmFkX0doN3VHMktwd25aU0NncGx1Q3lKVkM5MkYxcDNBZlpVeFhWOFA1LUJ2M3AxZXJkZ29RRUxrdUg2dmlZYW00dVhVSHU3eDByY3g4cHRReWhwTU9NUS13?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-25T02:54:48+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "From rubbish to rail: Global firms feast on undervalued ASX companies AFR"
-    },
-    {
       "id": "ec77545b2a06e5fa",
       "title": "Insurance Australia Group (ASX:IAG) FY26 Results Highlight Premium Growth Amid Profit Pressure - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTDNoV3c1ZjNzWUVCWHFEYjFCcEowaHlhREFVcUdaR1VPbHBmQnpWM3F3S3JfS21tWmhpbXNvY1RJZEpSZFVUZzJvWEJjeU9hejIzbHdJUWxPUkViOFpVTmdkdjdTSWp0bFFhWGVlT1g1Z19pWEtWU09SR253c0txUXd6Y0ItTXFBVHlrQktkTUI5Ti13dEYycnpvcThDZEU2bkpMODFFVHd4alIyUGtTZXF6Q3J5RlB6eHhodTNMa3FZaWRFc0tqZXVjR2xhTzFkSkZrbTNn?oc=5",
@@ -433,6 +403,16 @@
       "description": "Tyro Payments (ASX:TYR) Shares Fall 8% Despite FY26 Profit Jumping 40% Kalkine"
     },
     {
+      "id": "9be8db81338affa5",
+      "title": "Hidden superannuation change to hit workers and retirees: 'New and unexpected tax' - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjdaQmU5NUJjTGZtaXAxbml1amRRRkc2d3NWSkZjdFUtU3BtZnRGdndadU8wZmRod2NwY08tMDJCZzhfMlo4R0R1NlJzazdpYUdmdkNBZUZXQUtKWUROQWY4eDJobUZIMHlVRmFJTkFtQUJOYjFLM25SUUgxbjYtc2gyWEZwQ19DX0plOU5KY05DSTZia2lqMWNSZHRpOTRwOFRzeG1xbHBQMXRtc0ZvSm5vX0lHeldXZHhsZWJiWTR0V2pTd3RB?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-08-25T00:59:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Hidden superannuation change to hit workers and retirees: 'New and unexpected tax' Yahoo Finance Australia"
+    },
+    {
       "id": "31db07a004f88c21",
       "title": "Australian Ethical (ASX:AEF) Reports Record FY26 Earnings as Net Profit Climbs 29% - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDM2bUZjXzhUVTBjb1NiT0ZES2tSN0hOS09MQ3dPdklrdFA2eXJXZHJibThJWEwxbmhmTk8xMXo0ZGJoOERHYklwWUppWmQwa3Raa1h5bTBRa1M2SmFoRVhYNXlkTS0zOU9JRmJJSkg4T3RmaEJfZDBLSHRldFhLdFJITlhjMk5CNWdqOTR4TU5PV3pYWGgtbU5Od1RFUV8yQThEY3Bsd2JGdklubm13ZXNsckd5U3c?oc=5",
@@ -441,6 +421,16 @@
       "category": "companies",
       "official": false,
       "description": "Australian Ethical (ASX:AEF) Reports Record FY26 Earnings as Net Profit Climbs 29% Kalkine"
+    },
+    {
+      "id": "120056e1b6052175",
+      "title": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmN2Mkhzdk9RNWcyLXo0akRKR25FalJ5Qm54bXlqRGNDelhCQXhFQ3dpR3FZb0p2QlFuNGg3dmduQnJOWVkxOWJySGp2NzZFeEdSX1VpMDhjTk1GcnEtWXlGeWNrazdVSHFWZkdVSHA0R0dRUUtYYm96RElfU2tMTDdJSFlxc1dNczNHVFVpOElfLXVDUnNWSWxaeDV4N3E5aFBYUXVqalA4X293NE5POWlpWlhtV2NwaUMzRGFJZnZrSlFGM2xPX0RrdXZLT0NOOVhaLWdadmRpLVgxZHBpWUFoemthSzBmeC16X01DZDRvUnVTbFA5bTlNVHlFQ1ZDTUtvUV9vMGNiLWtfbjNPeA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-08-24T23:42:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud TradingView"
     },
     {
       "id": "896ec0d9f23d49df",
@@ -661,6 +651,16 @@
       "category": "companies",
       "official": false,
       "description": "Profit season underwhelms as Aussie stocks trail US The Australian"
+    },
+    {
+      "id": "608638de82e118de",
+      "title": "From rubbish to rail: Global firms feast on undervalued ASX companies - AFR",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUF9wMGRLa1U0RHk4MEZGYWJDaDFsaWpoLTZGd3hnSDFoLU9GR0cwM2NKQlQxcUgyYXZ3NnhRc3NNRXIzWktqcFRqWmxwQ0xZNWRFNl9JMjM4MUlNaFRldDNUZGIwSm1pcFljMllEcmFkX0doN3VHMktwd25aU0NncGx1Q3lKVkM5MkYxcDNBZlpVeFhWOFA1LUJ2M3AxZXJkZ29RRUxrdUg2dmlZYW00dVhVSHU3eDByY3g4cHRReWhwTU9NUS13?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-23T06:00:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "From rubbish to rail: Global firms feast on undervalued ASX companies AFR"
     },
     {
       "id": "307426883974af02",
