@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-25T13:12:28.320081+00:00",
+  "generatedAt": "2026-08-25T14:07:33.997209+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "63589bf108ec1c86",
+      "title": "Ariadne Australia Limited (ASX:ARA) Continues Investment Strategy Across Property and Financial Services Markets - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODltSU9JaVJQa3U0bnhqMkR6dnZDaE5ic0xsU2Y4eGF6Ml9fLUxfRzlObHFQNl9zZm96M3Q0a0NZZVJzZlN3X181NUs0YUFlWENjTlUwSUprM0Fxb2dyb1FSNWllYXRQZTEwSHZqREo2UHhUS0NmclpYYzd2LURpaS11UUo3LXNsSG9GTEdCaUYtdlQxVUYyaGdxVGJSLTZ0RU13Wi1ndDFOQU9oWjg3b3N2X3l0SHB5WTdnWFM2eWx0MDZZS1UyWE1OdmdVSGlpUzJJWDZjbXZja3d1UG5qQlpxZw?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-25T12:34:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Ariadne Australia Limited (ASX:ARA) Continues Investment Strategy Across Property and Financial Services Markets Kalkine"
+    },
     {
       "id": "b44e31379b2518a8",
       "title": "Alfabs Australia Limited (ASX:AAL) Expands Industrial Services Presence Through Fabrication and Maintenance Solutions - Kalkine",
@@ -83,16 +93,6 @@
       "description": "DUG Technology (ASX:DUG) Gains Amid High-Performance Computing and AI Data Growth Kalkine"
     },
     {
-      "id": "eb96d476d72dd503",
-      "title": "Adisyn (ASX:A1N) Jumps with Next-Generation Materials and AI Chip Innovation in Focus - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnBVUVB3VjlTQWFSd0EzVFREclo4WUJyb0JJbTMyd0FGMzF0Y2pDMDB3ZDBvTDRCeVpoZVFFSzd2SHZFd0w5dmwyaFJoYWxuMWNIUU4tWDZTWnZiVmNwU21xQzZUMDR6S0lkM1lHY0RsSE42YnNUMzhfZlZGUlZ1LXlFRFZnRHJ2Q0RRSXEyWTdySDRGODlEYXZ0dTNKMEJ4UWhtRE5TUF9fY2RlQ3FBblZPMGlObWJEakppVl93?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-25T11:16:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Adisyn (ASX:A1N) Jumps with Next-Generation Materials and AI Chip Innovation in Focus Kalkine"
-    },
-    {
       "id": "d0b36b00fc88f752",
       "title": "Australia's CVC reports $2.2M full year net profit - grafa.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFFweU1pMnowajNmM2Y4NWVPck5sZkZEbVE4WnZ1WGZSX0MzdmQ4VXpIQnNlTDFPVFlObmhtOXk2bGdtSk5kQnlZLTNNQ2hRaVF1UDdvajFEeUtKQVVWRlB6VHpoMFUwTllqTDZtX2JLbkI0NTQxR0cxV19FdVgxVXBGTDdvWlZpZTc1RElR?oc=5",
@@ -153,6 +153,16 @@
       "description": "Stealth Group (ASX: SGI) Up Nearly 13% in a Month — Is Record FY26 Profit Driving the Rally? Kalkine"
     },
     {
+      "id": "fa6c6a35f9ec377d",
+      "title": "Fletcher Building (ASX: FBU) Up Nearly 11% in Six Months — Does the Return to Profit Keep It on Your Radar? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkIzMFNsU0tkeW15c0RIU0xQT1VqblFJdnJWNXpnOTl1SUJoMDE2WC1zRkVNZ2J6eFZYc3R6R2t1X1pkRTlBekxYMVg5RkJpZ2c1dGtfMGtzbmhuT2JENEtxaUVwc0R2TDhLMmNoYTNXb3NKWmRvMVdJTHpkX1dGWnJDYWt1bHRQZkoyU1JGTW96U1lSYkdXMmh5RGsyNHNiRVBSWWtNTlNCUXNWU09PS3RqZlJnTjJ4Vm9DTjczOVBZVU9qejZxOElTV05teDJmT000MVEtaHg?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-25T09:01:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Fletcher Building (ASX: FBU) Up Nearly 11% in Six Months — Does the Return to Profit Keep It on Your Radar? Kalkine"
+    },
+    {
       "id": "8d45e52dfb788dde",
       "title": "Ignite (ASX:IGN) Rises 8% as Profitability and Cash Discipline Stay in Focus - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHlaX0NfR190V2RiV0JzcWZpcE8xc2tuUkNiNG4ta1VIU0k0MXhSSnFvMUtYSFRHd0ppUTJ5bjMwaFRwMFA0UDd5cTgxUUEwd25UQU94T1hyZWJ1aGVDbDZUUnFFOE9JVFhqR0NtX0hUNW1YUE00S2RCa3d6QzRUOTA3b0RlaWtsSDZMQ2d2emdDTkVrTzM3Nm5TN1hXcm5BVjdTTWVjb2dYd3g2d1pkV1Rn?oc=5",
@@ -191,16 +201,6 @@
       "category": "markets",
       "official": false,
       "description": "Shape Australia Corporation Ltd (ASX:SHA) Upcoming Dividend: Key Dates and Details Explained Kalkine"
-    },
-    {
-      "id": "82953f9c19c40bfc",
-      "title": "Articore Group (ASX:ATG) Gains 7% as Turnaround Improves Margins and Earnings - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFBiUWJjU3pkWUowMXpTOHVwYnd0S2hpc20yT2dBQzMxTXloRGJUdmJVSXNodG1CODF1YzZqZmF5TEcyWFV1TXhwcW8zYjdpeUdwWU1qalB4bWVpVU9IM2F0ekZfWXdQaVBOMld2aHU4M2xPWW51M0JmNEdSeVE3eFhLdEdobnczbHVsNUhfQkpnOFBkZEllZnRoSzU1a0NhZUZnUmgwa1p5Z1c5Y05F?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-25T08:47:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Articore Group (ASX:ATG) Gains 7% as Turnaround Improves Margins and Earnings Kalkine"
     },
     {
       "id": "d0a0858cbad3645a",
@@ -291,6 +291,16 @@
       "category": "markets",
       "official": false,
       "description": "Here’s how El Niño could impact interest rates and ASX stocks AFR"
+    },
+    {
+      "id": "427d9c1f4d4c6c1f",
+      "title": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajhLMVo5WUtoMjlzUXRIUEkycmNKSlFxM09BTTlzNkRtQTJUTlJUeXFZX0M2Xy1TcG1OUUZXWFloX3NqTEFDVGlqdjBnWWgwVXR1RTBEUHB0ZVBpdklEblhJSEhWajkyTGlpWEFuOGc2bUZqSmRYbFMySzQ2V0daVUIxSnZJN09vVUFQNnh5NnRMYW82TnpKRmt5YmtIeU1qOTZ5cURnVXo4QXVhYnJpRkZ0TnZWa0gtZk9reXc0ZU41VVNTcHlxUThWZC1hbzQ?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-08-25T05:55:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Telix Pharmaceuticals (ASX:TLX): What's Behind the Growing Attention on 3 Australian Stocks? Kalkine Media"
     },
     {
       "id": "0629d6c1744196b9",
@@ -423,6 +433,16 @@
       "description": "Australian Ethical (ASX:AEF) Reports Record FY26 Earnings as Net Profit Climbs 29% Kalkine"
     },
     {
+      "id": "120056e1b6052175",
+      "title": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmN2Mkhzdk9RNWcyLXo0akRKR25FalJ5Qm54bXlqRGNDelhCQXhFQ3dpR3FZb0p2QlFuNGg3dmduQnJOWVkxOWJySGp2NzZFeEdSX1VpMDhjTk1GcnEtWXlGeWNrazdVSHFWZkdVSHA0R0dRUUtYYm96RElfU2tMTDdJSFlxc1dNczNHVFVpOElfLXVDUnNWSWxaeDV4N3E5aFBYUXVqalA4X293NE5POWlpWlhtV2NwaUMzRGFJZnZrSlFGM2xPX0RrdXZLT0NOOVhaLWdadmRpLVgxZHBpWUFoemthSzBmeC16X01DZDRvUnVTbFA5bTlNVHlFQ1ZDTUtvUV9vMGNiLWtfbjNPeA?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-08-24T23:42:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud TradingView"
+    },
+    {
       "id": "896ec0d9f23d49df",
       "title": "Australia’s economic slowdown shows inflation strategy is working - Independent Australia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODd4WENvV3FRc3ZiY2s1WlZqTm44QW42NTFvZzFiMXNZVEMxWkd3M25MT0lrdDdzeEdPaDF0WF8tY0NXZzBJWldmUU1TSXJFbjhsSllFNFFub05ucGhxOUFNSmFnSjRqMFpHMmY2QmZKZG44cG43WGhFV1BXNi1Pa3A1ZHVQcWxWYXAyNXd0OC11RFlkYkpmaFNRUFFUTkgtaHdwMkQ0ZkZiYTB4LTdTNWprOW8taU1YbUo3TjZjUWJiVUw1Y3NEOA?oc=5",
@@ -533,6 +553,16 @@
       "description": "Services Australia's CIDO heads to RBA iTnews"
     },
     {
+      "id": "7b2bf06837eeab22",
+      "title": "Average rental prices push six-figure income earners into rental stress - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3hqdkFJRF9VRjNDLTUySzJoUVZ5ZV9IbDJSYURGdktZYk4ycDFXdFpHTXYtSHJDanMzSlJfdzEyemxja1NaYjBSSUhYWWtiZ1k2djc3QU9BZE13WV8wSFphcHFSN1pHOUlTbmF5Q1lRenI5UmpSWnJxR0NkcjFfNHV4VFRaTWQ1X04zZjFIZF9QQTVMaVQxWWtmMEJHcENLMzlV?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-24T01:13:04+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Average rental prices push six-figure income earners into rental stress ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
       "id": "05dadb04efd5c69a",
       "title": "New analysis reveals a 10 per cent drop will wipe $1.3t from property values - realestate.com.au",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVW5mZ3BwQmFiN3Z4blhMNUdZQi1ua1R6X2xwWGZaM2Z6WlQ3YWVhRmpVT2V4b1NBRDJ3bWZ0Q084U0FXVTNDVWZDRy1sVzhhOEw5SWNYTFVsTFpIV2tseXF6MWdSNnl5VnVNRjRqWVNDT2RZTkhyUWVVV1RGQ3Fsb3I2NzhTSmtfVHI1aTlBYkRPaDZXMHhYaU96Wl9OYVBRbFE4M3BlcXZSQTduTk5r?oc=5",
@@ -573,16 +603,6 @@
       "description": "Accounting bodies support mandatory SMSF education SMSF Adviser"
     },
     {
-      "id": "a06c3ffbc125f4bf",
-      "title": "ASX Growth Stocks With High Insider Ownership In August 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPempUcWRMYmJtbWlTWWs2QU10eDZ2RzlBbk9feTdRT2MwSFo3eG9Ea3EtalhLQzlKM2czcW4yTGp3YV9aNDQyN21veG9UdXJGOFF0MlljU2U5UFI2UFItWm5tbVAxRi16VnhpMmZuRHVWN2t5cGxBVVB4TXBqejlOb2tvSENUWHRJZTFUaEtjSXV3Skl4SnJEejE2bmJxci1pZUFZZDJyRFp0bTNvbHN6cmJqUUhCcm53R3Rjek1WLTVpc3lnU0tZVWg2RlA0MzB3VW9lQzRCaktneVptX2pLSzhB0gHiAUFVX3lxTE96alRxZExiYm1taVNZazZBTXR4NnZHOUFuT195N1FPYzBIWjd4b0RrcS1qWEtDOUozZzNxbjJMandhX1o0NDI3bW94b1R1ckY4UXQyWWNTZTlQUjZQUi1abm1tUDFGLXpWeGkyZm5EdVY3a3lwbEFVUHhNcGp6OU5va29IQ1RYdEllMVRoS2NJdXdKSXhKckR6MTZuYnFyLWllQVlkMnJEWnRtM29sc3pyYmpRSEJybndHdGN6TVYtNWlzeWdTS1lVaDZGUDQzMHdVb2VDNEJqS2d5Wm1faktLOEE?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-23T19:30:02+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "ASX Growth Stocks With High Insider Ownership In August 2026 simplywall.st"
-    },
-    {
       "id": "1e80b58f1a7a000d",
       "title": "ACTU fights the Reserve Bank and laws of economics again - AFR",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVp3ZHU2dWV2TnZPY1ZLNG5TTVM4a1ZOeURWc0JTWExsOFlSMmlkc0hXbXFXOW5NMG5wSlNNMGp6THc4dlNYQjI2RnZsZnhPS1paSWpVajh5bXozdUtxankzcURoVHBoZXpwcXNfZzlPZWw4YXVHc1VueFg5Smh3Q01QRHE2Mmt1YlpjM3hQc3NheGxIRVBHWEs1QUVrZUxlbnZmekd6V2NUTTQ?oc=5",
@@ -611,16 +631,6 @@
       "category": "companies",
       "official": false,
       "description": "Price to earnings forward of Alfabs Australia Ltd. – ASX:AAL TradingView"
-    },
-    {
-      "id": "2f9abdf72e901eef",
-      "title": "Australian United Investment (ASX:AUI) Looks Cheap As FY2026 Earnings Put Valuation Back In Focus - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYjRkZTlJRDk3ZFdMMlo0YkRERUpURmVTUkM4b3gyWHVrXzNPRlJaMnZ1c0pBd1dXYTBKdXZ5a21GUmFTY0dCZkp4NFRkZjNPOUx2MTQzZVhpN3RvRzBxcnB5bkpKVmgtaGVON3lKQXo1LXZPTVhCMlI1eWxhdGRUTmlyUF9oSEZyWlQtemxLQnpWMGdhRGJUVC0wbjQ2X09pdWUtamUzZWNKUzY1aHpELXR4eHhoUlJ5VlRwOVktc1k3VWYxLVhyQ0V4ZFpmSHFjSVI4cHItZkNpd21iZW5OUlptc1ViR01keVVkdDVobE1LSVB4UWxv0gH8AUFVX3lxTE1VM09PUElJNzFybXpDYTkwOVphb2ljM3JNVUM3Skg3bURVSHltdl83R3VDLS1KMk9jWkRDb0hZYlFwc3JnWTVUNEdINTUtaE4tM1VYQmVqaWRqMFBsamRUSURUQXlEVC1qUE0zdjZBc2RybDhieDA5ekNSQ09XSnZZR0pxS1BLTnVTekVZa0I0akhNSmNBSGYxQ0hHc2hHS2FkT1BjZmUxZHJ6Rl85Z1R6RDBMVDhwdjlVWmtmd1JDVUI4Nm5DWUg0NnFpVW5qZEptc2xOcEZiQ3ZpcEh3YklzblZ1OHN6NjhQYzFUMDVoZnh0SnRSdmJrYjZ6Mw?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-23T11:37:07+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian United Investment (ASX:AUI) Looks Cheap As FY2026 Earnings Put Valuation Back In Focus simplywall.st"
     },
     {
       "id": "7ec7b509ff03c70e",
@@ -661,16 +671,6 @@
       "category": "economy",
       "official": false,
       "description": "‘Resilience’: Economy avoids dip despite threats News.com.au"
-    },
-    {
-      "id": "f7f46ccc39be9253",
-      "title": "Mesoblast Stock Leads 3 Australian Growth Shares With Strong Earnings Expectations - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcnUybllIMHRmbEFWSUFkcm9TZDJiM2hKclpnMUpNOW5vcUI4emRVeldsQlgyWGRrSVBLeGprRXF2b2Z6SFctY2JhQmJrZnlURWQxSE1WLXhROWtDMWZZWnJ0OFRnNmY4WlRlV01ZRTBxbkFLM1RhTDA4ZTEyUEZZbUNVbFRiRDR3R1hwdlEzRHlNV08zNFg0ZWMzUzVHX1ZILVdLb0dsOEEzSGRRdEpIbXJQTGVRb2NMN05xSVdTVDlEZklQRW53R0NjM2JFNEtfc0RSenNhT2cwVDhjWHQw0gHkAUFVX3lxTE5jRHpZb3BmdzFsdm5uSDc1SGwxYWZJYW9QOENTVm9FdUJxSDVUclJTNkh4WDdJT3V0NGo1Ml9uX2JUX1Y0M3U3amFKSVQ1U0J6Ul9tTzFiZzdUeGdtUFlQSFBYUklxbFZwQm9kWDBpYWNSaFNTc3RHZmdvdEgzT2NsTEZxaUZUUE1BMzZieW4tTktWbXp0aDNhdVRHZnBocTA5a29QYVRseGUtTDRYZ2g3VDZfeUs5X3diTDdDbDlVTTk2VXpwd3RiTGgxc1UtVjNLd1VXQU5WQkN3ZEdwaWQ3TmYxTg?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-08-22T19:36:52+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Mesoblast Stock Leads 3 Australian Growth Shares With Strong Earnings Expectations simplywall.st"
     },
     {
       "id": "b73821536ef0f247",
@@ -783,14 +783,14 @@
       "description": "Rate rise still in play despite unexpected spike in unemployment AFR"
     },
     {
-      "id": "71d3facff8018e69",
-      "title": "Can you access your super savings early? Are there consequences of doing so? - ABC News & Headlines – Australian Broadcasting Corporation",
+      "id": "0f90a0a14e661d0a",
+      "title": "Can you access your super savings early? And are there consequences? - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGF3N1N6Tm5ZOThLa0YwYkMzMm8xb2U5OVpGb3hUSHFHUXNnckFUQXZZX0xTLXV3WEowY2JhZksxeU5GS0dBbktYZWFBaVlnaDNoQVh4YmRnZHhscWotbzk4MGowU2VYVmgxTkhvVGtURnVCbFpZcU5HdDZTT0FjRTZJc3k1QmJIVkMyYlZnRjZNUnZXSFV0MjhYMlJoTUFzcElXemhBMA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-20T02:44:03+00:00",
       "category": "super",
       "official": false,
-      "description": "Can you access your super savings early? Are there consequences of doing so? ABC News & Headlines – Australian Broadcasting Corporation"
+      "description": "Can you access your super savings early? And are there consequences? ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
       "id": "9a1a5f191aa60e4a",
@@ -803,6 +803,16 @@
       "description": "Unemployment rate hits 4.5pc, the highest level in post-COVID era ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
+      "id": "20fd0fe3ee744543",
+      "title": "Phil retired overseas and took his super with him. You could, too - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDRPOFpjX3U0ZHhENUdGTHZRbncxS2VQNE5JYkRwdFlGQ3BXcmFPSkNQb3RxZFFqelp5LXFwdGw5WW5aWWhvS18yV3dzcWFkQWx6RWVKZ19FQUJxSDR4cmpOazF2SDYzZVpURThwTDdLLXR2a1pMZFZqa0tBZEpNS1dBYlQzLURzN2xwSWJMNGNwV1V3UmxOZXhHb3pRc1dhUEF2MU9zYmZrQmxMV0VyazhwajhfRUR3eDlMSi1B?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-20T01:11:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Phil retired overseas and took his super with him. You could, too AFR"
+    },
+    {
       "id": "9ab468bbe8f4d71e",
       "title": "Australia’s drop in real wages is a disaster. But the profits of major corporations are doing just fine | Grogonomics - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUTIyUGdoVXZUUWlPdE1PU2dSUnNVUmlnUFNWZUNxVXptM1B3cjIxR1BvMkRZNl9Ebk5iVE50ZkVkdThPZE11VEF2UXRHanFpbkExd2JtRU1JS2x5UG9SekVCOUNRUWt3RjA3Xy1XV2tjRGUtaHZod09tdWRyNEhDX181Q0RoNlBMaXFfQnlXSG5sRjRBdXZMckpIMnc5aG1iaXMwVm1DMzJHNVFMMmhMb0pzQUtVVGE2YUUyUDRQUU1uT21aN2NRNDJhbWVZV1RUNzZFOUZfYTFvWVBfS3gza3g1UlZiY1c2bzA3NWpiUFdUeU1Q?oc=5",
@@ -813,16 +823,6 @@
       "description": "Australia’s drop in real wages is a disaster. But the profits of major corporations are doing just fine | Grogonomics The Guardian"
     },
     {
-      "id": "d642f834b63ebbcc",
-      "title": "RBA points to AI mania as another inflation driver that could push up interest rates - Startup Daily",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblA4WXB6SnlxNEtZRGhCZFE0VmZRSzhBMnRBQ1duY1d1SnRhb19iQnVuRldYMkJOTEZQa3E0cFZiYThLbnZsdm5IWll4STJpa2FpVGNGcjl5aWV4REp1S2c2MkpVOTdaTUVzMHV5TlNiUXBHUktUZ3BmVGVXWVJnTE5PNTNiTGEzdlZIWjdJeXRUQkhUdHRWN2doZTU4c2s5RXd2OVFCV3pWaGhobmxVSkdoMXRybXRvUVRvTlNXRm1ndUEteUI2OA?oc=5",
-      "source": "Startup Daily",
-      "publishedAt": "2026-08-20T00:15:35+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA points to AI mania as another inflation driver that could push up interest rates Startup Daily"
-    },
-    {
       "id": "1c963e1075334e28",
       "title": "Perspective key on changing housing market: CommBank CFO Alan Docherty - CommBank",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFpDN2NORDR5Qm5QWVBCRGpaUkFQdFR4Z21ub3ZLRC1Cc21aeDV2djZOWVQ1djc1WmkzQWhqOXBIbU9xSFIyTU03LUpOakxHRkhVQTI2WkV4ZWFHZWdpVFFLNWRQLWhxWmRLYkNVbnBpeHhYSGR3U2NwTm9xWXlpdDJBS0pfWEVZN24zVWoydUt6UVhVVjIza3lBLWd5OEdsdEJBOWpkYw?oc=5",
@@ -831,16 +831,6 @@
       "category": "housing",
       "official": false,
       "description": "Perspective key on changing housing market: CommBank CFO Alan Docherty CommBank"
-    },
-    {
-      "id": "5ba245be82cbeac6",
-      "title": "Australia named a top ‘forever renter’ nation as house prices outpace incomes - realestate.com.au",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzhpWldXTkdBeENacU9RYlhkTm9vLVVPS2tobzh3cXJWSVJ1TW02aThqTi03ZjJqUW93cnROSHFsd0ludnFwM2V1Y2pnLUwxSTR0RnkwaGZlenJDT0tpNFFzRGZLLW56RHU3OFJsc0hWVUt6LW00Q0ZGMFdaekswemlzNi1TY1dJd0txQjVaMnZBcmNneXU1Y1duWjQ5alYxcUZWSWpYNUhlZnNRTzF4aw?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-19T22:32:16+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Australia named a top ‘forever renter’ nation as house prices outpace incomes realestate.com.au"
     },
     {
       "id": "e3cde3540b6841c3",
@@ -881,6 +871,16 @@
       "category": "housing",
       "official": false,
       "description": "Tenants caught in crosshairs of angry rent-hike debate SMH.com.au"
+    },
+    {
+      "id": "b22be85779a691a0",
+      "title": "‘Gut punch’ as rising costs wipe out pay - News.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYW0telZxS2RHNGhtZVdKRUZSeElDdndDNkk3VjZPaXZxVXB1WEVyTm5Xemo4ZVljSXFodHVIaTZDTlJiYkltaDd4ZVRUUjR6ZENsdWJrbGRTMXh3VURsWklBYlFHa1VYVTN4alIwNDFST25Nd3dKR0s5M2UxZmxaNEtjaHhVVHJDQXZOcTNTUWd5bWwwdkVBbWNNc2F2Q1hyVDdRdHEyWXdKeHM0SkhWN0xvaGFwOUtyNEJoSlhUa1Q1TnVrS2R1bElHVzlfMkt0WTNRQ0gwNG44dWt3S0V5Q3dn0gHnAUFVX3lxTFBWcjd4VVNVbkIyYVJzRWtLMzFXZUdycDc1TzlfTEdiNGtaNkI1N05HWWtwZVBVOUxybFdTb2JFZlJuYlJFdk9PRGJJaTR4cUtJMkRBdFRuNlFDVi02ZDVBNmM5QXZhQjA4T0ZKTE42Y0MwbXg5Y1JVRnp6RmZHS2xjc2NfX2x5Tkotd2dKb0RLRGNrWWVyT0Y2UXFqX1N6cVZTVFQtNE03UVpQSXd1a09yMTlKVmVnLXJFVnV0bmViVWd3Tnl1bEFYNzhuVlIxTWlPdFFONTBOXzM2SzBfaktXMC1DY0hiQQ?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-08-19T08:55:14+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "‘Gut punch’ as rising costs wipe out pay News.com.au"
     },
     {
       "id": "45a8fb03faec833e",
