@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:45:04.919604+00:00",
+  "generatedAt": "2026-08-26T11:15:20.870319+00:00",
   "sourceCount": 7,
   "articles": [
     {
@@ -13,12 +13,22 @@
       "description": "What ASX August 2026 Earnings Season Revealed About the Australian Economy and What Comes Next Mitrade"
     },
     {
+      "id": "3ef070d621bb8446",
+      "title": "Markets flip the script on rates after hot inflation print - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHRIVG8zRVhfU2ZfLXNLNXR4VWlsS0ZWNy1ueFJGNDBJN1ROeHQzanN5ZmtnaE5iYVp1M3RQR0hhZFpkYlVTdG9NVEFUY19ydjRlYkFkRkRqdXo5UTVzM3N2SmFaNXVmclFIdlZPREhtcWdqTDVtVmhVWlByVWpuVUtyanMwMTFmWGprSHViMDNBS0RRNWIyTDVWRjV2cUlWa2s3UFRHb3RBT2lVQWcxbGJYSzd2QQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-26T09:43:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Markets flip the script on rates after hot inflation print AFR"
+    },
+    {
       "id": "e111ef1129ee76ff",
       "title": "Biome Australia (ASX:BIO) Scales Its Probiotics Business After Record FY26 Revenue - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFNsajNGTDc0VXJ3bHk2MlYyU2NMb241ZTNId1B5WDFBT2o1WUVEY2lBa19PbDR1ZGp6TnE1djJCOWtXYU5Wc1hyOW1hSEQ0NEZVeER0QlBiXzBaeWZmS0xaZVdWU1BPMXZkLUtqemRlVENlNHZOb3RDb0EtWDBmdGl6aFA1a3BRblBTa1MtMW9aYXVjUC1nZkZKaTJxMzBhLUpYX2pJa3BkajduQnI1OC1kSjA5Y2ppV2c?oc=5",
       "source": "Kalkine",
       "publishedAt": "2026-08-26T09:29:00+00:00",
-      "category": "companies",
+      "category": "markets",
       "official": false,
       "description": "Biome Australia (ASX:BIO) Scales Its Probiotics Business After Record FY26 Revenue Kalkine"
     },
@@ -117,20 +127,10 @@
       "title": "Unexpectedly high inflation boosts chance of September rate rise - AFR",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzRCREtoa3BGaUl4Tm9qTGQta19iSEdnVXI3ZUFORnRxMkc0WHFuYmE3Si1NSmVHNTRLbDdlcGhyZnRPM09lUHVDaWdDblpwMGdNeHl4T21RWHVvZVRzbHN5M05JcnNFZUE1NEs1VUZWVnlLQVY4ZmlReFpINW5vOWN2NVhZTy1VQ1JXeEpsOFBiVVVzUWpnQ0FXRXljdUt1UUwtblF3WV9VNkdGaGo3c0R2NjVMZw?oc=5",
       "source": "AFR",
-      "publishedAt": "2026-08-26T08:08:36+00:00",
+      "publishedAt": "2026-08-26T08:08:00+00:00",
       "category": "economy",
       "official": false,
       "description": "Unexpectedly high inflation boosts chance of September rate rise AFR"
-    },
-    {
-      "id": "c1189a68a95238c9",
-      "title": "Boss Energy (ASX:BOE) in Focus as Honeymoon Expansion and Uranium Demand Shape Investor Sentiment - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNUhjZEVvZGV1UlRxMkZaTFpZWDQ2WXZLb3UxNjRhclN0aWNMd2VMV2RsREtBR0RqZ0Y4QjB2SVA0dW5uejd1SzNJX2E2QnE2Qnh2Z2NkU20xSFlzWklVQnI4b2JZcmdOMHhNcWhJM1pGd0h1SUNQV1dyV3czOG9VX2hoZWtjbkNvek1rZUVpU3g3UkloSmFlYVJYeDRYSVBxV3lBRnJhVi1YMl9iOURSZkZkeFNCMWxrbEVBNk1oOW1FSTlaZjU4OXdXcw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-26T07:51:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Boss Energy (ASX:BOE) in Focus as Honeymoon Expansion and Uranium Demand Shape Investor Sentiment Kalkine"
     },
     {
       "id": "4cf8d98f744d929f",
@@ -297,7 +297,7 @@
       "title": "Mortgage-free retirement slipping out of reach for younger Australians - Savings.com.au",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZmNHQ1WnFOaGRVd1phdU1QZnd2RUJINFhhZkd2eUd4cmlydWZpQXlBSWF2UHF2UGp1WHJXZ3hoSWRlTkd3TXBVZU8xdHBkMEk0Mi02aWxaWUYydVJnTHV6S1FMZjRHMmpjS1FJZFFwc3FUSnNGYjlnVmxseXFsY3IzUE9mNjVXSmF2LVdncU5NMkRnOXFycGtVV0ZNbDJNMEE?oc=5",
       "source": "Savings.com.au",
-      "publishedAt": "2026-08-26T04:46:11+00:00",
+      "publishedAt": "2026-08-26T05:49:56+00:00",
       "category": "housing",
       "official": false,
       "description": "Mortgage-free retirement slipping out of reach for younger Australians Savings.com.au"
@@ -403,16 +403,6 @@
       "description": "Can Lindsay Australia (ASX:LAU) Turn Scale Into Stronger Returns? Kalkine Media"
     },
     {
-      "id": "23d8f2a19035f39a",
-      "title": "DroneShield (ASX:DRO) revenue jumps 74% but margins slip and losses balloon - Stocks Down Under",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CQ0NfV3Baa25UUHhLRGJzTmVtUlBFMlM2VWprOVZKRTJXZXNlMkF0X01hLU9WUnlsZHBhcVVkeDFzQXJlVkk1cWxRZ1ptWUZDOFhNZlR3Y3VXTFN3aGZ0eFlKUTREcVRMRTZjdzVxVFU?oc=5",
-      "source": "Stocks Down Under",
-      "publishedAt": "2026-08-26T00:19:45+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "DroneShield (ASX:DRO) revenue jumps 74% but margins slip and losses balloon Stocks Down Under"
-    },
-    {
       "id": "2f63ceef10295585",
       "title": "ASX energy share sees 363% increase in dividend - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcG15a0JZZXNBTFV2T1I3cHFCQmd5ZFczbXdWMVJFcnhucUtWVVlYT1RpUnF2ZmhSYkM1YUtCeDV4VnVJaGNjeFUyMTkyX00zWkRqUll6NTVkOUNkOFB5M2FHMXdHanVYOEJjX2hXanJGUUhoa3o1a29WQ1lUZ0huM2prOHBsd3gx?oc=5",
@@ -453,16 +443,6 @@
       "description": "ChartWatch ASX Scans: CSL, Wisetech Global, Xero, Fortescue, Electro Optic Systems, Brightstar Resources, Web Travel Market Index"
     },
     {
-      "id": "87d11eadf1f79dc0",
-      "title": "Woolworths Group FY26 earnings: Sales, profit and dividend all grow - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGYtREtaTVhBWGpaanZoY1QxbmFXdjlFTno5Smk3VDFyQ3NJUGdWaExkREdqR0x3a1podW1yV2VvN0hTZkxpOFRHRm9mbVFCRUJtY2xpRGhqczNoZEFYZ29RdFB3RnAzS3BOWk5oRXVVNWE1VC1hVEV3eF9GQVUwRy1ROFIwcWMzRWR2Mm5qVFFRRkl0TnREc29VVmkzNEgwMTgw?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-08-25T23:03:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Woolworths Group FY26 earnings: Sales, profit and dividend all grow The Motley Fool Australia"
-    },
-    {
       "id": "411617897f1812eb",
       "title": "Morning Wrap: ASX 200 to rise, chip rally lifts S&P 500 and Nasdaq, copper back near all-time highs - Market Index",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamFKQ3VLZWdpbEd1RzlqclYxeDY1UnZfWkh2QjVNWi1paW9xLXlnWkE4RzE5Yml5X1lVRVdYTFpBbnpWRUFUb3NNNTlkNGRZa3U4VDE4LTRrcWZJSjZPMnZ2Vmk0MXVINldHWHRzYk0xNElQSzA0Zm1SdG13LXVBdjI4aXBmZGxyLUp2eTFfejdDSWxvS1VibjJfUTZOWFZsOWpjamNUZ2ZqbEpaQ1phWQ?oc=5",
@@ -481,6 +461,16 @@
       "category": "companies",
       "official": false,
       "description": "Be Sure To Check Out SHAPE Australia Corporation Limited (ASX:SHA) Before It Goes Ex-Dividend simplywall.st"
+    },
+    {
+      "id": "faf2d2e0c4e4c70d",
+      "title": "5 things to watch on the ASX 200 on Wednesday 26 August 2026 - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUFQZmFia194NHZuUDVuT3Nob0ZxTmdTdmFHd3ZPUE1JTzI0TjUydl9WZ3J0SGVMWmZGbjhEdlNGTFNaSnBLQ1IyYVplZlN0bkI4ZXQ2Z3owcnFkMXdDQm9Dc0c5bnpOUlJmSU5ybzRGb09NMjBzdVVoeHFqbTdHN08yQzA2clhDZVY5T3JMdE81OEhkZnh2S05rcGo?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-08-25T20:59:42+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "5 things to watch on the ASX 200 on Wednesday 26 August 2026 The Motley Fool Australia"
     },
     {
       "id": "42111d0ec8ad639e",
@@ -831,6 +821,16 @@
       "category": "housing",
       "official": false,
       "description": "‘Pent-up demand’: first home buyers chase more loans as property investors step back, data shows The Guardian"
+    },
+    {
+      "id": "6dcc0dbfbef543d4",
+      "title": "3 Australian Growth Stocks With Strong Earnings Outlooks - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMkkxdXRwUEdHZzZzd3BRNVoxcmNTSjk1N3QtUHphN0tDb1dfbTR4ZmpPdDA2cFJwVUNSSm56UDV2cWdJeWVrWEVZam1IME5wTWd6QWlqdEYyczZuNWVQYXVLTkdCR2wyYnEzb1Bsbzd6U1UyX3lNa1lmUUtvZ1Z0czh6WW5VM0JQaWJNYmFFZjllMkczbmJoazZlYUpndVNXa2VfQjdHUkE2OG5jRjhidEUxTzcwRkpwQkJGTGxjV3IxT1loUmR6VU5BbW5IMW1lZHVnTVBibVJSQdIB3wFBVV95cUxOamFfNnByRUFobUJJTlJ3TXg3OEFHYkIwYzlJcDBjRE01M193Y0t1YnRkUEZuT0tGSVhCYS0xcllHWFp0akpiWmxKY3dPNldJZkh4QW9PSERLWGoyMUNTSVdkdmN6aGVqQ05rbng4R1lzT3hndlFLaXNOWl8zNTUweVplQ1NiWHpjVmMwRFExUGprMjV1WlZTaDFWb21aNWc0Tm9CMTNNRUJIYWlKdTdRZ3R1dVpYbGdrbnFnSXIzXzI4T2k1azM0Unltb1AwZFJ5bktCTEkxMGV2UENYd3hN?oc=5",
+      "source": "simplywall.st",
+      "publishedAt": "2026-08-23T20:49:21+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "3 Australian Growth Stocks With Strong Earnings Outlooks simplywall.st"
     },
     {
       "id": "e8850f7e5135ddba",
