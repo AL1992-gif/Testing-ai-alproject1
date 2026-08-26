@@ -1,16 +1,56 @@
 {
-  "generatedAt": "2026-08-26T07:26:29.676973+00:00",
+  "generatedAt": "2026-08-26T08:10:04.007171+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "4cf8d98f744d929f",
+      "title": "Evening Wrap: ASX 200 slumps on CPI shocker – economists flag September RBA rate hike - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHI1Vk5Wb0M1cmFoWkptNTRHWXY4VXV3MjRxVG5Hd1JoeDdacmo4Ymw2cWh5dk1sUDlvVzEzRE9tbE9UcTExMi1kZmVCZF9DSlJrOFZ0bjFqcnBmRG1QUTBNd0JIdUxOVTEtNVB4cTBPUmtUdFl2dHpqWjlCNEZyS3VXVTJ3YjF5cllhUFhjSEItMFRDVXU5Y1lkcW9Fdkd5Y3ZxeDgySldIenB0?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-08-26T07:45:02+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Evening Wrap: ASX 200 slumps on CPI shocker – economists flag September RBA rate hike Market Index"
+    },
     {
       "id": "4744a6f6ab79359c",
       "title": "Inflation slows, but interest rate pressure remains - CommBank",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0NCb2c0UGxldEM0eWFJOXVSSXNfUnFQZ0lPVDFPX0hKUFRNeEdQU1duR25tYzludmNtZ2o1QzE4dXVSdWVNLTBuUDl3am9aeXhCRXJoSG9UczVGMHdrckxsaktjS2IyMi1GTkg1TzlRS0hFcFdnS25oLVhYUktHdndDR1I4Z3NpODZacVc2M3FGMW5IMDUwT3dTdlZ0NlFUeWc?oc=5",
       "source": "CommBank",
-      "publishedAt": "2026-08-26T07:22:23+00:00",
+      "publishedAt": "2026-08-26T07:20:55+00:00",
       "category": "economy",
       "official": false,
       "description": "Inflation slows, but interest rate pressure remains CommBank"
+    },
+    {
+      "id": "14f754d88e30a117",
+      "title": "Cyprium Metals Ltd (ASX:CYM): How the Copper Developer's Shares Have Performed - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk1NYjhWU2dzTU0zRVE0VzRVZ2JneWpRem9QNlJlenN6MFBKQXZCZ21CaWtvbUFoVDhLTHM3dl8xYjNBM2taMkVxQWdMMjZLeTUyLUtfSGtlb0M0UWd4RVBMTG5oTnR6RzdaVjV2SUZyb0VjYTNOa2xMOFNWWVZ4d2otMEFSR1Z5ZkN5V1J1X2x1ektuUGdsbnljX1RtRlNMZkhOMjN0aXhZQmNs?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-26T07:19:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Cyprium Metals Ltd (ASX:CYM): How the Copper Developer's Shares Have Performed Kalkine"
+    },
+    {
+      "id": "5321c7c3f19ea636",
+      "title": "Ausmon Resources Ltd (ASX:AOA): A Look at the Micro-Cap Explorer's Share Price Journey - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG9haG9TWGJhVDJiUElVZFZKckZKYTRhZWwzRGx2aFJLVmlvRzl3WlJEdHVsMzRwTDAtM1lzOEh1NDV1ZzJ5cWEyR2ZWN2FkYzJ0OXFrX2VKZmh6MVNYQ212cDREejU0Wi1jMlp5ODgzdDZJRGhoVVV4dVV2QkRpamNNaU9qMnBxVVNlelJ0NXdGTXF2WDVqSC0yU0pFYkhaSnFJYjRUMHdjTWgxMTJJcVh3Sl83MkU?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-08-26T07:18:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Ausmon Resources Ltd (ASX:AOA): A Look at the Micro-Cap Explorer's Share Price Journey Kalkine"
+    },
+    {
+      "id": "3e935638db77c911",
+      "title": "Australia's inflation problem persists - Australian Broker News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWQ3VVZ1b1pPZmZrdHpRS3h1T3JDNWd0VVdqTUpuYzB0NU8xWE5TS2JtRWhVbFo4dmo4S2FIU3NfOFhxMUx4aDNrR1J4V3dwN0ZnR2dCdW1yM3JraHo5NTVGS1JXM09vVVROamZLbERDWjh1U29UbmhQSndDenhtczd1TDVtSURFQ3RHU1MweDhYQTlBeHl3WHBHZEd5SW8?oc=5",
+      "source": "Australian Broker News",
+      "publishedAt": "2026-08-26T07:14:40+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Australia's inflation problem persists Australian Broker News"
     },
     {
       "id": "fb5b598a8af0d105",
@@ -23,6 +63,26 @@
       "description": "Government inflation six times market The Institute Of Public Affairs - IPA"
     },
     {
+      "id": "5150fe86363d81a3",
+      "title": "DOW and Cochlear Ltd: 2 ASX shares to dig into - Rask Media",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3ZhWkV4MVFnVzhselE2XzhmTU56S3hvWVI1c1BpWVdHUlEzd1BVbW5Ed1MwaWJ3dHNqREhOU1AzOTBEOFdyMjBLb3NWQ2dxT28tQ0syaGxENUlqSXVQNmQycDdVdXlxZ2tTMEFZX3VYZHJPbGQ3SWo2d18yZ0U4Tl9vSlVjX2ZoLUZUVjFpWlBCdw?oc=5",
+      "source": "Rask Media",
+      "publishedAt": "2026-08-26T07:08:31+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "DOW and Cochlear Ltd: 2 ASX shares to dig into Rask Media"
+    },
+    {
+      "id": "3ef070d621bb8446",
+      "title": "Markets flip the script on rates after hot inflation print - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHRIVG8zRVhfU2ZfLXNLNXR4VWlsS0ZWNy1ueFJGNDBJN1ROeHQzanN5ZmtnaE5iYVp1M3RQR0hhZFpkYlVTdG9NVEFUY19ydjRlYkFkRkRqdXo5UTVzM3N2SmFaNXVmclFIdlZPREhtcWdqTDVtVmhVWlByVWpuVUtyanMwMTFmWGprSHViMDNBS0RRNWIyTDVWRjV2cUlWa2s3UFRHb3RBT2lVQWcxbGJYSzd2QQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-26T06:57:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "Markets flip the script on rates after hot inflation print AFR"
+    },
+    {
       "id": "eb0be0c39f1f32d1",
       "title": "'Unfortunate kick in the guts' as inflation data increases RBA rate hike risk - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNV81dGt3OTVIeGg1Y0VoU25XY1U4YlVqYXgyODVDNmFiX1paNFdPZmo5c2RuZnpXMDJYOHA4MlhJbEhicGJCZXFUWE4wS1c0d3RxQnF3cGJIS1c4ZU40R2ZIZ1RQdkZhTTBxNlpUa1FnMGw5U0tWX0FuRjNtWEVQUURpU1d0VlFzT0VRV2FMa25XZE9WODBrLWxCT2dPdTNL?oc=5",
@@ -31,16 +91,6 @@
       "category": "economy",
       "official": false,
       "description": "'Unfortunate kick in the guts' as inflation data increases RBA rate hike risk ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "71ff5ee4540125a4",
-      "title": "RBA interest rates: Markets flip the script on rates after hot inflation print - AFR",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHRIVG8zRVhfU2ZfLXNLNXR4VWlsS0ZWNy1ueFJGNDBJN1ROeHQzanN5ZmtnaE5iYVp1M3RQR0hhZFpkYlVTdG9NVEFUY19ydjRlYkFkRkRqdXo5UTVzM3N2SmFaNXVmclFIdlZPREhtcWdqTDVtVmhVWlByVWpuVUtyanMwMTFmWGprSHViMDNBS0RRNWIyTDVWRjV2cUlWa2s3UFRHb3RBT2lVQWcxbGJYSzd2QQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-26T06:48:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA interest rates: Markets flip the script on rates after hot inflation print AFR"
     },
     {
       "id": "ac291a93bd1d7411",
@@ -73,34 +123,14 @@
       "description": "Australian Shares Fall; Woolworths Group Fiscal 2026 Adjusted Earnings, Revenue Up Yahoo Finance Australia"
     },
     {
-      "id": "94804f877b5942b5",
-      "title": "Australian Shares Face Key Test as Oil, Gold and Earnings Shape the Day - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3duZ2lXVnJJWXV1M0ZYRWZMQzAyTmJmNm5fVXQ4SURqTkl1WU5GWVk5TUFXVlVtYUliTDc3NFNLSDhNclRSVmZ4eTNaNVMtd2JqendkWkI0Rk9lTll4VldUSW1lS1ZwOE5udTJ6N2tDMlh1WHYzektNWGJBNVpkUTl6X2ZHTFVWOW5sY2I4VHlwSlAzTVhoSExLc3pfbWhJcW14dk04aWhQYWtaeE1DbmRnUFVvUQ?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-08-26T06:13:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Shares Face Key Test as Oil, Gold and Earnings Shape the Day Kalkine Media"
-    },
-    {
-      "id": "f3900e1c10b1bc0d",
-      "title": "WDS:ASX Announcement - Dividend/Distribution - WDS - 25 Aug 2026 - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVR6eERHcjNJQzViQTRRbFJLVXppLTIzdTYxbU1RcjZLbnpwczMxV2VkeG5XRWpYbDh4dmJoVXR4THE2QXFzdVlTUmM0WWM3MHpRVlpDcHZTZ2FiVkVOcVZ5Z3pLNFBHbHF4a05OVTVSZ3RTTC1CMF9sUndZTTIydDNoRDkzZldWQ0ExR1NkUmo?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-26T06:11:22+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "WDS:ASX Announcement - Dividend/Distribution - WDS - 25 Aug 2026 Market Index"
-    },
-    {
-      "id": "1d6c5e6c26d5935a",
-      "title": "L1’s Lendlease stake above 10pc as activist investors start to bow out - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlpLM3dmdnZJVDFUNlZja0F5aHg4MzlYc3BqRmwyRnpCVFlwRFdmODQ2TXF5VXJ1YjgwdHBaM1ZkR0lMN0xkY082aV85dmVsOVl4d0Jjb2xBR3VfZ01YTGlCQU5vQzZ1R1RCWmFkdThOb1FWaGZNbVNQRkRtNkhBeXA3MGRTRHdfcW80bzJ3NWJwVXNmRDY4QU53MVgtbGxrN1ZpdzVmY2k2V21vVFRZZThQT3pXb0lvZ0VCekc5NTVOLS11Z2x3VQ?oc=5",
+      "id": "04d2258c95867079",
+      "title": "L1’s Lendlease stake above 10pc as activist investors bow out - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0Q4czZPaXJGMVQzVjBWU1dCc29ZWUQ3SlFfZDIwYlAtbHNmTXVvQnhwTmpza0I2cnhkOEV5aTVPNHZKTGk0SGoxbnhTSDluLUdQd0JwaWpzZkQyU0NxeGJqOHpFck1zbjAzb1NDZk1JWVBjOGM4aW1vLThCa3ZhenJ6eHl5UF9PMlU2bGR4RWdhOXgtbnRJSi1kQ0xyUXpuM2xDUGdDUDBOSTh4WVVtNzBZa21VeFNQMWJPSA?oc=5",
       "source": "AFR",
       "publishedAt": "2026-08-26T06:00:00+00:00",
       "category": "markets",
       "official": false,
-      "description": "L1’s Lendlease stake above 10pc as activist investors start to bow out AFR"
+      "description": "L1’s Lendlease stake above 10pc as activist investors bow out AFR"
     },
     {
       "id": "1b57d6641cf9389a",
@@ -111,6 +141,16 @@
       "category": "housing",
       "official": false,
       "description": "Sydney, Melbourne in ‘sharpest’ fall on record News.com.au"
+    },
+    {
+      "id": "158b56db80f708b9",
+      "title": "Even without Ooshies, Woolworths extends lead over Coles - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk5PMHMtWncyUnFLbFpzN1BhN1k4OXF5cmhKYXN5U2hRVFpqRUF6MGpuS0pOTVJjSHQtMGVIODE5ZlRlWlN2MzVGd2FfQml3c1BRUFRmX0JQWlF0am5KX3NGeFh4RDdRUzhUVHZVYm5mY21VMm44aGtQSWg3UTVJelFXNW8wc3dkRTQ4MkFxTEtvNEtXZXhvNTRseUJPcWduSDNTb0NRdVpPQVhnakNIODQ3VEZ5NUVMLWNZ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-26T05:41:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Even without Ooshies, Woolworths extends lead over Coles AFR"
     },
     {
       "id": "ba6f1ba003dccde2",
@@ -143,36 +183,6 @@
       "description": "Inflation lands above forecasts, boosting chance of September rate rise AFR"
     },
     {
-      "id": "3e935638db77c911",
-      "title": "Australia's inflation problem persists - Australian Broker News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWQ3VVZ1b1pPZmZrdHpRS3h1T3JDNWd0VVdqTUpuYzB0NU8xWE5TS2JtRWhVbFo4dmo4S2FIU3NfOFhxMUx4aDNrR1J4V3dwN0ZnR2dCdW1yM3JraHo5NTVGS1JXM09vVVROamZLbERDWjh1U29UbmhQSndDenhtczd1TDVtSURFQ3RHU1MweDhYQTlBeHl3WHBHZEd5SW8?oc=5",
-      "source": "Australian Broker News",
-      "publishedAt": "2026-08-26T05:08:27+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "Australia's inflation problem persists Australian Broker News"
-    },
-    {
-      "id": "ea20da655405e3b4",
-      "title": "Metal Hawk Ltd (ASX:MHK) Shares Slide as Investors Reassess Growth Outlook - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEpKMUVPTGQ1eThiUW5MMDJmN0Nkbkd6X2hDMFRQSnNaRU5ZYlNzdVY0ZzdDX29iVy12aHdNUEJXcUVRTWtJTVIyREF1YXVBdVdTMFhIam1OUDRPRC1XWjQ3T0ZlOWxUQWpvSDllOXl5VVIxbS1fRFJ6cGlwSnJKaHlPbk9fbWV1dDhaMjlkcEhDVU56bS1uY1lGYmFtRFY0djRZMmZHaEdUUQ?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-08-26T05:02:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Metal Hawk Ltd (ASX:MHK) Shares Slide as Investors Reassess Growth Outlook Kalkine"
-    },
-    {
-      "id": "b5fac5250fc1ac32",
-      "title": "‘Not going to sell’: Sellers piling up in weakened housing market - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOUhPd0tfU1FtWGdKRnlpb0paQy1QellPc2ZJUUY0ejFjUE1nbGlPbkIwclBreFI3ZHUwRGhockRqNVNpNTRLc3JIN2FKNkJ0Nkh5YXlxYlplTF9zZ0F3VzNTN3RMOFlLZkxNNEVKYkFFbjVjX002c3ZDamdKUE5oUFIyRFBNWWhBbDFtRmhPdnVoaGJRT1phRnlFenA5QWp6em9EWkpYYWJnQmZWZThoM0hBN2NmdllvVnkyV2tMcVNjRGVmX0FWV1dxUW1ocFBoNmIwUlJ0dG5mb0RJV1g0Um1OeXJKYlpFRDhVNFdMYUt2LWQ4dzdVMlNBRE9iS1hsdVHSAYcCQVVfeXFMUHdtdFNvdHV3SG9JTk80cG43YWwxSTB3RTRxc2hJYVpWcmIwM1kycU5lNm1Bbk9vMzdMdFVMQXppdnpobkpjc0JKMjZuOEpxQlU0aGVkTDVlQnhTMG9yVWNkUmlvVEhNTWhZeXh4R2xrbGFGQl9wSEptM0ZjaUFOSHo1WmdoQUJnUjFkMUJ3STZTSkpxaXF5YlNIY2RRRDVEWmZHWGNjZ0RxQjdGQklVQlVfUkhCTUJYTVQxU3ZqS29TQl9sZUVpcmhsSmROdWFfbXh5MEp5NkRiYjNIN0p2U3BVdDFaUE5YZUtCQk9qRXBVVEdoOW8tSmJ6ZERKUU1zTFplQkdVSnc?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-26T04:54:27+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "‘Not going to sell’: Sellers piling up in weakened housing market The Australian"
-    },
-    {
       "id": "63c8fda4d303b0e7",
       "title": "Mortgage-free retirement slipping out of reach for younger Australians - Savings.com.au",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZmNHQ1WnFOaGRVd1phdU1QZnd2RUJINFhhZkd2eUd4cmlydWZpQXlBSWF2UHF2UGp1WHJXZ3hoSWRlTkd3TXBVZU8xdHBkMEk0Mi02aWxaWUYydVJnTHV6S1FMZjRHMmpjS1FJZFFwc3FUSnNGYjlnVmxseXFsY3IzUE9mNjVXSmF2LVdncU5NMkRnOXFycGtVV0ZNbDJNMEE?oc=5",
@@ -191,6 +201,16 @@
       "category": "companies",
       "official": false,
       "description": "Zeus climbs the ASX by 25% Mining.com.au"
+    },
+    {
+      "id": "b5fac5250fc1ac32",
+      "title": "‘Not going to sell’: Sellers piling up in weakened housing market - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOUhPd0tfU1FtWGdKRnlpb0paQy1QellPc2ZJUUY0ejFjUE1nbGlPbkIwclBreFI3ZHUwRGhockRqNVNpNTRLc3JIN2FKNkJ0Nkh5YXlxYlplTF9zZ0F3VzNTN3RMOFlLZkxNNEVKYkFFbjVjX002c3ZDamdKUE5oUFIyRFBNWWhBbDFtRmhPdnVoaGJRT1phRnlFenA5QWp6em9EWkpYYWJnQmZWZThoM0hBN2NmdllvVnkyV2tMcVNjRGVmX0FWV1dxUW1ocFBoNmIwUlJ0dG5mb0RJV1g0Um1OeXJKYlpFRDhVNFdMYUt2LWQ4dzdVMlNBRE9iS1hsdVHSAYcCQVVfeXFMUHdtdFNvdHV3SG9JTk80cG43YWwxSTB3RTRxc2hJYVpWcmIwM1kycU5lNm1Bbk9vMzdMdFVMQXppdnpobkpjc0JKMjZuOEpxQlU0aGVkTDVlQnhTMG9yVWNkUmlvVEhNTWhZeXh4R2xrbGFGQl9wSEptM0ZjaUFOSHo1WmdoQUJnUjFkMUJ3STZTSkpxaXF5YlNIY2RRRDVEWmZHWGNjZ0RxQjdGQklVQlVfUkhCTUJYTVQxU3ZqS29TQl9sZUVpcmhsSmROdWFfbXh5MEp5NkRiYjNIN0p2U3BVdDFaUE5YZUtCQk9qRXBVVEdoOW8tSmJ6ZERKUU1zTFplQkdVSnc?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-26T04:27:30+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "‘Not going to sell’: Sellers piling up in weakened housing market The Australian"
     },
     {
       "id": "0975335ca6486a73",
@@ -251,16 +271,6 @@
       "category": "markets",
       "official": false,
       "description": "Koala Company (ASX:KOA) Reports Record FY26 Performance With Global Expansion and Favourable Cash Position Kalkine"
-    },
-    {
-      "id": "158b56db80f708b9",
-      "title": "Even without Ooshies, Woolworths extends lead over Coles - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk5PMHMtWncyUnFLbFpzN1BhN1k4OXF5cmhKYXN5U2hRVFpqRUF6MGpuS0pOTVJjSHQtMGVIODE5ZlRlWlN2MzVGd2FfQml3c1BRUFRmX0JQWlF0am5KX3NGeFh4RDdRUzhUVHZVYm5mY21VMm44aGtQSWg3UTVJelFXNW8wc3dkRTQ4MkFxTEtvNEtXZXhvNTRseUJPcWduSDNTb0NRdVpPQVhnakNIODQ3VEZ5NUVMLWNZ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-26T02:52:30+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Even without Ooshies, Woolworths extends lead over Coles AFR"
     },
     {
       "id": "d82fcf965a85457d",
@@ -353,16 +363,6 @@
       "description": "DroneShield (ASX:DRO) revenue jumps 74% but margins slip and losses balloon Stocks Down Under"
     },
     {
-      "id": "2f63ceef10295585",
-      "title": "ASX energy share sees 363% increase in dividend - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcG15a0JZZXNBTFV2T1I3cHFCQmd5ZFczbXdWMVJFcnhucUtWVVlYT1RpUnF2ZmhSYkM1YUtCeDV4VnVJaGNjeFUyMTkyX00zWkRqUll6NTVkOUNkOFB5M2FHMXdHanVYOEJjX2hXanJGUUhoa3o1a29WQ1lUZ0huM2prOHBsd3gx?oc=5",
-      "source": "Morningstar",
-      "publishedAt": "2026-08-26T00:01:04+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX energy share sees 363% increase in dividend Morningstar"
-    },
-    {
       "id": "71a0535713e041af",
       "title": "ASX lithium stocks at critical juncture as market deficit pushed to 2030 - Market Index",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3U5Umg1YTVDdWxXUVktMGcyN1VZN2s3THhkU2FuV1RjeU1JNWVvdzdDU3VQVWROdWtaWjVvRXBORDE0dmh3cmdMZkp1bGo5d3Y3TkNEWm8yeUN6cVRoSEhyUzlWaEdNbXhHc3NxaFFnZ04tU2dPLVNaTXY3UjY3bS05aVd0dlhtRzdOczN0T2FZd0IzckZ6UDhqUjVxOWhtS2FqT2RlRERXZ2JY?oc=5",
@@ -381,16 +381,6 @@
       "category": "markets",
       "official": false,
       "description": "WiseTech profit slides as acquisition boosts revenue AFR"
-    },
-    {
-      "id": "fff1ab6f28a5f60b",
-      "title": "ChartWatch ASX Scans: CSL, Wisetech Global, Xero, Fortescue, Electro Optic Systems, Brightstar Resources, Web Travel - Market Index",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPanZndGZodmEzNVRHUWNUZjBsVjZVNEpibHFEWHp4MjdGNjlWWWFDazBMRDRLOHlLVFQ0cm41VEUxVWtLWVJIaEx2Y1VWUVNGNlpxN200MmZOclRoVVFkdW9YVi11U2dWdkVVQmwyaG1EU1pqcHBCVlNJNjE3bmN4Ull1S0kyekNmQkN2SkRaWUtYeXoxdWxLWV9oOUJSVkhLWjE3NFZlbFFUa1JzZl82a1RtSEZPQXRab0tQRl94NUpBUGVwZEVrYmZVdXNEeTU2QloxcVJwR0htdnBIQkE?oc=5",
-      "source": "Market Index",
-      "publishedAt": "2026-08-25T23:15:02+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ChartWatch ASX Scans: CSL, Wisetech Global, Xero, Fortescue, Electro Optic Systems, Brightstar Resources, Web Travel Market Index"
     },
     {
       "id": "411617897f1812eb",
@@ -603,9 +593,9 @@
       "description": "Revealed: Labor’s stealth ‘super tax’ to cost retirees The Australian"
     },
     {
-      "id": "ec77545b2a06e5fa",
+      "id": "c859426a26d562a8",
       "title": "Insurance Australia Group (ASX:IAG) FY26 Results Highlight Premium Growth Amid Profit Pressure - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTDNoV3c1ZjNzWUVCWHFEYjFCcEowaHlhREFVcUdaR1VPbHBmQnpWM3F3S3JfS21tWmhpbXNvY1RJZEpSZFVUZzJvWEJjeU9hejIzbHdJUWxPUkViOFpVTmdkdjdTSWp0bFFhWGVlT1g1Z19pWEtWU09SR253c0txUXd6Y0ItTXFBVHlrQktkTUI5Ti13dEYycnpvcThDZEU2bkpMODFFVHd4alIyUGtTZXF6Q3J5RlB6eHhodTNMa3FZaWRFc0tqZXVjR2xhTzFkSkZrbTNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUYwSzZ1Y0dEbFRmTGZDRXI3NU9fb0F2MzlTM2dPc1BYUndqWndmazdBeWJkazhOTUVpQi1acHZJYTVueVB0R3ZHLUkyLVVjOV9SNnNKdjlMSlVyVUg5ZzNrRG9OOVdCbHBLeTRULVdlUENNTnBxNmU0bGZTN2lpMUxBb0Y3eXM2bkZuYURxNjlBRlEyS2RBNENsREtQTml2cFhoa01DWDNuUHdBVlpKbEpsa0pZdGs5d2R0bHo2Wk9ZNlJzVXZUbw?oc=5",
       "source": "Kalkine",
       "publishedAt": "2026-08-25T01:52:00+00:00",
       "category": "companies",
@@ -843,6 +833,16 @@
       "description": "Price to earnings forward of Alfabs Australia Ltd. – ASX:AAL TradingView"
     },
     {
+      "id": "7ec7b509ff03c70e",
+      "title": "3 Australian Small Caps With Strong Earnings That Investors May Be Missing - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaWlfM1hNVGxXSkw4bTdXYWJDcHZ3ejRIMENtdXZvU3JKbEJrUTljby1XVF9EeTNRTlEyVTFONXZCei1wMmhUckZtWV9UbmIwUU00UUlxMGxXMGNVNkt5eWo4VUVyRkE3bnNiM084SjVaTHFleDRZc1JsUDN4MVpXalJndVdzWVhGZzBEc1Q0dDFFektuT0swTWNpYzRGcUozQmh3cmhMeF9Tc2pIZUtrbFcxV1pkTFRlcHQtTXBvcXQxVy1Id3pTYnpMZVExMFotQ1I1SHRhTUhXWUdWRlRnOGdqV0RIZVBOdWtVV2hzOThZb0wwN25J0gH8AUFVX3lxTE9oYjdUaTRrWkpoQnl6WmZFTndQY3hPaXh6NHRRZ3ZkWlJkVDNaRzFGOXVCeXd5X25SX09SWnNwWGpBcFI4b0pqNnJMTl9WZ1dLMFEwdkFkcW1TcXlTNTJUdF9TNFA1bzdIZkdQLVVEMzZxS0lGaUhNMkdZOXk4aWVnTThNc3JCcTZIYjRNVU9qWFFGbjFZY0ExTVJUbGh1V0dpUldIdUk1YjktNHhjQ0NORzVMY0VnM0tyd2V3dlNoTTJhTHNOUDktckxnOERQNVlHSVp4QmttSlpYOFRBSFA2NEhTOFVFaVVnd3liR2lqODExdi0tYzRpNXpIVg?oc=5",
+      "source": "simplywall.st",
+      "publishedAt": "2026-08-23T09:34:19+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "3 Australian Small Caps With Strong Earnings That Investors May Be Missing simplywall.st"
+    },
+    {
       "id": "07fb7c236388d772",
       "title": "After Shield and First Guardian, Australia’s new superannuation reforms explained - Dentons",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUtnSFhCaHZYOWk2bkgtU1dqQWRNeXpYVF83MnNZeURIVXdqZW85ZDl4TGIzUGFPMEZDVDVudFA2aFNpXzREVnI5V0FJYklpRndjQnJSa2Z2VzRWZkhydlhHVXhPTUlHelpXWTVQWmZ4eEZ6TUJPY21CbzEtdmxyZXZDdXRWZ3pGVnVHX0RpbWZsTDMtRldzZmZBYmExOTd6Rjd6SjhyQQ?oc=5",
@@ -883,6 +883,16 @@
       "description": "Outlook worsens for government to meet 1.2 million houses promise ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
+      "id": "8d8e678cd3364dcf",
+      "title": "Perth housing market update [video] | August 2026 - Property Update",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1MENRYW1BeTFBaFVES2FsdUNwa3JxM0ZzcVFSSDdfTzRtWmZzNUhzalI0OUhUajdQNkRCUGtDbDVyZEhCbFV0WWNvbGRxM1hDRFRKSWVQMlFzaWNrZlZfN1ZSY3hybDlDMlJvUHg0VzBlS2F6ZHJ5Qi1BMUk?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-08-20T07:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Perth housing market update [video] | August 2026 Property Update"
+    },
+    {
       "id": "7c43087259322e8e",
       "title": "Jobs data divides experts on future rate hikes - News.com.au",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX0tOVHhEekxqTTJpckF1XzByZlNaSGh2VWxkVVdVV3ZGMHVyaHo0elFpdlRTWUd4ZGJpSUpjd3Q1Tm9qX200WXowbmMwdEpHenRncUZlMVI3b21OUXcyYXFpRkNYUUNnX0h0VjRzMjMtVkNVb3VTVTRad1hwQWQ2Q3pMd0ZtSE02bmJuLTFacXRwYWt4cWxkeVJEYjlUMWJjVzVRempTX2tyQXVQTlpvTkFybWtGcHFzSUo2OFNNcUZUMW1LN2tiejFkQVg3Q3JyOGE1Z3RWbGJKeU5EamJkNGdPNjg3aGNFd1hjUmVJaGMzTmFwVHRHTFRKSWNMbUVUVUJDTUJhQjjSAY4CQVVfeXFMTUtvMWtsSVQ0T3VoTDZkZVBBb1g5bk9SOGZqZnpCcW1pX203dWNIWU5GMjQ5c2JMYkxaSThrelpJY3dHNFMwTElxNTNYMW1Qa0FZb1BmV0pnQVVxU0xmRnBrMHdIOFFEX1VHa1Z5VFM5bzFZN0NXQjRpeHZCMDZXZEZmbjNxQWd5M3FjdnFHMjRQd3FQRmFieW91SkhWR21rcG91X0w3bDZvWXNpNUNyWTJQUU5xcVV2VHZ1R0pZSWtzemt1TWdPemhrZlRPRWFMVEpVeHZIY3BzdWRoU2hFZHhwbG8wU29KRlhBOGM1SkRkbHY4cFpCWGpYUHRDbi1qUUxIYVN1NUlkZzl5UFd3?oc=5",
@@ -891,16 +901,6 @@
       "category": "economy",
       "official": false,
       "description": "Jobs data divides experts on future rate hikes News.com.au"
-    },
-    {
-      "id": "71d3facff8018e69",
-      "title": "Can you access your super savings early? Are there consequences of doing so? - ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGF3N1N6Tm5ZOThLa0YwYkMzMm8xb2U5OVpGb3hUSHFHUXNnckFUQXZZX0xTLXV3WEowY2JhZksxeU5GS0dBbktYZWFBaVlnaDNoQVh4YmRnZHhscWotbzk4MGowU2VYVmgxTkhvVGtURnVCbFpZcU5HdDZTT0FjRTZJc3k1QmJIVkMyYlZnRjZNUnZXSFV0MjhYMlJoTUFzcElXemhBMA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T02:44:03+00:00",
-      "category": "super",
-      "official": false,
-      "description": "Can you access your super savings early? Are there consequences of doing so? ABC News & Headlines – Australian Broadcasting Corporation"
     }
   ]
 }
