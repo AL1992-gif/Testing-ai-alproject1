@@ -1,16 +1,86 @@
 {
-  "generatedAt": "2026-09-10T22:21:46.021933+00:00",
+  "generatedAt": "2026-09-11T00:24:51.324041+00:00",
   "sourceCount": 7,
   "articles": [
     {
-      "id": "b288630ab6bc850d",
-      "title": "TCL and TLS shares: 2 ASX shares to watch - raskmedia.com.au",
+      "id": "0d984264226054dd",
+      "title": "Australian Dollar slides as US yields jump before pivotal CPI - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWU5GSk53YkdBWHFSOF9jME9yVmhsYnhJU0ladWkzRnE5QTAwUmRrMUVVamRmai1IWjJYT240N0pfTkF0V3plU0taT1Q3LWwtSktPSGRIZ3pCdmN6dHRGM3Rnc0VBb3Z6OTJIdW5neVNoaDhkLWtwTjJsYzdPVk5qc3lJNXpRYmN2QnRHeXYtcFlNTkZUakVUalB3U2Jud1R0RV9FVEZobw?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-09-10T23:48:04+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian Dollar slides as US yields jump before pivotal CPI FXStreet"
+    },
+    {
+      "id": "63116648ab795ebf",
+      "title": "ASX Sector Performance Analysis: All Sectors Decline as Market Broadly Weakens - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmFjNlY4c3dZWDdZdmlKck9aMTJ5Sklpa0stbThuMmRTY1pHbVprR3pyM0FOdnlWNzZMNi16LWRfeXJNYmlKeG40ZXp4VGhjNUtVbXVGLVQ2QnQ2WFlOTkcwUXBHY1ppRWd4UEp0VXBkTi1rb2FXQWlMajRfVnJBeC1YaTBQUjFwSVJzTHBGWHZLY2Fpdi1oelRvTjkzVENxX20xQU4xZGFSQ1dtRFlhMm9Kcw?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-09-10T23:45:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX Sector Performance Analysis: All Sectors Decline as Market Broadly Weakens Kalkine"
+    },
+    {
+      "id": "f58e4e028ff7c550",
+      "title": "ASX Sector Momentum Update: Consumer Staples Leads While Technology Remains Lagging - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1VHWUI4NVVwNm5oRVJEXzNiOTJ3Z1RtOG5MUDRvQVV0TElVdUhFcWs4cG5TT0JMSENoR0Y1bkp3UTlnM3dKM1ZWeElZb0dDQmtMTlUyWFdCNTRmSVJOUE50M3dxbmpITVNLak1oZ2xmZDY2SGhfby1TcU1FTVh4dlhNdmJGSTdKMFhtYU1Sc2ZmbEtEdU5rVWtKMkNrUDVsVFdmTVFGZG5lRm9XQUxwT1NSUEJtQm00QXc?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-09-10T23:45:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ASX Sector Momentum Update: Consumer Staples Leads While Technology Remains Lagging Kalkine"
+    },
+    {
+      "id": "260422af5fa6597b",
+      "title": "Morgans says these ASX shares could return 48% to 95% - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWdIajIxNk50ZHMza3puTDA4Q213RklzYi02dnhnNkVOUHd6YWNoWFdVZ2N5clJuQUJhaXJhbUV0WkV4Y1dtQjdpSWh4VFU0VmQ3Y1JVZjFweEVyZXVnQS1RQUpnamRiTFEwaTNmNzhodzRZNzE0SjlEbEFjSGF4NEpiM0NMaXVidkNrN2xUUTk?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-09-10T23:07:32+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Morgans says these ASX shares could return 48% to 95% The Motley Fool Australia"
+    },
+    {
+      "id": "8dcb182ca91106db",
+      "title": "ChartWatch ASX Scans: Artrya, Dexus, Hub24, JB Hi-Fi, Lifestyle Communities, Sunrise Energy Metals, Siteminder, Xero - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0VjQnZEWFQ3UDZfei02SHh2cFJoVXY3OTc2UWVndmQ3NkVleXY1a29GcUt2eS1OSTlCU1J5TWJYWnhUYUw3ZldRSXNiV1A0MDFidFJHbno4Vnd4dUZvUTMxQnFyWnltZDZ1c0ZfdThQb0NRdE5NcWxxY09Bb3c2UFc1cEd3QUlxY2p3YVZKcXhPbDVJZGRpdDl1RnEtNlBDd1JKYlc3X3ZqZ1JkZThSYlNKdE1Qb1FxUkQ1d1FOOHpMTWdjWFBPZ05RVnVDU2xQNlR3cjhhelplaklT?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-09-10T23:06:05+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "ChartWatch ASX Scans: Artrya, Dexus, Hub24, JB Hi-Fi, Lifestyle Communities, Sunrise Energy Metals, Siteminder, Xero Market Index"
+    },
+    {
+      "id": "f731b4aca5832b90",
+      "title": "Soaring oil price set to hammer ASX again - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcTdzWkJqdzlqdk1BYXhXRDljRFd5ejd6dHltTHJ2ZkRmZEhVQmE2ZjJOVGVVempfaU5ydnpCRldQWXJkeXQyOFJRSnBTWDRiSTBIdkg2YzdQQmhnS2JoQWVtb0dBcFZGNHhHdTc2RGN4d0JyT3JOMklkczlMM1A1b3p2MkQ3bmZQWFhGY19Vcm9scmtYdW5ybmlWODJld1hxRlVxNHRUSjBqRmp5SGU4Z0xaeGxfcEczRnJGSjdBcEw1Z3BrWl9ENzg2a3NCTDZmMlhSVi0zZ1cwMV9hUm5zMDJSZnhkVlJGU1dOQW530gHzAUFVX3lxTE1FNTBxTDkyNmR3SGNxVFhDT05TdUR2XzZ2WGs2RVNqbmtPODdzdkpXNjVuQWlYaHFwT1FVNlNfZkVPY1gyZGIwSGc4QUtTSWVGQ19hRXRkYUdna29WWjZCdkJ1LUZDUTM4dTByanBhTTRNdDc0Z2lKNjFrRTBsSW16SWR4OGpqV0s1OGg2Zm8wMV8tajdIWmFhTzZzb0NkZm1kT2F5cXRZVkJ2NGFCRjNrNi1lQzVvME5LUnpnSkNuaklob3V3c2NFQUZlY1NDYUtHZXNDdWJWNEZIUGxzR19HUC1uSURESU52clRCLVlZZURRVQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-09-10T22:44:35+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Soaring oil price set to hammer ASX again The Australian"
+    },
+    {
+      "id": "2e7af6d441b67184",
+      "title": "Morning Wrap: ASX 200 to fall, S&P 500 and Nasdaq slide a fourth day as oil and yields surge - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1o3alRMbzZ1VzI0enRqbDQ3YWNTQWs2ZGpDNzdSRXFvU1dOQWVLRUtZMEVKMmdXdjAyOGFRNm9pUlozelJUQjgyS1BNQklUbTRGY2V6dG1famkzNWRCYjVIOWVJQVVEeDFPU1NnY3NtU0FfZVBZdE40RW01cXBWZWxlZFk3Q1dzS0VyakZweGtnaHV0MVdkOXFaVU1SMjRhcFV5WE9oQmVQUQ?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-09-10T22:39:24+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Morning Wrap: ASX 200 to fall, S&P 500 and Nasdaq slide a fourth day as oil and yields surge Market Index"
+    },
+    {
+      "id": "5aafdc9dbc1a3e1d",
+      "title": "TCL and TLS shares: 2 ASX shares to watch - Rask Media",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT21famYzU2FXZEpSLW1JYVhUSXVMempzbTNqWXM1WVUzMTRNZEVEc05vTXNRV1RsOUtpZ2Z0QVNVQlRDbHN5aWxuMUpBNTcwQlpsY0tIN0lXdU1rODNXWVBENmJjNTN6WEp0TUFVSU80VmRLeWRQaWE1Y0lONWk0TlJ5RTFVak1aWGhJ?oc=5",
-      "source": "raskmedia.com.au",
+      "source": "Rask Media",
       "publishedAt": "2026-09-10T22:17:18+00:00",
       "category": "markets",
       "official": false,
-      "description": "TCL and TLS shares: 2 ASX shares to watch raskmedia.com.au"
+      "description": "TCL and TLS shares: 2 ASX shares to watch Rask Media"
     },
     {
       "id": "f6a311d0536f7a9e",
@@ -23,16 +93,6 @@
       "description": "Australian shares to open lower as surging oil prices hit Wall Street Capital Brief"
     },
     {
-      "id": "995befdd32479918",
-      "title": "Rise and Shine: Everything you need to know before the ASX opens - NT News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRXFyc2ZGNGJJaThLLVAyZXdxVnBxZ1dOb1h0SlNuNF91MkFTVGRncWlOQ2N0RmtkaW1WejZKNC1RLVo5bWgzN2VVcFJkaEZNeVd0aEtiOFctamZ2d0VoanY4eGVrWC14VzBuWnNXbjhNd2plSjQ0ZU1GVFFuaTYwdU9nUXE1THlwQ2dQQVBZY3R4Tm83Ui1Bd1ZmdUlneU1oWUEwQkRDOS1VcmFRSjZVZVM3ZFFvQ1V2NU1vdmlCSVVCOWQ4dWRTZmdYMDFrWGtOSm1YQ3A4clJBQ2pvZUFsYTVKdG52ODg?oc=5",
-      "source": "NT News",
-      "publishedAt": "2026-09-10T21:39:48+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Rise and Shine: Everything you need to know before the ASX opens NT News"
-    },
-    {
       "id": "bd46efab26e26d5c",
       "title": "5 things to watch on the ASX 200 on Friday 11 September 2026 - The Motley Fool Australia",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGRsU21sdEc5UmozVmRhSXBkY3hKamJianhrR1RTZjBzd01HTmUtZVlXcHJSQThmLXlVc28tVnhrR2I5WjVwQ3BWUjVwdG1CS0Q0YndXTzIxQlBIODVuTVhzd0xyTXBLaTUzU2RzQm81VFRhYnJjRUJUdDJmM2xPTlZqSTc0bGd6SVBPOXQ4SlRNMFo3dzNoVnFzYms?oc=5",
@@ -43,24 +103,24 @@
       "description": "5 things to watch on the ASX 200 on Friday 11 September 2026 The Motley Fool Australia"
     },
     {
-      "id": "6c98834a47791976",
-      "title": "GFC 2.0? Could ASX shares be heading for another major crash? - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2VEcjBrQ25hV3c0WG1hcG5FZ3NRQWEzczQ5d1kwSENHVUhDZ3FidDJPdjVZOVdKWFM4M2ZocXVVaFUzNkVydlFLVWxpV1RLZWQ1SUdmUlJBaXpZRnpsbGV1dGFROEpKeXQtLXA1WjdGUV81cGx2bUpQQkpXUTE1ZHRoVmdWUFBfdWtYUmZ2RzVxd1BsVmtZbXloNA?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-09-10T21:30:00+00:00",
+      "id": "cde217081cd76e01",
+      "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWo2c3BjNTVxTWVFZng4SUtRdVhmUks1SzNIV2FaUlNzT3QwcDFYc1BhbnBDVzhtMElCdi05RWtaZndzYzhfbmtXY2FyU2laWDFGU0wtMUV5eGhhbUtzek5LN01ERERPbWl6Z1FBQmlKelZKc0xoOFFxRVhmMHF1d05PbXlOWllsa2lVRDd4SjlMa3dWWHZ3Mi1kbkFqZmM?oc=5",
+      "source": "Stockhead",
+      "publishedAt": "2026-09-10T21:19:35+00:00",
       "category": "markets",
       "official": false,
-      "description": "GFC 2.0? Could ASX shares be heading for another major crash? The Motley Fool Australia"
+      "description": "Rise and Shine: Everything you need to know before the ASX opens Stockhead"
     },
     {
-      "id": "ba1e240f5c205bfa",
-      "title": "ASX set to slump, Wall Street falls as oil climbs to its highest mark since May - SMH.com.au",
+      "id": "e924628bda3eccd0",
+      "title": "ASX set to slump, Wall Street falls as oil climbs to its highest mark since May - smh.com.au",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV09maHQ1U1Q4MmRUemZUanZfWUNHTVpNYzBTeTRhQkpvUXllUXZPeFVzNzRnNEp6UVc0YnVTSmJIdmduMUp3a0ZCZzdCZ2tfbWlkTjBWVjZqQmJaaXFFTkdKNG5KalRoUFM3OTZDNE9aR2pvSmNyMzdWS1hrX3FZRFBQOWJpZ1JjTEk3UFlEZ3FRbllGV09WblBjdlFkR2Uxc1JTcXEwcEcxQUpDYnZ6Zm1MenhlRjV2eWVQemhDZ05EQ3hqcDV3UDJ1bFNvRC1JQmVuaHRR?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-09-10T20:27:18+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX set to slump, Wall Street falls as oil climbs to its highest mark since May SMH.com.au"
+      "description": "ASX set to slump, Wall Street falls as oil climbs to its highest mark since May smh.com.au"
     },
     {
       "id": "e5ff2fd3efa005e4",
@@ -73,24 +133,34 @@
       "description": "ASX set to slump, Wall Street falls as oil climbs to its highest mark since May The Age"
     },
     {
-      "id": "63f7bfa4c2bb8c73",
-      "title": "Why young Australians should abandon the ASX - Livewire Markets",
+      "id": "dc7762effaa92f94",
+      "title": "Australian dollar slips below 0.7200 as firmer US inflation bets lift greenback - VT Markets",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnljSlNoMVNTNnZZcW1NMnY2WmktTzE2SFh2alpHdU5fZTR2UUFneHBud244eU4zMl9ORkhhSjdJZXc0dGZzYTNnTm9vYlotbUM5UUhuNm9WeGMxejJLbGg0cHRqRDBxc1FQVk9NcnhyZkdSZE9Sdjl1UGN3Sk4zSEZGUDQ4OTJsR3FhSDNjUGRsM0lLcVN6RTZXMktKbzU2dTlONFlsRWpGTktEUm1DWmdOa0l0SUljVHc5aWdhLWQwVFlkQVE?oc=5",
+      "source": "VT Markets",
+      "publishedAt": "2026-09-10T20:11:12+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Australian dollar slips below 0.7200 as firmer US inflation bets lift greenback VT Markets"
+    },
+    {
+      "id": "f0a585ca2ed186bf",
+      "title": "Why young Australians should abandon the ASX - livewiremarkets.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnR3bXNpdmF2cGpRQm1ibkVzSlF3YUNydmFxXzhFSEFfSFU0VnUzSThDNjlQU2NTNUNxaWVGaU4yazQ3MTlZNjhuZlJ3ekZwR0pGQmFueVdwbFkxcGdzeTF4RDBZZkczNWVyY19EbGx1Vi1BQ0p2azhBXzFTaXduZ3NnOHlqU29YMmc?oc=5",
-      "source": "Livewire Markets",
+      "source": "livewiremarkets.com",
       "publishedAt": "2026-09-10T20:00:07+00:00",
       "category": "markets",
       "official": false,
-      "description": "Why young Australians should abandon the ASX Livewire Markets"
+      "description": "Why young Australians should abandon the ASX livewiremarkets.com"
     },
     {
-      "id": "223116bd344f34f2",
-      "title": "Lower pension spending should not be the sole measure of retirement success - smsfadviser.com",
+      "id": "5d742036c19f5659",
+      "title": "Lower pension spending should not be the sole measure of retirement success - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNktKbFVZVDItbURHNUJ2QVFLVXlXVHlpV2ZuLWV1RndwOVNmNXhERlJsS3FSSUtTLVdWOEV0azY2MC1lcW9HUjk3bHYzTGRyZW1RSGd6UnVvRVRrU1lCaFBFa0N3dWpUaW90WW4ydmVfNmRiMGNOS3Yyb0pqX3hpcDItemZJcnJxWWFnYkVMLXF1S2dvMmE0MVJwYnBPRXozeWhQUE1xUQ?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-09-10T19:53:34+00:00",
       "category": "super",
       "official": false,
-      "description": "Lower pension spending should not be the sole measure of retirement success smsfadviser.com"
+      "description": "Lower pension spending should not be the sole measure of retirement success SMSF Adviser"
     },
     {
       "id": "6caf6d4a16832b2c",
@@ -113,26 +183,6 @@
       "description": "ASX Growth Companies Insiders Are Eager To Own simplywall.st"
     },
     {
-      "id": "215658fdc9594271",
-      "title": "3 ASX Penny Stocks With Market Caps Below A$4B To Consider - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWTlsYkdDYTQ5T2JGOG9XSGh6Qk56Q0wteksyRWZkNVF3NXdUYlZmdWM3MUc0R1c1bkRGYmc0MWJjZm45V19GWGxGdHl6TU14TXkwbVM3NlRIYkZVQ1JBd2Q2WHhIc25hN1NmRWNsOFNyUU4xVjViUElZQTFDeDZvalJqd3NtaHQ5QUVtbElQTzZSN0FRaVJraHZKS2ZWNDBQbUNKV1lxQVRmQ2NXeWkxeTBuLU81YVBWbGhnSUJnbzZvOWZpMm5aNDVCZjBIdVZKWlHSAdcBQVVfeXFMUHQ1bTc5TzRteUdueThGb0toV0Vob1FfZXBkMjdaSFN4eHotQ2J0b0llaktCR0hrUHJPa0xkQV9EREFUT2hiUkhYY3FpdlJVY2lVVVlGVXl6T2lBZzlyaXVDNnd5OUdDUlBWTGhWbTJqVm1WQXpuQ0g1eWo0ZDBnMmtMOEE1akdDdGlXY1VkMnlRZG51WFcwcHJWSnJwbjVHc0N6SThaT0lxSDRZRnlUZGNrQXdCaG5oU3Z0TWE4NlFCdHZac0R2UWV2emRlWXdrQjlDZDFoUlU?oc=5",
-      "source": "simplywall.st",
-      "publishedAt": "2026-09-10T19:08:48+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "3 ASX Penny Stocks With Market Caps Below A$4B To Consider simplywall.st"
-    },
-    {
-      "id": "d16e7d32627a229c",
-      "title": "CITIWARRANTS 40.7177 IVV 25-OCT-35 INSTAL MINI (ASX:IVVJOB) - intelligentinvestor.com.au",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjV1eHA5c1dsMzZyRVNHR2Z6ZGJFdUJuTWZ2RF9TSzJtb3ZmYm0tUWdBdTlaTHJBSUVFdExCRlNjd2MtbUZ3cGR1SlNST0JnaF9JQm0xQUdWNW1kaHdtNnJKRTAyRlNqNndqVmh5ZEV2dlVueXNUWXI5UDdPakdZYnhqWWMyd2x2MFcwSU5Vc005VzMxaGpfaExIMXdKeE9sWUU5UA?oc=5",
-      "source": "intelligentinvestor.com.au",
-      "publishedAt": "2026-09-10T17:15:08+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "CITIWARRANTS 40.7177 IVV 25-OCT-35 INSTAL MINI (ASX:IVVJOB) intelligentinvestor.com.au"
-    },
-    {
       "id": "311d53b9d926603c",
       "title": "Australian Dollar Price Action Setups: EUR/NZD, GBP/AUD, EUR/AUD - stonex.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemhhVEZsM0tVSW5hQ0JqekxpSzFZNWs4dXpKYnlNUjZ5bXZFa3c3TlpyODYxLUJ0emU0c3ZvUEtoMzdzZVBZdHQweG9jdWhYSUg4aTY3LTFCU2I1ZTJuZUxFVUtqcnhSR2lWUy1GMVlUWWt3YVhUbDFCNVJLNnlhN0JTTG52ck81VnQ3QVRITUxUb3dxVm52ZVJwTHV6bEgzUHdZUFdHY0xSekFQbkE?oc=5",
@@ -141,6 +191,16 @@
       "category": "markets",
       "official": false,
       "description": "Australian Dollar Price Action Setups: EUR/NZD, GBP/AUD, EUR/AUD stonex.com"
+    },
+    {
+      "id": "a2692f755751fe34",
+      "title": "The Morning Catch Up: ASX set to slump as oil surges past US$108 - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMVZRa09TenZBZmRRbW15ZTlwNVQ3c0pWa1MxTXNjNFRENElEOTBKTGNlTHdLUFNGcGxoVDIxLU1xSWVjT1JvVFlhVm90ZmZMc1VKODBRUlk4dW83dUluSUw1bk1lakt2djZmTnFwdkMxQThTUnhSR0pmZ1Azdkp5T3FEVDZFU0JxdU5teFFDZWk3aV9rMnZtX3F4MThjN24zZmtsU1poZ0cwQjI1NUVlanV1TTVkUXQxMUltMWFHXzJyQmo0eFN0VjJzNnhiMDdLeGVJ?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-09-10T14:19:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "The Morning Catch Up: ASX set to slump as oil surges past US$108 Proactive financial news"
     },
     {
       "id": "b1cb94e756a3a823",
@@ -153,16 +213,6 @@
       "description": "Top ASX Gainers Today: St Barbara (ASX:SBM), NOVONIX (ASX:NVX) and BrainChip (ASX:BRN) Stand Out Despite Market Weakness Kalkine"
     },
     {
-      "id": "20a220fc95cfef09",
-      "title": "Karoon Energy (ASX:KAR) Rises as Oil Breaks US$101 and Global Energy Markets Heat Up - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2JTd2RLcHV3dFVZUHpBaVJkcm05Z2IwRFFfRTJQOWwzYUFmUzAyWWlBQlMtdDhCWXJBMlN3eVpwRkJ1dVFvSG1yLXhYSmRpbHREM1cyb2ZYS3huOFlBa3R5T3ViQjEwNG8zRWRTUnNSMWYwSEhZR2djYWU0Znl5WndMNVlGaDExdDJabVJwWHkxekFVQUlZZklRN2RnSG5YbkpBMGxiRndYR3pZcGFkT0lOXzBkdGMzODcxd1VB?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-10T13:31:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Karoon Energy (ASX:KAR) Rises as Oil Breaks US$101 and Global Energy Markets Heat Up Kalkine"
-    },
-    {
       "id": "1c5486259d26666c",
       "title": "ASX Limited (ASX:ASX) Gains Attention as Exchange Operator Shows Resilience During Market Weakness - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmV0LUxIQWRaVWNaNE1Fbjd6Y1NBcDZHSG1wX09CM09ic2J6MTd4RnVfNnBjWVVhZzRZNTNBejl1dzc2UUFPOGVqaHAwNUpQSTI0SHVXajItbkpxMG9JSVBKVUxyTUJUclgyNWphRXNVUjRSZnZyTDY3SEZvWG1Id2tQM0dEWFNqTzlaTFljZmJVNXRIMF9aQmVfcldrZU5RQUYyQUcwcVl4YV85dER2YjB6NEY5b2RIbVE2MkpOaVRYOWNsQS0xWURkeHQ5MXN0SndkVEpYV0dPaDQ?oc=5",
@@ -173,34 +223,14 @@
       "description": "ASX Limited (ASX:ASX) Gains Attention as Exchange Operator Shows Resilience During Market Weakness Kalkine"
     },
     {
-      "id": "d20c04330c5b9b7e",
-      "title": "ASX Communication Index (ASX:XTJ) Shows Relative Resilience Despite Broader Market Weakness - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGV0WXp0UjRhUGVUbGRCWVVZcDdHOXJDZGg2RFg4R1VrdDFHOUhHN3pCS096dGlNSzFLbk9zSWhjRDdPSUNvMGd0QzdkMm9VLW1XLUlRd041UFpKcGlWWl9ZeXZEZkQ0VjhybzBocFBCaFpXVEx0WVBXbmctQ1NqU09xTk84TzExVG5RTlVIZEF3UUNhYmoybmszZFI5YWlQbF9MaWktNE1hTVJUV2dLRjJWWkV6ZS1pN3FSZlQ3d0JsWi1odkZrYWl3?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-10T13:23:00+00:00",
+      "id": "a931149f6ac6e92f",
+      "title": "Aussie shares take a hit after narrowing losses - CommBank",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOW1MQTJrbXRYU0FwV2J4SDNmLTVYVUNEYVFoZl9NbUk5eVk3N0RIaXRwbFlkeGtiMEJjRGZVVEpEQnh6Vjk1RTQzb1FuN0c4dm5XQ1Z2clYyQWYxWjhGVEtpMGZvOExKMEg1RXJ5MF9uOUo1X3lJUW01N0p4MmRtVkdVX1Z0WlRDVkhZYzlTTVlhb29xUkpqTEpDYnIxU3NMOWtJWDJaQ0VkQQ?oc=5",
+      "source": "CommBank",
+      "publishedAt": "2026-09-10T11:43:24+00:00",
       "category": "markets",
       "official": false,
-      "description": "ASX Communication Index (ASX:XTJ) Shows Relative Resilience Despite Broader Market Weakness Kalkine"
-    },
-    {
-      "id": "38d0ba6fca58a8ea",
-      "title": "ASX Metals and Mining Index (ASX:XMM) Falls as Rate Concerns Offset Favourable Commodity Prices - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVV90NjNVUUFwbE9JSE9ZM3Jjb3B3VUlGTWZkZGJyeTd4d2Z4QU4ycEg2NkhJbmR3WU84Y2F0alBMeENORGdpeVk4U3VxaXNGNC1sZDVwdmtzRmJjU281bjMtSEhEZEN4OTlQZ1U0VUdLVTRfVmZQa1pjY0hJSWJaQnpDbUloNVNjeGRlOXRQVVF0NnYwYTczT0tVemZSVU1IN2ZlZVVoSHk5cERuOFVtNXhXYmxRVTYzUU9keFZkZmpKSXFJdGdjT0xwQTR6YkE?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-10T13:22:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX Metals and Mining Index (ASX:XMM) Falls as Rate Concerns Offset Favourable Commodity Prices Kalkine"
-    },
-    {
-      "id": "3ea05bfe45a26a08",
-      "title": "Bapcor (ASX:BAP) Continues Its Multi-Year Operational Turnaround - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU1mbXBoVnF5X2dLRWE1YnAyQ3Y0RDlKMnI5TDcxVnkzRXpvRkJTUXBKTElrcmJTcFRCX0l3N21PelNSOHdlMzhZblNacXpJSjU3N2FVMlRqNU5rSjdiUTM3OXFiNDNHMTg2bXc3NU9ZdmZxNmdwV2E4ZEpVMWMwb3JsSGtnTnlXWkFLclB5eURVd2RvTUdWWWhHMDBqNGlnbzREZg?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-10T12:40:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Bapcor (ASX:BAP) Continues Its Multi-Year Operational Turnaround Kalkine"
+      "description": "Aussie shares take a hit after narrowing losses CommBank"
     },
     {
       "id": "bd36502b3d0e426e",
@@ -223,14 +253,14 @@
       "description": "Could someone be draining your super without you knowing? UNSW Sydney"
     },
     {
-      "id": "6c717199de8648d2",
-      "title": "Billions wiped off ASX as investors fears grow - SMH.com.au",
+      "id": "b9472bff01e9b155",
+      "title": "Billions wiped off ASX as investors fears grow - smh.com.au",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2l2eHozaUdhd29zV3ZaTFhibHZPbTdtREM1WTItQk1yOHFKdUJsWlEySnlvSU1icFJhRkhRQlFOT0xnZ3RUUWszcTVNdVVZLWhSMGhtVHdDQ2NlUDJiRVRUaDE3YklPUk1KWHRvQ1dkcU1aT2YwRk9iSlVfYktBMjdNa0cwdkNRbDNaa2JLaWNPZE93LXJEeEx3elVCX3pr?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-09-10T09:21:57+00:00",
       "category": "markets",
       "official": false,
-      "description": "Billions wiped off ASX as investors fears grow SMH.com.au"
+      "description": "Billions wiped off ASX as investors fears grow smh.com.au"
     },
     {
       "id": "bd6e0cf883ee1377",
@@ -251,16 +281,6 @@
       "category": "markets",
       "official": false,
       "description": "Evening Wrap: ASX 200 slumps as record copper price fails to spark miners – rising energy prices stoke inflation and rate hike fears Market Index"
-    },
-    {
-      "id": "3a1fa453b1d2898c",
-      "title": "‘Smashed’: Oil price surge batters ASX - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcXB4VENySUFzZ0RYZ196RHBFUWdodWt6TWt0blNGOEluRG9HR01IZ0JLSTcyRFpxVjNuMzUwTTFuVGs5b0g5WlZ4cUdOMERXZGxuOGVLUzVlOGhvU3NLWjhmTm5aRDl3RFpUZS1XTC05MlY5R0tMM242RDRtX3RLdG5GWnVhSG5iM1FJYW9zWkZoTS03UEtyLVFsTDhJZENlTi1aMld2QUstbENCY0p4R2l1UW8xVk5wZVNoYmF5TFB3ZGVvU3UxUDktblhSSGxiU2FJSEhyOU9VanZSNnpoc3FtRDBvQm12cnFTcDEwZUJVZ0JBYWt5T2J0eFd0RDhhYU5ZZUZGU3VGeWZBQ1HSAZMCQVVfeXFMTTdkNDBMNnlLam1GNTkzU2pIclp5VWlOQXlKLWdsTDY0Qk5abHY0V1RqOXZYMkQ1OHQwMzhkeXZDc3Y3NUY3YmZ6LTdIdldJT2ZZUHUxNW1TM1hQSmcxWGI5MFU2UkZfUkRCLWdsMTR1RlNFQ0ZOc2F1anFoblY1TFVGd1FPYklIVVBMUG9RQnpJODY3X0tzWWtYb05vbUFRSnVFZEQwZFpWdFpkLXBJNWdrUUVRZVJuTlduYjJlanl0LTdMZTJScXVLaVVlWTg3ZVRpNXhUTmlFeGpYTld5MGwtWTBlNHhrbXFjRG5GV3lRTHM4Y1VtUEsybGh5NVJQYnJ1LThEUWNycEh5X0VQSGNXTTQ?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-10T07:44:45+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "‘Smashed’: Oil price surge batters ASX News.com.au"
     },
     {
       "id": "e15b703d66cb9ac1",
@@ -293,14 +313,14 @@
       "description": "Superannuation can anchor Australia as an Indo-Pacific financial capital: Rudd Investment Magazine"
     },
     {
-      "id": "255d624925c3c0bf",
-      "title": "Venari share price sees major jump on ASX - Mining.com.au",
+      "id": "c6cb1ab3929d454e",
+      "title": "Venari share price sees major jump on ASX - mining.com.au",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rYmxtRWFadFlOSVk0M0dDWnVFRWc2VjRFLUoza0tNc0JwVm5ycUtSQXNIcXBHcFRaY0QxQlMwQXJObkxSSEZfQzFpYVZ2cnNoTTFTZ21WY3JBck9ZQ1N3bGdtdUhEM1dwaHNVQ2tmdDJUUQ?oc=5",
-      "source": "Mining.com.au",
+      "source": "mining.com.au",
       "publishedAt": "2026-09-10T04:24:55+00:00",
       "category": "companies",
       "official": false,
-      "description": "Venari share price sees major jump on ASX Mining.com.au"
+      "description": "Venari share price sees major jump on ASX mining.com.au"
     },
     {
       "id": "5ab6b3a38b1b18b6",
@@ -313,6 +333,16 @@
       "description": "More signs that interest rates are about the rise Australian Broker News"
     },
     {
+      "id": "65cfbeeeca87c389",
+      "title": "Insurance Australia Group (ASX:IAG) Gains Momentum While Market Focus Remains on Insurance Fundamentals - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN19oR0lHc1F2dDdaWnh5cXR1TkhLaGJQaDJieW1fWlE3SkZQN2xfZkctZXpMZ0N5UldFX3hwLWtPaFVYOS1OS1V5U1ZyOHd3S19hZzZsck9TbGFKdHFvWWZrRjQzb2swY3NUVTNGU3BqRjNTOWFxUzI3aXdPWUd3N014bTBNaE1OZTJhOXY2eVBCTG9hMWljWUI3ZVk2ZmRIUC1rQWE3NElZemxqUm1RMnBQSmtzR3RyQWRlQTdjWG5VQUktWnRJaUVRR2c1RzRHMzAwenlFYnc?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-09-10T03:25:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Insurance Australia Group (ASX:IAG) Gains Momentum While Market Focus Remains on Insurance Fundamentals Kalkine"
+    },
+    {
       "id": "f4898dde1fcce769",
       "title": "The CommBank View: Higher rates, harder choices - CommBank",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGwzaWtEeHJTd3RaN3N0M3NIUmwtanRJRVJDSFdPS2J3VWZmWnY2ME5KTEd0MFN2SkdGYllTYkxpbWMxamo4WXk0VW4xN21tdVBidHVKano3Ry14STl0Z0tnWUhyVE1LaTNJclhzbUVzWnIxODFVNkszb1h5MGc0ajd5dENGR1RCVzZsT0gwTW5QMEN4SVQ1NEFrdWFveUl5ZGc?oc=5",
@@ -323,64 +353,14 @@
       "description": "The CommBank View: Higher rates, harder choices CommBank"
     },
     {
-      "id": "e6b04d0c558c0b71",
-      "title": "ASX’s worst day in months; Markets just showed Bessent who’s boss; Why Bathla’s collapse is being compared to GFC - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMUdwSFZvcFZiNkRSdWlrSm4ybWlIQnVzRFFtUnZQZGpnSlZpQXd4SnZXbURjelFWUGJ3Ym9kbFZIb3BXQWROTnc5MUFZRnU3RmV1VnJxWlNFelpFSVJ5MXl6dHg3UFN4OUxaaFlydDhwRXNLLUN2OEM0TUdrRklsOS1OenRaV2xtZUZ2azgyQ3JuUDI2ejhzNWZOOHF1V21xa3pMUU9HUWZDSC14RmFTblVVeXZxS1IxNFRMbWVRNHBtbE02dHl5UVRrWEdSXzFHMFlCci1lYnNOa1FyXzVWZ2FYOW5VZGlrY1BCckozam50azZTcVVlNVU1c3kxczQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-10T01:53:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "ASX’s worst day in months; Markets just showed Bessent who’s boss; Why Bathla’s collapse is being compared to GFC AFR"
-    },
-    {
-      "id": "6089b62b3968aa04",
-      "title": "Chalmers puts super at forefront of next election - smsfadviser.com",
+      "id": "c8a5a8f8a516cad9",
+      "title": "Chalmers puts super at forefront of next election - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFk3OWRabi1EVXFtTlhYV3I5UEZUSTd5enBoVTRnWTU4ZzFQeUlyelV0MEhkNmN1SGVUaFpibFM2UFdnaVRsY3N4emEtdjcyRC1lMlNMYS1wTVlKZ0kxVDNJSFI0QkFMNjhlM3lYQkdvaFdaX3ZLYW5tZ1lHQW9ZbmxzTTA?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-09-10T01:33:17+00:00",
       "category": "super",
       "official": false,
-      "description": "Chalmers puts super at forefront of next election smsfadviser.com"
-    },
-    {
-      "id": "cedc587e36bc75eb",
-      "title": "How Is Jumbo Interactive Growing Beyond Australia (ASX:JIN)? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnJ2MlZUQURQaHM0R2pPUFlWMnlQaW1RZDZ1RzlqUnpac0lBX2hSX1ZxWlI3RGZab3RtaTh2b2ZyRDBMUGtKMGljcnN6Q2lHc3Y5QjRTRUV4OGpUUmFPTmJ2ejJuQkU3cnBRalQtTU16VnVyZGZROWNwRGYxZFBnek54dFN5WWdxTXVLanpYb0l5dkJhaEg5bGYzRUJYLXNhM2c?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-09-10T01:17:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "How Is Jumbo Interactive Growing Beyond Australia (ASX:JIN)? Kalkine Media"
-    },
-    {
-      "id": "960eeee712c055d5",
-      "title": "Which Way Next For IDT Australia's CDMO Push (ASX:IDT)? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmR1QWR5ZldkVE9vbDF1QjlfQzBDdVJRd0FYOEs1N3pxMHd2cWRfTm9udmx5Z3ZxYnBCbWh6VmV4eTU0NVN6R2EyRXhtMnlnNXp5elNpQVE2WUZFX2VYdDNERFZFQWFLUmRUQjd3RHFrWTlPZDBKVWxFNEx0ZWF5RmI1T2dmcU5aRjFBVHVrU1JGcng0bXI4U1h3?oc=5",
-      "source": "Kalkine Media",
-      "publishedAt": "2026-09-10T00:45:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Which Way Next For IDT Australia's CDMO Push (ASX:IDT)? Kalkine Media"
-    },
-    {
-      "id": "878b2deed59370c7",
-      "title": "2 ASX shares tipped by brokers to return 66% and 90% - The Motley Fool Australia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXltWG11VFNHQzZUcjUwUEhWQXdNN1pSRV9GMS1sOGI2MF9YeVU2MXNkdEpUaFJ2YnZ3M1dwUGFyeUpicGdiYUR0M2hKaEFsdE9rZFAzN1ZFMWRucGstQlZ1UXlvWEQ3a3FLa1hNLWRLNG9EQ0Y4ak5CQ050V3cxZVNDMEFpY3JYQUpEak5FRQ?oc=5",
-      "source": "The Motley Fool Australia",
-      "publishedAt": "2026-09-10T00:44:25+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "2 ASX shares tipped by brokers to return 66% and 90% The Motley Fool Australia"
-    },
-    {
-      "id": "915facab6e3065a0",
-      "title": "Australian Oil Co (ASX:AOK) Reports Production Gains at Emu Apple Amid Rising Oil Prices - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFM3blpROEFMeVZYaDRwN1lOS2FqRW5MUmUtYkN5c2dwQmRZQ284M2lpNWFZWGN0TnBCV0U1cXNBTTd6U2RZcVZIc3o2THhGWjkyeE1jM2lreGs1Sy12YWxpWnJVMWJYaWVkUl94bERFNjNBOHhPY3VEeXF6ODI5bXhxOWp3b0JESzl6dWlacDN6YmFXLUU4X2dueFpiVlM4MVZkOEJRUEtLcXZSdU9qcXpvUUpiVkZlZHZtVw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-10T00:35:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Australian Oil Co (ASX:AOK) Reports Production Gains at Emu Apple Amid Rising Oil Prices Kalkine"
+      "description": "Chalmers puts super at forefront of next election SMSF Adviser"
     },
     {
       "id": "0a8727d668498615",
@@ -423,14 +403,14 @@
       "description": "The RBA hoped this year’s three interest rate rises would tame inflation – but nothing is going their way The Guardian"
     },
     {
-      "id": "e96b9b225b1233ad",
-      "title": "SMSF record growth highlights appeal of retirement control - smsfadviser.com",
+      "id": "fbcd3ba46d7836b3",
+      "title": "SMSF record growth highlights appeal of retirement control - SMSF Adviser",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2x2bTZtbEFjN2RrdkdUUjJQd3NZNWJQem1JWGRJOVhXcVJFZUZ2Z0RROXEyMXFUTnZaU1JDMktDQkp4RnFKM0IxaFNUM0xQb0x2d2tTczZFeEpoYWlWQ3FSNnJuQXV6Y3VXaHFuaXgwbTYySFpQdnYxUEJJQnZlNUxSMm1OUUQteUhoRUxObHc?oc=5",
-      "source": "smsfadviser.com",
+      "source": "SMSF Adviser",
       "publishedAt": "2026-09-09T19:55:41+00:00",
       "category": "super",
       "official": false,
-      "description": "SMSF record growth highlights appeal of retirement control smsfadviser.com"
+      "description": "SMSF record growth highlights appeal of retirement control SMSF Adviser"
     },
     {
       "id": "8a99f88dd3731fa2",
@@ -451,6 +431,16 @@
       "category": "companies",
       "official": false,
       "description": "Murray Cod Australia (ASX:MCA) Gains While FY26 Results Put Scale and Profitability Under the Lens Kalkine"
+    },
+    {
+      "id": "976c72a4cde53645",
+      "title": "Farm Pride Foods (ASX:FRM) Under Spotlight as FY26 Earnings Show Continued Operating Improvement - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVV9fWXVKMXhCblZMMlFfOUNQT0xaS0ZOTm1icXNBS1VxdjZxTmZyei1yMG9sOHdkbGhIR2txeExGSUJDQXA2T0UzdVBwa2tQcmVsbEVHOU9zX0JjWk9NcXNleVRnbmRYdGVWOU9wMERtMFdQdVRmQjB5RjQyNjIwYzkzNVdkZjc4Tm05N1Y1cVMwTVY1QlBOaXMwV0FzeEx5cFkzdmVMS2g1bFU4R3R6M2VOV19IQXpVY1JPblhTX3FPLTFmOE9aM2Rn?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-09-09T11:27:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Farm Pride Foods (ASX:FRM) Under Spotlight as FY26 Earnings Show Continued Operating Improvement Kalkine"
     },
     {
       "id": "3f4d35265a3f4a2f",
@@ -553,14 +543,14 @@
       "description": "RBA tipped to lift rates to 15-year high News.com.au"
     },
     {
-      "id": "5a77409cdee31083",
-      "title": "Clearest signs yet devastating news is coming for millions of Aussies - nine.com.au",
+      "id": "9a13da8451f20ce4",
+      "title": "Clearest signs yet devastating news is coming for millions of Aussies - Nine.com.au",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZllWY2lLMnZPWVU4dEpKOG8xeUJVTlNNNTdiMTBLVU5TM3VJVWQwQm5HZEd2VWlIMmhlWGRsckdhQ2w5aGtIQVVtdHVHdXRqckJjMGYyQnJTWEJuczBoM24yekJBR19iNWJLVlpCREJWS1NRb2lsbmVpYURkTkxqMkxsZmEyT2VDMEZKU25hc09VazltYkhaYWNkNjZVMERqRVVoQm9JYzdlWEhPZ25oeldCMF9IQ2VQa3FwX2xmV2xpa1B5dGxpQzBB?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-09T04:05:12+00:00",
       "category": "economy",
       "official": false,
-      "description": "Clearest signs yet devastating news is coming for millions of Aussies nine.com.au"
+      "description": "Clearest signs yet devastating news is coming for millions of Aussies Nine.com.au"
     },
     {
       "id": "2c5d5c5f919404b5",
@@ -663,16 +653,6 @@
       "description": "OpenAI is buying Malaysian compute from a Sydney company The Next Web"
     },
     {
-      "id": "0b56ec8b84f99f18",
-      "title": "CAR Group (ASX:CAR): Can Australia's Online Auto Champion Keep Turning Global Expansion Into Growth? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT29FZDhjdVBBUjJrRlNlZlpLbmFsUmdld2Vxa3FoM1JDSVBqRTd2bFAxRGFQOS1CY0pwQ3NEYWc2UlpBOVRWUXptaElidVdxbHVNOW9ubmZBOTM3eXNBdzNJRm03eHlxWmV1ZGFKQlp0emRENmhZaG9aZm9Ua1lxUzFnSUNXN3lwdG1GNGVRRzhTVmJ1NnFtLXdHOWdsbWZjOXZ5SkRZbjB0Z3ZmZWwtN3VQd3BaVXNFaGxNb0R6WWItMHd3NUJvZ0IzLVFjbFBaeFdVZHJpczU?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-09-08T13:35:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "CAR Group (ASX:CAR): Can Australia's Online Auto Champion Keep Turning Global Expansion Into Growth? Kalkine"
-    },
-    {
       "id": "349105427533c7e3",
       "title": "Chalmers says Intergenerational Report shows super puts Australia head of the pack in containing pension spending - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3FiOEZSN3hEeUYzQVMwOFVLTllnSDU3OU1MdzZJdWplMlBpRUtnYWozWXFMNE56eXZlaE5URmpzU0FCM05QVzVpZVVYY0FxNEVFclVfWG1vdXlia2JoeEdsQXZ5TjhmUi01QlVXVERCdl9oM2wyQXZGOVZWQXNLSnZrdlpLX1hlSFAtQllhYzBqVkxRRmpHZmpoLTRmMkp2OTZVaDNXQWlSRXRqc2xMWURoZlJoVzhXeE9kaXpxbnVrMTdqNGU2V1RMZFVOaTFzYzBhYmRjZ0U3TU5LdU15S25B?oc=5",
@@ -763,14 +743,24 @@
       "description": "Forrestania Resources (ASX:FRS): Gold Exploration Across Western Australia in Focus Kalkine"
     },
     {
-      "id": "fc995382b6043c66",
-      "title": "‘May have to raise’: RBA’s bluntest warning yet an interest rate hike may be coming - nine.com.au",
+      "id": "be40fde470ead090",
+      "title": "‘May have to raise’: RBA’s bluntest warning yet an interest rate hike may be coming - Nine.com.au",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMnZvRk50cmRpeFdhLTdmVWI2cGNoT3hEVHFLeEg2YnV5cFhCSGZyOWtWUlpDcU1LS1o4UW5BWVpHYVNTOGh2S1V5RXJyb1diak1yZ2NGR3VoWHhZbHhiMFpuTW9xOWNieGhUN2stNk1oYVU3azl5SERPRVZqeUJIZ3p4Vk90NXpHaEtLV0dKcmt0TFhzbnc?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-08T06:48:49+00:00",
       "category": "economy",
       "official": false,
-      "description": "‘May have to raise’: RBA’s bluntest warning yet an interest rate hike may be coming nine.com.au"
+      "description": "‘May have to raise’: RBA’s bluntest warning yet an interest rate hike may be coming Nine.com.au"
+    },
+    {
+      "id": "6ba738af44ecd3b0",
+      "title": "Australian Shares Fall; Amplitude Energy Intersects Gas-Bearing Reservoir at Victoria Well - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUpnTGpMSzhNajFGTnlHT2ROa2tmQ1pVcnVfOFhhZ29qVFVCYWtYTHdwU3hOT3FTTV90ZW5Jb3hYU0pWOHl2a3BJUFVxd2NOeXVwWFh5cDl5VFV5QWlHNThQV2NOVEpaY3JJMWwxZkVLdkE0V3FhT1Y0dTNuQmVBUlkwN29KM3FjanRNeW13aGt5dw?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "2026-09-08T06:24:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Australian Shares Fall; Amplitude Energy Intersects Gas-Bearing Reservoir at Victoria Well Yahoo Finance Australia"
     },
     {
       "id": "a9b4c17d27ea6859",
@@ -793,14 +783,14 @@
       "description": "Australia’s sluggish growth may still be too high to kill inflation AFR"
     },
     {
-      "id": "f5c94fbbd2088077",
-      "title": "Australia’s home values have taken a $34b tumble off a stratospheric peak - SMH.com.au",
+      "id": "96ae9b9221a23d69",
+      "title": "Australia’s home values have taken a $34b tumble off a stratospheric peak - smh.com.au",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUDV3OFA2MG5jS2VnNGY5c3A4YWhKYmdKWGxrVTRBejk4NUhNRi1oYjlUSFN0OGtuVDlWaW91dy12NEYwV29YeXNPZFdUMlU2NkdGcFJ2aHcycWNWb2VGM2x4WjQ2V05zdXVadXpiTzJEZmdpaVBhRkplZzRJb0k1NTNuN0VzRFpua2NmbExyNkxtcGVLOGt3SU5ubVNFUXlzQ3ZvVWF0YlBKX2RVZjhrd3pxa29Ub21EOWxlRy0zcjhHTkFpT2VfOU9MM2pEUQ?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-09-08T05:55:48+00:00",
       "category": "housing",
       "official": false,
-      "description": "Australia’s home values have taken a $34b tumble off a stratospheric peak SMH.com.au"
+      "description": "Australia’s home values have taken a $34b tumble off a stratospheric peak smh.com.au"
     },
     {
       "id": "57b1363fec10fb04",
@@ -813,6 +803,16 @@
       "description": "Alliance Aviation (ASX:AQZ): Can This FIFO Carrier Fly Its Way Back to Earnings Growth? Kalkine"
     },
     {
+      "id": "b8927c56914136ad",
+      "title": "Ampol (ASX:ALD): EG Australia Integration and Capital Returns Shape the Next Phase - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1NhMGtOZmw4WW5BNmtpRVpSVTEtNWtjMVh3cmZURE1HbXpBelR1Y2Q1YlQwZDRFXzZ2WG9UVE9lbWNpb0xlMGg1bU9OM3U4M21JTW84RDAwLWQ4ZEczSEtnR1g3eks5a1lkMUIwQXNObm8xeHp3SmJOQXd2NVBxZXlZR0pZVThvYUlkSkthQXRVNTdtVnYxaExkMUc2VkM2OFZBRjJyUExaWkZrTmR4d25mNA?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-09-08T03:43:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Ampol (ASX:ALD): EG Australia Integration and Capital Returns Shape the Next Phase Kalkine"
+    },
+    {
       "id": "26827a42f36ec574",
       "title": "Home price falls wipe billions from residential property market - realestate.com.au",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm9LQl92clFScmtuRzNoWXI1bS1QcnA4cV81QVdvRHlSSUtJY1hRN1dTRHdGR2xaUGtBaXVRVmdxN2hNc21ib202RFZwb0tNWTY3X21FXzF0V0s1S1Y2dmMzRWR5NXBGSHl6VlA3XzJRSDJaMkV6OGpnaEhPSmVma1hNVk1Zc2F1VWlJcnRsamZSOHFxYUxIak9OUnBFZmtaVXc?oc=5",
@@ -823,14 +823,14 @@
       "description": "Home price falls wipe billions from residential property market realestate.com.au"
     },
     {
-      "id": "810c1c0cd34ba082",
-      "title": "Massive change to credit and debit card payments just weeks away - nine.com.au",
+      "id": "4f8f8a58aa920dca",
+      "title": "Massive change to credit and debit card payments just weeks away - Nine.com.au",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakhQUHp5c0U5WS1ma2dmRF8xOVEzOThDUm4wc1lvMk1EeC1Pa0dMTk43VXptc2dTUXlJNEFUUl9hbzN2TWlWbmJveE5kRHJOeTU5YmdwY1hlMEc4UGFTUE9tM21wSDRLMUk3TFdFUzFxT0xQcVd5SmY0UG91RjN2UEFka2djQ2tpNFdjWmF5bS1IbkVZRUU2NkJxcmY1cHR4TXA0TTJhZF9Rb0RjNHJ0SA?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-08T01:13:10+00:00",
       "category": "economy",
       "official": false,
-      "description": "Massive change to credit and debit card payments just weeks away nine.com.au"
+      "description": "Massive change to credit and debit card payments just weeks away Nine.com.au"
     },
     {
       "id": "85fa0f8b50548cb2",
@@ -841,16 +841,6 @@
       "category": "companies",
       "official": false,
       "description": "Bubs Australia (ASX:BUB) Share Price Jumps Nearly 50% in a Week, Here’s Why Kalkine"
-    },
-    {
-      "id": "0a168a01875aaa82",
-      "title": "ASX Preview: Australian Shares to Fall as Oil Hits Six-Week High; Select Harvests Raises Fiscal 2026 Almond Crop Outlook - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGRzQ3pJOXFmUG5WeF9neWZmS2p4YmlXWS0tUGc2cGswUGNUekk5QUZRekxSNDlTcTFxVm81SWphaEpQZEJZR2tYNnFQT1p5bDNSTFBnSEVnelNhYllIX2sxQ2FyMUVJNGhwSWRncFBDYlExaWVlMjBFclZlcnhVRGdVRWFCc0NBTm9B?oc=5",
-      "source": "Yahoo Finance Australia",
-      "publishedAt": "2026-09-08T00:16:00+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "ASX Preview: Australian Shares to Fall as Oil Hits Six-Week High; Select Harvests Raises Fiscal 2026 Almond Crop Outlook Yahoo Finance Australia"
     },
     {
       "id": "451955270d9d34cd",
@@ -901,6 +891,16 @@
       "category": "housing",
       "official": false,
       "description": "What’s ahead for Brisbane’s property market? Property Update"
+    },
+    {
+      "id": "3279e7d15285499f",
+      "title": "Sydney Housing Market Trends & Predictions - Property Update",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56NWx0cGVTQ2dIc051QmJFQWhlUjc1aDRjcmN1S2w3TFdsRHNVZC1LN2pJSFVGYnRzVU9QajdDU3VqaktER3l0NmJ4Skh5NGJhTTYzb0pFU3E0WWJWTzNfNFd0czVvVHBi?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-09-07T07:00:00+00:00",
+      "category": "housing",
+      "official": false,
+      "description": "Sydney Housing Market Trends & Predictions Property Update"
     }
   ]
 }
