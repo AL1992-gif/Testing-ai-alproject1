@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T13:34:10.022152+00:00",
+  "generatedAt": "2026-10-01T22:47:28.611895+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -11,9 +11,9 @@
       "description": "\"category__subcategory-link\">Government & Business Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "Finance",
+      "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:04.130628+00:00"
+      "checkedAt": "2026-10-01T22:47:22.060082+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "ort/content/learner-licensing\" class=\"category__subcategory-link\">Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. F",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "Finance",
+      "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:04.130628+00:00"
+      "checkedAt": "2026-10-01T22:47:22.060082+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00"
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-01T13:34:04.130628+00:00",
+      "checkedAt": "2026-10-01T22:47:22.060082+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-01T13:34:06.020814+00:00",
+      "checkedAt": "2026-10-01T22:47:24.116697+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-01T13:34:06.092475+00:00",
+      "checkedAt": "2026-10-01T22:47:24.540935+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-01T13:34:06.505012+00:00",
+      "checkedAt": "2026-10-01T22:47:25.297152+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -157,6 +157,14 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFQ1c0k0QkV5NGtfVWk4NE1tZ0FXVWxRbmpwQTRwWUFxaERTREE1Y3l5T0pPXzhhdHdlRDFrZFU2WVNkVndtdDRDbF9vNUU1MlRKYXd1a3FfQUNVeXdYanBwbzZ2WkZON2ZsVE9ZNUpFckVwR1VJdzU0NGRGN0p2ZjZMeVppSlRxdDdpWGg0SzAxVDFyZHdsTERWMmJTaTdGYnZUMkhKNXlBRndXVDFCSU1EZXN4Wk1Hb2JZTkZvRy1XaWdkOTJ6dng4UUNnLUJ6ZkY2SUc5d0tDSUk?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 04:42:56 GMT",
       "source": "Marine Business News"
+    },
+    {
+      "id": "680f8cbb7ab0",
+      "title": "Powersports Market Size, Share & Growth Report | MRFR - marketresearchfuture.com",
+      "description": "Powersports Market Size, Share & Growth Report | MRFR marketresearchfuture.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "source": "marketresearchfuture.com"
     },
     {
       "id": "682fae9b4419",
@@ -221,14 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUo4TjF3d2VINnQ0SWJUeFc4VVFSTUctWm96QlF0LUwyMk9rZVVlaVBvbFRKbFNibVozS0dsOGZSSUl4V2pFdDRqZDE5M3kwamNCc3p4czFuTEQ1aTRkVk5xY24xOUZZWFJVaVlJalBGMkxOcVhfYWRPTEZsRy1hQ05hWW9BYUxweXJUSW1lVVNic2h5alBhWlUxMmtybDMydkxFYg?oc=5",
       "publishedAt": "Sun, 27 Jun 2021 07:00:00 GMT",
       "source": "Watercraft Zone"
-    },
-    {
-      "id": "99738f30f416",
-      "title": "All aboard: Luxury boat builder cracks $300m in sales - The Australian",
-      "description": "All aboard: Luxury boat builder cracks $300m in sales The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVpOMUl0dGFiNkdnS3VGTUNtSTkxRmJVYkd4Nzc4THVwS0lfb3ZRQWpBV3I4TElmRU1Nek0xeGNnS3ZCUVJkN2xXRlBGMTJIc3dOazVEMEtQb0s4dFBqRFhWbVhOajZvLW84SWI3NVhHdXJDTENyQm9HZzcwV3gyRlJzc25VZEFVVHUzZ1NNaUN2SDQzYlhIcGEwNkcxVFdLNDdGaWp5VnpfRlJFMU5LRU1UeXpVYVZmNVpmdnNUUF80aDY3aFJvWDNZOWhrS0MtMno0?oc=5",
-      "publishedAt": "Wed, 21 Jun 2023 07:00:00 GMT",
-      "source": "The Australian"
     },
     {
       "id": "a52d4c6fcbd6",
@@ -319,14 +319,6 @@
       "source": "Motorcycles Data"
     },
     {
-      "id": "c51c380c83a2",
-      "title": "Powersports Market Size, Share & Growth Report | MRFR - Market Research Future",
-      "description": "Powersports Market Size, Share & Growth Report | MRFR Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "source": "Market Research Future"
-    },
-    {
       "id": "cb501139c596",
       "title": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
       "description": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets",
@@ -359,6 +351,14 @@
       "source": "GoAutoNews Premium"
     },
     {
+      "id": "7a7bff910094",
+      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - Kalkine",
+      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
+      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Kalkine"
+    },
+    {
       "id": "f2d85fb02abc",
       "title": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile - Insurance Business",
       "description": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile Insurance Business",
@@ -375,20 +375,20 @@
       "source": "MarketsandMarkets"
     },
     {
-      "id": "1a0147d74391",
-      "title": "Power Sports Market Size, Share & Forecast to 2036 - Fact.MR",
-      "description": "Power Sports Market Size, Share & Forecast to 2036 Fact.MR",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SZ1piSzhxVUQtenVUWTZpeXh6Rl84TFV5NnpfVFNWamgyMHNOdERfa1c4MXhRcU1kSFJJZUhjRllZeThhc3VoTVQ3RWhmXzF5RE9acTBkbUlkSGdPN2c?oc=5",
-      "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "source": "Fact.MR"
-    },
-    {
       "id": "5c7941032ce5",
       "title": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed - - Watercraft Zone",
       "description": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU5kby1EbDNXQWYzakt4NTF2b3FPWVVSYUJVZTdsYWowY29fVk1xZmlwdjNPdmJOdXU3eEdaNFQyQ2ZFS0dHSG5UVHlXOXBBaVEyVEh1SEhvdEo3Z2FkdWFoLWh6N1BfRmJjTy1DSUFRdVFrRDM1UWR0bjZmZ3hGcHBvZ2hxSTJxbkpaUWtXTlVRbE1wWjh4U3ZLSno?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 23:16:00 GMT",
       "source": "Watercraft Zone"
+    },
+    {
+      "id": "7546aadf14cc",
+      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
+      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "Marine Business News"
     }
   ]
 }
