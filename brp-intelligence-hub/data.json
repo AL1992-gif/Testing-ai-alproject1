@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:29:25.087301+00:00",
+  "generatedAt": "2026-10-03T11:50:27.951454+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -13,7 +13,7 @@
       "source": "Yamaha official website",
       "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:18.297344+00:00"
+      "checkedAt": "2026-10-03T11:50:20.214433+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -24,7 +24,7 @@
       "source": "Yamaha official website",
       "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:18.297344+00:00"
+      "checkedAt": "2026-10-03T11:50:20.214433+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -33,9 +33,9 @@
       "description": "42857,0 12.5,0 C13.4857143,0 14.2857143,0.798214286 14.2857143,1.78571429 L14.2857143,10.7142857 L23.2142857,10.7142857 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/warranty",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -44,9 +44,9 @@
       "description": "57 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/kawasaki-motors-finance",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -55,9 +55,9 @@
       "description": "Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7142857,14.2857143 L7.58928571,14.2857143 L1.78571429,14.2857143 C0.8,14.2857143 0,13.4875 0,12.5 C0,11.5125",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/recalls",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00"
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-03T05:29:18.297344+00:00",
+      "checkedAt": "2026-10-03T11:50:20.214433+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-03T05:29:19.434719+00:00",
+      "checkedAt": "2026-10-03T11:50:22.255561+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T05:29:20.576157+00:00",
+      "checkedAt": "2026-10-03T11:50:23.030049+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,18 +145,18 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T05:29:21.414835+00:00",
+      "checkedAt": "2026-10-03T11:50:23.857295+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
   "industryNews": [
     {
-      "id": "952ab5927879",
-      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - marketdataforecast.com",
-      "description": "Recreational Boats Market Size, Share & Analysis, 2034 marketdataforecast.com",
+      "id": "682fae9b4419",
+      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
+      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
       "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "source": "marketdataforecast.com"
+      "source": "Market Data Forecast"
     },
     {
       "id": "248e6f90d17f",
@@ -359,14 +359,6 @@
       "source": "GoAutoNews Premium"
     },
     {
-      "id": "f98310e6d3a5",
-      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - kalkine.com.au",
-      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name kalkine.com.au",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "kalkine.com.au"
-    },
-    {
       "id": "442ab15231cd",
       "title": "New-Zealand All-terrain Vehicle Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
       "description": "New-Zealand All-terrain Vehicle Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
@@ -383,12 +375,20 @@
       "source": "Insurance Business"
     },
     {
-      "id": "eb8e43decbf6",
-      "title": "Power Sports Market Size, Share & Forecast to 2036 - factmr.com",
-      "description": "Power Sports Market Size, Share & Forecast to 2036 factmr.com",
+      "id": "1a0147d74391",
+      "title": "Power Sports Market Size, Share & Forecast to 2036 - Fact.MR",
+      "description": "Power Sports Market Size, Share & Forecast to 2036 Fact.MR",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SZ1piSzhxVUQtenVUWTZpeXh6Rl84TFV5NnpfVFNWamgyMHNOdERfa1c4MXhRcU1kSFJJZUhjRllZeThhc3VoTVQ3RWhmXzF5RE9acTBkbUlkSGdPN2c?oc=5",
       "publishedAt": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "source": "factmr.com"
+      "source": "Fact.MR"
+    },
+    {
+      "id": "257b11bb328d",
+      "title": "2027 Sea-Doo prices slashed in Australia ahead of summer season - - Watercraft Zone",
+      "description": "2027 Sea-Doo prices slashed in Australia ahead of summer season - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekdRU1A4UVQ0WlFnMmI0ZUpYVmsyaTU0cEtpdUVUT1lZN3pQS01IaVo5SlM4UlQ0T2tabnBXY0FNUTRDUTVKRUVmZ2NYX2ZRZnJHQ2doSlU3SURTU0JxME5PMmxWblNwa2J4R3F1a0kzNEJ4MnNYa3pGam1NZWJLNFAtV011SEZRQ0E?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 00:09:31 GMT",
+      "source": "Watercraft Zone"
     }
   ]
 }
