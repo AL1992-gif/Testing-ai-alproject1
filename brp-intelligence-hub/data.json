@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:50:27.951454+00:00",
+  "generatedAt": "2026-10-03T16:32:11.006546+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -13,7 +13,7 @@
       "source": "Yamaha official website",
       "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:20.214433+00:00"
+      "checkedAt": "2026-10-03T16:32:03.617858+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -24,7 +24,7 @@
       "source": "Yamaha official website",
       "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:20.214433+00:00"
+      "checkedAt": "2026-10-03T16:32:03.617858+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -33,9 +33,9 @@
       "description": "42857,0 12.5,0 C13.4857143,0 14.2857143,0.798214286 14.2857143,1.78571429 L14.2857143,10.7142857 L23.2142857,10.7142857 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/warranty",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -44,9 +44,9 @@
       "description": "57 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/kawasaki-motors-finance",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -55,9 +55,9 @@
       "description": "Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7142857,14.2857143 L7.58928571,14.2857143 L1.78571429,14.2857143 C0.8,14.2857143 0,13.4875 0,12.5 C0,11.5125",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/recalls",
       "source": "Kawasaki official website",
-      "promotionType": "Finance",
+      "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00"
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-03T11:50:20.214433+00:00",
+      "checkedAt": "2026-10-03T16:32:03.617858+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-03T11:50:22.255561+00:00",
+      "checkedAt": "2026-10-03T16:32:05.189364+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T11:50:23.030049+00:00",
+      "checkedAt": "2026-10-03T16:32:05.716276+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T11:50:23.857295+00:00",
+      "checkedAt": "2026-10-03T16:32:06.913676+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -319,12 +319,12 @@
       "source": "Motorcycles Data"
     },
     {
-      "id": "c51c380c83a2",
-      "title": "Powersports Market Size, Share & Growth Report | MRFR - Market Research Future",
-      "description": "Powersports Market Size, Share & Growth Report | MRFR Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "source": "Market Research Future"
+      "id": "16242adb265e",
+      "title": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. - MCNews",
+      "description": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. MCNews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3RHRTeVRxdjB3NDBsTXFGTldsUy16bTNEemREUXNsMkV1anJlMi1ERnQtRUpoUzA2Y3JSZjNkV2Z5RUMtTldpUTEwSnIzbVVwYllLUlVYdjR3RFdoa2hOTWhWS1h1aWkxUXlmOWdn?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "source": "MCNews"
     },
     {
       "id": "cb501139c596",
@@ -335,44 +335,12 @@
       "source": "MarketsandMarkets"
     },
     {
-      "id": "16242adb265e",
-      "title": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. - MCNews",
-      "description": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. MCNews",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3RHRTeVRxdjB3NDBsTXFGTldsUy16bTNEemREUXNsMkV1anJlMi1ERnQtRUpoUzA2Y3JSZjNkV2Z5RUMtTldpUTEwSnIzbVVwYllLUlVYdjR3RFdoa2hOTWhWS1h1aWkxUXlmOWdn?oc=5",
-      "publishedAt": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "MCNews"
-    },
-    {
-      "id": "85934cde645a",
-      "title": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence - kalkine.ca",
-      "description": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnJVMzBkNVRXZUdDRUJzVWZOd1R3ZlUyMWNxd0MwMWpTQklndFhfOXRZY2xDYlBlTVFLRkRBYXZYRGJfZWJTQzYtZ3VadERNZ3dTdHV5c1duWEY2YVJlNEZJdFgtNlFpUGJGS2FqTG83Rk9DaGg1RW1GUmtZNGpkaG9oQml0NGMwejl3UVlxMzA1Rkljb3dqZngyTjhqM0lQSjB6bDdRMlo5akhwaUQ5dnZFRXZ4TUtPRjcwWmwyYktVOTUyY0RRQndMbw?oc=5",
-      "publishedAt": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "kalkine.ca"
-    },
-    {
       "id": "d84e6706ee3f",
       "title": "Motorbike sales jump - GoAutoNews Premium",
       "description": "Motorbike sales jump GoAutoNews Premium",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FVzRVekJjQmxyb0cwWmMwMlBGX1RlTmM5V0RQaUpyLTVHeWNWak9ISV9DX04zOHdqRzlSMU1KZ3NpZlFDZGFnMWJMYlc2Z0d4MzcxLUZZRmRxUHZWWTBZYg?oc=5",
       "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
       "source": "GoAutoNews Premium"
-    },
-    {
-      "id": "442ab15231cd",
-      "title": "New-Zealand All-terrain Vehicle Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "description": "New-Zealand All-terrain Vehicle Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzFuSEwweVVjV0VxRlBQTlBZZWhtNjcwVDlud3lSajk2NXhMbDFRd1Z5X3BmWXY1MldoRE84bHpUWHlkU0FXY1VBTkxqS2FDbWN0MTJlbzc0Z2xaeWw1RWpZbnpNeGZvLUxmNnotM3FVcWFlWW5TUG5DaWcyVVJjNThmSkRFY0EtTTEzYURmSlhVZXd2eEIyMEVVWWpRQQ?oc=5",
-      "publishedAt": "Tue, 28 Jul 2026 20:15:26 GMT",
-      "source": "MarketsandMarkets"
-    },
-    {
-      "id": "f2d85fb02abc",
-      "title": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile - Insurance Business",
-      "description": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSmphZFc2R2g5SDN1ZTZrLXVFdmpsaWtjM1FUeWQ4TFRVTzByNGgzR1lqaGFORmJEVHRZWERDNE0zRmRiUk1Kb1JBVDZfd0tJdjU2MUxTY2EycXYwc1N3ODhEU19UUjY4V05jOWRuVjJHQ2NSdkt3Rm5IMmU2M21UdEFJX0U3OHVRQ3Z2UHpwMHhSRVpQZ0tjNnI3QWV6WXhuVWZybHd1aTBTeDVQWEtEUjhyU0MxM3MxUi1VVU1Gb04tU3RCVktQR19NaFhPM2NhcnNLUHVxTnhrMThp?oc=5",
-      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
-      "source": "Insurance Business"
     },
     {
       "id": "1a0147d74391",
@@ -383,11 +351,43 @@
       "source": "Fact.MR"
     },
     {
+      "id": "c51c380c83a2",
+      "title": "Powersports Market Size, Share & Growth Report | MRFR - Market Research Future",
+      "description": "Powersports Market Size, Share & Growth Report | MRFR Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "source": "Market Research Future"
+    },
+    {
+      "id": "85934cde645a",
+      "title": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence - kalkine.ca",
+      "description": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnJVMzBkNVRXZUdDRUJzVWZOd1R3ZlUyMWNxd0MwMWpTQklndFhfOXRZY2xDYlBlTVFLRkRBYXZYRGJfZWJTQzYtZ3VadERNZ3dTdHV5c1duWEY2YVJlNEZJdFgtNlFpUGJGS2FqTG83Rk9DaGg1RW1GUmtZNGpkaG9oQml0NGMwejl3UVlxMzA1Rkljb3dqZngyTjhqM0lQSjB6bDdRMlo5akhwaUQ5dnZFRXZ4TUtPRjcwWmwyYktVOTUyY0RRQndMbw?oc=5",
+      "publishedAt": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "kalkine.ca"
+    },
+    {
+      "id": "f2d85fb02abc",
+      "title": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile - Insurance Business",
+      "description": "Hanover bets on bundled approach as motorcycle and ORV markets stay volatile Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSmphZFc2R2g5SDN1ZTZrLXVFdmpsaWtjM1FUeWQ4TFRVTzByNGgzR1lqaGFORmJEVHRZWERDNE0zRmRiUk1Kb1JBVDZfd0tJdjU2MUxTY2EycXYwc1N3ODhEU19UUjY4V05jOWRuVjJHQ2NSdkt3Rm5IMmU2M21UdEFJX0U3OHVRQ3Z2UHpwMHhSRVpQZ0tjNnI3QWV6WXhuVWZybHd1aTBTeDVQWEtEUjhyU0MxM3MxUi1VVU1Gb04tU3RCVktQR19NaFhPM2NhcnNLUHVxTnhrMThp?oc=5",
+      "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
+      "source": "Insurance Business"
+    },
+    {
       "id": "257b11bb328d",
       "title": "2027 Sea-Doo prices slashed in Australia ahead of summer season - - Watercraft Zone",
       "description": "2027 Sea-Doo prices slashed in Australia ahead of summer season - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekdRU1A4UVQ0WlFnMmI0ZUpYVmsyaTU0cEtpdUVUT1lZN3pQS01IaVo5SlM4UlQ0T2tabnBXY0FNUTRDUTVKRUVmZ2NYX2ZRZnJHQ2doSlU3SURTU0JxME5PMmxWblNwa2J4R3F1a0kzNEJ4MnNYa3pGam1NZWJLNFAtV011SEZRQ0E?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 00:09:31 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "5c7941032ce5",
+      "title": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed - - Watercraft Zone",
+      "description": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU5kby1EbDNXQWYzakt4NTF2b3FPWVVSYUJVZTdsYWowY29fVk1xZmlwdjNPdmJOdXU3eEdaNFQyQ2ZFS0dHSG5UVHlXOXBBaVEyVEh1SEhvdEo3Z2FkdWFoLWh6N1BfRmJjTy1DSUFRdVFrRDM1UWR0bjZmZ3hGcHBvZ2hxSTJxbkpaUWtXTlVRbE1wWjh4U3ZLSno?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 23:16:00 GMT",
       "source": "Watercraft Zone"
     }
   ]
