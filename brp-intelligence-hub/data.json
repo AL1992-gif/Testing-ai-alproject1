@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:29:44.164527+00:00",
+  "generatedAt": "2026-10-04T06:04:53.326897+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -11,9 +11,9 @@
       "description": "\"category__subcategory-link\">Government & Business Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "% P.A.",
+      "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:37.980103+00:00"
+      "checkedAt": "2026-10-04T06:04:23.827338+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "ort/content/learner-licensing\" class=\"category__subcategory-link\">Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. F",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "% P.A.",
+      "promotionType": "Comparison Rate",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:37.980103+00:00"
+      "checkedAt": "2026-10-04T06:04:23.827338+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00"
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-03T21:29:37.980103+00:00",
+      "checkedAt": "2026-10-04T06:04:23.827338+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-03T21:29:38.914835+00:00",
+      "checkedAt": "2026-10-04T06:04:25.582219+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T21:29:40.159538+00:00",
+      "checkedAt": "2026-10-04T06:04:26.251324+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-03T21:29:40.820387+00:00",
+      "checkedAt": "2026-10-04T06:04:27.104809+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -215,12 +215,12 @@
       "source": "Watercraft Zone"
     },
     {
-      "id": "39a6d8a3714c",
-      "title": "All aboard: Luxury boat builder cracks $300m in sales - theaustralian.com.au",
-      "description": "All aboard: Luxury boat builder cracks $300m in sales theaustralian.com.au",
+      "id": "99738f30f416",
+      "title": "All aboard: Luxury boat builder cracks $300m in sales - The Australian",
+      "description": "All aboard: Luxury boat builder cracks $300m in sales The Australian",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVpOMUl0dGFiNkdnS3VGTUNtSTkxRmJVYkd4Nzc4THVwS0lfb3ZRQWpBV3I4TElmRU1Nek0xeGNnS3ZCUVJkN2xXRlBGMTJIc3dOazVEMEtQb0s4dFBqRFhWbVhOajZvLW84SWI3NVhHdXJDTENyQm9HZzcwV3gyRlJzc25VZEFVVHUzZ1NNaUN2SDQzYlhIcGEwNkcxVFdLNDdGaWp5VnpfRlJFMU5LRU1UeXpVYVZmNVpmdnNUUF80aDY3aFJvWDNZOWhrS0MtMno0?oc=5",
       "publishedAt": "Wed, 21 Jun 2023 07:00:00 GMT",
-      "source": "theaustralian.com.au"
+      "source": "The Australian"
     },
     {
       "id": "14af4da6acc8",
@@ -239,12 +239,12 @@
       "source": "titans.com.au"
     },
     {
-      "id": "1f584379505d",
-      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - Powersports Business",
-      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha Powersports Business",
+      "id": "e12dad707984",
+      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - powersportsbusiness.com",
+      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha powersportsbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ015MGFPYklvdFIwbTRUYlhOU2M4Uk9kbkllTjZfNW9nR2NINU1hdF9xUXVMTWxHWnU0YXdYUmxnYUN5akJLZ0sybDVXY29WSjBMWWhVdDhpbm5HNTlUU3lOSW1aejNCa2ljenZERmNfUlQwVGNyZHg2eEdLZ3VJM1JEYWV2M2lydWkwdGVhM2Ntdlo2M3ZJYldYNlhkRV9SZVZGZExxZHJFVXVR?oc=5",
       "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "source": "Powersports Business"
+      "source": "powersportsbusiness.com"
     },
     {
       "id": "35ad91925f13",
@@ -279,20 +279,20 @@
       "source": "MCNews"
     },
     {
-      "id": "6899d05b81ad",
-      "title": "BRP sells Telwater business to Yamaha Motor Australia - Boating Industry",
-      "description": "BRP sells Telwater business to Yamaha Motor Australia Boating Industry",
+      "id": "4cae53b62317",
+      "title": "BRP sells Telwater business to Yamaha Motor Australia - boatingindustry.com",
+      "description": "BRP sells Telwater business to Yamaha Motor Australia boatingindustry.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSC1feWllZjZrZzY2eVFyX0JFYU5yanRpNkp5c1E0YlNHZkxmRFQwYmd6Q3RUZnYxcFQ3dVRhZzBwWlg5SHVJWUVYc1psVDVKS2lTRktTbkdGUWlsYmJqUE1sRDNZb1JVQTBfZ005b2k4clo2bzFaR1FScy1XakVreU9DNW8zWlZiSU1fTEV4OEUtakNhMF9DbjhJVUtZd2M?oc=5",
       "publishedAt": "Thu, 03 Apr 2025 07:00:00 GMT",
-      "source": "Boating Industry"
+      "source": "boatingindustry.com"
     },
     {
-      "id": "bfda90f90305",
-      "title": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. - Powersports Business",
-      "description": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. Powersports Business",
+      "id": "032a0eb83cd8",
+      "title": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. - powersportsbusiness.com",
+      "description": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. powersportsbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUFBqRjVtVkZyaWFEZWlfcGc0QmtjR3llbl9aamlNUVBXTV9RYzhaYjE4TVVfUUx0M2xBQmpQZnZibHhuRVE2dmNxWjlnT3VxZnRLdDVFOTdjWWI5NkpJM0s4eDZQbXdSMFNnaWtJQmgtUUdJT1ZQeENZbnNSVjZrS01BcEFRU0hlY1JvZ1pMaXN1VU52Q2ZscEdsdDNFTzhHWmNSUjR3UHdhN0pQYVlwZE0zNUNuRXN6ZHBDNzl1RGRhNGowOUtsdG14emJSZV8xMmxxd0FudnV2WnVlRWo0V0RldXV2Zm8?oc=5",
       "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
-      "source": "Powersports Business"
+      "source": "powersportsbusiness.com"
     },
     {
       "id": "e10cf9058845",
@@ -327,12 +327,12 @@
       "source": "MCNews"
     },
     {
-      "id": "584ba4248bef",
-      "title": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
-      "description": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 marketsandmarkets.com",
+      "id": "cb501139c596",
+      "title": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+      "description": "Australia Recreational Boat Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk8wcTZ5TGZHdkQ4UngxQ0sySTN4d3R3NU5RRjlPYkR1OVJJdndqOGM5ZUtDV2JqZ09KTi1qQXRCdWIzVVF3ektVNEpFRElVaWxzVDFvaFloTFdBM2stNll1STROM1ktXzB1TW9wWWlGcFBYRGY0YWdfaDljbUJUOXV0ZTNRYjlmWkJEUnI2aTRNVC1PUDRuZ0FR?oc=5",
       "publishedAt": "Sun, 30 Aug 2026 12:50:53 GMT",
-      "source": "marketsandmarkets.com"
+      "source": "MarketsandMarkets"
     },
     {
       "id": "d84e6706ee3f",
@@ -367,12 +367,12 @@
       "source": "kalkine.ca"
     },
     {
-      "id": "135fd6f56879",
-      "title": "Powersports Market Size, Share | CAGR of 7.3% - market.us",
-      "description": "Powersports Market Size, Share | CAGR of 7.3% market.us",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnMVpxbXJXVnVoVmoxMUZIeXA2czBKQ1ZSYVNSQlY0TDRUSDRvMGc3SU92a1lhaUhWU1hGN21Hb0hVZ2hqaFlvSTluNmo4VWdnS29BX2RuMA?oc=5",
-      "publishedAt": "Tue, 16 Dec 2025 06:08:59 GMT",
-      "source": "market.us"
+      "id": "7a7bff910094",
+      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - Kalkine",
+      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
+      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Kalkine"
     },
     {
       "id": "257b11bb328d",
