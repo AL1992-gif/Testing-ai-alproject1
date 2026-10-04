@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T06:04:53.326897+00:00",
+  "generatedAt": "2026-10-04T12:34:49.228617+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -11,9 +11,9 @@
       "description": "\"category__subcategory-link\">Government & Business Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "Comparison Rate",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:23.827338+00:00"
+      "checkedAt": "2026-10-04T12:34:40.943935+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "ort/content/learner-licensing\" class=\"category__subcategory-link\">Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. F",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "Comparison Rate",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:23.827338+00:00"
+      "checkedAt": "2026-10-04T12:34:40.943935+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00"
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-04T06:04:23.827338+00:00",
+      "checkedAt": "2026-10-04T12:34:40.943935+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-04T06:04:25.582219+00:00",
+      "checkedAt": "2026-10-04T12:34:43.438279+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-04T06:04:26.251324+00:00",
+      "checkedAt": "2026-10-04T12:34:44.639040+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-04T06:04:27.104809+00:00",
+      "checkedAt": "2026-10-04T12:34:45.372630+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -159,28 +159,12 @@
       "source": "Marine Business News"
     },
     {
-      "id": "682fae9b4419",
-      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
-      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
-      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "source": "Market Data Forecast"
-    },
-    {
       "id": "248e6f90d17f",
       "title": "Marine industry shows steady demand and shifting opportunities - carsales | Business",
       "description": "Marine industry shows steady demand and shifting opportunities carsales | Business",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1NMd2VKWklPRGExN3ZqNm9HaW1qUjZIMndHVWFSdzdKUElOVWVvTFc1Q2NxTVBEd3lVM2RsenN1N3pmOWZZMFZHaFlaRlI4UnFZbmd2c1l4SXRvSExfbWJqRGltWFlNSG96MThFSDd4ZGpNR0VZbHhFa3hmTEJmbVlleDU?oc=5",
       "publishedAt": "Mon, 17 Nov 2025 04:44:18 GMT",
       "source": "carsales | Business"
-    },
-    {
-      "id": "9028bda0d705",
-      "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
-      "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
-      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
-      "source": "Watercraft Zone"
     },
     {
       "id": "f41cf1925c77",
@@ -191,12 +175,12 @@
       "source": "Glam Adelaide"
     },
     {
-      "id": "da547aeffa3e",
-      "title": "Used boat sales push Australia’s marine industry higher - Boatsales",
-      "description": "Used boat sales push Australia’s marine industry higher Boatsales",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbE1iVmhZdk5COTBqYWJTVnNBQm1MQTZNNE1NZ0VkampuMXk1NjVTNkhZbUZ0Vm1ZV3NFckROSDE4bE05N2Zwa0RrTG1ObEVCLTBvUlh5QjVZaElNcFF2TjJHTkEtVVJTbk50V3FMM2s4cUREYTJrd0F3TE4xcVpPdVFrT3VHUHNVS29COU1lZ01qaklYNHBmbHFPdWQ3N3pJM0tpRy1QbE1TbGtERHc?oc=5",
-      "publishedAt": "Fri, 17 Sep 2021 07:00:00 GMT",
-      "source": "Boatsales"
+      "id": "682fae9b4419",
+      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
+      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Market Data Forecast"
     },
     {
       "id": "74ec738c0df2",
@@ -205,6 +189,22 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
       "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
       "source": "Marine Industry News"
+    },
+    {
+      "id": "9028bda0d705",
+      "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
+      "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
+      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
+      "source": "Watercraft Zone"
+    },
+    {
+      "id": "da547aeffa3e",
+      "title": "Used boat sales push Australia’s marine industry higher - Boatsales",
+      "description": "Used boat sales push Australia’s marine industry higher Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbE1iVmhZdk5COTBqYWJTVnNBQm1MQTZNNE1NZ0VkampuMXk1NjVTNkhZbUZ0Vm1ZV3NFckROSDE4bE05N2Zwa0RrTG1ObEVCLTBvUlh5QjVZaElNcFF2TjJHTkEtVVJTbk50V3FMM2s4cUREYTJrd0F3TE4xcVpPdVFrT3VHUHNVS29COU1lZ01qaklYNHBmbHFPdWQ3N3pJM0tpRy1QbE1TbGtERHc?oc=5",
+      "publishedAt": "Fri, 17 Sep 2021 07:00:00 GMT",
+      "source": "Boatsales"
     },
     {
       "id": "b6eb5abd72e6",
@@ -239,12 +239,12 @@
       "source": "titans.com.au"
     },
     {
-      "id": "e12dad707984",
-      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - powersportsbusiness.com",
-      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha powersportsbusiness.com",
+      "id": "1f584379505d",
+      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - Powersports Business",
+      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha Powersports Business",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ015MGFPYklvdFIwbTRUYlhOU2M4Uk9kbkllTjZfNW9nR2NINU1hdF9xUXVMTWxHWnU0YXdYUmxnYUN5akJLZ0sybDVXY29WSjBMWWhVdDhpbm5HNTlUU3lOSW1aejNCa2ljenZERmNfUlQwVGNyZHg2eEdLZ3VJM1JEYWV2M2lydWkwdGVhM2Ntdlo2M3ZJYldYNlhkRV9SZVZGZExxZHJFVXVR?oc=5",
       "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "source": "powersportsbusiness.com"
+      "source": "Powersports Business"
     },
     {
       "id": "35ad91925f13",
@@ -287,12 +287,12 @@
       "source": "boatingindustry.com"
     },
     {
-      "id": "032a0eb83cd8",
-      "title": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. - powersportsbusiness.com",
-      "description": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. powersportsbusiness.com",
+      "id": "bfda90f90305",
+      "title": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. - Powersports Business",
+      "description": "One of Australia’s largest dealers enters bankruptcy, which could cause ripple effects in the U.S. Powersports Business",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUFBqRjVtVkZyaWFEZWlfcGc0QmtjR3llbl9aamlNUVBXTV9RYzhaYjE4TVVfUUx0M2xBQmpQZnZibHhuRVE2dmNxWjlnT3VxZnRLdDVFOTdjWWI5NkpJM0s4eDZQbXdSMFNnaWtJQmgtUUdJT1ZQeENZbnNSVjZrS01BcEFRU0hlY1JvZ1pMaXN1VU52Q2ZscEdsdDNFTzhHWmNSUjR3UHdhN0pQYVlwZE0zNUNuRXN6ZHBDNzl1RGRhNGowOUtsdG14emJSZV8xMmxxd0FudnV2WnVlRWo0V0RldXV2Zm8?oc=5",
       "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
-      "source": "powersportsbusiness.com"
+      "source": "Powersports Business"
     },
     {
       "id": "e10cf9058845",
@@ -351,14 +351,6 @@
       "source": "Fact.MR"
     },
     {
-      "id": "c51c380c83a2",
-      "title": "Powersports Market Size, Share & Growth Report | MRFR - Market Research Future",
-      "description": "Powersports Market Size, Share & Growth Report | MRFR Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "source": "Market Research Future"
-    },
-    {
       "id": "85934cde645a",
       "title": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence - kalkine.ca",
       "description": "BRP Stock Climbs 1.28% as Recreational Vehicle Demand and Product Innovation Boost Investor Confidence kalkine.ca",
@@ -367,12 +359,12 @@
       "source": "kalkine.ca"
     },
     {
-      "id": "7a7bff910094",
-      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - Kalkine",
-      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "Kalkine"
+      "id": "9a94aac75203",
+      "title": "Powersports Market Size, Share | CAGR of 7.3% - Market.us",
+      "description": "Powersports Market Size, Share | CAGR of 7.3% Market.us",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnMVpxbXJXVnVoVmoxMUZIeXA2czBKQ1ZSYVNSQlY0TDRUSDRvMGc3SU92a1lhaUhWU1hGN21Hb0hVZ2hqaFlvSTluNmo4VWdnS29BX2RuMA?oc=5",
+      "publishedAt": "Tue, 16 Dec 2025 06:08:59 GMT",
+      "source": "Market.us"
     },
     {
       "id": "257b11bb328d",
@@ -389,6 +381,14 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU5kby1EbDNXQWYzakt4NTF2b3FPWVVSYUJVZTdsYWowY29fVk1xZmlwdjNPdmJOdXU3eEdaNFQyQ2ZFS0dHSG5UVHlXOXBBaVEyVEh1SEhvdEo3Z2FkdWFoLWh6N1BfRmJjTy1DSUFRdVFrRDM1UWR0bjZmZ3hGcHBvZ2hxSTJxbkpaUWtXTlVRbE1wWjh4U3ZLSno?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 23:16:00 GMT",
       "source": "Watercraft Zone"
+    },
+    {
+      "id": "7546aadf14cc",
+      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
+      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "Marine Business News"
     }
   ]
 }
