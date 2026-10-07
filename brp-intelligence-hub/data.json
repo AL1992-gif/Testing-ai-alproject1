@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:12:21.184096+00:00",
+  "generatedAt": "2026-10-07T13:38:15.750289+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -13,7 +13,7 @@
       "source": "Yamaha official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:13.330408+00:00"
+      "checkedAt": "2026-10-07T13:38:09.989708+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -24,7 +24,7 @@
       "source": "Yamaha official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:13.330408+00:00"
+      "checkedAt": "2026-10-07T13:38:09.989708+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00"
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-07T06:12:13.330408+00:00",
+      "checkedAt": "2026-10-07T13:38:09.989708+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-07T06:12:15.828204+00:00",
+      "checkedAt": "2026-10-07T13:38:11.420430+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-07T06:12:16.208125+00:00",
+      "checkedAt": "2026-10-07T13:38:11.976262+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,19 +145,11 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-07T06:12:16.778393+00:00",
+      "checkedAt": "2026-10-07T13:38:12.558936+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
   "industryNews": [
-    {
-      "id": "682fae9b4419",
-      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
-      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
-      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "source": "Market Data Forecast"
-    },
     {
       "id": "248e6f90d17f",
       "title": "Marine industry shows steady demand and shifting opportunities - carsales | Business",
@@ -167,20 +159,36 @@
       "source": "carsales | Business"
     },
     {
-      "id": "9028bda0d705",
-      "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
-      "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
-      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
-      "source": "Watercraft Zone"
-    },
-    {
       "id": "f41cf1925c77",
       "title": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative - Glam Adelaide",
       "description": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative Glam Adelaide",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXFqZy1faTA1MzBTeVRIUjEzdGhabVJKRjhRVUVxQmlmcWVIZ3VrenpjYjIxRlVuUUxic0hRVlM2S1lMT1pYbmtyWkNfWXlIWWhaSTZwV1NkaTVpVTV3QlZHRWpxY2NHcVVfSGQ4OHdTaF9tU3lwbS1hYUpUSzQ0YVd3MHJDeEhxY3E5bXYzaHFyT2dOX1dZS1R3SUlMSUt2NVpMTmJ4cVA1cUljdS1hYTVHNmZ2dDRtMGpGXzktdzNJMnFVRndfd2FDVW11UQ?oc=5",
       "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
       "source": "Glam Adelaide"
+    },
+    {
+      "id": "682fae9b4419",
+      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
+      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Market Data Forecast"
+    },
+    {
+      "id": "74ec738c0df2",
+      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
+      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Marine Industry News"
+    },
+    {
+      "id": "9028bda0d705",
+      "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
+      "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
+      "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
+      "source": "Watercraft Zone"
     },
     {
       "id": "da547aeffa3e",
@@ -197,14 +205,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjRtRnI4czc1QUFIRFoxS0xBV2F3Z2JFaW9Gem5zZXdTNGZQV2EtQ2M3SVJ6ZXJtZHhja3JzSnJ0V3I0dUJLeDlwRkJma2VORm9Fb0VRYndSZWJ5N25USkdHVGowVlA3Y2NBdkFweWhZQnF6SXRDUXhXaHVGSkI0TEZIT2FHSWhoVUFQR1JzREJVVC13cFE?oc=5",
       "publishedAt": "Tue, 31 Dec 2019 08:00:00 GMT",
       "source": "The Watercraft Journal"
-    },
-    {
-      "id": "74ec738c0df2",
-      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
-      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
-      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Marine Industry News"
     },
     {
       "id": "b6eb5abd72e6",
