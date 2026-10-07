@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:38:15.750289+00:00",
+  "generatedAt": "2026-10-07T23:12:55.706990+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -11,9 +11,9 @@
       "description": "\"category__subcategory-link\">Government & Business Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "Offer",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:09.989708+00:00"
+      "checkedAt": "2026-10-07T23:12:48.704782+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "ort/content/learner-licensing\" class=\"category__subcategory-link\">Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. F",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "Offer",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:09.989708+00:00"
+      "checkedAt": "2026-10-07T23:12:48.704782+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00"
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-07T13:38:09.989708+00:00",
+      "checkedAt": "2026-10-07T23:12:48.704782+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-07T13:38:11.420430+00:00",
+      "checkedAt": "2026-10-07T23:12:50.511662+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-07T13:38:11.976262+00:00",
+      "checkedAt": "2026-10-07T23:12:51.399494+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,7 +145,7 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-07T13:38:12.558936+00:00",
+      "checkedAt": "2026-10-07T23:12:51.936258+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
@@ -247,20 +247,20 @@
       "source": "Powersports Business"
     },
     {
-      "id": "35ad91925f13",
-      "title": "JSW Powersports adds Cobalt Boats to its showroom - Boatsales",
-      "description": "JSW Powersports adds Cobalt Boats to its showroom Boatsales",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUlKVXpQMU1OTmtxUF94WFVqdXM3X2N6YVNjVWdWaFRwSENRWVNHTXV4SEZiQ2JSOWRwZjRlUkxtM2EyMEhJOENfckV3WE9iaWtmZU1qQjVqNzBrVjl1eVZMeDFUR0hGd19xeUVTYUlMWU04eW9UQWFFYVNobjdwdG1HeW1KVU4yUGhteGNuajZPSmEzaUQzazNORWNTWThKOUFzamFuOA?oc=5",
-      "publishedAt": "Wed, 20 Mar 2024 07:00:00 GMT",
-      "source": "Boatsales"
-    },
-    {
       "id": "4dbb516bb3e2",
       "title": "West Coast Motorcycles wins Honda dealer of the year award - MCNews",
       "description": "West Coast Motorcycles wins Honda dealer of the year award MCNews",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CS3hUZU9OYzlWVU1UQnFlMzA1VkR1dDVNZjlOY2V6Z2pmeEk0am1DSjhub2s4VEF2cFdDWk5WTW9TcFppanQ1UXFXT2hheEVCMEM4WmI0eE9pVjVpcXY2Y1IxNy0xekd1SHhEOHpzUGc?oc=5",
       "publishedAt": "Fri, 19 Apr 2024 07:00:00 GMT",
       "source": "MCNews"
+    },
+    {
+      "id": "35ad91925f13",
+      "title": "JSW Powersports adds Cobalt Boats to its showroom - Boatsales",
+      "description": "JSW Powersports adds Cobalt Boats to its showroom Boatsales",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUlKVXpQMU1OTmtxUF94WFVqdXM3X2N6YVNjVWdWaFRwSENRWVNHTXV4SEZiQ2JSOWRwZjRlUkxtM2EyMEhJOENfckV3WE9iaWtmZU1qQjVqNzBrVjl1eVZMeDFUR0hGd19xeUVTYUlMWU04eW9UQWFFYVNobjdwdG1HeW1KVU4yUGhteGNuajZPSmEzaUQzazNORWNTWThKOUFzamFuOA?oc=5",
+      "publishedAt": "Wed, 20 Mar 2024 07:00:00 GMT",
+      "source": "Boatsales"
     },
     {
       "id": "88941e7d3735",
