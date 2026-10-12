@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:12:03.328919+00:00",
+  "generatedAt": "2026-10-12T15:46:46.551100+00:00",
   "promotionMethod": "Official Australian brand websites only",
   "promotionCount": 10,
   "industryNewsCount": 30,
@@ -11,9 +11,9 @@
       "description": "\"category__subcategory-link\">Government & Business Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "Finance",
+      "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:53.600080+00:00"
+      "checkedAt": "2026-10-12T15:46:37.750838+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "ort/content/learner-licensing\" class=\"category__subcategory-link\">Learner Licencing View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. F",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "Finance",
+      "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:53.600080+00:00"
+      "checkedAt": "2026-10-12T15:46:37.750838+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00"
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00"
     }
   ],
   "officialChecks": [
@@ -121,7 +121,7 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-12T06:11:53.600080+00:00",
+      "checkedAt": "2026-10-12T15:46:37.750838+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -129,7 +129,7 @@
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
       "activeOffers": 8,
-      "checkedAt": "2026-10-12T06:11:55.994855+00:00",
+      "checkedAt": "2026-10-12T15:46:40.560699+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-12T06:11:57.112812+00:00",
+      "checkedAt": "2026-10-12T15:46:41.551764+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -145,26 +145,18 @@
       "url": "https://www.honda.com.au/marine/offers",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-12T06:11:58.019089+00:00",
+      "checkedAt": "2026-10-12T15:46:42.376450+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     }
   ],
   "industryNews": [
     {
-      "id": "248e6f90d17f",
-      "title": "Marine industry shows steady demand and shifting opportunities - carsales | Business",
-      "description": "Marine industry shows steady demand and shifting opportunities carsales | Business",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1NMd2VKWklPRGExN3ZqNm9HaW1qUjZIMndHVWFSdzdKUElOVWVvTFc1Q2NxTVBEd3lVM2RsenN1N3pmOWZZMFZHaFlaRlI4UnFZbmd2c1l4SXRvSExfbWJqRGltWFlNSG96MThFSDd4ZGpNR0VZbHhFa3hmTEJmbVlleDU?oc=5",
-      "publishedAt": "Mon, 17 Nov 2025 04:44:18 GMT",
-      "source": "carsales | Business"
-    },
-    {
-      "id": "f41cf1925c77",
-      "title": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative - Glam Adelaide",
-      "description": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative Glam Adelaide",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXFqZy1faTA1MzBTeVRIUjEzdGhabVJKRjhRVUVxQmlmcWVIZ3VrenpjYjIxRlVuUUxic0hRVlM2S1lMT1pYbmtyWkNfWXlIWWhaSTZwV1NkaTVpVTV3QlZHRWpxY2NHcVVfSGQ4OHdTaF9tU3lwbS1hYUpUSzQ0YVd3MHJDeEhxY3E5bXYzaHFyT2dOX1dZS1R3SUlMSUt2NVpMTmJ4cVA1cUljdS1hYTVHNmZ2dDRtMGpGXzktdzNJMnFVRndfd2FDVW11UQ?oc=5",
-      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
-      "source": "Glam Adelaide"
+      "id": "c9bd1a9ad158",
+      "title": "Melbourne Boat Show: industry support gives plenty to look forward to - Marine Business News",
+      "description": "Melbourne Boat Show: industry support gives plenty to look forward to Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmw2NEs2NjZ1bjdLeFhtZEh3cXRXRi1WSFhEZmZzZlBlUmxqWjJLck5PNGVSbEZScHJ5ZnlfWEhiMkhxWEhyb2tobllaenFuZ0hab0piRjJiTmFPS0x2Wk1raElHNDVSZHpkYkY0WXEzQkZnQTlrZm9FcXRTZ3Y2UENZNW9CUTdGTFNRMlA0QVhpemI2dFFVMTFCTWF2R1BoTnlic29uUU1MdzAxbEFOUlMzelFhZw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 23:30:19 GMT",
+      "source": "Marine Business News"
     },
     {
       "id": "682fae9b4419",
@@ -175,20 +167,20 @@
       "source": "Market Data Forecast"
     },
     {
+      "id": "248e6f90d17f",
+      "title": "Marine industry shows steady demand and shifting opportunities - carsales | Business",
+      "description": "Marine industry shows steady demand and shifting opportunities carsales | Business",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1NMd2VKWklPRGExN3ZqNm9HaW1qUjZIMndHVWFSdzdKUElOVWVvTFc1Q2NxTVBEd3lVM2RsenN1N3pmOWZZMFZHaFlaRlI4UnFZbmd2c1l4SXRvSExfbWJqRGltWFlNSG96MThFSDd4ZGpNR0VZbHhFa3hmTEJmbVlleDU?oc=5",
+      "publishedAt": "Mon, 17 Nov 2025 04:44:18 GMT",
+      "source": "carsales | Business"
+    },
+    {
       "id": "9028bda0d705",
       "title": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - - Watercraft Zone",
       "description": "Jet Ski and PWC registration fees hit new highs in Australia – UPDATE - Watercraft Zone",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmdoUE5raG1PUG9PU3BfV0tHVkhqZVUxcHQxSnlUTFBVZTlsTDNQU2pnaWVNZlBMRktleFNXMHM0LU9aWUZtV1ByTUs1ZURKNzdaYUYxazFPUVZwb2x6bFVIWHFydGJVMFhtREx4NWFWVUozZ3FNNmkzUlJYajdGaVFiTzZ1VTc3THNMTjEyQmlqeG9GRzlNV3F2TmhOX1k?oc=5",
       "publishedAt": "Fri, 29 Dec 2023 08:00:00 GMT",
       "source": "Watercraft Zone"
-    },
-    {
-      "id": "74ec738c0df2",
-      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
-      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
-      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "source": "Marine Industry News"
     },
     {
       "id": "da547aeffa3e",
@@ -207,6 +199,22 @@
       "source": "The Watercraft Journal"
     },
     {
+      "id": "f41cf1925c77",
+      "title": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative - Glam Adelaide",
+      "description": "South Australia launches free boat ramp access and hefty registration discounts in new summer initiative Glam Adelaide",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXFqZy1faTA1MzBTeVRIUjEzdGhabVJKRjhRVUVxQmlmcWVIZ3VrenpjYjIxRlVuUUxic0hRVlM2S1lMT1pYbmtyWkNfWXlIWWhaSTZwV1NkaTVpVTV3QlZHRWpxY2NHcVVfSGQ4OHdTaF9tU3lwbS1hYUpUSzQ0YVd3MHJDeEhxY3E5bXYzaHFyT2dOX1dZS1R3SUlMSUt2NVpMTmJ4cVA1cUljdS1hYTVHNmZ2dDRtMGpGXzktdzNJMnFVRndfd2FDVW11UQ?oc=5",
+      "publishedAt": "Tue, 02 Dec 2025 08:00:00 GMT",
+      "source": "Glam Adelaide"
+    },
+    {
+      "id": "74ec738c0df2",
+      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
+      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Marine Industry News"
+    },
+    {
       "id": "b6eb5abd72e6",
       "title": "Jet Ski and PWC registration fees in Australia, how every state compares - - Watercraft Zone",
       "description": "Jet Ski and PWC registration fees in Australia, how every state compares - Watercraft Zone",
@@ -221,14 +229,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVpOMUl0dGFiNkdnS3VGTUNtSTkxRmJVYkd4Nzc4THVwS0lfb3ZRQWpBV3I4TElmRU1Nek0xeGNnS3ZCUVJkN2xXRlBGMTJIc3dOazVEMEtQb0s4dFBqRFhWbVhOajZvLW84SWI3NVhHdXJDTENyQm9HZzcwV3gyRlJzc25VZEFVVHUzZ1NNaUN2SDQzYlhIcGEwNkcxVFdLNDdGaWp5VnpfRlJFMU5LRU1UeXpVYVZmNVpmdnNUUF80aDY3aFJvWDNZOWhrS0MtMno0?oc=5",
       "publishedAt": "Wed, 21 Jun 2023 07:00:00 GMT",
       "source": "The Australian"
-    },
-    {
-      "id": "e52225b5c67a",
-      "title": "Personal Watercraft Market Size, Share | Industry Report [2034] - Fortune Business Insights",
-      "description": "Personal Watercraft Market Size, Share | Industry Report [2034] Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wak1KOGYtYmZtWkJRcHJsLXI3S05yVHd6RGFlRmdwWDF0THdzSE9WajhsTy13RlNINVpaVm1fNjQ5b1ZYRzUzUlBIRXFOd3VOVDZLeUk3ZjRULWg2Q09EWjU2VHNvNTJNT0pOT3ltbHVfZnQ2T3A4dWpSZzJIdw?oc=5",
-      "publishedAt": "Wed, 22 Sep 2021 20:18:10 GMT",
-      "source": "Fortune Business Insights"
     },
     {
       "id": "b6747a542646",
