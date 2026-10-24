@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T11:18:49.450555+00:00",
+  "generatedAt": "2026-10-24T16:05:37.329472+00:00",
   "promotionMethod": "Official Australian brand websites only",
-  "promotionCount": 25,
+  "promotionCount": 27,
   "industryNewsCount": 30,
   "promotions": [
     {
@@ -13,7 +13,7 @@
       "source": "Yamaha official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:40.593187+00:00"
+      "checkedAt": "2026-10-24T16:05:31.627217+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -24,7 +24,7 @@
       "source": "Yamaha official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:40.593187+00:00"
+      "checkedAt": "2026-10-24T16:05:31.627217+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -33,9 +33,9 @@
       "description": "42857,0 12.5,0 C13.4857143,0 14.2857143,0.798214286 14.2857143,1.78571429 L14.2857143,10.7142857 L23.2142857,10.7142857 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/warranty",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -44,9 +44,9 @@
       "description": "57 C24.2,10.7142857 25,11.5125 25,12.5 C25,13.4875 24.2,14.2857143 23.2142857,14.2857143\" id=\"plus\" fill=\"#66CC33\" fill-rule=\"nonzero\" /> Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/kawasaki-motors-finance",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -55,9 +55,9 @@
       "description": "Warranty Kawasaki Motors Finance Recalls SHOP <path d=\"M14.2857143,14.2857143 L10.7142857,14.2857143 L7.58928571,14.2857143 L1.78571429,14.2857143 C0.8,14.2857143 0,13.4875 0,12.5 C0,11.5125",
       "link": "https://www.kawasaki.com.au/en-au/owner-centre/recalls",
       "source": "Kawasaki official website",
-      "promotionType": "Warranty",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,7 +90,29 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
+    },
+    {
+      "id": "fae7884929dd",
+      "brand": "Kawasaki",
+      "title": "Kawasaki Racing",
+      "description": "RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/purchase-tools/current-offers/1125/spirited-savings--z900rs-se';",
+      "link": "https://www.kawasaki.com.au/en-au/racing",
+      "source": "Kawasaki official website",
+      "promotionType": "Offer",
+      "verified": true,
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
+    },
+    {
+      "id": "ff6d313ef8eb",
+      "brand": "Kawasaki",
+      "title": "Racing News",
+      "description": "ropdown-menu\" aria-labelledby=\"racingDropdown\"> RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/purchase-tools/current-offers/1125/spirited-savings--z900rs-se'; window.location.href = url; }",
+      "link": "https://www.kawasaki.com.au/en-au/racing/news",
+      "source": "Kawasaki official website",
+      "promotionType": "Offer",
+      "verified": true,
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "1e965884b849",
@@ -101,7 +123,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "d5032809602d",
@@ -112,7 +134,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00"
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00"
     },
     {
       "id": "d0bba3a929bc",
@@ -123,7 +145,7 @@
       "source": "Honda official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "575f56574f18",
@@ -134,7 +156,7 @@
       "source": "Honda official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "471a991a0eb1",
@@ -145,7 +167,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "7f1df9434b48",
@@ -156,7 +178,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "540940499ad4",
@@ -167,7 +189,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "a8852651c92b",
@@ -178,7 +200,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "84eb973f0dd1",
@@ -189,7 +211,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "e71d11638590",
@@ -200,18 +222,18 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "2f833fe0165c",
       "brand": "Honda",
       "title": "Build and Price",
-      "description": "Purchase a CR-V e:HEV X and receive an AmpolCash Fuel Card valued at $3,000 ^ . Offer ends October 31. Build and Price Offer details <div class=\"modal fade flyout product-tile-promotions\" id=\"modal-92cefda2dd\" amb-flyout=\"promotions\" tabindex=\"-1\" aria-modal=\"true\" role=\"dialog\" data-view=\"promotion",
+      "description": "Purchase a CR-V e:HEV X and receive an AmpolCash Fuel Card valued at $3,000 ^ . Offer ends October 31. Build and Price Offer details <div class=\"modal fade flyout product-tile-promotions\" id=\"modal-290c10ae20\" amb-flyout=\"promotions\" tabindex=\"-1\" aria-modal=\"true\" role=\"dialog\" data-view=\"promotion",
       "link": "https://www.honda.com.au/cars/configurator/build-crv.html?m=CRV5AHEVXSU26&amp;v=HEVX&amp;sv=SU",
       "source": "Honda official website",
-      "promotionType": "Promotion",
+      "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "77f301b16451",
@@ -222,7 +244,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "632910291a86",
@@ -233,7 +255,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "3fb7c0d42c0f",
@@ -244,7 +266,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "84f09a00c0d3",
@@ -255,7 +277,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "9813fc29d55b",
@@ -266,7 +288,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     },
     {
       "id": "a0c9a8c6b877",
@@ -277,7 +299,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00"
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00"
     }
   ],
   "officialChecks": [
@@ -286,15 +308,15 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-24T11:18:40.593187+00:00",
+      "checkedAt": "2026-10-24T16:05:31.627217+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
       "brand": "Kawasaki",
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
-      "activeOffers": 8,
-      "checkedAt": "2026-10-24T11:18:44.290664+00:00",
+      "activeOffers": 10,
+      "checkedAt": "2026-10-24T16:05:33.400945+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -302,7 +324,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-24T11:18:45.310790+00:00",
+      "checkedAt": "2026-10-24T16:05:33.596578+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -310,27 +332,11 @@
       "url": "https://www.honda.com.au/cars/offers.html",
       "status": "checked",
       "activeOffers": 19,
-      "checkedAt": "2026-10-24T11:18:46.131414+00:00",
+      "checkedAt": "2026-10-24T16:05:34.076690+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     }
   ],
   "industryNews": [
-    {
-      "id": "dff449f6925d",
-      "title": "A new chapter takes shape: Australian International Boat Show invites industry to apply for space - Marine Business News",
-      "description": "A new chapter takes shape: Australian International Boat Show invites industry to apply for space Marine Business News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFQ1c0k0QkV5NGtfVWk4NE1tZ0FXVWxRbmpwQTRwWUFxaERTREE1Y3l5T0pPXzhhdHdlRDFrZFU2WVNkVndtdDRDbF9vNUU1MlRKYXd1a3FfQUNVeXdYanBwbzZ2WkZON2ZsVE9ZNUpFckVwR1VJdzU0NGRGN0p2ZjZMeVppSlRxdDdpWGg0SzAxVDFyZHdsTERWMmJTaTdGYnZUMkhKNXlBRndXVDFCSU1EZXN4Wk1Hb2JZTkZvRy1XaWdkOTJ6dng4UUNnLUJ6ZkY2SUc5d0tDSUk?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "source": "Marine Business News"
-    },
-    {
-      "id": "ef39e069bdfd",
-      "title": "Australia's A$10.5bn boating market holds firm as Sydney exhibitors report confidence returning - Marine Industry News",
-      "description": "Australia's A$10.5bn boating market holds firm as Sydney exhibitors report confidence returning Marine Industry News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnA4NWc2RU52WnlBLU1GY05SZFQ5aDlTemFVSm5USW5OekdFdWZyZURETnRQamlyc0lTMThfQ0VKNms2SkJfdFhrdFFfNE0tQlBwRUpQVS16czhJSTQyWFhwSzRZTU9OMEtOM2hFYWVWSFd6NW5ob2NKWkE5anZYMGtqakNvRWZYVk8zX3lwTTY4d1pOOUJwcFBhUUc2Vk1qOFNSRUthZm9mbU9yaU1EbGs4UlM1b1Z6cHVqYTgxd1hMeUcxdHc?oc=5",
-      "publishedAt": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "source": "Marine Industry News"
-    },
     {
       "id": "248e6f90d17f",
       "title": "Marine industry shows steady demand and shifting opportunities - carsales | Business",
@@ -348,6 +354,14 @@
       "source": "WatercraftZone"
     },
     {
+      "id": "74ec738c0df2",
+      "title": "Finnboat reports on 2025 as industry ‘turns corner’ - Marine Industry News",
+      "description": "Finnboat reports on 2025 as industry ‘turns corner’ Marine Industry News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHcxNHJtejlLS3prcGFXTThlSS1KUXlwV0l6UWNGQm53a0J6dk5xTFYyMWdEczdEVW5HcV9rNGtQRjRDd3pjSDB1MWV2c05QaEJSQWR1R091blREMk5qQUxhUk94TW1BQzI0cXNtME1zMkRtUF9tRzN1VzFsckVSUFZFZEozZkR4MVlz?oc=5",
+      "publishedAt": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "source": "Marine Industry News"
+    },
+    {
       "id": "da547aeffa3e",
       "title": "Used boat sales push Australia’s marine industry higher - Boatsales",
       "description": "Used boat sales push Australia’s marine industry higher Boatsales",
@@ -356,36 +370,20 @@
       "source": "Boatsales"
     },
     {
-      "id": "38ab39ed0c0d",
-      "title": "Boat registrations grow four times faster than population during the pandemic - Ocean Road Magazine",
-      "description": "Boat registrations grow four times faster than population during the pandemic Ocean Road Magazine",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2pUMTYwRENLamRXMDhZWTVHNzByM2dfeGxyU0lzMXlHSHZ2RlAweFl1MnZNOGc0cHRYN05QeFB6VWVselhMMGo4eGFqN2FkdVNQVTg4amxyQ0F1a1NheTNqalBtVGRJeWN4OWwySVBDaW5uYW84MDIwNFNTaE4wbTlINUR2cHloSERzdEozelYzeS01VUdhOWx0SEFZNWdiQVU1dzdHcjVnb0RSVkt2cVFTV21EQUJJSWtzY2thQ2FGMnE3YmJjWm1KVWZjQ0E?oc=5",
-      "publishedAt": "Tue, 11 Oct 2022 07:00:00 GMT",
-      "source": "Ocean Road Magazine"
+      "id": "682fae9b4419",
+      "title": "Recreational Boats Market Size, Share & Analysis, 2034 - Market Data Forecast",
+      "description": "Recreational Boats Market Size, Share & Analysis, 2034 Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlVPWmZoZTZ0QTFEelhRYWtNeHJOejNSUVhJMUw3YlowUnZDd0ZuSDZiVkQyb01KZEMzOEZnTzE1eERfRjBOOHhhbHJjeDJ3dU1xYUx0Q1FJdWp0MzBMRWtVRWJjMHl6aHFJZ3JtcGs4V0d3SGN3Z2tXX0cwZlM3bQ?oc=5",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Market Data Forecast"
     },
     {
-      "id": "0e39ec3b22cb",
-      "title": "NSW Jet Ski licence and registration fees go up again after record rise last year - WatercraftZone",
-      "description": "NSW Jet Ski licence and registration fees go up again after record rise last year WatercraftZone",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1M1T1BwU1RVeU5jZGd1SFhJaVpQcS1KRllvVTZuWG9yeVJDcjhYcU9OYkptQk9SMHh4ZHU1LVhzaElxcENaZDloWUJ3cmR6UEt0T3NrQkRBY2xHbFdsQTRrRGdLYVVDTENOc3FCZVE0XzNOblFZZmRZbHpfM1J2eTV4UjdyMXRiQXREQ2x5S0JUZDR6ZGU3SjhyWktzWWM1REREWFpGc1FNdmIybGhSeUN3?oc=5",
-      "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
-      "source": "WatercraftZone"
-    },
-    {
-      "id": "c73148962d0e",
-      "title": "Personal Watercraft Jet Ski Market | Global Market Analysis Report - 2035 - Future Market Insights",
-      "description": "Personal Watercraft Jet Ski Market | Global Market Analysis Report - 2035 Future Market Insights",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGlSNjhCRElIOGFETGRRZ0VnVF9hRy1CdHFMVmhJQ2ZhTEpCdFdvNG90a0lFWXUyTmxRWDVMLUJ2cXlPbmNJQ2xhaXpidEpPWW1jN3ZRZERuZVV2YWQ2MXZNMnZlQ3UxOEFQYl9RN1hVMTQ3MjZ2eTdUY2REWWhsc1pSV0IzQQ?oc=5",
-      "publishedAt": "Mon, 18 Aug 2025 07:00:00 GMT",
-      "source": "Future Market Insights"
-    },
-    {
-      "id": "dc2f6afa9126",
-      "title": "NSW bumps up boat and jet ski licence, rego, boat mooring fees - Boatsales",
-      "description": "NSW bumps up boat and jet ski licence, rego, boat mooring fees Boatsales",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamxsY20wYkpXVlYxa0VZZmF4Z2FNdVphZ1Vzemc0OXE0b19MUENtd0NULWROazBEemVUMmhtMmpILWM5Mm1CdHhmV2JCNzd3clQwN2NWc0Z3SmFXbGs4ZHRXWmRKWmdrMUF0YjZheXQ4TEJ2SzVadVpMalgxVWJvNDh2RVRnbHpVeXpqS2dNYnJYYnVvYXdaSw?oc=5",
-      "publishedAt": "Wed, 22 May 2024 07:00:00 GMT",
-      "source": "Boatsales"
+      "id": "aec5a3d2b47a",
+      "title": "Powersports Market Size, Share, Trends, Report 2035 - Market Research Future",
+      "description": "Powersports Market Size, Share, Trends, Report 2035 Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 07:00:00 GMT",
+      "source": "Market Research Future"
     },
     {
       "id": "395e1f2510f1",
@@ -396,11 +394,19 @@
       "source": "WatercraftZone"
     },
     {
-      "id": "f9ad66b90238",
-      "title": "Cronulla Sea-Doo to close and merge with Beaches Sea-Doo, Peter Stevens Sea-Doo stores go into administration - WatercraftZone",
-      "description": "Cronulla Sea-Doo to close and merge with Beaches Sea-Doo, Peter Stevens Sea-Doo stores go into administration WatercraftZone",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3R6SmhhQVVZbkdPQ1ZGWHgzUlg5N010LTRGaHNOMFgzVkhIZ0I3ZTFMeFpGZUhMTnFxUTNqRXdKUXpmbktfWWRsX2wtVlphdGdySDJuaEVtbXlhZUNITV91RTUtZ19Ya3dIMnFUTkpJR3pxNS1wanE4VnhweGJkb3p4VU10ZmduNHF2ZQ?oc=5",
-      "publishedAt": "Wed, 21 May 2025 07:00:00 GMT",
+      "id": "99738f30f416",
+      "title": "All aboard: Luxury boat builder cracks $300m in sales - The Australian",
+      "description": "All aboard: Luxury boat builder cracks $300m in sales The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVpOMUl0dGFiNkdnS3VGTUNtSTkxRmJVYkd4Nzc4THVwS0lfb3ZRQWpBV3I4TElmRU1Nek0xeGNnS3ZCUVJkN2xXRlBGMTJIc3dOazVEMEtQb0s4dFBqRFhWbVhOajZvLW84SWI3NVhHdXJDTENyQm9HZzcwV3gyRlJzc25VZEFVVHUzZ1NNaUN2SDQzYlhIcGEwNkcxVFdLNDdGaWp5VnpfRlJFMU5LRU1UeXpVYVZmNVpmdnNUUF80aDY3aFJvWDNZOWhrS0MtMno0?oc=5",
+      "publishedAt": "Wed, 21 Jun 2023 07:00:00 GMT",
+      "source": "The Australian"
+    },
+    {
+      "id": "0e39ec3b22cb",
+      "title": "NSW Jet Ski licence and registration fees go up again after record rise last year - WatercraftZone",
+      "description": "NSW Jet Ski licence and registration fees go up again after record rise last year WatercraftZone",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1M1T1BwU1RVeU5jZGd1SFhJaVpQcS1KRllvVTZuWG9yeVJDcjhYcU9OYkptQk9SMHh4ZHU1LVhzaElxcENaZDloWUJ3cmR6UEt0T3NrQkRBY2xHbFdsQTRrRGdLYVVDTENOc3FCZVE0XzNOblFZZmRZbHpfM1J2eTV4UjdyMXRiQXREQ2x5S0JUZDR6ZGU3SjhyWktzWWM1REREWFpGc1FNdmIybGhSeUN3?oc=5",
+      "publishedAt": "Thu, 29 May 2025 07:00:00 GMT",
       "source": "WatercraftZone"
     },
     {
@@ -412,12 +418,12 @@
       "source": "iSelect Gold Coast Titans"
     },
     {
-      "id": "b258b89e7af8",
-      "title": "Whatever Happened to Mariner? The Merc-a-ha Story - Powerboat News",
-      "description": "Whatever Happened to Mariner? The Merc-a-ha Story Powerboat News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdnpYM1NSSE40RFNuSWt4TDZzLXhQYm1Pb1hkRmE4elEtRjBUUXkzMlpOZ2N3UUtDNEYtRXFHb0Z4azB6V09ZUDBRa3FVNDl2eDA4cjIyYThYMngyUXNkbVJkYzk0TkItUmdCb2xDWFpxS3V2aXlVaHEwcUw?oc=5",
-      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "source": "Powerboat News"
+      "id": "1f584379505d",
+      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - Powersports Business",
+      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha Powersports Business",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ015MGFPYklvdFIwbTRUYlhOU2M4Uk9kbkllTjZfNW9nR2NINU1hdF9xUXVMTWxHWnU0YXdYUmxnYUN5akJLZ0sybDVXY29WSjBMWWhVdDhpbm5HNTlUU3lOSW1aejNCa2ljenZERmNfUlQwVGNyZHg2eEdLZ3VJM1JEYWV2M2lydWkwdGVhM2Ntdlo2M3ZJYldYNlhkRV9SZVZGZExxZHJFVXVR?oc=5",
+      "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
+      "source": "Powersports Business"
     },
     {
       "id": "4dbb516bb3e2",
@@ -444,12 +450,12 @@
       "source": "Marine Business News"
     },
     {
-      "id": "1f584379505d",
-      "title": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha - Powersports Business",
-      "description": "ACCC blocks BRP’s proposed sale of Telwater to Yamaha Powersports Business",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ015MGFPYklvdFIwbTRUYlhOU2M4Uk9kbkllTjZfNW9nR2NINU1hdF9xUXVMTWxHWnU0YXdYUmxnYUN5akJLZ0sybDVXY29WSjBMWWhVdDhpbm5HNTlUU3lOSW1aejNCa2ljenZERmNfUlQwVGNyZHg2eEdLZ3VJM1JEYWV2M2lydWkwdGVhM2Ntdlo2M3ZJYldYNlhkRV9SZVZGZExxZHJFVXVR?oc=5",
-      "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "source": "Powersports Business"
+      "id": "b258b89e7af8",
+      "title": "Whatever Happened to Mariner? The Merc-a-ha Story - Powerboat News",
+      "description": "Whatever Happened to Mariner? The Merc-a-ha Story Powerboat News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdnpYM1NSSE40RFNuSWt4TDZzLXhQYm1Pb1hkRmE4elEtRjBUUXkzMlpOZ2N3UUtDNEYtRXFHb0Z4azB6V09ZUDBRa3FVNDl2eDA4cjIyYThYMngyUXNkbVJkYzk0TkItUmdCb2xDWFpxS3V2aXlVaHEwcUw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "Powerboat News"
     },
     {
       "id": "07f66447571f",
@@ -500,22 +506,6 @@
       "source": "MarketsandMarkets"
     },
     {
-      "id": "7a7bff910094",
-      "title": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name - Kalkine",
-      "description": "CAR Group (ASX:CAR): Why This Online Marketplace Stock Remains Premium ASX Name Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNVZVFzRjB1RmFVWEo5SFUtSm5IWk5GV2R6UTdDQmVHN01ENG5aai0zWE9EdU10VXR2M1dXX3pLWXJhLTM4ajRoTG5sRlVFRXpqVDN1OU1yUWlDeEtjeXVoWDFiMG9aYzEwSm95TFlHckZtbXRINGZqWFFwbmtZRWpodzZRSVpmYnJpQ3VYRG9hMzBEeGtSdi1JeTVTUk03ckRTZ1VVYjFRaXhvalp6dENR?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "Kalkine"
-    },
-    {
-      "id": "aec5a3d2b47a",
-      "title": "Powersports Market Size, Share, Trends, Report 2035 - Market Research Future",
-      "description": "Powersports Market Size, Share, Trends, Report 2035 Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QUV0bDhTWlZTZEltOWhYUkxBRTFzQk81aXl3NzdEZ0gwQjVMNm1LT0llNWZoa3VLemQ1WXRsWXlFYjhUVVF4eGJyakM5Tmt0b0FTQWhpRjBNMjF0X202UFdYX2NOdU1Ed05FTER0T1FJT2Q2aFE?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 07:00:00 GMT",
-      "source": "Market Research Future"
-    },
-    {
       "id": "16242adb265e",
       "title": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. - MCNews",
       "description": "The new-brand onslaught is gathering pace. QJMOTOR and VOGE will launch 16 motorcycles in Australia this October. MCNews",
@@ -548,12 +538,44 @@
       "source": "MarketsandMarkets"
     },
     {
+      "id": "0aeee15bca2e",
+      "title": "Motorcycle Dealers in Australia Industry Analysis, 2025 - IBISWorld",
+      "description": "Motorcycle Dealers in Australia Industry Analysis, 2025 IBISWorld",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxdHJ1M2VhTTJidm1UeXFGRlIxc2NuVERlTzB2RTNQQVRCUXlMSGsxOFFlanZoWDVCX3pfanZIX1FEa1o3UFpqazktX0FiUmVJV1Y5anh3dngyTHByRnJTQW8tQTZKbHJqUnNGUDVYaWQ4N2Jnd0Iw?oc=5",
+      "publishedAt": "Wed, 15 Jan 2025 05:35:31 GMT",
+      "source": "IBISWorld"
+    },
+    {
       "id": "00d7a51cf5a4",
       "title": "2027 Sea-Doo range gets major power boost with 350hp Senna, RXT-X, RXP-X and GTX - WatercraftZone",
       "description": "2027 Sea-Doo range gets major power boost with 350hp Senna, RXT-X, RXP-X and GTX WatercraftZone",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hOXJrV2hfV1dnTWJqQ2MwVzNWZ0ZfbU5PUC0yWlFVbkMzV3prYXk4clprRk9ObndXQmNsMFRmLUdQZC10ZWZwRjJ1SGh4c1BEbVdibmRCa3dvemQxZ2tFNlAtckdOdDRjU0Y5MHRDb256MnVzS1pqX1N0UQ?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 07:00:00 GMT",
       "source": "WatercraftZone"
+    },
+    {
+      "id": "5861cb3435ff",
+      "title": "2027 Sea-Doo prices slashed in Australia ahead of summer season - WatercraftZone",
+      "description": "2027 Sea-Doo prices slashed in Australia ahead of summer season WatercraftZone",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekdRU1A4UVQ0WlFnMmI0ZUpYVmsyaTU0cEtpdUVUT1lZN3pQS01IaVo5SlM4UlQ0T2tabnBXY0FNUTRDUTVKRUVmZ2NYX2ZRZnJHQ2doSlU3SURTU0JxME5PMmxWblNwa2J4R3F1a0kzNEJ4MnNYa3pGam1NZWJLNFAtV011SEZRQ0E?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "WatercraftZone"
+    },
+    {
+      "id": "7546aadf14cc",
+      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
+      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "Marine Business News"
+    },
+    {
+      "id": "31e776954157",
+      "title": "Vector Water Craft launches portable electric mini jet boats in Australia - Tech AU",
+      "description": "Vector Water Craft launches portable electric mini jet boats in Australia Tech AU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2pWLWgwMENmNDZ6UFJtQVppWW9YZVVBQ19oeTZoVTVWTHZ4YUh3elVyRXdXUUJUZWM2MlhBQ2xNZ1ZhMHI5ZmNPWE1nbDgyei1DQmI1N1JOZmlWMmZRTTVhMlN6SVQ4NkEtem0ycWZCREVQWTBPR1hITkJpNXJLVEhTYjBYdVZYNnVoN2lnb3ItcUMwa2sxUTN6MTI?oc=5",
+      "publishedAt": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "source": "Tech AU"
     }
   ]
 }
