@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T06:03:48.068357+00:00",
+  "generatedAt": "2026-10-30T13:13:40.703821+00:00",
   "promotionMethod": "Official Australian brand websites only",
-  "promotionCount": 27,
+  "promotionCount": 25,
   "industryNewsCount": 30,
   "promotions": [
     {
@@ -11,9 +11,9 @@
       "description": "Yamaha Marine Academy View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more <i class=\"offer-card__link-i",
       "link": "https://www.yamaha-motor.com.au/offers",
       "source": "Yamaha official website",
-      "promotionType": "% P.A.",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:41.427339+00:00"
+      "checkedAt": "2026-10-30T13:13:34.456112+00:00"
     },
     {
       "id": "04aa70431e48",
@@ -22,9 +22,9 @@
       "description": "> Yamaha Marine Academy View all offers OFFERS 0 Percent Finance For a short time only, you can get 0% p.a. Comparison Rate Finance, on 24 or 36 month terms, with a deposit starting from $0, on all new WaveRunners across the entire range. Find out more Golf",
       "link": "https://www.yamaha-motor.com.au/offers/2026/september/0-percent-finance",
       "source": "Yamaha official website",
-      "promotionType": "% P.A.",
+      "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:41.427339+00:00"
+      "checkedAt": "2026-10-30T13:13:34.456112+00:00"
     },
     {
       "id": "98f3d41faa3d",
@@ -35,7 +35,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "9b9705ffaa8f",
@@ -46,7 +46,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "d6919356d9ab",
@@ -57,7 +57,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "a5628829b26a",
@@ -68,7 +68,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "e3596994ceaa",
@@ -79,7 +79,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "3cfdafd72be1",
@@ -90,29 +90,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
-    },
-    {
-      "id": "fae7884929dd",
-      "brand": "Kawasaki",
-      "title": "Kawasaki Racing",
-      "description": "RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/promotions'; window.location.href = url; } </scri",
-      "link": "https://www.kawasaki.com.au/en-au/racing",
-      "source": "Kawasaki official website",
-      "promotionType": "Promotion",
-      "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
-    },
-    {
-      "id": "ff6d313ef8eb",
-      "brand": "Kawasaki",
-      "title": "Racing News",
-      "description": "ropdown-menu\" aria-labelledby=\"racingDropdown\"> RACING Kawasaki Racing Racing News function SwitchLanguage() { let url = '/na/PageNotFound?aspxerrorpath=/na/promotions'; window.location.href = url; } <di",
-      "link": "https://www.kawasaki.com.au/en-au/racing/news",
-      "source": "Kawasaki official website",
-      "promotionType": "Promotion",
-      "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "1e965884b849",
@@ -123,7 +101,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "d5032809602d",
@@ -134,7 +112,7 @@
       "source": "Kawasaki official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00"
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00"
     },
     {
       "id": "d0bba3a929bc",
@@ -145,7 +123,7 @@
       "source": "Honda official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "575f56574f18",
@@ -156,7 +134,7 @@
       "source": "Honda official website",
       "promotionType": "Offer",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "471a991a0eb1",
@@ -167,7 +145,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "7f1df9434b48",
@@ -178,7 +156,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "540940499ad4",
@@ -189,7 +167,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "a8852651c92b",
@@ -200,7 +178,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "84eb973f0dd1",
@@ -211,7 +189,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "e71d11638590",
@@ -222,7 +200,7 @@
       "source": "Honda official website",
       "promotionType": "Finance",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "2f833fe0165c",
@@ -231,9 +209,9 @@
       "description": "Purchase a CR-V e:HEV X and receive an AmpolCash Fuel Card valued at $3,000 ^ . Offer ends October 31. Build and Price Offer details <div class=\"modal fade flyout product-tile-promotions\" id=\"modal-07a523350e\" amb-flyout=\"promotions\" tabindex=\"-1\" aria-modal=\"true\" role=\"dialog\" data-view=\"promotion",
       "link": "https://www.honda.com.au/cars/configurator/build-crv.html?m=CRV5AHEVXSU26&amp;v=HEVX&amp;sv=SU",
       "source": "Honda official website",
-      "promotionType": "Offer",
+      "promotionType": "Promotion",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "77f301b16451",
@@ -244,7 +222,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "632910291a86",
@@ -255,7 +233,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "3fb7c0d42c0f",
@@ -266,7 +244,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "84f09a00c0d3",
@@ -277,7 +255,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "9813fc29d55b",
@@ -288,7 +266,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     },
     {
       "id": "a0c9a8c6b877",
@@ -299,7 +277,7 @@
       "source": "Honda official website",
       "promotionType": "Warranty",
       "verified": true,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00"
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00"
     }
   ],
   "officialChecks": [
@@ -308,15 +286,15 @@
       "url": "https://www.yamaha-motor.com.au/offers",
       "status": "checked",
       "activeOffers": 2,
-      "checkedAt": "2026-10-30T06:03:41.427339+00:00",
+      "checkedAt": "2026-10-30T13:13:34.456112+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
       "brand": "Kawasaki",
       "url": "https://www.kawasaki.com.au/en-au/PageNotFound?aspxerrorpath=/en-au/promotions",
       "status": "checked",
-      "activeOffers": 10,
-      "checkedAt": "2026-10-30T06:03:43.968995+00:00",
+      "activeOffers": 8,
+      "checkedAt": "2026-10-30T13:13:35.951086+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     },
     {
@@ -324,7 +302,7 @@
       "url": "https://www.polaris.com.au/offers/",
       "status": "unavailable",
       "activeOffers": 0,
-      "checkedAt": "2026-10-30T06:03:44.930083+00:00",
+      "checkedAt": "2026-10-30T13:13:36.843679+00:00",
       "note": "Official page could not be verified automatically: HTTPError"
     },
     {
@@ -332,7 +310,7 @@
       "url": "https://www.honda.com.au/cars/offers.html",
       "status": "checked",
       "activeOffers": 19,
-      "checkedAt": "2026-10-30T06:03:45.711404+00:00",
+      "checkedAt": "2026-10-30T13:13:37.376169+00:00",
       "note": "Official website checked. Only explicit offers are shown."
     }
   ],
@@ -450,12 +428,12 @@
       "source": "Marine Business News"
     },
     {
-      "id": "1b8511bfada9",
-      "title": "Boating industry goes 'gangbusters' as cashed-up retirees stay in Australia - ABC News & Headlines – Australian Broadcasting Corporation",
-      "description": "Boating industry goes 'gangbusters' as cashed-up retirees stay in Australia ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3BfcWNpdkFXRkxrUVlfa0k5VHppVzdhQjRBSGlMdHhWME55X0FGYnVRYWRnZ1BQMVR4LWhSMkc2Si11MzJaNklKdmoxY2xqVy05WTRyN2JoSm9YdEoxZ09STG1BeGtSSTFMM3VSbzU3TGVadlJpMjdZcFNXZmxwWGxKUGJRZnpONzRCVndVN3l5QmRVV2x5aXZiUjk0Smptc0RSb0RXV0o?oc=5",
-      "publishedAt": "Tue, 02 Feb 2021 08:00:00 GMT",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      "id": "b258b89e7af8",
+      "title": "Whatever Happened to Mariner? The Merc-a-ha Story - Powerboat News",
+      "description": "Whatever Happened to Mariner? The Merc-a-ha Story Powerboat News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdnpYM1NSSE40RFNuSWt4TDZzLXhQYm1Pb1hkRmE4elEtRjBUUXkzMlpOZ2N3UUtDNEYtRXFHb0Z4azB6V09ZUDBRa3FVNDl2eDA4cjIyYThYMngyUXNkbVJkYzk0TkItUmdCb2xDWFpxS3V2aXlVaHEwcUw?oc=5",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "Powerboat News"
     },
     {
       "id": "bfda90f90305",
@@ -472,6 +450,30 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1RST3RXTHN3cjEwTUxMTUZkZ0c1R0pVUnZuTTBiYThiNmYyZ0w0TDh3SlludU1DUVpydktST0syVUF6M282bTFMQzJkWlZnNG5MRFdsaFRXMkR4NzZPWmZfZVJJTjlrS2dpdy1sQ2lNcE9hVU01ZlBkYi1wRENQbTA2aGthTDNUd25RUmo2WFRQdW9fejA2TUpFMEZ0YWxhVlJmaVFFQ3JqQnBzS3FTU2hrNVFIM2l4Rl84?oc=5",
       "publishedAt": "Fri, 14 Feb 2025 08:00:00 GMT",
       "source": "MCNews"
+    },
+    {
+      "id": "e3d7f00d330d",
+      "title": "carsales.com Ltd to purchase 100% of Trader Interactive - Motorcycle & Powersports News",
+      "description": "carsales.com Ltd to purchase 100% of Trader Interactive Motorcycle & Powersports News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTktWDBzdGl0VnBZUTM1NGR6SDNWYlMwSkQ5RFByRmlJM2IyeG1NNFdRbE9OdExBSVpLVC03YUZPUmhFSElxc2dPZGREaGdRS01vZlFYMFZHbjNUZ19oeE01OU82ak5zaEplSjF1ZzZORG5valB4em00RzMwcXR5Zk5Zdkx5Rm5XbTJHUlI1VXRka2tuN1E?oc=5",
+      "publishedAt": "Tue, 28 Jun 2022 07:00:00 GMT",
+      "source": "Motorcycle & Powersports News"
+    },
+    {
+      "id": "1fec102d040e",
+      "title": "BRP sells its Australian boat business to Yamaha - Powersports Business",
+      "description": "BRP sells its Australian boat business to Yamaha Powersports Business",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VsdG1waFREak9GSGxma1hibUNNMjhNVnFmc3ItSElDd3VZd01QeFpVTjA5ZjhMUVFhbkJ5WjV2QlRzclFyejRmMXVjVWlKdmt2b0ZONFU4TmtQd0w3X2VXaTFGb0lOX01KWlRORlYwVmIteWhvakFNVkJUaTR1aEx3c2ZMSjhTUXRFT3lPdVVzSEk5eDc2d1RkTHdQSWowN0hN?oc=5",
+      "publishedAt": "Thu, 03 Apr 2025 07:00:00 GMT",
+      "source": "Powersports Business"
+    },
+    {
+      "id": "c23d9b26c1f7",
+      "title": "Patrick Industries (NASDAQ:PATK) Reports Q3 2026 Net Sales of $975 Million Amid RV Headwinds - Kalkine",
+      "description": "Patrick Industries (NASDAQ:PATK) Reports Q3 2026 Net Sales of $975 Million Amid RV Headwinds Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0ZPel90M2tYb182WF83YUhIV3pVd0tJRUFncXVzbnVIMDNmVWRmQ2paVkhyQkx4MlQ4ZjRaSnZYMUJ6V2JSaVBSaWJram5rMmJQTnRHdDQ0TUR6RnJBblpEMzNIYjA2WmFWQzZTSmRpWkw3X2tvQ3doVTZiRXF0cWVyWVVHcDkzZUdxQUZPQUtQV2hUNGlCQkZGdEVfclZMeEVSS2ZBNGZnaWZ1Q1V3bUhsS3pnQ0wxeF81N3l4eVJpX2JpejdSa05YcUl1RXFl?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:45:00 GMT",
+      "source": "Kalkine"
     },
     {
       "id": "5498fdaa83f4",
@@ -522,14 +524,6 @@
       "source": "Fact.MR"
     },
     {
-      "id": "a45a7755c81a",
-      "title": "Australian motorcycle sales stable in 2022 despite major hit to off-road segment - infomoto.com.au",
-      "description": "Australian motorcycle sales stable in 2022 despite major hit to off-road segment infomoto.com.au",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnNWenQ3MWx1aWJfaHgwVVJ4eDlfeFNkbVRhVGtPMjF5UjA3UmtQcmI0Q181SktVRVVXV2JPUU9NUHBUN1pkdnBRV0JobUlSajBXUkxwU2FIalBLcTcxYUV2UGlJVDUwcVg2bWV5X3hDTWIzYjNmN3otVVV1M0pmOW1aOXN4MGtQd2NQd0d5TklXZ3NMR0ozajJlbWxUSld6WTlLaml1MWp3eW8tZW9n?oc=5",
-      "publishedAt": "Mon, 11 Jul 2022 07:00:00 GMT",
-      "source": "infomoto.com.au"
-    },
-    {
       "id": "00d7a51cf5a4",
       "title": "2027 Sea-Doo range gets major power boost with 350hp Senna, RXT-X, RXP-X and GTX - WatercraftZone",
       "description": "2027 Sea-Doo range gets major power boost with 350hp Senna, RXT-X, RXP-X and GTX WatercraftZone",
@@ -546,14 +540,6 @@
       "source": "WatercraftZone"
     },
     {
-      "id": "7546aadf14cc",
-      "title": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required - Marine Business News",
-      "description": "Portable Electric Mini Jet Boats Launch in Australia – no trailer required Marine Business News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVVMOWJGLVVRM3JmaFFMTktSdG16MzBBbEt1WC1wWWZQMnBkdFZiM1RRaXJ2YXVpckVMbzE3WUpFdC1PR1BueElWbjhaUDhlN0VGOXZrUHZ0TmR0eEQ0TkEydnA4SmFiVTh4d0t5T25NS1ZxN0JSRHdOQk5FOE9nT1BlVXB2MjFZNjVKdU5yX3BST2xveVdxUTRUNjJFSkRma21pdl9GbERaSmNhLWNFR2dxZnJoWUJQd3Fn?oc=5",
-      "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "source": "Marine Business News"
-    },
-    {
       "id": "c0cf8f8dbd9b",
       "title": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed - WatercraftZone",
       "description": "2027 Kawasaki Jet Ski Photo Gallery And Prices: Every Model Listed WatercraftZone",
@@ -567,14 +553,6 @@
       "description": "NSW Sea-Doo dealers launch mega discounts to coincide with 2026 Sydney Boat Show WatercraftZone",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclAxREpoTGs3b2wxb0NOemc3NFpJUkFoa2k4elNHbVJLd2ZGQnJQa3JRTjZiNEVqQUY2WW5mV2FZVFhYaUo1Qy1QMVFhN2lkeEhuOW5lQ0J1WFZVM3ZVYUwxaGdWOE9lRmtmNXhZVGxoLUs3Mk5Ma1psSjZSMG1YOFpEMmVmZXYwdlpmZ0I3SHQ3dl9adEpXVlJyWFFLNm52UlNPMw?oc=5",
       "publishedAt": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "source": "WatercraftZone"
-    },
-    {
-      "id": "a8d2935b1915",
-      "title": "Kawasaki Jet Skis hit with new price rises in Australia - WatercraftZone",
-      "description": "Kawasaki Jet Skis hit with new price rises in Australia WatercraftZone",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWDNTNnp3R1ZoZjJnT19jSU5xTFk5Y2NEQWFtaXNyd0FyeUo5alBlUW1HY1NOTG5ZeDBFaDNqMnpsSW9OUXdqaldGQXppTFBHNHJYazMwR3pCRmdtendJem4wNjRQd3c3aG1SeHk4YTJTb05Ua1MwWXhYdDVsTWM?oc=5",
-      "publishedAt": "Tue, 23 May 2023 07:00:00 GMT",
       "source": "WatercraftZone"
     }
   ]
