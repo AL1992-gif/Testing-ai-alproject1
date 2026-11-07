@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-07T15:32:24.150654+00:00",
+  "generatedAt": "2026-11-07T19:38:12.984544+00:00",
   "sourceCount": 7,
   "articles": [
+    {
+      "id": "d41652308d411059",
+      "title": "I compared 10 years of valuations for 5 ASX giants. Only 2 look cheap today - The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzJ5b0dsUXppQVhkRzZGZVlMUjVVZi1PWFlibHR6alB4TjNlVTZJTXRZVjBSTXJCRElSYmJxWC1LTmR2akY0SlFtV0NFa2gtZG8xVWNXbzlJOFlORFpfZ2pfZlVUWXRVZVVIX0J5eFlQRml0dG10U1BrX0VjZjU3Vl80UU9qQ3NDdERLLXN5V2cwcWRvZVJUUU9fcmE1RUcyNUk5ZnBlTlZZY3oxUmcw?oc=5",
+      "source": "The Motley Fool Australia",
+      "publishedAt": "2026-11-07T19:00:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "I compared 10 years of valuations for 5 ASX giants. Only 2 look cheap today The Motley Fool Australia"
+    },
     {
       "id": "ec614045b831474f",
       "title": "Schoolblazer (ASX:SBZ) Adds AUD 150,000 in Commitments to Its Existing Share Placement - Kalkine",
@@ -23,16 +33,6 @@
       "description": "Epiminder (ASX:EPI) Secures Higher 2027 Medicare Hospital Payment for Minder Implant Procedure Kalkine"
     },
     {
-      "id": "87d154e28a074f3c",
-      "title": "Axel REE (ASX:AXL) Secures Minas Gerais Support Framework for Rare Earth and Gallium Work - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNak10ajR4MWF5NE5EYUxXZTEySW5CanJSZGFfSGJyUTR1ZEhPVHJkUllBSjhnbVdaWGRiaV84NEtqbENGQ2pEYmY0S2xzYjY2ejBXMm9ZNnJZaDNJSEV5TDVjb0l5aUJ2WGI1bFJiVVpTWUwyNkwxb3pXYmJwVzBnb0oxOFd4LVBJWHVEZ096M1hMUUJjVVNKWGtScU9NUXhIOTBfNTA0bmJWLV8yNUgyQ1lmUFlTMTBPRHllaXhR?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Axel REE (ASX:AXL) Secures Minas Gerais Support Framework for Rare Earth and Gallium Work Kalkine"
-    },
-    {
       "id": "bafecef35d9990a5",
       "title": "Alfabs Australia (ASX:AAL) Moves to Acquire Specialist Pump Assets and Manufacturing Rights - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVFFc19xc1BHSWlxOFl0SUJXZXMtNHlGSUhfMVYzbWlGSWVtOVZUaU1iQVlKcnlma0JReDhvelM3R2pjcnZ1NDZQb1JFZ0tzWm1WQnBhVkhqOUhsZ0NBalVLS21QcEh0eV82RlN3VVNITFVtZjI3QkdoOTdQeWdfWnd0M21iRkVYTl9RN0VneFhoYmNuUHJmVzh5dkpkc0JhZ3hvUTVScnhLZi12RFBUREM2cHdOdzM3alpnSHJ4dlFnNXc5SjFr?oc=5",
@@ -41,6 +41,16 @@
       "category": "markets",
       "official": false,
       "description": "Alfabs Australia (ASX:AAL) Moves to Acquire Specialist Pump Assets and Manufacturing Rights Kalkine"
+    },
+    {
+      "id": "87d154e28a074f3c",
+      "title": "Axel REE (ASX:AXL) Secures Minas Gerais Support Framework for Rare Earth and Gallium Work - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNak10ajR4MWF5NE5EYUxXZTEySW5CanJSZGFfSGJyUTR1ZEhPVHJkUllBSjhnbVdaWGRiaV84NEtqbENGQ2pEYmY0S2xzYjY2ejBXMm9ZNnJZaDNJSEV5TDVjb0l5aUJ2WGI1bFJiVVpTWUwyNkwxb3pXYmJwVzBnb0oxOFd4LVBJWHVEZ096M1hMUUJjVVNKWGtScU9NUXhIOTBfNTA0bmJWLV8yNUgyQ1lmUFlTMTBPRHllaXhR?oc=5",
+      "source": "Kalkine",
+      "publishedAt": "2026-11-07T11:35:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Axel REE (ASX:AXL) Secures Minas Gerais Support Framework for Rare Earth and Gallium Work Kalkine"
     },
     {
       "id": "1d12f25b3bbffeb2",
@@ -133,56 +143,6 @@
       "description": "Metal Hawk (ASX:MHK) Starts Diamond Drilling to Test High-Grade Numbat Gold Structure Kalkine"
     },
     {
-      "id": "214441651f7b1d50",
-      "title": "Pacific Edge (ASX:PEB) Medicare Coverage Sets a December Start Date for Two Cxbladder Tests - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEptWk9sYjgzZElwZmdLUmYtcGs5OXhWLXVrcHBxRnB5Skg0SElSWEtRTTN3cnNfUk4wOURXZFF4OVZnRHhTbjZWc3BvTlZxb3RtSmhmOFpsYjBWNFBuWUdyelNuTlNBLWpvbWQxTk5xclRYVER0QUFQREtwYUtqdlZlUlo0RkItRC1SWE1BMVhuejM4NjUxRmU1dmxQdVhvM2RzTTZ3WXZTTjlsd2ZoYlg1OUxSczdiQXZMU0JUTm9rVXl2elE?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Pacific Edge (ASX:PEB) Medicare Coverage Sets a December Start Date for Two Cxbladder Tests Kalkine"
-    },
-    {
-      "id": "33c6614d080ae0eb",
-      "title": "Pursuit Minerals (ASX:PUR) Expands Rio Grande Sur Lithium Reserve to 438,000 Tonnes LCE - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTW5oZkpZNXM0djBpbmhNNUpndmFpWUFIS2Jmem5DMUR1emFiVzlLOUFGYWswOWFkc0dOUG1OZnd5Z2l5VUd0bGFnY0QwcVRRTWxDNldVNWQwT05hcmZPTTI3ak90TG1DSVdqdF9aRzhNUjY3NjZ4eWtCMm9jdFhuTm96eUFrejRrWkJDOEZwdWRFTGlDNjZJODc4OHBaSGxKelN3aUE1dGZyODhDSXgzZXp5OXFNamxsdHc?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Pursuit Minerals (ASX:PUR) Expands Rio Grande Sur Lithium Reserve to 438,000 Tonnes LCE Kalkine"
-    },
-    {
-      "id": "c136fedcf602fd5e",
-      "title": "Asara Resources (ASX:AS1) Hits 38 Metres at 2.1 Grams per Tonne Gold at Sogosogoba - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVVkbnR6LWptZDRZbU1id0JEVUd2SWxBYTVTaVRSZnVld0JzalNOR1dsUGpKbl9xaVhyWEtRS0xqc0h6SHAtWEYwUjh1X242Qms3bm1pWWoyX213Y1NyMVNVUG5jYzdiOHo1LUx6cENyWXVLMGM0aUpZQmktT05XUm8yYmM2eFQ1eTY4YmthUkRadHZORjVheHMwcTFDVFlnLWRpTjd2MWVWQjR3U0RTc29pMA?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Asara Resources (ASX:AS1) Hits 38 Metres at 2.1 Grams per Tonne Gold at Sogosogoba Kalkine"
-    },
-    {
-      "id": "685ce41af538867f",
-      "title": "Atomos (ASX:AMS) Introduces Seven Reference Monitors Across Two New Flanders Scientific Ranges - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHZ6a2lZZWIydjRIeWt6TV9fQXNLSlBXM3NGMDNmM3VLRUU0dEcwREtXU3hIUnFVSk1rLVlTMmxGLXFlalF2em9UaGRDaE1Ya1RYNXp1OGFzUmlOMVM3dzVkM04yWEZidTd5TlFpX1I1cXVWOGxfZEJFTFhrSDh0OEpyV3ljRlRIaDZ2dHoxTGpXRkEwMlBrOGNKcHR6LUhxdXdTY0pjbFV3ZGppUjFaeUkwZFl4YmJEanhYTnpuYUl3QWhzSTNlWThn?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Atomos (ASX:AMS) Introduces Seven Reference Monitors Across Two New Flanders Scientific Ranges Kalkine"
-    },
-    {
-      "id": "42118ab4b08a32d1",
-      "title": "Invictus Energy (ASX:IVZ) Mobilises Well Services for Musuma-1 Gas Exploration Drilling in Zimbabwe - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFRfQzB2cGd2UGMtNEpoYTFIYjdIUGtHTjJuVk1yZjRRaTNaOEtVYURzdnp3NTZ1czN5WENORmliYk5jdnBRa3Bid1RLZTlfV1RQdkVyUWlBenliUlVPRFo2dU5GZE9vRDhPZDVPU2JMbXZRQVVyNGhoSngwckdLY2MyQXdDN0g3Y3FEcFgwMkZPTTRUQVQwbXhLQ2hOSUdEczBCa1BWcEZTOU41Wk5NNVloX1M1TnhaZnFPU3JYd29xTlllX0k2OVhGaw?oc=5",
-      "source": "Kalkine",
-      "publishedAt": "2026-11-07T11:35:00+00:00",
-      "category": "markets",
-      "official": false,
-      "description": "Invictus Energy (ASX:IVZ) Mobilises Well Services for Musuma-1 Gas Exploration Drilling in Zimbabwe Kalkine"
-    },
-    {
       "id": "6b0a6bee24b57351",
       "title": "Pay revolts hit ASX boards as AGM season tests the two-strikes rule - Independent Australia",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHVlVGtldzd4WmM3NjlRRDJ6ejl0ZWtJNS1vM0pfanpaY2gxdnJNZjRNUk5HUmdlU3FLRlEwUnRnaDFKQkREaWRNeUUxZy1FaGlmWDJtQXNLN1pFX1JoZlY4VldQcDdRalR4WVk3OGdsR2RGaERFa0VDTzE3Zmh2T1JyN1lfMFAtQWgtbXlVV2lwYzJnV0E2aUgwTGtqX0Vsa2lyNUdNakNzbnF3eFhwRDZPLVRNYkxtMXlsNGN1VEVxT1BSbTJxdzNpS2N5QQ?oc=5",
@@ -201,16 +161,6 @@
       "category": "companies",
       "official": false,
       "description": "Ramelius Resources And 2 Australian Growth Stocks To Watch Simply Wall St"
-    },
-    {
-      "id": "dd2ec197e7ceb084",
-      "title": "Top 3 Australian Penny Stocks To Watch In November 2026 - Simply Wall St",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdG43ZE9MaHdYYTZCbllUcDlaNVNySnFCTENWSE05R0FaM3Y1S2lUbThWSWY2bFJzcXBXMG4xVDNndUFmSHJQWVhfYTc2bU5YRDhJM2syYlZCYV92bkpIakxoaUxMd3B1MDBWRUFmdk9pajREM3c2aXBkS3RqMTdieHNhUk8xM0hMZlZTTEJiTWE3dHY4TFBqTlRYTktvT0ZQLV9rMTIzd0tFOUMxclVNNklzZ05Qd20tZlppX0hR0gHDAUFVX3lxTFBNbmdPU2J2WWxaTmhQbHo4RTNYTnZuNU5YdjlLN2ZuVEhWM2tfTl95Y1VWZzh1dkZEblNhdnE1QUZnQ1lBRHJlRE1uMG1lNk5Qa2c4cmhHd1VveHlWMnRZdWJDOTMyYnBzZlhSVnQyM2FvUEQ0MXRLN2I4RHVZOXA4VDJSYWJFZzB0bTV2SWdwVURWc3FUSGJ6X2s5MzZ5SjhBVTBGSVVHeW9HU0kzM1ladW9acFdOYmFFZlFwcnQwVngxSQ?oc=5",
-      "source": "Simply Wall St",
-      "publishedAt": "2026-11-06T23:41:56+00:00",
-      "category": "companies",
-      "official": false,
-      "description": "Top 3 Australian Penny Stocks To Watch In November 2026 Simply Wall St"
     },
     {
       "id": "142035638355f999",
@@ -293,6 +243,16 @@
       "description": "Media release number 2026-31: The RBA has today designated Prosegur Australia Pty Ltd (Prosegur Australia) (ACN 004 247 358) under the Cash Distribution Framework Act 2026 (the Act)."
     },
     {
+      "id": "8f7ed8e0930aae92",
+      "title": "Westpac sells its vaults even as demand for physical wealth soars - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWhfTU9tdUFsZXFCTHhSbUV3VUdFTmlHZ1Q0VmlBaE9jQkRSNGhxcGc1eDVQY0QzWXZINEU5OVJqTDFDNU1PQUtMVzFqOTdVT3R2aUVudGt4XzNtZERKVnZTREladERhUWM3MHZxeVVfS3ZKTW9tZXVSQzNwNVI2WkZDZmtZU2VMRGRqVWREWXJjdGV1MVdyVW11NDNDaGtHaUpDbzluZFJYMVZQRE9WM3B6aHFwOG9vajVWeHpRYW0xZW5tNm0zTVZB?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-11-06T09:00:00+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "Westpac sells its vaults even as demand for physical wealth soars AFR"
+    },
+    {
       "id": "f45f3f0f47ffe60a",
       "title": "Commonwealth Bank of Australia (ASX:CBAPL) Highlights FY26 Profit Growth Ahead of CBAPL Cash Payment - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUJPeXlCOHU3ZDJVUXItMmpsbFFRdlY2YVQ2QUtZNzM4ckpvcFNyWHdYMnJDa2FseHlkMnlfY0Y3UzhUSXRVckZuMkY4bDVGNXMwX2JhM1YxWEZLNkpfZ3dCY25pcW5FeFJLd3lNdGpQdDl2VWM5SF9KVDhTVElySzFValF0b1JCQUNyelZiQ1QybHRIWk1iN2dXX05ETWpNUnRtdS1qVHIzcnlFbk1kTDJXcFZseTkwUkZOWGNvTWx3MkJMM0lHTXhaU0xCSU5RVTl4bmRqOEdzUQ?oc=5",
@@ -353,6 +313,16 @@
       "description": "Can Ampol (ASX:ALD) Keep Its Earnings Rebound Going? Kalkine Media"
     },
     {
+      "id": "397b657e7a7fc220",
+      "title": "US stocks crash could be buying opportunity for ASX investors - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGxfZDk5SFpFSDVrdGQzOE50bU1ZZng4WlpSOTVlMnZzVXB0Q1NxdW05M3JfRUN1N0lyVHMtM2p0MnpVNUMtdWVXNG9kTGw2VHZVQklsQWpmeUZFMmQtYW80VHFXUmFmQVZrSWRPZC1uQ2RVWHVxZmZfSXZLT2F6VTc2c2c1WHRodDJVMXR1TDZEbGhiUjdNTFgxUW4yZw?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-11-06T04:11:55+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "US stocks crash could be buying opportunity for ASX investors Market Index"
+    },
+    {
       "id": "169dcf69c067332b",
       "title": "Why Commonwealth Bank of Australia (ASX:CBA) Says Growth Is Slowing While Margin and Capital Hold Up - Kalkine",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFFTWXQwWTZRcmZvTHZQMFZwMkdaTXVqZ21zM184RkpWRHd6LWdCak9QRFBDWUFTZTFUMDhXV2l6OU50cE16NmwwMlQ3d3RiOFBEcVRONHRPQzEtNGlVZnhCVkJRS2JWOWR1ZzB5MEJIOEp2MnFGdHB1eThRcEhGdUdrSzcwT21ZRHJwNGp0UjBVV3FXSHVVRmxodllEUmczNzUwUFBQWVRVV0o4a3hBbTBLbkNlenloWTRmLW1Qc1FQNW00cENJN1VlTy15cTFKZFE1bnFXbUY2N3d4TUE?oc=5",
@@ -403,6 +373,16 @@
       "description": "Morning Wrap: ASX 200 to fall, S&P 500 suffers worst day since April 2025, Nasdaq enters correction Market Index"
     },
     {
+      "id": "7ef712d9f93533b8",
+      "title": "Top 5 Australian Mining Stocks This Week: BPM Minerals Gains 111 Percent - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRHJHR2pjb1lqSFJGTDRPa1dDRUdfNkNRcTN3Qk9WVnJVbWNCLUVXeW8xYjN1MTAzVHgyczVUNndiVHlLLU1pYlVMcnZqRjRGSGJwX3F5MHdhanJZWXc?oc=5",
+      "source": "Investing News Network",
+      "publishedAt": "2026-11-05T21:00:00+00:00",
+      "category": "companies",
+      "official": false,
+      "description": "Top 5 Australian Mining Stocks This Week: BPM Minerals Gains 111 Percent Investing News Network"
+    },
+    {
       "id": "e6e903fa4905af16",
       "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0VMZF9IQkc4OU9Bcy1YU040X290aTlJblBoRkVkTUw0S1haWDhRcVloYmh0UkVabWtnVXZibUg4eVNrR2hKeHoxLUlTcGE4bEJnQkNRazZyaVVqLVBFUkdyMm83aXhySkpkckFQdUdxVWhLWlc2Rko1TWlhel9sRS1ubVBNX28yazBRenc3bUxFZHl0SmFkeTZwR2ZNTTQ?oc=5",
@@ -431,6 +411,16 @@
       "category": "super",
       "official": false,
       "description": "Industry groups say SMSFs are compliant but ATO administration needs work SMSF Adviser"
+    },
+    {
+      "id": "c669d67273702bb1",
+      "title": "10 best ASX dividend stocks and income ETFs for 2027 - Livewire Markets",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVYaUpHZkRpaGZQdEQxdHI1ZGlmUXJhNXNnYnJ0bDJna3ZMVnd6QkUyY0c4TGVJaXEyeFZ6OVZQZkpwUXlwWUp0RmZRajFkbXZISjNabXlzSlpOVHhWdVBTQzl6TVZHU2pOUlZUR2gtakNRN1U3Qm5LTHdxRXJMaTE2ZXVQSzVYS2Y0Sl96WHFxUlh0?oc=5",
+      "source": "Livewire Markets",
+      "publishedAt": "2026-11-05T19:00:22+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "10 best ASX dividend stocks and income ETFs for 2027 Livewire Markets"
     },
     {
       "id": "0533c23859c5f361",
@@ -553,6 +543,16 @@
       "description": "ASX Preview: Australian Shares to Rise as Oil Prices Tumble; National Australia Bank Fiscal 2026 Cash Earnings Down, Net Operating Income Up marketscreener.com"
     },
     {
+      "id": "01d1670b45579c79",
+      "title": "A warning to all investors in ASX lithium and copper stocks: BHP, RIO, PLS at risk - Market Index",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEpTNnJWY2UyOVFvWG9Kdld1WUpnWkI1bzJuUTR3RWZuazVyVVdvRENadTdzS2YtOUVERHJTcHZodzFKMnlQVENxMUNlZnhJdEwtaUpmQUpoTm9wdnRPU05YVWVNWXZoa0kxOHZQREotclFOZ1gtSVVtbW9kU3ZxMHFUODBmTkhlNTc0S0p2VnAxQUNNSG1MUlFVZmZydThjWmhTUXpvd0Y2OElnQ2VuRmNVYzJtUQ?oc=5",
+      "source": "Market Index",
+      "publishedAt": "2026-11-04T22:40:10+00:00",
+      "category": "markets",
+      "official": false,
+      "description": "A warning to all investors in ASX lithium and copper stocks: BHP, RIO, PLS at risk Market Index"
+    },
+    {
       "id": "3546b59633203c5b",
       "title": "Rare Earths Stocks: 5 Biggest ASX Companies in 2026 - Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13X2lna1lZeG9ZQ1FwMFN4R1VTWEplZnVoVnpnbEQ5YUdieVRjRkJpLXhqVHNtR2RpTmx2QWp6eEsyTTdfY2pocWtLVEE4SXJKUVNlbHVOM0tfNHo1aURFeERn?oc=5",
@@ -663,16 +663,6 @@
       "description": "Australian banks lift interest rates ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
-      "id": "57e7a36a6a5257b9",
-      "title": "Australian Property Prices Continue to Fall as Interest Rate Fears Weigh on Housing Market - Oz Arab Media",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDVpNDZ0YkZSV2hfZ2VNdmpySWIyTzJ5bC04alBXVWdrdmJtTkJkQmc0ZkhUSkdqXzdjeUROclZob19aZW50NzY4bHJ4U0J6ZVlZOTB4aHFsN21RT1UxdW56OGZkaFNSbTc1VUg4UmJkMk5raTR3UU5UY2Vac05RV29lUnhDWlFBSURmdGtyVlNqZ19VNWI1NmE4ZEFHQ2JidDFzTERha3hnLWJTRDZMMjVB?oc=5",
-      "source": "Oz Arab Media",
-      "publishedAt": "2026-11-04T04:00:02+00:00",
-      "category": "housing",
-      "official": false,
-      "description": "Australian Property Prices Continue to Fall as Interest Rate Fears Weigh on Housing Market Oz Arab Media"
-    },
-    {
       "id": "2e87fef15390c687",
       "title": "'No need to sack the governor' and other reasons for the RBA's inflation target - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmx3amVERmVzUkxXQ1ozNFNLMTRiSlNKNXZlNkVfWDNFZUpqeWk2b0RnUnZQMDZnWnJZbWI5MnBNblZWQnBRSjVkdnZldFBSejlnV1RIUnhSRDZVUWNsdWZ0YVNkS0NLclRNaDFPWmtwZDAteEtPa0RtSHpkQlVwU2s1YlBkMzF3ci1TdW5UTW1ZeHBDcml5VjJ6QjRUZ2p2X0stanhxXzlack1ERS1qRkpn?oc=5",
@@ -741,16 +731,6 @@
       "category": "housing",
       "official": false,
       "description": "Inflation surges again as building costs climb, and Melbourne tops the auction markets | Property Insiders Property Update"
-    },
-    {
-      "id": "7aad1f135f45bc00",
-      "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlp5bzRrSEJJTUxIZ084TzdGdzhQTy16eTZtS3c3aWFBOWg5WC12UVFDMWJSdzhfSHZhSDZtRXZ5S2RZZlljYUE3UWtCTDBpQ09nSGpZX1U5b3VjcDBJSmw5Qm50MkxjWXVJbGxiVW9BdnMxY0cwSkhjM0JFeFJyZHE0LTVsenUxQWVnUEtSY3JiVWpLSlJ3MVU1aDBRWF9vdFkzMjFHVnY3ZWhiWU9BWTlmcGFtejFBcURzQm8yTjVZUQ?oc=5",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-03T07:36:00+00:00",
-      "category": "economy",
-      "official": false,
-      "description": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time The Guardian"
     },
     {
       "id": "d1534f20b15fdc2b",
@@ -863,6 +843,16 @@
       "description": "Statement by the Monetary Policy Board: Monetary Policy Decision | Media Releases Reserve Bank of Australia"
     },
     {
+      "id": "7aad1f135f45bc00",
+      "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlp5bzRrSEJJTUxIZ084TzdGdzhQTy16eTZtS3c3aWFBOWg5WC12UVFDMWJSdzhfSHZhSDZtRXZ5S2RZZlljYUE3UWtCTDBpQ09nSGpZX1U5b3VjcDBJSmw5Qm50MkxjWXVJbGxiVW9BdnMxY0cwSkhjM0JFeFJyZHE0LTVsenUxQWVnUEtSY3JiVWpLSlJ3MVU1aDBRWF9vdFkzMjFHVnY3ZWhiWU9BWTlmcGFtejFBcURzQm8yTjVZUQ?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-03T03:30:00+00:00",
+      "category": "economy",
+      "official": false,
+      "description": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time The Guardian"
+    },
+    {
       "id": "138367cdb3cfa777",
       "title": "CBA says brace for worst housing crash ever - Australian Broker",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVRaZVdzNXM3djJMcDZRcnI2WkpFeVFWZHBaanJnRWZWelFSekpOSVU4clB6Ny1NcGRwN0RPSUdkNUlYUEhZSXFsZjQ5VzAtb08wNmc2M084d2RvTW1aWmpLZlZYNkVEbEJQNmdjZldieUZwOFFoTV9weFRnTl9fY2stbWo4eXRZSm5vTE40WmVTZmxDT2w1bVBFUkdvZ2NKcUg1dER5NA?oc=5",
@@ -901,6 +891,16 @@
       "category": "super",
       "official": false,
       "description": "‘Big Show’ retires from international cricket with just one regret Nine.com.au"
+    },
+    {
+      "id": "ae58d8bd3530a063",
+      "title": "Early super withdrawals for dental work surge as rorts, medical tourism rise: what it means for retirement savings - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQU2diZ2tPYmxZZGE2OG4zN0FDSTdiOFF1b3RHbWtUVG8tUEMzTHQxbVBRWTlxT1RVWVVKY1RTNDFsVEN2UVVxeU82ZnFPT3FNREFOYUJ6SktDbzJEb0ZHczB2Y3RLN0gzRXdzVUEwRHUxYXBoX2E3STZOVThqUTBTOG9vVFl5RzRmUjdyLXQ1ZnA5RGRjSVRyMU40UHhHV1laZmRBSXNLR2gzTXNSM3RUbW1KTVFIdjJuR3ZRWjh0SzhHb1NqMFNkNTRMZGs3a3lkQVRTazJTM09wWHFvd1RTbXFTM1JYbkdPSEtadTZxdjN0UXRnOGh3TmYxUkE?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-11-02T18:12:00+00:00",
+      "category": "super",
+      "official": false,
+      "description": "Early super withdrawals for dental work surge as rorts, medical tourism rise: what it means for retirement savings The Australian"
     }
   ]
 }
